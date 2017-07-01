@@ -34,24 +34,23 @@
   <script src="js/mahlowat.js"></script>
   
   <div class="container" style="margin-top: 20px;">
-      <img src="img/mahlowat_logo.png" title="Mahlowat Logo" class="pull-right" onclick="changeText()"/>
+      <img class="img-responsive pull-right" src="img/euromat.png" title="EUromat Logo"/>
 	<p id="spruch" class="pull-right"></p>
       <div class="bottom-buffer top-buffer">
     
     <h1>FAQ</h1>
 
-    <h4>Wer macht den Mahlowat?</h4>
-    <p>Lorem Ipsum.</p>
-    
+    <h4>Wer macht den EUromaten?</h4>
+    <p>Der EUromat ist ein Angebot der Jungen Europäischen Förderalisten Sachsen zur Bundestagswahl 2017.</p>
     <h4>Wer hat die Thesen erarbeitet?</h4>
-    <p>Lorem Ipsum.</p>
+    <p>Die Thesen wurden von den Mitgliedern der Jungen Europäischen Förderalisten Sachsen erarbeitet.</p>
     
     <h4>Wo kommen die Positionen der Gruppen her?</h4>
-    <p>Den an der Wahl teilnehmenden Gruppen wurden die Thesen mit der Bitte um Stellungnahme zugeleitet. Neben der reinen Positionierung (Zustimmung/Neutral/Ablehnung/Keine Stellungnahme) konnten sie ihre Position auch in einem kurzen Absatz erläutern.</p>
-    <p>Für ihre Stellungnahmen zu den Thesen sind die Gruppen selbst verantwortlich.</p>
+    <p>Den an der Wahl teilnehmenden Parteien wurden die Thesen mit der Bitte um Stellungnahme weitergeleitet. Neben der reinen Positionierung (Zustimmung/Neutral/Ablehnung/Keine Stellungnahme) konnten sie ihre Position auch in einem kurzen Absatz erläutern.</p>
+    <p>Für ihre Stellungnahmen zu den Thesen sind die Parteien selbst verantwortlich.</p>
     
     <h4>Von welcher Wahl reden wir hier überhaupt?</h4>
-    <p>Lorem Ipsum.</p>
+    <p>Hier dreht sich alles um <a href="https://de.wikipedia.org/wiki/Bundestagswahl_2017">die Bundestagswahl 2017</a>.</p>
     
     <h4>Wer hat das hier programmiert?</h4>
     <p>Der <a href="http://hszemi.de" title="hszemi.de" target="_blank">Sven</a>, weil der das kann.</p>

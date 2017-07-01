@@ -40,7 +40,7 @@ $baseurl = "http://" . $_SERVER['SERVER_NAME'] . $uri_parts[0];
         </div>
       </div>
       <p class="text-center">
-        <a href="2.php" title="Fragen und Antworten"><small>FAQ</small></a>
+        <a href="faq.php" title="Fragen und Antworten"><small>FAQ</small></a>
       </p>
       <div class="shariff" data-url="<?php echo $baseurl; ?>" data-referrer-track=null></div>
     </div>
