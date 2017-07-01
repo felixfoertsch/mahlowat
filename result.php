@@ -27,7 +27,8 @@
 	$css[14] = "superhero.min.css";
 	$css[15] = "united.min.css";
 	$css[16] = "yeti.min.css";
-	$css_id = 9;
+  $css[17] = "jef.min.css";
+	$css_id = 17;
 	if(isset($_GET['css'])){
 		$css_id = intval($_GET['css']);
 		if($css_id < 0 || $css_id > 16){

@@ -19,7 +19,7 @@ $baseurl = "http://" . $_SERVER['SERVER_NAME'] . $uri_parts[0];
     <meta property="og:site-name" content="example.com"/>
     <meta property="og:description" content="Der Mahlowat ist ein Angebot von XYZ und wurde auf Beschluss des XXXV. Studierendenparlaments der Uni Bonn entwickelt. Er ermöglicht es, zu ausgewählten Themen die eigenen Standpunkte mit denen der Listen abzugleichen, die zur Wahl antreten."/>
 
-    <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
+    <link href="css/jef.min.css" rel="stylesheet" media="screen">
     <link rel="stylesheet" href="css/font-awesome.min.css">
     <link rel="stylesheet" type="text/css" href="css/style.css">
     <link href="shariff/shariff.min.css" rel="stylesheet">
