@@ -1,9 +1,5 @@
-.hsganswer{
-      width: 80px;
-	padding-left: auto;
-	padding-right: auto;
-	margin-left: auto;
-	margin-right: auto;
+body {
+    padding-bottom: 70px;
 }
 
 .statement {
@@ -13,41 +9,28 @@
 #thesesbox{
 	min-height: 250px;
 }
-
-
-.top-buffer {
-    margin-top:80px;
+.button-wrapper .btn {
+    margin-bottom: 10px;
 }
-
-.bottom-buffer {
-    margin-bottom:60px;
-}
-
 .pagination > .pagination-yes > a {
-    color: #FFF;
-    background-color: #5CB85C;
+    background-color: #00CC66;
 }
 .pagination > .active.pagination-yes > a {
-    color: #FFF;
-    background-color: #428BCA;
+    
+    background-color: #00CC66;
+    border-color: #00CC66;
 }
 .pagination > .pagination-neutral > a {
-    color: #FFF;
-    background-color: #F0AD4E;
+    background-color: #ff851b;
 }
 .pagination > .active.pagination-neutral > a {
-    color: #FFF;
-    background-color: #428BCA;
+    background-color: #ff851b;
+    border-color: #00CC66;
 }
 .pagination > .pagination-no > a {
-    color: #FFF;
-    background-color: #D9534F;
+    background-color: #ff4136;
 }
 .pagination > .active.pagination-no > a {
-    color: #FFF;
-    background-color: #428BCA;
-}
-
-.progress {
-	margin-bottom: 0px;
+    background-color: #ff4136;
+    border-color: #00CC66;
 }
