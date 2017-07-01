@@ -164,7 +164,7 @@ function print_thesesbox($theses, $form=false, $list=null){
 	
 	for($q_id = 0; $q_id < count($theses); $q_id++){
 		echo "<div id='thesis$q_id' class='singlethesis'>";
-		echo "<h1>These ".($q_id+1)."</h1>
+		echo "<h1>".($q_id+1)."/".(count($theses))."  ".$theses[$q_id]['s']."</h2>
 
 		<div class='well well-large statement'>
 		<p style='margin-bottom: 0px;' class='lead'>";
