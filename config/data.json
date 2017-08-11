@@ -1,106 +1,106 @@
 {
-    "theses": [
-        {
+    "theses": {
+        "0": {
             "l": "Die EU soll den Euro als gemeinschaftliche Einheitswährung behalten.",
             "s": "",
             "x": ""
         },
-        {
+        "1": {
             "l": "Die EU braucht eine parlamentarisch verantwortliche Regierung.",
             "s": "",
             "x": ""
         },
-        {
+        "2": {
             "l": "Die Europäische Union braucht eine europäische Verfassung.",
             "s": "",
             "x": ""
         },
-        {
+        "3": {
             "l": "Die gemeinsame Außen- und Sicherheitspolitik muss mit der Gemeinschaftsmethode umgesetzte werden.",
             "s": "",
             "x": ""
         },
-        {
+        "4": {
             "l": "Die EU braucht eine eigene Armee.",
             "s": "",
             "x": ""
         },
-        {
+        "5": {
             "l": "Frontex muss zu einer europäischen Grenzschutzeinheit mit eigener Handlungsbefugnis ausgebaut werden.",
             "s": "",
             "x": ""
         },
-        {
+        "6": {
             "l": "Die EU braucht eine gemeinsame Wirtschaftsregierung für die Eurozone.",
             "s": "",
             "x": ""
         },
-        {
+        "7": {
             "l": "Die EU soll auf ein einheitliches Steuersystem einführen.",
             "s": "",
             "x": ""
         },
-        {
+        "8": {
             "l": "Die EU-Kommissare müssen in Zukunft durch das Europäische Parlament gewählt werden!",
             "s": "",
             "x": ""
         },
-        {
+        "9": {
             "l": "Der Europäische Rat soll in Zukunft öffentlich tagen.",
             "s": "",
             "x": ""
         },
-        {
+        "10": {
             "l": "Die EU soll einen EU-weiten Mindestlohn einführen, der vom Durchschnittseinkommen im jeweiligen Mitgliedsstaat abhängt.",
             "s": "",
             "x": ""
         },
-        {
+        "11": {
             "l": "Die EU soll neue Mitgliedsstaaten aufnehmen.",
             "s": "",
             "x": ""
         },
-        {
+        "12": {
             "l": "Die EU soll die Beitrittsverhandlungen mit der Türkei beenden.",
             "s": "",
             "x": ""
         },
-        {
+        "13": {
             "l": "Die Europäische Union soll sich als christliche Wertegemeinschaft verstehen.",
             "s": "",
             "x": ""
         },
-        {
+        "14": {
             "l": "Die EU soll sich langfristig zu einem europäischen Bundessstaat entwickeln.",
             "s": "",
             "x": ""
         },
-        {
+        "15": {
             "l": "Die EU soll keine Banken mit Steuergeldern retten.",
             "s": "",
             "x": ""
         },
-        {
+        "16": {
             "l": "Griechenland soll ein Teil seiner Schulden erlassen werden.",
             "s": "",
             "x": ""
         },
-        {
+        "17": {
             "l": "Die EU soll eine gemeinsame Arbeitslosenversicherung einführen.",
             "s": "",
             "x": ""
         },
-        {
+        "18": {
             "l": "Die EU soll europäische Gemeinschaftsanleihen (Euro-Bonds) einführen.",
             "s": "",
             "x": ""
         },
-        {
+        "19": {
             "l": "Für die Wahl des Europaparlaments braucht es ein einheitliches europäisches Wahlrecht, welches transnationale Listen ermöglicht.",
             "s": "",
             "x": ""
         }
-    ],
+    },
     "lists": {
         "1": {
             "name": "NPD",
@@ -228,23 +228,7 @@
             "19": {
                 "selection": "c",
                 "statement": ""
-            },
-            "20": {},
-            "21": {},
-            "22": {},
-            "23": {},
-            "24": {},
-            "25": {},
-            "26": {},
-            "27": {},
-            "28": {},
-            "29": {},
-            "30": {},
-            "31": {},
-            "32": {},
-            "33": {},
-            "34": {},
-            "35": {}
+            }
         },
         "2": {
             "0": {
@@ -326,23 +310,7 @@
             "19": {
                 "selection": "b",
                 "statement": "Auch hier halten wir die Voraussetzungen in den einzelnen EU-Mitgliedsländern für zu unterschiedlich."
-            },
-            "20": {},
-            "21": {},
-            "22": {},
-            "23": {},
-            "24": {},
-            "25": {},
-            "26": {},
-            "27": {},
-            "28": {},
-            "29": {},
-            "30": {},
-            "31": {},
-            "32": {},
-            "33": {},
-            "34": {},
-            "35": {}
+            }
         },
         "3": {
             "0": {
@@ -412,23 +380,7 @@
             },
             "19": {
                 "statement": "Zustimmung"
-            },
-            "20": {},
-            "21": {},
-            "22": {},
-            "23": {},
-            "24": {},
-            "25": {},
-            "26": {},
-            "27": {},
-            "28": {},
-            "29": {},
-            "30": {},
-            "31": {},
-            "32": {},
-            "33": {},
-            "34": {},
-            "35": {}
+            }
         },
         "4": {
             "0": {
@@ -510,23 +462,7 @@
             "19": {
                 "selection": "a",
                 "statement": "Ein demokratischeres Europa braucht mehr grenzübergreifenden politischen Diskurs und lebendige europäische Parteien. Für die Wahlen zum Europäischen Parlament streben wir die schrittweise Einführung europaweiter Listen an, damit die Wähler*innen die Möglichkeit haben, für die Kandidat*innen zu stimmen, die verstärkt gesamteuropäische Interessen vertreten."
-            },
-            "20": {},
-            "21": {},
-            "22": {},
-            "23": {},
-            "24": {},
-            "25": {},
-            "26": {},
-            "27": {},
-            "28": {},
-            "29": {},
-            "30": {},
-            "31": {},
-            "32": {},
-            "33": {},
-            "34": {},
-            "35": {}
+            }
         },
         "5": {
             "0": {
@@ -608,23 +544,7 @@
             "19": {
                 "selection": "b",
                 "statement": "Transnationale Listen setzen transnationale Willensbildungen und Wahlversammlungen voraus. Wie soll man die sich vorstellen. Alle Kandidaten müssen doch eine Basis in Versammlungen haben, die in ständiger persönlicher Beziehung miteinander stehen. Mein Abgeordneter aus Sizilien kann doch nicht meine Interessen vertreten und umgekehrt genauso. Das ist doch Theaterspiel aber keine Demokratie."
-            },
-            "20": {},
-            "21": {},
-            "22": {},
-            "23": {},
-            "24": {},
-            "25": {},
-            "26": {},
-            "27": {},
-            "28": {},
-            "29": {},
-            "30": {},
-            "31": {},
-            "32": {},
-            "33": {},
-            "34": {},
-            "35": {}
+            }
         },
         "6": {
             "0": {
@@ -706,23 +626,7 @@
             "19": {
                 "selection": "b",
                 "statement": "Wir sehen transnationale Listen kritisch, da damit keine proportionale Verteilung der Abgeordneten nach Regionen und zugleich politischer Färbung gewährleistet ist. Im Europaparlament können wir regelmäßig beobachten, dass bei Abstimmungen der nationale Hintergrund eine besondere Rolle spielt. Mit transnationalen Listen würden dann eher Zufälle festlegen, welche nationalen Interessen in der fünfjährigen Wahlperiode besonders stark und besonders schwach vertreten werden."
-            },
-            "20": {},
-            "21": {},
-            "22": {},
-            "23": {},
-            "24": {},
-            "25": {},
-            "26": {},
-            "27": {},
-            "28": {},
-            "29": {},
-            "30": {},
-            "31": {},
-            "32": {},
-            "33": {},
-            "34": {},
-            "35": {}
+            }
         },
         "7": {
             "0": {
@@ -804,23 +708,7 @@
             "19": {
                 "selection": "a",
                 "statement": "Ja, alles was zu unserer Machtergreifung führt, sehen wir positiv."
-            },
-            "20": {},
-            "21": {},
-            "22": {},
-            "23": {},
-            "24": {},
-            "25": {},
-            "26": {},
-            "27": {},
-            "28": {},
-            "29": {},
-            "30": {},
-            "31": {},
-            "32": {},
-            "33": {},
-            "34": {},
-            "35": {}
+            }
         },
         "8": {
             "0": {
@@ -902,23 +790,7 @@
             "19": {
                 "selection": "c",
                 "statement": "Ein einheitliches Wahlrecht ist die Voraussetzung für ein tatsächlich unter gleichen Bedingungen zustande gekommenes Parlament. Quoten- und Zugangsregeln zur Wahl sind wo vorhanden abzuschaffen, das Berechnungssystem der Ergebnisse muss identisch sein, das Wahlsystem ebenfalls. Inwieweit dann transnationale Listen noch notwendig und zielführend sind, ist noch nicht innerhalb unserer Partei entschieden."
-            },
-            "20": {},
-            "21": {},
-            "22": {},
-            "23": {},
-            "24": {},
-            "25": {},
-            "26": {},
-            "27": {},
-            "28": {},
-            "29": {},
-            "30": {},
-            "31": {},
-            "32": {},
-            "33": {},
-            "34": {},
-            "35": {}
+            }
         },
         "9": {
             "0": {
@@ -1000,23 +872,7 @@
             "19": {
                 "selection": "a",
                 "statement": "Wir wollen die europäischen Parteien weiter stärken und die Möglichkeiten, sich in ihnen zu engagieren, erweitern. Die europäischen Parteien sind Träger einer transnationalen politischen Willensbildung. Um diesen wichtigen Aspekt europäischer Demokratie zusätzlich zu stärken, setzen wir uns auch dafür ein, dass die durch das Ausscheiden Großbritanniens freiwerdenden Sitze im Europäischen Parlament künftig durch Abgeordnete besetzt werden, die anhand transnationaler Listen gewählt worden sind."
-            },
-            "20": {},
-            "21": {},
-            "22": {},
-            "23": {},
-            "24": {},
-            "25": {},
-            "26": {},
-            "27": {},
-            "28": {},
-            "29": {},
-            "30": {},
-            "31": {},
-            "32": {},
-            "33": {},
-            "34": {},
-            "35": {}
+            }
         },
         "10": {
             "0": {
@@ -1098,23 +954,7 @@
             "19": {
                 "selection": "a",
                 "statement": "Den vom EU-Parlament vorgelegten Entwurf, der eine demokratiefeindliche 3-%-Hürde beinhaltet, lehnen wir jedoch ab."
-            },
-            "20": {},
-            "21": {},
-            "22": {},
-            "23": {},
-            "24": {},
-            "25": {},
-            "26": {},
-            "27": {},
-            "28": {},
-            "29": {},
-            "30": {},
-            "31": {},
-            "32": {},
-            "33": {},
-            "34": {},
-            "35": {}
+            }
         },
         "11": {
             "0": {
@@ -1196,23 +1036,7 @@
             "19": {
                 "selection": "c",
                 "statement": "Die Einführung transnationaler Listen bei der Europawahl erfordert eine Änderung des EU-Vertrages. Diese ist kurzfristig nicht realisierbar."
-            },
-            "20": {},
-            "21": {},
-            "22": {},
-            "23": {},
-            "24": {},
-            "25": {},
-            "26": {},
-            "27": {},
-            "28": {},
-            "29": {},
-            "30": {},
-            "31": {},
-            "32": {},
-            "33": {},
-            "34": {},
-            "35": {}
+            }
         }
     }
 }
