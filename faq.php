@@ -82,7 +82,9 @@
     <h4>Ich habe einen Fehler gefunden!</h4>
     <p>Dann solltest du das melden. Wir freuen uns über sachdienliche Hinweise.</p>
 
-    <a class="btn btn-primary" href="<?php echo $back; ?>" onclick="callPage(event, '<?php echo $back; ?>')" title="Zurück zum Mahlowat">Zurück zum Mahlowat</a>
+    <a class="btn btn-primary" href="<?php echo $back; ?>"
+    onclick="callPage(event, '<?php echo $back; ?>')" title="Zurück zum
+    EUromat">Zurück zum EUromat</a>
   </div>
   </div>
 
