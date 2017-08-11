@@ -1,0 +1,16 @@
+{
+  "name": "csv2json",
+  "version": "1.0.0",
+  "description": "1. Publish csv file on google docs: https://docs.google.com/spreadsheets/d/1RL2x9ocXS5et1g5teOYIsBAcIwmy1u-SPCUdsGr1BtM/pub?output=csv",
+  "main": "index.js",
+  "dependencies": {
+    "csvtojson": "^1.1.7",
+    "request": "^2.81.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

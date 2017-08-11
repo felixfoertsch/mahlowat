@@ -93,11 +93,6 @@ $emph[$i] = 1;
         <div class="col-md-10 col-md-offset-1 button-wrapper">
           
           <div class="col-xs-6 col-sm-3">
-            <button id='yes' type='submit' class='btn btn-success btn-block' name='yes' onclick="nextThesis('a')">
-            <i class="fa fa-thumbs-up fa-lg"></i> Zustimmung
-            </button>
-          </div>
-          <div class="col-xs-6 col-sm-3">
             <button id='no' type='submit' class='btn btn-danger btn-block' name='no' onclick="nextThesis('c')">
             <i class="fa fa-thumbs-down fa-lg"></i> Ablehnung
             </button>
@@ -106,6 +101,12 @@ $emph[$i] = 1;
           <div class="col-xs-6 col-sm-3">
             <button id='neutral' type='submit' class='btn btn-warning btn-block' name='neutral' onclick="nextThesis('b')">
             <i class="fa fa-asterisk fa-lg"></i> Neutral
+            </button>
+          </div>
+          
+          <div class="col-xs-6 col-sm-3">
+            <button id='yes' type='submit' class='btn btn-success btn-block' name='yes' onclick="nextThesis('a')">
+            <i class="fa fa-thumbs-up fa-lg"></i> Zustimmung
             </button>
           </div>
           

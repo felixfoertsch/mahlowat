@@ -97,8 +97,9 @@
 } ?>
 
   <div class="container">
-      <img src="img/mahlowat_logo.png" title="Mahlowat Logo" class="pull-right" onclick="changeText()"/>
-	<p id="spruch" class="pull-right"></p>
+    <div class="col-md-4 pull-right">
+      <a href="https://jef-sachsen.de/euromat"><img class="img-responsive" src="img/euromat.png" title="Euromat Logo" onclick="changeText()"/></a>
+      </div>
 
       <div class="bottom-buffer top-buffer">
 
