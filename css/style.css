@@ -11,7 +11,7 @@ body {
 }
 
 #thesesbox{
-	min-height: 250px;
+	min-height: 150px;
 }
 .button-wrapper .btn {
     margin-bottom: 10px;
@@ -37,4 +37,8 @@ body {
 .pagination > .active.pagination-no > a {
     background-color: #ff4136;
     border-color: #00CC66;
+}
+
+.m-t-5 {
+    margin-top: 5px;
 }
