@@ -8,9 +8,9 @@ function getSelection(input) {
     if ( input == 'Zustimmung' )
         return 'a';
     if ( input == 'Ablehnung' )
-        return 'b'
-    if ( input == 'Enthaltung' )
         return 'c'
+    if ( input == 'Enthaltung' )
+        return 'b'
 }
 
 csv()
@@ -38,7 +38,7 @@ csv()
 
     if ( parteien.indexOf(index) > -1 ) {
 
-        parsedJSON.lists[index] = {
+        parsedJSON.lists[Object.keys(parsedJSON.answers).length] = {
             name : csvRow[2],
             name_x : csvRow[2],
         }
@@ -54,7 +54,7 @@ csv()
             }
         }
 
-        parsedJSON.answers[index] = parteiAnswers;
+        parsedJSON.answers[Object.keys(parsedJSON.answers).length] = parteiAnswers;
     }
     else {
         console.log("Ingore response from " + csvRow[2] + ", " + csvRow[3])
