@@ -8,14 +8,14 @@ $baseurl = "http://" . $_SERVER['SERVER_NAME'] . $uri_parts[0];
     <title>EUromat - Der Bundestagswahl-Helfer zum Thema Europa</title>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-    <meta content="Mahlowat">
-    <meta name="image_src" content="img/mahlowat_logo.png"/>
+    <meta content="EUromat">
+    <meta name="image_src" content="img/euromat.png"/>
     <meta name="description" content="Der EUromat ist ein Angebot JEF Sachsen zur Bundestagswahl. Er ermöglicht es, zu europapolitischen Themen die eigenen Standpunkte mit denen der Parteien abzugleichen, die zur Wahl antreten."/>
-    <meta property="og:title" content="Mahlowat"/>
+    <meta property="og:title" content="EUromat"/>
     <meta property="og:type"  content="website"/>
-    <meta property="og:image" content="img/mahlowat_logo.png"/>
+    <meta property="og:image" content="img/euromat.png"/>
     <meta property="og:url"   content=""/>
-    <meta property="og:site-name" content="example.com"/>
+    <meta property="og:site-name" content="eurom.at"/>
     <meta property="og:description" content="Der EUromat ist ein Angebot JEF Sachsen zur Bundestagswahl. Er ermöglicht es, zu europapolitischen Themen die eigenen Standpunkte mit denen der Parteien abzugleichen, die zur Wahl antreten."/>
     <link href="css/jef.min.css" rel="stylesheet" media="screen">
     <link rel="stylesheet" href="css/font-awesome.min.css">
@@ -36,7 +36,7 @@ $baseurl = "http://" . $_SERVER['SERVER_NAME'] . $uri_parts[0];
           <p>Der EUromat ist ein technisches Hilfsmittel, das es ermöglicht, zu europapolitischen Themen die eigenen Standpunkte mit denen der Parteien abzugleichen, die zur Bundestagswahl antreten.</p>
           <p>Er ist selbstverständlich nur als Automat ohne Hirn zu verstehen und spricht keine Wahlempfehlungen aus.</p>
           <p>Für ihre Stellungnahmen zu den Thesen sind die Parteien selbst verantwortlich.</p>
-          <p class="text-center"><a class="btn btn-large btn-primary" href="mahlowat.php" title="Mahlowat starten">Mit der Befragung beginnen!</a></p>
+          <p class="text-center"><a class="btn btn-large btn-primary" href="mahlowat.php" title="EUromat starten">Mit der Befragung beginnen!</a></p>
         </div>
       </div>
       <p class="text-center">

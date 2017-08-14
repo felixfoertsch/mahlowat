@@ -74,7 +74,7 @@
     <p>Vor der Auswertung wirst Du gefragt, ob wir Deine Antworten speichern dürfen. Du kannst dann "Ja" auswählen, was bedeutet, dass wir Deine Antwortkombination zusammen mit einer ID speichern, die aus Deiner IP-Adresse und einem täglich wechselnden zufälligen Wert errechnet wird. Bereits am nächsten Tag kann Dein Eintrag auf keinen Fall mehr einer konkreten IP-Adresse zugeordnet werden. Wenn Du "Nein" auswählst, wird lediglich ein Zähler um 1 erhöht.</p>
     
     <h4>Ich möchte gar nicht gezählt werden!</h4>
-    <p>Unser Webserver legt bei jedem Seitenaufruf einen Log-Eintrag an, der unter anderem einen Zeitstempel, Deine IP-Adresse und die aufgerufene URL enthält. Es wäre also unaufrichtig, dir vorzumachen, dass Dein Aufruf des Mahlowat nicht gezählt wird. Der Mahlowat wurde jedoch so konzipiert, dass aus den Server-Logdateien nicht ersichtlich ist, welche Antworten Du ausgewählt hast. Dies sehen wir tatsächlich nur, wenn Du dem am Ende explizit zustimmst.</p>
+    <p>Unser Webserver legt bei jedem Seitenaufruf einen Log-Eintrag an, der unter anderem einen Zeitstempel, Deine IP-Adresse und die aufgerufene URL enthält. Es wäre also unaufrichtig, dir vorzumachen, dass Dein Aufruf des EUromat nicht gezählt wird. Der EUromat wurde jedoch so konzipiert, dass aus den Server-Logdateien nicht ersichtlich ist, welche Antworten Du ausgewählt hast. Dies sehen wir tatsächlich nur, wenn Du dem am Ende explizit zustimmst.</p>
     </div>
     
     <h4>Ich habe einen Fehler gefunden!</h4>
