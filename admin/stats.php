@@ -30,7 +30,7 @@
 <!DOCTYPE HTML>
 <html>
   <head>
-    <title>Mahlowat - Statistik</title>
+    <title>EUromat - Statistik</title>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
     <meta content="">
     <link href="../css/bootstrap.min.css" rel="stylesheet" media="screen">
@@ -44,7 +44,7 @@
   
 	<div class="well">
 	<h1>Besucher</h1>
-	<p>Von wie vielen IP-Adressen wurde der Mahlowat aufgerufen?</p>
+	<p>Von wie vielen IP-Adressen wurde der EUromat aufgerufen?</p>
   
      <table class="table table-bordered table-hover">
      <tr><th style="width: 200px;">Datum</th><th style="width:100px">Besucher</th><th style="width:640px;">&nbsp;</th></tr>

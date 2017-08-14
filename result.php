@@ -79,19 +79,19 @@ if(!$data_content){
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Mahlowat - Ergebnis</title>
+  <title>EUromat - Ergebnis</title>
   <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
-  <meta content="Mahlowat">
+  <meta content="EUromat">
 
-  <meta name="image_src" content="img/mahlowat_logo.png"/>
-  <meta name="description" content="Mein Mahlowat-Ergebnis"/>
+  <meta name="image_src" content="img/euromat.png"/>
+  <meta name="description" content="Mein EUromat-Ergebnis"/>
 
-  <meta property="og:title" content="Mahlowat"/>
+  <meta property="og:title" content="EUromat"/>
   <meta property="og:type"  content="website"/>
-  <meta property="og:image" content="img/mahlowat_logo.png"/>
+  <meta property="og:image" content="img/euromat.png"/>
   <meta property="og:url"   content=""/>
-  <meta property="og:site-name" content="akut-bonn.de"/>
-  <meta property="og:description" content="Mein Mahlowat-Ergebnis"/>
+  <meta property="og:site-name" content="eurom.at"/>
+  <meta property="og:description" content="Mein EUromat-Ergebnis"/>
 
 
 
