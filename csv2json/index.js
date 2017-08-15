@@ -14,7 +14,8 @@ function getSelection(input) {
 }
 
 csv()
-.fromStream(request.get('https://docs.google.com/spreadsheets/d/1RL2x9ocXS5et1g5teOYIsBAcIwmy1u-SPCUdsGr1BtM/pub?output=csv'))
+//.fromStream(request.get('https://docs.google.com/spreadsheets/d/1RL2x9ocXS5et1g5teOYIsBAcIwmy1u-SPCUdsGr1BtM/pub?output=csv'))
+.fromFile('EUromat.csv')
 .on('csv',(csvRow, index)=> {
 
     // ingore the one from mucbkksfo@gmail.com (afd)
