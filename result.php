@@ -81,6 +81,7 @@ if(!$data_content){
 <head>
   <title>EUromat - Ergebnis</title>
   <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
   <meta content="EUromat">
 
   <meta name="image_src" content="img/euromat.png"/>
@@ -164,13 +165,7 @@ if(!$data_content){
         <p>Nicht zufrieden mit dem Ergebnis? Vielleicht willst du die Thesen <a href="multiplier.php" onclick="callPage(event, 'multiplier.php', <?php echo "'$answerstring', '$count'";?>)" title="Gewichtung ändern">anders gewichten</a>.</p>
         <?php } ?>
 
-        <div id="result-bars" class="table-responsive">
-          <table class="table table-bordered table-hover table-condensed table-striped">
-            <tr>
-              <th>Liste</th>
-              <th>Punkte</th>
-              <th>Prozent</th>
-            </tr>
+        <div id="result-bars" class="container">
             <?php
             $top = calculate_points($data['answers'][0], $answers);
             for($i = 0; $i < sizeof($data['answers']); $i++){
@@ -179,8 +174,6 @@ if(!$data_content){
               echo "\n";
             }
             ?>
-
-          </table>
         </div>
 
         <?php if(!$bars_only){?>
