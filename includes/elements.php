@@ -125,6 +125,10 @@ function print_list_result_bar_tricolore($list, $votes, $emph, $class){
    	$listclass = "list-".str_replace(' ','',$data['lists'][$listid]['name']);
    	$prefix = "";
 
+    if(trim($etext) == ''){
+        $etext = "Zu dieser These hat die Partei kein Statement abgegeben.";
+    }
+
    	if($vote === 'skip'){
    		$prefix = "<span class='label label-default'>$name</span>\n";
    	}
