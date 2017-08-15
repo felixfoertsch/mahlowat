@@ -43,7 +43,8 @@ function print_result_detail_table($answers, $data){
 }
 
 function print_list_result_bar($data, $listindex, $answers, $class){
-	$list_name = $data['lists'][$listindex]['name_x'];
+	$list_name = $data['lists'][$listindex]['name'];
+	$hint = $data['lists'][$listindex]['hint'];
 	$list_points = calculate_points($data['answers'][$listindex], $answers);
 	$ach_points = count_achievable_points($answers);
 	if($ach_points != 0){
@@ -52,10 +53,18 @@ function print_list_result_bar($data, $listindex, $answers, $class){
 		$list_percentage = 0;
 	}
 	
+    $hintElement = '';
+    if($hint != ''){
+        $hintElement = "
+            <br><div>".$hint."</div>
+        ";
+    }
 	echo "
    <tr class='$class'>
-   	<td><b>$list_name</b></td>
-      <td>$list_points von $ach_points</td>
+   	<td>
+        <b>$list_name</b>$hintElement
+    </td>
+    <td>$list_points von $ach_points</td>
    	<td>
          <div class='progress'>
    		   <div class='progress-bar' role='progressbar' aria-valuenow='$list_points' aria-valuemin='0' aria-valuemax='$ach_points' style='width: $list_percentage%;'>

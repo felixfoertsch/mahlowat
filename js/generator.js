@@ -58,6 +58,9 @@ function readData(){
 	$('.input_list_short').each(function(index,value){
 		Singleton.instance.lists[index].name_x = $(value).val();
 	});
+	$('.input_list_hint').each(function(index,value){
+		Singleton.instance.lists[index].hint = $(value).val();
+	});
 	
 	if(Singleton.instance.answers == null){
 		Singleton.instance.answers = {};
@@ -99,7 +102,7 @@ function generateTheses(){
 
 function generateLists(){
 	for(key in Object.keys(Singleton.instance.lists)){
-		generateList(Singleton.instance.lists[key].name, Singleton.instance.lists[key].name_x); 
+		generateList(Singleton.instance.lists[key].name, Singleton.instance.lists[key].name_x, Singleton.instance.lists[key].hint); 
 	}
 }
 
@@ -135,7 +138,7 @@ function generateEmptyList(){
 	generateList("","");
 }
 
-function generateList(name, shortname){
+function generateList(name, shortname, hint){
 	var listdiv = '<div class="singlelist">' + 
 	'	<div class="form-group">' + 
 	'		<label>Listenname</label>' + 
@@ -144,6 +147,10 @@ function generateList(name, shortname){
 	'	<div class="form-group">' + 
 	'		<label>Listenname (kurz)</label>' + 
 	'		<input type="text" class="form-control input_list_short" placeholder="Listenname (kurz)" value="'+shortname+'">' + 
+	'	</div>' + 
+	'	<div class="form-group">' + 
+	'		<label>Hinweis zur Liste</label>' + 
+	'		<input type="text" class="form-control input_list_hint" placeholder="Hinweis zur Liste" value="'+hint+'">' + 
 	'	</div>' + 
 	'	<div class="form-group">' + 
 	'		<button type="button" class="btn btn-danger" onclick="deleteme(this)">Diese Liste löschen</button>' + 
