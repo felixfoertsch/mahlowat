@@ -8,73 +8,78 @@ function print_result_detail_table($answers, $data){
 	for($i = 0; $i < sizeof($data['lists']); $i = $i + 1) {
 		$classname = string_to_css_classname($data['lists'][$i]['name']);
 		echo "
-      <th class='hidden-xs hidden-sm list-$classname'>
-         {$data['lists'][$i]['name_x']} (".calculate_points($data['answers'][$i], $answers).")
-      </th>";   
-	}
-	echo "</tr>\n";
-	
-	for($i = 0; $i < $theses_count; $i = $i + 1){
-		char_to_multiply($answers[$i]) == 2 ? $star = '<i class="fa fa-star" aria-hidden="true"></i> ' : $star = '';
-		char_to_multiply($answers[$i]) == 2 ? $tdcl = ' class="info"' : $tdcl = '';
-		$labelclass = code_to_labelclass(char_to_value($answers[$i]));
-		echo "<tr$tdcl>\n";
-		echo '
-      <td>
-         <a id="thesis'.$i.'" class="btn '.code_to_btnclass(char_to_value($answers[$i])).' btn-block" onclick="toggleNext(this)">'.$star.$data['theses'][$i]['s'].'</a>
-      </td>';
-		for($listid = 0; $listid < sizeof($data['lists']); $listid = $listid + 1){
-			echo get_list_result_td($data, $listid, $i);
-		}
-		echo "</tr>\n";
-		
-		// Statements
-		echo "
-      <tr class='multheseslong'>
-      <td class='mtl' colspan='".(sizeof($data['lists'])+1)."'>
-      <!-- <span class='label $labelclass'>These ".($i+1).": ".$data['theses'][$i]['s']."</span><br>-->
-      <p class='well'>".$data['theses'][$i]['l']."</p>
-      <p><strong>Statements der Parteien:</strong></p>";
-		for($listid = 0; $listid < sizeof($data['lists']); $listid = $listid + 1){
-			echo get_list_statement($data, $listid ,$i);
-		}
-		echo "</td></tr>\n";
-	}
-}
+    <th class='hidden-xs hidden-sm list-$classname'>
+      {$data['lists'][$i]['name_x']} (".calculate_points($data['answers'][$i], $answers).")
+    </th>";   
+  }
+  echo "</tr>\n";
 
-function print_list_result_bar($data, $listindex, $answers, $class){
-	$list_name = $data['lists'][$listindex]['name'];
-	$hint = $data['lists'][$listindex]['hint'];
-	$list_points = calculate_points($data['answers'][$listindex], $answers);
-	$ach_points = count_achievable_points($answers);
-	if($ach_points != 0){
-		$list_percentage = intval( 100 *  $list_points / $ach_points);
-	} else {
-		$list_percentage = 0;
-	}
-	
-    $hintElement = '';
-    if($hint != ''){
-        $hintElement = "
-            <br><div>".$hint."</div>
-        ";
+  for($i = 0; $i < $theses_count; $i = $i + 1){
+    char_to_multiply($answers[$i]) == 2 ? $star = '<i class="fa fa-star" aria-hidden="true"></i> ' : $star = '';
+    char_to_multiply($answers[$i]) == 2 ? $tdcl = ' class="info"' : $tdcl = '';
+    $labelclass = code_to_labelclass(char_to_value($answers[$i]));
+    echo "<tr$tdcl>\n";
+    echo '
+    <td>
+      <a id="thesis'.$i.'" class="btn '.code_to_btnclass(char_to_value($answers[$i])).' btn-block" onclick="toggleNext(this)">'.$star.$data['theses'][$i]['s'].'</a>
+    </td>';
+    for($listid = 0; $listid < sizeof($data['lists']); $listid = $listid + 1){
+      echo get_list_result_td($data, $listid, $i);
     }
-	echo "
-   <tr class='$class'>
-   	<td>
-        <b>$list_name</b>$hintElement
-    </td>
-    <td>$list_points von $ach_points</td>
-   	<td>
-         <div class='progress'>
-   		   <div class='progress-bar' role='progressbar' aria-valuenow='$list_points' aria-valuemin='0' aria-valuemax='$ach_points' style='width: $list_percentage%;'>
-   			$list_percentage %
-   		   </div>
-   	   </div>
-      </td>
-   </tr>";
+    echo "</tr>\n";
 
-}
+		// Statements
+    echo "
+    <tr class='multheseslong'>
+      <td class='mtl' colspan='".(sizeof($data['lists'])+1)."'>
+        <!-- <span class='label $labelclass'>These ".($i+1).": ".$data['theses'][$i]['s']."</span><br>-->
+        <p class='well'>".$data['theses'][$i]['l']."</p>
+        <p><strong>Statements der Parteien:</strong></p>";
+        for($listid = 0; $listid < sizeof($data['lists']); $listid = $listid + 1){
+          echo get_list_statement($data, $listid ,$i);
+        }
+        echo "</td></tr>\n";
+      }
+    }
+
+    function print_list_result_bar($data, $listindex, $answers, $class){
+      $list_name = $data['lists'][$listindex]['name'];
+      $hint = $data['lists'][$listindex]['hint'];
+      $list_points = calculate_points($data['answers'][$listindex], $answers);
+      $ach_points = count_achievable_points($answers);
+      if($ach_points != 0){
+        $list_percentage = intval( 100 *  $list_points / $ach_points);
+      } else {
+        $list_percentage = 0;
+      }
+
+      $hintElement = '';
+      if($hint != ''){
+        $hintElement = "
+        <div class='panel-footer'>".$hint."</div>
+        ";
+      }
+      echo "
+      <div class='row'>
+        <div class='col-md-8 col-md-offset-2'>
+          <div class='panel panel-default'>
+            <div class='panel-heading'>
+                <h3 class='panel-title'>$list_name <small>($list_points von $ach_points)</small></h3>
+            </div>
+            <div class='panel-body'>
+              <div class='progress'>
+                <div class='progress-bar' role='progressbar' aria-valuenow='$list_points' aria-valuemin='0' aria-valuemax='$ach_points' style='width: $list_percentage%;'>
+                  $list_percentage %
+                </div>
+              </div>
+            </div>
+            $hintElement
+          </div>
+        </div>
+      </div>
+          ";
+
+        }
 
 /* unused
 function print_list_result_bar_tricolore($list, $votes, $emph, $class){
@@ -119,6 +124,10 @@ function print_list_result_bar_tricolore($list, $votes, $emph, $class){
    	$name  = $data['lists'][$listid]['name'];
    	$listclass = "list-".str_replace(' ','',$data['lists'][$listid]['name']);
    	$prefix = "";
+
+    if(trim($etext) == ''){
+        $etext = "Zu dieser These hat die Partei kein Statement abgegeben.";
+    }
 
    	if($vote === 'skip'){
    		$prefix = "<span class='label label-default'>$name</span>\n";
