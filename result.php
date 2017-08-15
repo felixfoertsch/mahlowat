@@ -190,7 +190,9 @@ if(!$data_content){
             <?php 
             for($i = 0; $i < sizeof($data['lists']); $i = $i + 1){
               $classname = string_to_css_classname($data['lists'][$i]['name']);
-              echo "<button class='btn btn-default btn-primary listbtn-$classname' onclick='toggleColumn(\"$classname\")'>{$data['lists'][$i]['name_x']} </button> ";   
+              $list_logo = $data['lists'][$i]['logo'];
+              $list_name_short = $data['lists'][$i]['name_x'];
+              echo "<button class='btn btn-default btn-primary listbtn listbtn-$classname' onclick='toggleColumn(\"$classname\")'><img class='img-responsive img-list-logo-small' src='img/lists/$list_logo' title='$list_name_short Logo'></button>";
             }
             ?>
           </div>
