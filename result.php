@@ -185,7 +185,7 @@ if(!$data_content){
               $classname = string_to_css_classname($data['lists'][$i]['name']);
               $list_logo = $data['lists'][$i]['logo'];
               $list_name_short = $data['lists'][$i]['name_x'];
-              echo "<button class='btn btn-default btn-primary listbtn listbtn-$classname' onclick='toggleColumn(\"$classname\")'><img class='img-responsive img-list-logo-small' src='img/lists/$list_logo' title='$list_name_short Logo'></button>";
+              echo "<button class='btn btn-default listbtn listbtn-on listbtn-$classname' onclick='toggleColumn(\"$classname\")'><img class='img-responsive img-list-logo-small' src='img/lists/$list_logo' title='$list_name_short Logo'></button>";
             }
             ?>
           </div>
@@ -255,7 +255,7 @@ if(!$data_content){
 
     function toggleColumn(listname){
       $('.list-'+listname).toggle(200);
-      $('.listbtn-'+listname).toggleClass('btn-primary');
+      $('.listbtn-'+listname).toggleClass('listbtn-on');
     }
 
     function showOverview(){
