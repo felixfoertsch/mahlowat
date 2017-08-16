@@ -7,7 +7,7 @@ $baseurl = "http://" . $_SERVER['SERVER_NAME'] . $uri_parts[0];
   <head>
     <title>EUromat - Der Bundestagswahl-Helfer zum Thema Europa</title>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
     <meta content="EUromat">
     <meta name="image_src" content="img/euromat.png"/>
     <meta name="description" content="Der EUromat ist ein Angebot JEF Sachsen zur Bundestagswahl. Er ermöglicht es, zu europapolitischen Themen die eigenen Standpunkte mit denen der Parteien abzugleichen, die zur Wahl antreten."/>
