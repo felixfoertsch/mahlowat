@@ -7,9 +7,12 @@ function print_result_detail_table($answers, $data){
 	echo "<th class='hidden-xs hidden-sm'>Deine Wahl</th>";
 	for($i = 0; $i < sizeof($data['lists']); $i = $i + 1) {
 		$classname = string_to_css_classname($data['lists'][$i]['name']);
+        $list_name_short = $data['lists'][$i]['name_x'];
+        $list_logo = $data['lists'][$i]['logo'];
 		echo "
     <th class='hidden-xs hidden-sm list-$classname'>
-      {$data['lists'][$i]['name_x']} (".calculate_points($data['answers'][$i], $answers).")
+      <img class='img-responsive img-list-logo-small' src='img/lists/$list_logo' title='$list_name_short Logo'>
+      (".calculate_points($data['answers'][$i], $answers).")
     </th>";   
   }
   echo "</tr>\n";
