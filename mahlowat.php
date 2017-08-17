@@ -83,26 +83,26 @@ if(!$data_content){
       </div>
     </div>
     <div class="row">
-      <div class="col-md-4 col-md-offset-4 col-sm-6 col-sm-offset-3 col-xs-10 col-xs-offset-1 m-t-5">
+      <div class="col-md-4 col-md-offset-4 col-sm-6 col-sm-offset-3 col-xs-10 col-xs-offset-1 mt-5">
           <button id="weight" type="button" class="btn btn-default btn-block" data-toggle="button">These doppelt gewichten</button>
       </div>
     </div>
     <div class="row">
-      <div class="col-md-4 col-md-offset-4 col-sm-6 col-sm-offset-3 col-xs-10 col-xs-offset-1 m-t-5">
+      <div class="col-md-4 col-md-offset-4 col-sm-6 col-sm-offset-3 col-xs-10 col-xs-offset-1 mt-5">
           <button id='yes' type='submit' class='btn btn-success btn-block' name='yes' onclick="nextThesis('a')">
             <i class="fa fa-thumbs-up fa-lg"></i> Zustimmung
           </button>
       </div>
     </div>
     <div class="row">
-      <div class="col-md-4 col-md-offset-4 col-sm-6 col-sm-offset-3 col-xs-10 col-xs-offset-1 m-t-5">
+      <div class="col-md-4 col-md-offset-4 col-sm-6 col-sm-offset-3 col-xs-10 col-xs-offset-1 mt-5">
           <button id='neutral' type='submit' class='btn btn-warning btn-block' name='neutral' onclick="nextThesis('b')">
             <i class="fa fa-asterisk fa-lg"></i> Neutral
           </button>
       </div>
     </div>
     <div class="row">
-        <div class="col-md-4 col-md-offset-4 col-sm-6 col-sm-offset-3 col-xs-10 col-xs-offset-1 m-t-5">
+        <div class="col-md-4 col-md-offset-4 col-sm-6 col-sm-offset-3 col-xs-10 col-xs-offset-1 mt-5">
           <button id='no' type='submit' class='btn btn-danger btn-block' name='no' onclick="nextThesis('c')">
             <i class="fa fa-thumbs-down fa-lg"></i> Ablehnung
           </button>
@@ -110,7 +110,7 @@ if(!$data_content){
     </div>
     
     <div class="row">
-      <div class="col-md-4 col-md-offset-4 col-sm-6 col-sm-offset-3 col-xs-10 col-xs-offset-1 m-t-5">
+      <div class="col-md-4 col-md-offset-4 col-sm-6 col-sm-offset-3 col-xs-10 col-xs-offset-1 mt-5">
           <button id='skip' type='submit' class='btn btn-default btn-block' name='skip' onclick="nextThesis('d')">
             Überspringen <i class="fa fa-step-forward fa-lg"></i>
            </button>

@@ -109,12 +109,14 @@ if(!$data_content){
 </head>
 <body>
 
-  <div class="container" style="margin-top: 20px;">
+  <div class="container mt-50">
     <div class="col-md-4 pull-right">
-      <a href="https://jef-sachsen.de/euromat"><img class="img-responsive" src="img/euromat.png" title="Euromat Logo" onclick="changeText()"/></a>
+      <a href="https://jef-sachsen.de/euromat">
+        <img id="logo" class="img-responsive" src="img/euromat.png" title="Euromat Logo"/>
+      </a>
     </div>
 
-    <div class="bottom-buffer top-buffer">
+    <div class="col-md-12">
       <?php 
       if($bars_only){
         echo "<h1>Ergebnis</h1>";
@@ -165,32 +167,37 @@ if(!$data_content){
         <p>Nicht zufrieden mit dem Ergebnis? Vielleicht willst du die Thesen <a href="multiplier.php" onclick="callPage(event, 'multiplier.php', <?php echo "'$answerstring', '$count'";?>)" title="Gewichtung ändern">anders gewichten</a>.</p>
         <?php } ?>
 
-        <div id="result-bars" class="container">
-            <?php
-            $top = calculate_points($data['answers'][0], $answers);
-            for($i = 0; $i < sizeof($data['answers']); $i++){
-              (calculate_points($data['answers'][$i], $answers) == $top) ? $class = "" : $class = "";
-              print_list_result_bar($data, $i, $answers, $class);
-              echo "\n";
-            }
-            ?>
+        <div id="result-bars" class="container-fluid mt-25">
+          <?php
+          $top = calculate_points($data['answers'][0], $answers);
+          for($i = 0; $i < sizeof($data['answers']); $i++){
+            (calculate_points($data['answers'][$i], $answers) == $top) ? $class = "" : $class = "";
+            print_list_result_bar($data, $i, $answers, $class);
+            echo "\n";
+          }
+          ?>
         </div>
 
         <?php if(!$bars_only){?>
-        <div id="result-table">
+        <div id="result-table" class="container-fluid mt-25">
           <p>Thesen mit <i class='fa fa-star fa-lg'></i> fandest du besonders wichtig. Wenn du auf den Button mit dem Namen der These klickst, bekommst du die Statements der Listen in einer Übersicht angezeigt. Über die folgenden Schalter kannst Du einzelne Listen ein- oder ausblenden:</p>
-          <div class="well">
+          <ul class="nav nav-pills">
             <?php 
             for($i = 0; $i < sizeof($data['lists']); $i = $i + 1){
               $classname = string_to_css_classname($data['lists'][$i]['name']);
               $list_logo = $data['lists'][$i]['logo'];
               $list_name_short = $data['lists'][$i]['name_x'];
-              echo "<button class='btn btn-default listbtn listbtn-on listbtn-$classname' onclick='toggleColumn(\"$classname\")'><img class='img-responsive img-list-logo-small' src='img/lists/$list_logo' title='$list_name_short Logo'></button>";
+              echo "
+              <li role='presentation' class='active listbtn-$classname'>
+                <a onclick='toggleColumn(\"$classname\")'>
+                  $list_name_short
+                </a>
+              </li>
+              ";
             }
             ?>
-          </div>
-
-          <table class="table" id="resulttable">
+          </ul>
+          <table class="table mt-25" id="resulttable">
             <?php 
 
             print_result_detail_table($answers, $data);
@@ -255,7 +262,7 @@ if(!$data_content){
 
     function toggleColumn(listname){
       $('.list-'+listname).toggle(200);
-      $('.listbtn-'+listname).toggleClass('listbtn-on');
+      $('.listbtn-'+listname).toggleClass('active');
     }
 
     function showOverview(){

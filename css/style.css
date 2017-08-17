@@ -1,58 +1,53 @@
 body {
-    padding-bottom: 70px;
+  padding-bottom: 70px;
 }
 
 .table a {
-    text-decoration: none;
+  text-decoration: none;
 }
 
 .statement {
-    min-height: 90px;
-}
-
-.btn.btn-default.listbtn {
-    height: 70px;
-    border-top-width: 1px;
-}
-
-.btn.btn-default.listbtn.listbtn-on {
-    border-color: #00CC66;
-}
-
-.img-list-logo-small {
-    width: 50px;
-    height: auto;
+  min-height: 135px;
 }
 
 #thesesbox{
 	min-height: 150px;
 }
 .button-wrapper .btn {
-    margin-bottom: 10px;
+  margin-bottom: 10px;
 }
 .pagination > .pagination-yes > a {
-    background-color: #00CC66;
+  background-color: #00CC66;
 }
 .pagination > .active.pagination-yes > a {
-    
-    background-color: #00CC66;
-    border-color: #00CC66;
+  background-color: #00CC66;
+  border-color: #00CC66;
 }
 .pagination > .pagination-neutral > a {
-    background-color: #ff851b;
+  background-color: #ff851b;
 }
 .pagination > .active.pagination-neutral > a {
-    background-color: #ff851b;
-    border-color: #00CC66;
+  background-color: #ff851b;
+  border-color: #00CC66;
 }
 .pagination > .pagination-no > a {
-    background-color: #ff4136;
+  background-color: #ff4136;
 }
 .pagination > .active.pagination-no > a {
-    background-color: #ff4136;
-    border-color: #00CC66;
+  background-color: #ff4136;
+  border-color: #00CC66;
 }
 
-.m-t-5 {
-    margin-top: 5px;
+.mt-5 {
+  margin-top: 5px;
+}
+.mt-25 {
+  margin-top: 25px;
+}
+.mt-50 {
+  margin-top: 50px;
+}
+
+#logo {
+  position: absolute;
 }
