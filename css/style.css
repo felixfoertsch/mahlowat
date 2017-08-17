@@ -24,6 +24,11 @@ body {
     height: auto;
 }
 
+.btn.btn-block.listanswer {
+    border: 0px;
+    cursor: default;
+}
+
 #thesesbox{
 	min-height: 150px;
 }
