@@ -109,8 +109,8 @@ if(!$data_content){
 </head>
 <body>
 
-  <div class="container mt-50">
-    <div class="col-md-4 pull-right">
+  <div class="container mt-25">
+    <div class="col-md-3 pull-right">
       <a href="https://jef-sachsen.de/euromat">
         <img id="logo" class="img-responsive" src="img/euromat.png" title="Euromat Logo"/>
       </a>
@@ -164,7 +164,13 @@ if(!$data_content){
         <?php } ?>
 
         <?php if(!$bars_only){?>
-        <p>Nicht zufrieden mit dem Ergebnis? Vielleicht willst du die Thesen <a href="multiplier.php" onclick="callPage(event, 'multiplier.php', <?php echo "'$answerstring', '$count'";?>)" title="Gewichtung ändern">anders gewichten</a>.</p>
+        <div class="row">
+        <div class="col-md-12">
+            <div class="alert alert-info">
+              <strong>Nicht zufrieden mit dem Ergebnis?</strong> Vielleicht willst du die Thesen <a href="multiplier.php" onclick="callPage(event, 'multiplier.php', <?php echo "'$answerstring', '$count'";?>)" title="Gewichtung ändern">anders gewichten</a>.
+            </div>
+          </div>
+        </div>
         <?php } ?>
 
         <div id="result-bars" class="container-fluid mt-25">
@@ -180,8 +186,9 @@ if(!$data_content){
 
         <?php if(!$bars_only){?>
         <div id="result-table" class="container-fluid mt-25">
-          <p>Thesen mit <i class='fa fa-star fa-lg'></i> fandest du besonders wichtig. Wenn du auf den Button mit dem Namen der These klickst, bekommst du die Statements der Listen in einer Übersicht angezeigt. Über die folgenden Schalter kannst Du einzelne Listen ein- oder ausblenden:</p>
-          <ul class="nav nav-pills">
+          <p>Thesen mit <i class='fa fa-star fa-lg'></i> fandest du besonders wichtig. Wenn du auf den Button mit dem Namen der These klickst, bekommst du die Statements der Listen in einer Übersicht angezeigt.</p>
+          <p class="hidden-sm hidden-xs">Über die folgenden Schalter kannst Du einzelne Listen ein- oder ausblenden:</p>
+          <ul class="nav nav-pills hidden-sm hidden-xs">
             <?php 
             for($i = 0; $i < sizeof($data['lists']); $i = $i + 1){
               $classname = string_to_css_classname($data['lists'][$i]['name']);

@@ -35,19 +35,22 @@ $baseurl = "http://" . $_SERVER['SERVER_NAME'] . $uri_parts[0];
           <p>Der EUromat ist ein technisches Hilfsmittel, das es ermöglicht, zu europapolitischen Themen die eigenen Standpunkte mit denen der Parteien abzugleichen, die zur Bundestagswahl antreten.</p>
           <p>Er ist selbstverständlich nur als Automat ohne Hirn zu verstehen und spricht keine Wahlempfehlungen aus.</p>
           <p>Für ihre Stellungnahmen zu den Thesen sind die Parteien selbst verantwortlich.</p>
-          <p class="text-center"><a class="btn btn-large btn-primary" href="mahlowat.php" title="EUromat starten">Mit der Befragung beginnen!</a></p>
+          <p class="text-center"><a class="btn btn-primary btn-lg" href="mahlowat.php" title="EUromat starten">Mit der Befragung beginnen!</a></p>
+        </div>
+        <div class="col-md-12 mt-25">
+          <p class="text-center">
+            <small>Die häufig gestellten Fragen findest Du hier: <a href="faq.php" title="Fragen und Antworten">FAQ</a>.</small>
+          </p>
         </div>
       </div>
-      
     </div>
 
-    <p class="text-center">
-      <a href="faq.php" title="Fragen und Antworten"><small>FAQ</small></a>
-    </p>
-    <div class="shariff" data-url="<?php echo $baseurl; ?>" data-referrer-track=null></div>
+    <div class="col-xs-12">
+      <div class="shariff" data-url="<?php echo $baseurl; ?>" data-referrer-track=null></div>
+    </div>
+
   </div>
-</div>
-</div>
-<script src="shariff/shariff.min.js"></script>
+
+  <script src="shariff/shariff.min.js"></script>
 </body>
 </html>
