@@ -1,11 +1,15 @@
 csv2json/node_modules
 
+<<<<<<< HEAD
 # Created by https://www.gitignore.io/api/macos,jekyll
 
 ### Jekyll ###
 wahlprogramme/_site/
 wahlprogramme/.sass-cache/
 wahlprogramme/.jekyll-metadata
+=======
+# Created by https://www.gitignore.io/api/macos
+>>>>>>> feat_9
 
 ### macOS ###
 *.DS_Store

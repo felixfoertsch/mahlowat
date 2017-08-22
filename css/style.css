@@ -10,6 +10,11 @@ body {
   min-height: 135px;
 }
 
+.btn.btn-block.listanswer {
+    border: 0px;
+    cursor: default;
+}
+
 #thesesbox{
 	min-height: 150px;
 }
@@ -38,6 +43,7 @@ body {
   border-color: #00CC66;
 }
 
+<<<<<<< HEAD
 .mt-5 {
   margin-top: 5px;
 }
@@ -47,3 +53,8 @@ body {
 .mt-50 {
   margin-top: 50px;
 }
+=======
+.m-t-5 {
+    margin-top: 5px;
+}
+>>>>>>> feat_9
