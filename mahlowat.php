@@ -48,6 +48,7 @@ if(!$data_content){
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
   <meta content="EUromat">
   <link href="css/jef.min.css" rel="stylesheet" media="screen">
+  <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400i,600,700" rel="stylesheet">
   <link rel="stylesheet" href="css/font-awesome.min.css">
   <link rel="stylesheet" type="text/css" href="css/style.css">
 </head>

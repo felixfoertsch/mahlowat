@@ -18,6 +18,7 @@ $baseurl = "http://" . $_SERVER['SERVER_NAME'] . $uri_parts[0];
   <meta property="og:site-name" content="eurom.at"/>
   <meta property="og:description" content="Der EUromat ist ein Angebot JEF Sachsen zur Bundestagswahl. Er ermöglicht es, zu europapolitischen Themen die eigenen Standpunkte mit denen der Parteien abzugleichen, die zur Wahl antreten."/>
   <link href="css/jef.min.css" rel="stylesheet" media="screen">
+  <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400i,600,700" rel="stylesheet">
   <link rel="stylesheet" href="css/font-awesome.min.css">
   <link rel="stylesheet" type="text/css" href="css/style.css">
   <link href="shariff/shariff.min.css" rel="stylesheet">
