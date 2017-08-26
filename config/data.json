@@ -1,1 +1,1005 @@
-{"theses":{"0":{"l":"Die EU soll den Euro als gemeinschaftliche Einheitswährung behalten.","s":"Euro","x":""},"1":{"l":"Die EU braucht eine parlamentarisch verantwortliche Regierung.","s":"Regierungsverantwortung","x":""},"2":{"l":"Die Europäische Union braucht eine europäische Verfassung.","s":"Europäische Verfassung","x":""},"3":{"l":"Die gemeinsame Außen- und Sicherheitspolitik muss mit der Gemeinschaftsmethode umgesetzt werden.","s":"Außen- und Sicherheitspolitik","x":"Unter Gemeinschaftsmethode versteht man, wenn Beschlüsse in der EU über die europäischen Institutionen (z.B. Rat oder Parlament) gefasst werden und nicht zwischen den Regierungen der einzelnen Mitgliedsstaaten."},"4":{"l":"Die EU braucht eine eigene Armee.","s":"EU-Armee","x":""},"5":{"l":"Frontex muss zu einer europäischen Grenzschutzeinheit mit eigener Handlungsbefugnis ausgebaut werden.","s":"Frontex","x":"Frontex ist für die Koordinierung der Maßnahmen zum Schutz der EU-Außengrenzen zuständig. "},"6":{"l":"Die EU braucht eine gemeinsame Wirtschaftsregierung für die Eurozone.","s":"Wirtschaftsregierung","x":""},"7":{"l":"Die EU soll ein einheitliches Steuersystem einführen.","s":"Einheitliche Steuern","x":""},"8":{"l":"Die EU-Kommissare müssen in Zukunft durch das Europäische Parlament gewählt werden.","s":"Wahl EU-Kommissare","x":""},"9":{"l":"Der Europäische Rat soll in Zukunft öffentlich tagen.","s":"Transparenz Europäischer Rat","x":""},"10":{"l":"Die EU soll einen EU-weiten Mindestlohn einführen, der vom Durchschnittseinkommen im jeweiligen Mitgliedsstaat abhängt.","s":"EU-Mindestlohn","x":""},"11":{"l":"Die EU soll neue Mitgliedsstaaten aufnehmen.","s":"EU-Erweiterung","x":""},"12":{"l":"Die EU soll die Beitrittsverhandlungen mit der Türkei beenden.","s":"Türkei","x":""},"13":{"l":"Die Europäische Union soll sich als christliche Wertegemeinschaft verstehen.","s":"Selbstverständnis","x":""},"14":{"l":"Die EU soll sich langfristig zu einem europäischen Bundessstaat entwickeln.","s":"Bundesstaat","x":""},"15":{"l":"Die EU soll keine Banken mit Steuergeldern retten.","s":"Bankenrettungen","x":""},"16":{"l":"Griechenland soll ein Teil seiner Schulden erlassen werden.","s":"Griechenland","x":""},"17":{"l":"Die EU soll eine gemeinsame Arbeitslosenversicherung einführen.","s":"EU-Arbeitslosenversicherung","x":""},"18":{"l":"Die EU soll europäische Gemeinschaftsanleihen (Euro-Bonds) einführen.","s":"Euro-Bonds","x":""},"19":{"l":"Für die Wahl des Europaparlaments braucht es ein einheitliches europäisches Wahlrecht, welches transnationale Listen ermöglicht.","s":"Wahl EU-Parlament","x":""}},"lists":{"0":{"name":"Nationaldemokratische Partei Deutschlands","name_x":"NPD","hint":"", "logo":"npd.png"},"1":{"name":"Ökologisch-Demokratische Partei","name_x":"ÖDP","hint":"", "logo":"oedp.png"},"2":{"name":"Freie Demokratische Partei Sachsen","name_x":"FDP Sachsen","hint":"Wir haben die Bundes-FDP gebeten sich zu unseren Thesen zu positionieren. Die Partei bestand darauf, dass der Landesverband Sachsen die Fragen beantwortet.", "logo":"fdp.png"},"3":{"name":"BÜNDNIS 90/DIE GRÜNEN","name_x":"GRÜNE","hint":"", "logo":"gruene.png"},"4":{"name":"Alternative für Deutschland","name_x":"AfD","hint":"", "logo":"afd.png"},"5":{"name":"Freie Wähler","name_x":"Freie Wähler","hint":"", "logo":"freie_waehler.png"},"6":{"name":"Die PARTEI Sachsen","name_x":"Die PARTEI Sachsen","hint":"Wir haben die Bundes-PARTEI gebeten sich zu unseren Thesen zu positionieren. Die Partei bestand darauf, dass der Landesverband Sachsen die Fragen beantwortet.", "logo":"die_partei.png"},"7":{"name":"Piratenpartei Deutschland","name_x":"PIRATEN","hint":"", "logo":"piraten.png"},"8":{"name":"Sozialdemokratische Partei Deutschlands","name_x":"SPD","hint":"", "logo":"spd.png"},"9":{"name":"Partei Mensch Umwelt Tierschutz","name_x":"Tierschutzpartei","hint":"", "logo":"tierschutzpartei.png"},"10":{"name":"Christlich Demokratische Union","name_x":"CDU","hint":"", "logo":"cdu.png"},"11":{"name":"Die LINKE","name_x":"LINKE","hint":"", "logo":"linke.png"}},"answers":{"0":{"0":{"selection":"c","statement":""},"1":{"selection":"c","statement":""},"2":{"selection":"c","statement":""},"3":{"selection":"c","statement":""},"4":{"selection":"c","statement":""},"5":{"selection":"a","statement":""},"6":{"selection":"c","statement":""},"7":{"selection":"c","statement":""},"8":{"selection":"a","statement":""},"9":{"selection":"a","statement":""},"10":{"selection":"c","statement":""},"11":{"selection":"c","statement":""},"12":{"selection":"a","statement":""},"13":{"selection":"b","statement":""},"14":{"selection":"c","statement":""},"15":{"selection":"a","statement":""},"16":{"selection":"b","statement":""},"17":{"selection":"c","statement":""},"18":{"selection":"c","statement":""},"19":{"selection":"b","statement":""}},"1":{"0":{"selection":"a","statement":""},"1":{"selection":"a","statement":""},"2":{"selection":"a","statement":""},"3":{"selection":"a","statement":""},"4":{"selection":"c","statement":""},"5":{"selection":"c","statement":"Wir würden hier u.U. zustimmen können, wenn eine parlamentarische Kontrollle gegeben wäre."},"6":{"selection":"b","statement":"Die Entwicklung in den einzelnen Mitgliedsländern ist zu unterschiedlich."},"7":{"selection":"c","statement":""},"8":{"selection":"a","statement":""},"9":{"selection":"a","statement":""},"10":{"selection":"a","statement":""},"11":{"selection":"a","statement":"vorausgesetzt, diese neuen Mitgliedsstaaten erfüllen die Aufnahmekriterien."},"12":{"selection":"a","statement":"Zum jetzigen Zeitpunkt sollten die ca. 4 Mrd. Euro an EU-Gelder für den nicht stattfindenden Demokratisierungsprozess in der Türkei gespart werden."},"13":{"selection":"a","statement":""},"14":{"selection":"c","statement":"Die ÖDP favorisiert den Staatenverbund, wie ihn das Bundesverfassungsgericht vorgeschlagen hat."},"15":{"selection":"a","statement":""},"16":{"selection":"a","statement":""},"17":{"selection":"c","statement":"Die Voraussetzungen sind in den einzelnen Mitgliedsländern zu unterschiedlich."},"18":{"selection":"c","statement":"Dies würde den EU-Verträgen widersprechen."},"19":{"selection":"c","statement":"Auch hier halten wir die Voraussetzungen in den einzelnen EU-Mitgliedsländern für zu unterschiedlich."}},"2":{"0":{"selection":"a","statement":""},"1":{"selection":"a","statement":""},"2":{"selection":"a","statement":"Eine europäische Verfassung ist ein langfristiges Ziel und bedarf einer Volksabstimmung"},"3":{"selection":"a","statement":""},"4":{"selection":"a","statement":"Vor  gemeinsamen Streitkräften ist zunächst eine koordinierte Verteidigungspolitik in der EU zu schaffen."},"5":{"selection":"a","statement":""},"6":{"selection":"c","statement":"Eine solche Wirtschaftsregierung kann erst im Rahmen einer gemeinsamen Wirtschafts- und Fiskalpolitik tätig werden, die gegenwärtig nicht durchsetzbar erscheint."},"7":{"selection":"c","statement":"Auch in Fragen der Steuerpolitik hat die EU zur Zeit nahezu keine Kompetenz"},"8":{"statement":"","selection":"a"},"9":{"statement":"Wir wollen den Europäischen Rat abschaffen und die Ratssitzungen i.d.R.  öffentlich abhalten lassen.","selection":"a"},"10":{"statement":"","selection":"c"},"11":{"statement":"Wenn die Kandidaten sämtliche Aufnahmekriterien erfüllen.","selection":"a"},"12":{"statement":"Vor einem endgültigen Abbruch können die Verhandlungen auch ausgesetzt werden.","selection":"a"},"13":{"statement":"","selection":"c"},"14":{"statement":"Auch dies ist nur ein langfristiges Ziel der Entwicklung der EU.","selection":"a"},"15":{"statement":"","selection":"c"},"16":{"statement":"","selection":"c"},"17":{"statement":"","selection":"c"},"18":{"statement":"","selection":"c"},"19":{"statement":"","selection":"a"}},"3":{"0":{"selection":"a","statement":"Der Euro ist das Herzstück der Wirtschafts- und Währungsunion. Er hat Europa weiter zusammenwachsen lassen. Grenzenlos Reisen, Arbeiten und überall mit dem Euro zahlen–das ist für viele Ausdruck von Freiheit. Für Unternehmen ist der Euro ein riesiger Vorteil, der Arbeitsplätze sichert. Wir wollen die deutsche Europolitik solidarischer und demokratischer ausrichten. Deutschland soll dazu beitragen, Europa zu einen und zu stärken und nicht Mitgliedstaaten wie Griechenland aus der Eurozone werfen."},"1":{"selection":"a","statement":"Wie jede Demokratie hat auch die europäische Demokratie Schwächen. Zu oft wird sie zu einseitig über das Handeln nationaler Regierungen legitimiert. Das, was wir europäisch organisieren, muss  zwischen EU-Parlament, Rat und EU-Kommission innerhalb der EU-Verträge demokratisch verhandelt und gestaltet werden. Wir wollen zunächst ein Mitglied der EU-Kommission mit allen Kompetenzen ausstatten im Bereich der Wirtschafts- und Währungsunion, gewählt bzw. abwählbar durch das EU-Parlament."},"2":{"selection":"a","statement":"Wir bedauern es sehr, dass die EU-Verfassung von 2004 nicht angenommen wurde. Sie hätte den Zusammenhalt gestärkt. Ein starkes Europa ist das beste Rezept gegen Populismus und Nationalismus. Wir wollen ein nachhaltigeres, demokratischeres, solidarischeres und gerechteres Europa. Dazu sollen notwendige Vertragsänderungen nicht in Hinterzimmer, sondern im Rahmen eines öffentlichen, demokratischen und bürgerfreundlichen Europäischen Konvents diskutiert und erarbeitet werden."},"3":{"selection":"b","statement":"Wir fördern als überzeugte Europäer*innen jede Form der weiteren Integration. Deswegen ist auch eine weitere Vergemeinschaftung der Außen- und Sicherheitspolitik sinnvoll. Uns ist aber gerade bei dieser Frage der Vorrang des Zivilen besonders wichtig. Diesen Ansatz sehen wir in anderen EU-Mitgliedsländern nur unzureichend ausgeprägt. Es braucht daher noch viele Diskussionen, um sich bei der Frage nach der Ausrichtung einer Außen- und Sicherheitspolitik anzunähern."},"4":{"selection":"b","statement":"Wir halten Schritte für eine verstärkte Zusammenarbeit und Integration der Streitkräfte in der Europäischen Union für sinnvoll. Uns geht es darum, durch engere gemeinsame Planung, Kooperation und Koordination Fähigkeiten auf europäischer Ebene zu bündeln – auch, um die Verschwendung öffentliche Gelder zu beenden, die durch die Nicht-Kooperation entsteht. Europa muss bei der äußeren Sicherheit besser zusammenzuarbeiten. In gleichem Maße muss aber auch das EU-Parlament mehr Mitsprache erhalten."},"5":{"selection":"c","statement":"Wir treten für ein menschenrechtsbasiertes europäisches Grenzregime ein. Wir wollen die parlamentarische Kontrolle stärken. Zudem muss das Handeln der Frontex- Beamt*innen durch unabhängige Akteure und nicht nur durch die EU-Grundrechte-Agentur kontrolliert werden. Es soll möglich sein, diese Handlungen ggf. auch vor den europäischen Gerichten überprüfen zu lassen."},"6":{"selection":"b","statement":"Die Wirtschafts- und Währungsunion braucht weitere Reformen. Aber unser Ziel bleibt ein Europa, in dem alle zusammenhalten. Eine Spaltung der EU in einen Euro-Exklusiv-Club und den Rest mit neuen Doppelstrukturen lehnen wir ab. Wir wollen, dass ein Mitglied der EU-Kommission mit allen Kompetenzen ausgestattet im Bereich der Wirtschafts- und Währungsunion wird, den Vorsitz der Euro-Gruppe und des Rats für Wirtschaft und Finanzen innehat und gegenüber dem EU-Parlament verantwortlich ist."},"7":{"selection":"a","statement":"Wir wollen eine Harmonisierung der Steuerpolitik vorantreiben für mehr Steuergerechtigkeit, Vorteilen für die Wirtschaft und eine Stärkung der Einnahmeseite der EU - zB. via einen europäischen Steuerpakt, der Steuervermeidung und -hinterziehung gemeinsam bekämpfen hilft. Schrittweise wollen wir mit der Einführung ökologischer Eigenmittel beginnen, um den EU-Haushalt transparenter und unabhängiger von den Zahlungen der EU-Mitgliedsländer zu machen. Gleiches gilt eine EU-Finanztransaktionssteuer."},"8":{"selection":"a","statement":"Wir wollen die europäische Demokratie stärken. Das EU-Parlament soll zentraler Ort aller europäischen Entscheidungen werden. Das gilt auch für die Wahl der Mitglieder der EU-Kommission. In der Wirtschafts- und Währungsunion wollen wir beginnen. Ein EU-Kommissionsmitglied ausgestattet mit allen Kompetenzen im Bereich der WWU soll individuell vom EU-Parlament gewählt bzw. abgewählt werden können. Die Abwahl der gesamten EU-Kommission wollen wir über ein konstruktives Misstrauensvotum ermöglichen."},"9":{"selection":"a","statement":"Ein Schlüssel zur Stärkung der europäischen Demokratie ist mehr Transparenz. Derzeit tagt der Rat nur dann öffentlich, wenn er gesetzgeberisch berät oder abstimmt. Das ist zu wenig. Der Rat sollte grundsätzlich öffentlich tagen und seine vorbereitenden Gremien transparent werden. Zudem sollten Protokolle sowie non-Paper in der Regel öffentlich sein. So werden Positionen, Debatte und Kompromisssuche von Beginn an nachvollziehbarer."},"10":{"selection":"a","statement":"Auch wenn sich die wirtschaftliche Lage langsam verbessert, ist davon bei breiten Teilen der Bevölkerung noch zu wenig angekommen. Das Versprechen der EU auf Wohlstand und soziale Teilhabe muss glaubwürdig bleiben. Allerdings haben die EU-Mitgliedstaaten im sozialen Bereich der EU bisher kaum Kompetenzen übertragen. Als ersten Schritt innerhalb der aktuellen Kompetenzen wollen wir eine Mindesteinkommensrichtlinie für Eckpunkte von Grundsicherungsleistungen in den Mitgliedstaaten vorantreiben."},"11":{"selection":"a","statement":"Wir wollen, dass EU-Erweiterungen grundsätzlich für weitere Länder offen bleiben anstatt den Reformeifer durch Ausschluss weiterer Beitritte auszubremsen. Dies gilt insbesondere gegenüber den Ländern des Westbalkans (Voraussetzung: Kopenhagener Kriterien). Wir wollen zudem, dass die Gemeinsame Außen- und Sicherheitspolitik der EU (GASP) enger mit Beitrittsverfahren und der EU- Nachbarschaftspolitik verzahnt wird, um jenseits technokratischer Verhandlungen kohärente Impulse setzen zu können."},"12":{"selection":"c","statement":"Die Beitrittsgespräche wegen der autoritären Regierung Erdoğans komplett abzubrechen, würde das falsche Signal an die proeuropäischen und demokratischen Kräfte in der Türkei senden. Für eine demokratische und weltoffene Türkei müssen die Türen zur EU offen bleiben. Eine Fortführung der Beitrittsgespräche, die de-facto bereits auf Eis liegen, wie auch eine Ausweitung der Zollunion kann es aber erst geben, wenn die Türkei eine Kehrtwende zurück zu Demokratie und Rechtstaatlichkeit vollzieht."},"13":{"selection":"c","statement":"Als Wertegemeinschaft hat die EU bereits ein starkes Fundament, um gemeinsam nach Antworten und Lösungen zu suchen. Alle EU-Mitgliedstaaten haben sich in Art. 2 des EU-Vertrages verpflichtet, die Grundwerte zu schützen. Diese sind die Achtung der Menschenwürde, Freiheit, Gleichheit, die Wahrung der Menschenrechte einschließlich der Rechte der Personen, die Minderheiten angehören. Diese Werte haben universelle Gültigkeit. Es gilt das Prinzip der Nicht-Diskriminierung und Toleranz."},"14":{"selection":"b","statement":"Wir wollen Europa zusammenhalten, selbstverständlich aber auch weiter an unserem gemeinsamen Haus Europa bauen. Die Probleme heute sind global und für einen Staat alleine zu groß. Wir wollen eine EU, in der jede Ebene das macht, was sie am besten kann. Ob dies am besten ein europäischer Bundesstaat oder eine andere Form leisten kann, wollen wir innerhalb eines EU-Konvents in einem öffentlichen, demokratischen und bürgerfreundlichen Verfahren erarbeiten, um möglichst viele Menschen mitzunehmen."},"15":{"selection":"a","statement":"Hierfür müssen die bestehenden Regeln des Abwicklungsmechanismus konsequent eingehalten und die Bankenunion vollendet werden, u.a. durch ein Trennbankenmodell, eine Entkopplung von Staats- und Bankrisiken auch in Bezug auf Staatsanleihen, die Beseitigung rechtlicher Hürden zur Gläubigerbeteiligung und einen „back stop“ für den EU-Bankenabwicklungsfonds. Bankenaufsicht und der Europäische Systemrisikorat (ESRB) sollten aus der EZB herausgelöst werden und vom EU-Parlament kontrolliert werden."},"16":{"selection":"b","statement":"Griechenland kann Schulden nur abbauen, wenn es neben sozial gerechten Reformen und Sparen auch Wirtschafts-Impulse setzen kann etwa bei Erneuerbaren Energien durch Haushaltsüberschüsse und Mitteln aus EU-Struktur- oder Investitionsfonds. Milliardengewinne aus den EZB-Anleihekäufen sollten an Griechenland ausgeschüttet werden. Nötig sind aber Schuldenerleichterungen bspw. durch Zinssenkungen und Laufzeitverlängerungen. Eine Umschuldung der IWF-Kredite hin zum ESM könnte die Zinslast senken."},"17":{"selection":"a","statement":"Wir wollen europäische Mindeststandards im Bereich der sozialen Sicherung und des Arbeitsmarktes erreichen. Uns ist wichtig, die grenzüberschreitende Freizügigkeit von Arbeitnehmer*innen sozial besser abzusichern, damit sie nicht durch ein Raster national fragmentierter Sozialsysteme fallen. Als Ziel in diesem Bereich setzen wir uns perspektivisch auch für die Einführung einer europäischen Arbeitslosenversicherung ein."},"18":{"selection":"b","statement":"Der wichtigste Schritt in der Eurozone ist eine verbesserte Abstimmung in der Wirtschafts- und Fiskalpolitik. In einem gemeinsamen Markt muss es Mindeststandards geben, wenn wir nicht in einen Wettlauf um die niedrigsten Steuern, Renten und Löhne geraten wollen. Gibt es hier eine Übereinkunft, können wir auch über gemeinschaftliche Anleihen nachdenken. Wir wollen einen zeitlich befristeten und mengenmäßig begrenzten Altschuldentilgungsfonds nach Vorschlag des Sachverständigenrats."},"19":{"selection":"a","statement":"Ein demokratischeres Europa braucht mehr grenzübergreifenden politischen Diskurs und lebendige europäische Parteien. Für die Wahlen zum Europäischen Parlament streben wir die schrittweise Einführung europaweiter Listen an, damit die Wähler*innen die Möglichkeit haben, für die Kandidat*innen zu stimmen, die verstärkt gesamteuropäische Interessen vertreten."}},"4":{"0":{"selection":"c","statement":"Eine gemeinschaftliche Währung für Staaten mit so unterschiedlichen Wirtschaftsstrukturen, insbesondere Produktivität, wie Schwellenlandökonomien und hochtechnologischen Volkswirtschaften ist eine währungspolitische Absurdität. Weil das so ist, ist die Lage in der EU-Zone so, wie sie ist. Griechenland: Arbeitslosigkeit 25 %, Deutschland 5 %; Jugendarbeitslosigkeit Griechenland 58 %, Deutschland 8 % (Zahlen aus 2014, 1. Quartal)."},"1":{"selection":"c","statement":"Europa kann kein Staat sein, weil es kein Staatsvolk hat. Dies jedoch ist -staatstheoretisch unbestritten- eines der konstituierenden Merkmale für einen Staat. Insofern gibt es auch kein europäisches Parlament. Das Substitut ist auch nicht durch demokratische Wahlen legitimiert, weil Wahlen nur dann demokratisch sind, wenn jeder Wähler das gleiche Stimmgewicht hat. Es gibt auch keine europäische Öffentlichkeit und keine europäische Kommunikation, weil es keine europäische Sprache gibt."},"2":{"selection":"c","statement":"Nur Staaten haben Verfassungen. Da die EU kein Staat sein kann, kann sie auch keine \"Verfassung\" haben. Der Versuch, eine solche durch einen völkerrechtlichen Vertrag in die Welt zu bringen, ist 2005 an den Volksabstimmungen in Frankreich und den Niederlanden glücklicherweise gescheitert. Verfassungen kann man nicht durch völkerrechtliche Verträge erzeugen. Es handelte sich um den Versuch eines Staatstreichs gegenüber den existierenden europäischen Demokratien."},"3":{"selection":"c","statement":"Staaten können versuchen, ihre Sicherheitspolitik mit einander abzustimmen. Bereits dies ist für jeden Einzelstaat Außenpolitik. Echte Außenpolitik ist immer an die Existenz von Staaten gebunden. Da die EU kein Staat ist und auch nicht sein kann (s. o.), kann sie auch keine Außenpolitik betreiben."},"4":{"selection":"c","statement":"Nur Staaten können \"eigene\" Armeen haben. Die EU kann daher keine \"eigene\" Armee haben. Selbstverständlich werden die Franzosen ihre Atomstreitmöglichkeit nicht entnationalisieren. Auch daraus wird der akademische Charakter der Frage ersichtlich. Die EU könnte eine Verteidigungsgemeinschaft bilden. Selbst die ist bisher und wird in Zukunft an den nationalen Egoismen scheitern. Das alleinige Bindemittel der EU ist der wirtschaftliche Nutzen aus Sicht jedes einzelnen Mitglieds im Staatenverbund.  "},"5":{"selection":"b","statement":"Frontex als \"Grenzschutzeinheit\" würde dann Sinn machen, wenn man ein einheitliches europäisches Asyl-, Flüchtlings- und Staatsangehörigkeitsrecht hätte. Dies ist jedoch nicht der Fall. Sofern die EU eine solche Rechtsgleichheit nicht zu Stande bringt, muss Schengen und Dublin aufgehoben werden und der Grenzschutz renationalisiert werden."},"6":{"selection":"c","statement":"Es ist völlig unklar, was dieser Begriff meint. \"Regiert\" werden kann nur im Rahmen eines einheitlichen Rechtsrahmens und eines einheitlichen Budgets. Da es unvorstellbar ist, dass eine \"Regierung\" einheitliche wirtschaftliche Entscheidungen für 27 wirtschaftlich völlig unterschiedliche Volkswirtschaften trifft, ist sowohl das Schlagwort wie alles, was man sich darunter vorstellen kann, absurd."},"7":{"selection":"c","statement":"Auch dies eine absurde Idee. Europa kann wirtschaftlich nur erfolgreich sein, wenn die Einzelstaaten in gesundem Wettbewerb zueinander stehen. Das hatte schon David Hume kenntnisreich beschrieben. Wer den Wettbewerb guter Staatsführung innerhalb Europas beseitigt, zerstört die letzte Dimension, welche noch einen Rest an Vitalität in Europa derzeit darstellt. Der Wettbewerb der Steuersysteme ist ein wichtiger Baustein dabei."},"8":{"selection":"c","statement":"Da es kein wirkliches Parlament gibt, hilft eine solche Scheinlegitimation auch nicht weiter. Darüber zu reden, lohnt sich erst, wenn die Staaten proportional zu ihrer Einwohnerzahl im Parlament vertreten wären."},"9":{"selection":"a","statement":"Das wäre deshalb erkenntnisreich, weil man erleben könnte, mit welchen Koalitionen Klein- und Kleinstländer mit ihren Mehrheiten die EU-Politik bestimmen."},"10":{"selection":"c","statement":"Die EU geht der Mindestlohn nichts an. Dies ist allein Angelegenheit der Nationalstaaten. Es wäre eine weitere Einschränkung des Wettbewerbs der EU-Staaten, der zum weiteren Verfall der Leistungsfähigkeit der Volkswirtschaften der EU-Mitgliedstaaten führt."},"11":{"selection":"c","statement":"Sofern man die EU-völlig funktionsunfähig machen will, ist das eine gute Idee. Formale Größe ist kein Wert. Wie Staaten funktionieren auch Staatengemeinschaften nur, wenn sie strukturelle Gemeinsamkeiten haben. Solche kann man nicht durch das Hinschütten von Geld herstellen. Dies ist eine der sichersten Erkenntnisse aus der bisherigen EU-Geschichte."},"12":{"selection":"a","statement":"Selbstverständlich. Die Türkei hatte zu keiner Zeit strukturelle Voraussetzungen für eine Mitgliedschaft in der EU, weder ökonomisch noch kulturell. Dass dies stets so war, wird derzeit für jedermann offenkundig. Die schiere Größe ist kein Wert an sich (s. o.). Dies galt und gilt für die Türkei besonders plakativ."},"13":{"selection":"b","statement":"Da die EU einen laizistischen Staat imitiert, ist die Vorstellung von einer \"christlichen Wertegemeinschaft\" deplaziert. Dabei ist und bleibt richtig, dass der kulturelle Hintergrund einer Jahrtausende alten gemeinschaftlichen religiösen Geschichte eine gewisse \"Wertegemeinschaft\" hervorgebracht hat. Mit diesem \"Kapital\" kann man wuchern und seinen Wert schätzen. Dann muss man um so mehr solche Abenteuer wie die Türkeierweiterung ablehnen."},"14":{"selection":"c","statement":"Wer Chaos und die Bedrohung des europäischen Friedens will, verfolgt ein solchen Projekt. Demokratie braucht Bürger. Bürger sind Menschen, die miteinander eine Kulturgemeinschaft bilden, die einen Staat hervorbringen können. Multiethnische/multinationale Gesellschaften haben noch nirgendwo auf der Welt stabile/gelingende Staaten hervorgebracht. Solche Experimente widersprechen jeglicher Empirie. Sie sind menschenfeindlich."},"15":{"selection":"a","statement":"Selbstverständlich. Wer wirtschaftet, der haftet. Der Staat hat für die Banken genau diese Regeln durchzusetzen. Wenn Staatsanleihen nicht mit Eigenkapital unterlegt werden müssen, weil ein Staat das zulässt, dann trägt er die politische Verantwortung dafür, dass Banker mit Staatsanleihen zocken. Die Regeln und die nationale Aufsicht für das Kreditwesen ist Staatsangelegenheit. Wer diese Aufgabe gut löst, wird das Problem minimieren."},"16":{"selection":"c","statement":"Natürlich nicht, abgesehen davon dass dies bereits erfolglos geschehen ist mit über 100 Mrd. Euro. Für Staaten muss das Gleiche gelten wir für Wirtschaftsakteure. Wer handelt, trägt dafür die Verantwortung. Die Politik und eben auch die Parlamente tragen keine Verantwortung, weil die Amts- und Funktionsträger nicht für ihr Verhalten haften. Dieser Zustand muss geändert werden, sonst kann das Problem der unverantwortlichen Politik nicht gelöst werden."},"17":{"selection":"c","statement":"Das ist so absurd wie die \"EU-Wirtschaftsregierung\". Wenn nationale Politik etwas mit dem wirtschaftlichen Wohlergehen der Bürger zu tun hat, dann ist insoweit eine gewisse \"Verantwortung\" noch zuordenbar. Wenn die schlechte nationale Politik (Wirtschaft, Bürokratie, Fiskalismus, Bildung usw.) in ihren Folgen anderen Staaten aufgebürdet wird, dann besteht keinerlei Anreiz, eine gute nationale Politik zu betreiben. Dies alles erleben wir in der EU täglich."},"18":{"selection":"c","statement":"Wer will, dass Europa im Schuldenmeer untergeht, muss auch hier jede dezentrale Verantwortung beseitigen. Nur wer haftet, hat Anreiz zu verantwortlichem Handeln. Bei Nationalstaaten funktioniert das immer noch besser als bei der EU. Für die Sünder braucht es eine Konkursordnung aber keine Verschiebung der Haftung auf den Nachbarn. Der Gipfel der Absurdität."},"19":{"selection":"c","statement":"Transnationale Listen setzen transnationale Willensbildungen und Wahlversammlungen voraus. Wie soll man die sich vorstellen. Alle Kandidaten müssen doch eine Basis in Versammlungen haben, die in ständiger persönlicher Beziehung miteinander stehen. Mein Abgeordneter aus Sizilien kann doch nicht meine Interessen vertreten und umgekehrt genauso. Das ist doch Theaterspiel aber keine Demokratie."}},"5":{"0":{"selection":"a","statement":"Wir wollen die Stabilität unserer Gemeinschaftswährung wieder herstellen. Allerdings halten wir es für erforderlich, schnellstmöglich ein Zusatzprotokoll zu den europäischen Verträgen zu verhandeln, um einen geordneten Ausstieg von Euro-Krisenländern zu ermöglichen und die Einführung von Zweitwährungen zu erleichtern. Krisenländer müssen mit ihrer eigenen Währung abwerten können, um wieder wettbewerbsfähiger zu werden."},"1":{"selection":"a","statement":"Schon heute wird der Kommissionspräsident und jeder einzelne Kommissar vom Europäischen Parlament gewählt. Die Abberufbarkeit mit einfacher Mehrheit durch ein Misstrauensvotum gibt es noch nicht. Wir FREIE WÄHLER halten dies für erforderlich, um das Europaparlament zu stärken und die Legitimation der EU-Kommission und ihres Handelns zu erhöhen."},"2":{"selection":"a","statement":"Wir FREIE WÄHLER wollen, dass Europa transparenter und bürgernäher wird. Die Vielzahl Vertragswerke – von EUV und AEUV über den Euratom-Vertrag, das Schengener Abkommen, den ESM-Vertrag bis hin zur Grundrechtecharta – tragen dazu keineswegs bei. Deshalb setzen wir uns für ein einheitliches Regelwerk ein, über das dann aber auch die Europäischen Bürger abstimmen sollen. Dabei halten wir es für nebensächlich, ob hierfür letztendlich der symbolische Begriff „Verfassung“ verwendet wird."},"3":{"selection":"a","statement":"Wir wollen unsere Verteidigung europäisch organisieren und die militärische Zusammenarbeit zwischen den EU-Mitgliedstaaten systematisch ausdehnen. Die europäische Sicherheitsarchitektur ist zunehmend fragil. Dazu ist es erforderlich, die Gemeinsame Sicherheits- und Verteidigungspolitik (GSVP) durch Mehrheitsentscheidungen anstelle der bislang erforderlichen Einstimmigkeit und durch den gleichberechtigten Einbezug des Europaparlaments in die Entscheidungsfindung zu stärken."},"4":{"selection":"a","statement":"Im Grundsatz halten wir eine drastische Vertiefung der Zusammenarbeit in der Gemeinsamen Sicherheits- und Verteidigungspolitik für erforderlich. Ob dies letztlich unter dem Schlagwort einer „EU-Armee“ geschehen muss, halten wir allerdings für nebensächlich. Wichtig ist in erster Linie, dass durch Pooling und Sharing die Effizienz unserer europäischen Verteidigungskapazitäten erhöht wird und ein gemeinsames europäisches Hauptquartier die Koordination übernimmt."},"5":{"selection":"a","statement":"Wir wollen keine Rückkehr zu Schlagbäumen in Europa, denn wir sind stolz auf die offenen Grenzen zu unseren europäischen Nachbarn. Aber damit wir dies erhalten können, brauchen wir eine umso bessere Sicherung unserer europäischen Außengrenzen. Deshalb sind wir für eine Stärkung des Grenzschutzes auf der europäischen Ebene. Die Grenzschutzagentur Frontex braucht daher mehr Personal und weitreichendere Kompetenzen."},"6":{"selection":"c","statement":"Mit einer europäischen Wirtschaftsregierung, wie sie auf europäischer Ebene diskutiert wird, hätte die Abgabe weiterer nationaler Kompetenzen zur Folge, insbesondere im Bereich der Budgethoheit. Das Demokratiedefizit in Europa würde durch eine solche Maßnahme nur unnötig größer werden, die führende Wirtschaftswissenschaftler ohnehin für entbehrlich halten."},"7":{"selection":"c","statement":"Eine Änderung des bestehenden Finanzierungssystems der EU ist mit dem Charakter der Europäischen Union als Staatenverbund nicht vereinbar. Hinzu kommt, dass ein solches Vorhaben die notwendige Haushaltsdisziplin auf EU-Ebene entscheidend schwächen und zu einer höheren Steuerbelastung von Bürgern und Unternehmen führen würde."},"8":{"selection":"a","statement":"Auch weiterhin müssen der Kommissionspräsident und die einzelnen Kommissare sich der Wahl durch das Europaparlament stellen."},"9":{"selection":"c","statement":"Die Zusammenkunft der europäischen Staats- und Regierungschefs muss auch weiterhin Raum für vertrauliche Beratungen lassen. Grundsätzlich halten wir FREIE WÄHLER es aber für erforderlich, dass die Arbeit dieses Gremiums transparenter wird."},"10":{"selection":"c","statement":"Die Einführung eines für jeden Mitgliedstaat individuellen Mindestlohns auf EU-Ebene lehnen wir ab. Die EU soll gemäß dem Subsidiaritätsprinzip nur dort tätig werden, wo die unteren Ebenen dieselbe Aufgabe nicht genauso gut erledigen können. Die Tatsache, dass die einzelnen Mitgliedstaaten in der Lage sind, ihrem Lohnniveau entsprechend Mindestlöhne festzulegen, macht ein Tätigwerden der EU überflüssig."},"11":{"selection":"c","statement":"Grundsätzlich sollte allen europäischen Ländern eine Beitrittsperspektive gegeben werden. Wir müssen aber in Folge der letzten Krisenjahre gegenwärtig die weitere Aufnahmefähigkeit der Union in Frage stellen. Wir wollen die Konsolidierung Europas nicht durch eine übereilte Erweiterung gefährden. Deshalb sind wir vorübergehend für einen Stopp der Aufnahme weiterer Beitrittskandidaten. "},"12":{"selection":"a","statement":"Die repressiven Maßnahmen im Rahmen des ausgerufenen Ausnahmezustands verurteilen wir und appellieren an die türkische Regierung, auf den Pfad der Demokratie und des freiheitlichen Rechtstaats zurückzukehren. Auch die geplante Einführung der Todesstrafe in diesem Land alarmiert uns. Unter diesen Voraussetzungen können wir nicht länger über eine EU-Mitgliedschaft verhandeln, weil sie nicht mit unseren europäischen Grundwerten vereinbar sind."},"13":{"selection":"a","statement":"Wir sind stolz auf unsere freiheitliche Gesellschaft und unsere Grundwerte als Erbe unserer aufgeklärten, abendländischen Tradition. Das Christentum hat diese in den letzten zweitausend Jahren stark geprägt. Unsere sich daraus ergebenden Grundwerte sind Garant für unser Lebensglück und geben uns den Raum zur Selbstverwirklichung in Deutschland und Europa."},"14":{"selection":"a","statement":"Wir FREIE WÄHLER fordern ein Europa der Regionen mit starken Regionen und Kommunen. Wir müssen gewährleisten, dass möglichst viele Entscheidungen so weit unten wie möglich getroffen werden. Gleichwohl halten wir es für erforderlich, die Zusammenarbeit auf europäischer Ebene auf verschiedenen Feldern zu stärken. Dazu zählen die Sicherheitspolitik, der Binnenmarkt oder auch die Migrationspolitik. Daher halten wir das Modell eines Bundesstaats mit starken Regionen und Kommunen für zielführend."},"15":{"selection":"a","statement":"Jeder haftet für seine Schulden selbst. Wenn große Banken mit Steuergeldern gerettet werden, kommt es zu Wettbewerbsverzerrungen im Verhältnis zu solide wirtschaftenden Geldinstituten. Es ist den Bürgern nicht vermittelbar, weshalb große insolvente Banken gerettet werden, kleine und mittlere Unternehmen bei finanziellen Schwierigkeiten i.d.R. keine Unterstützung erhalten. Wichtig ist allerdings in jedem Fall die Gewährleistung der Einlagensicherung für kleine Sparer bei zahlungsunfähigen Banken."},"16":{"selection":"a","statement":"Zustimmung Ein teilweiser Schuldenerlass oder zumindest ein Verzicht der EU und des IWF auf Zinsen und Streckung der Rückzahlung der Kredite auf unbestimmte Zeit ist letztlich unausweichlich. Es ist falsch, einem de facto zahlungsunfähigen Land immer weiteres frisches Geld zu leihen, um die Zinsen alter Schulden bedienen zu können. Dieser Teufelskreis muss durchbrochen werden. Griechenland muss wieder handlungsfähig werden, damit wir wenigstens einen Teil des geliehenen Geldes wieder sehen."},"17":{"selection":"c","statement":"Wir FREIE WÄHLER sehen keine Notwendigkeit, unsere vergleichsweise gut funktionierenden sozialen Sicherungssysteme auf die europäische Ebene zu verlagern."},"18":{"selection":"c","statement":"Die Einführung von Euro-Bonds führt zu einer Vergemeinschaftung der Schulden in Europa. Eine Entwicklung weg vom Grundsatz, demzufolge jedes Land für seine Schulden selbst haftet, lehnen wir ab."},"19":{"selection":"c","statement":"Wir sehen transnationale Listen kritisch, da damit keine proportionale Verteilung der Abgeordneten nach Regionen und zugleich politischer Färbung gewährleistet ist. Im Europaparlament können wir regelmäßig beobachten, dass bei Abstimmungen der nationale Hintergrund eine besondere Rolle spielt. Mit transnationalen Listen würden dann eher Zufälle festlegen, welche nationalen Interessen in der fünfjährigen Wahlperiode besonders stark und besonders schwach vertreten werden."}},"6":{"0":{"selection":"a","statement":"Ja, aber mit an der nationalen Wirtschaftsleistung angepassten Wechselkursen."},"1":{"selection":"a","statement":"Ja, wir nehmen die Wahl an."},"2":{"selection":"c","statement":"Nein. Unter Freunden macht man sowas nicht."},"3":{"selection":"a","statement":"Ja, für gemeine Methoden braucht es gemeinsame Methoden."},"4":{"selection":"c","statement":"Nein, die Bundeswehr. Dient. Deutschland."},"5":{"selection":"a","statement":"Ja... ähm ... Nein."},"6":{"selection":"c","statement":"Nein, unter Freunden macht man sowas nicht."},"7":{"selection":"c","statement":"Nein, das wäre Fäkalhumor. (hihi, einführen...)"},"8":{"selection":"a","statement":"Ja, solange die EU-Kommission das alleinige Vorschlagsrecht inne hat."},"9":{"selection":"c","statement":"Nein, Teile der Bevölkerung könnte das verunsichern."},"10":{"selection":"c","statement":"Nein, die Rechnung wäre zu einfach. Dinge, die man leicht versteht, werden zu schnell kaputt geredet."},"11":{"selection":"a","statement":"Ja, Stichwort: Lebensraum im Osten"},"12":{"selection":"c","statement":"Nein, Tradition verpflichtet"},"13":{"selection":"a","statement":"Ja, denn ihr werdet hören von Kriegen und Kriegsgeschrei; seht zu und erschreckt nicht. Denn das muß so geschehen; aber es ist noch nicht das Ende da; Denn es wird sich ein Volk gegen das andere erheben und ein Königreich gegen das andere; und es werden Hungersnöte sein und Erdbeben hier und dort. Matthäus 24,6.7"},"14":{"selection":"c","statement":"Nein, die EU soll sich als gut integriertes Bundesland in Deutschland entwickeln."},"15":{"selection":"c","statement":"Nein, das wäre Kommunismus."},"16":{"selection":"a","statement":"Ja, denn Spielschuld, ist Ehrenschuld; wir Deutsche wissen das."},"17":{"selection":"a","statement":"Ja, aber Arbeitslose sollte man generell nicht versichern. Stichwort: Selektion"},"18":{"selection":"c","statement":"Nein, aber die Idee mit den Euro-Bongs finden wir prinzipiell gut."},"19":{"selection":"a","statement":"Ja, alles was zu unserer Machtergreifung führt, sehen wir positiv."}},"7":{"0":{"selection":"a","statement":"Der Euro hat sich als Bindeglied der europäischen Gemeinschaft erwiesen. Dies sollte, sofern die jeweiligen Bürger in freien Abstimmungen darüber entscheiden dürfen, erweitert werden, um das Zusammengehörigkeitsgefühl zu stärken. Stärker als in der Vergangenheit muss jedoch darauf geachtet werden, dass die Konvergenzkriterien erfüllt sind."},"1":{"selection":"a","statement":"Parlament und Regierung sind die beiden großen Elemente der parlamentarischen Demokratie. Das eine geht nicht ohne das andere, will man die Legitimation von beidem erhalten."},"2":{"selection":"a","statement":"Wir fordern die Einberufung einer verfassungsgebenden Versammlung (Verfassungskonvent) für die Europäische Union. Ziel des Verfassungskonvents ist es, das politische System der EU und ihre Beziehung zu den Mitgliedstaaten und Regionen neu zu strukturieren und auf eine demokratische Basis zu heben. Der Prozess der Ausarbeitung einer europäischen Verfassung muss transparent geschehen und die europäischen Bürgerinnen und Bürger umfassend beteiligen."},"3":{"selection":"c","statement":"Da die Gemeinschaftsmethode das Europäische Parlament weitgehend einflusslos lässt, lehnen wir sie generell ab. Abgesehen davon ist die ursprüngliche Idee mehrfach ad absurdum geführt. Nationale Interessen finden immer wieder Einzug in Kommission und Ministerrat. Solange sich dort die europäische Idee nicht durchsetzt, wird es nur in den seltensten Fällen zu tatsächlichen Entscheidungen im europäischen Sinn kommen."},"4":{"selection":"a","statement":"Wir stehen der Idee einer gemeinsamen europäischen Armee wohlwollend gegenüber. Wir betrachten die Gemeinsame Europäische Armee als selbständigen Teil eines transatlantischen Sicherheits- und Verteidigungsbündnisses. Integriert in ein immer größer werdendes globales Sicherheitsbündnis, welches dazu beiträgt das Macht- und  Sicherheitsdilemma zwischen den Mitgliedern des Bündnisses zu überwinden."},"5":{"selection":"c","statement":"Frontex muss abgeschafft werden. Stattdessen sind sichere Fluchtwege zu realisieren. So tritt man dem Schleppertum am besten entgegen."},"6":{"selection":"a","statement":"Will man den Fokus von nationalen Interessen wegbringen, führt insbesondere in der Wirtschaftspolitik kein Weg an einer wesentlich weiteren europäischen Zusammenarbeit und gebündelter Entscheidungskompetenz vorbei."},"7":{"selection":"a","statement":"Der innereuropäische aber auch der innerregionale Steuerwettbewerb führt zu negativen Effekten für die Gesamtgesellschaft. Einzig und allein profitieren davon langfristig die Unternehmen, die sich den Ort mit der geringsten Steuerbelastung als Sitz suchen. Auch wenn dort überhaupt keine Produktion oder Dienstleistung stattfindet."},"8":{"selection":"a","statement":"Das wäre eine Möglichkeit - und die am weitesten zielführende - die demokratische Legitimation herzustellen. Noch besser wäre die direkte Wahl durch die Europäischen Wähler."},"9":{"selection":"a","statement":"Transparenz ist in jeglicher Form der politischen Entscheidungsfindung ein Mittel zur besseren Akzeptanz von Entscheidungen. Dies gilt auch für den Europäischen Rat."},"10":{"selection":"a","statement":"Wir streben die europaweite Einführung eines bedingungslosen Grundeinkommens an, das jedem Bürger ein Existenzminimum und gesellschaftliche Teilhabe garantiert. Bis zu dessen Einführung setzen wir uns europaweit für Mindestlöhne ein, welche den Lohnwettbewerb eindämmen sollen, für menschenwürdige Arbeits- und Lebensverhältnisse sorgen und genauso wie das bedingungslose Grundeinkommen auch die Binnennachfrage steigern würden."},"11":{"selection":"a","statement":"Solange es zu für alle Beteiligten vorteilhaften Bedingungen geschieht, spricht nichts gegen die Aufnahme weiterer Mitglieder. Allerdings muss man sehr genau darauf achten, dass man die Wirtschaften und Gesellschaften der neuen Mitglieder nicht überfordert und somit der Situation aussetzt, Bedingungen erfüllen zu müssen, die eben nicht auch für sie vorteilhaft sind."},"12":{"selection":"a","statement":"Ein Staat, der auch nur darüber nachdenkt, die Todesstrafe einzuführen, kann kein Mitglied der europäischen Wertegemeinschaft sein. Der Prozess dorthin, der sich seit über vier Jahren abzeichnete und der zu immer weiter greifenden Einschränkungen bürgerlicher Rechte und demokratischer Grundzüge führte, hätte schon vor geraumer Zeit gestoppt werden müssen."},"13":{"selection":"c","statement":"Die Europäische Union soll sich als humanistische Wertegemeinschaft verstehen. Unabhängig von einer bestimmten Glaubensrichtung. Denn diese würde eine Dominanz für sich beanspruchen, die in einer modernen Welt keinen Platz mehr hat."},"14":{"selection":"a","statement":"Wir streben für die Zukunft Europas einen offenen Prozess an, der von den Bürgerinnen und Bürgern Europas gemeinsam getragen wird. Langfristig sehen wir die Chance, dass Europa als ein demokratischer europäischer Bundesstaat mit eigener Verfassung gestaltet wird, die in  einem direktdemokratischen Prozess mit breiter Mehrheit aller Europäer entworfen und in Referenden der Mitgliedsländer angenommen wird."},"15":{"selection":"a","statement":"Wird nach konsequenter Beteiligung der Eigentümer die Eigenkapitalquote einer Bank zu niedrig, soll die betroffene Bank durch Umwandlung von Fremdkapital in Eigenkapital stabilisiert werden. Als letzter Schritt ist eine Verstaatlichung zu prüfen, wenn eine Insolvenz aufgrund der gesamtwirtschaftlichen Folgewirkungen ausscheidet. Eine Abfederung sozialer Einschnitte durch den Schutz von Kleinanlegern bzw. privater Renten- und Lebensversicherungen ist bis zu einem Höchstbetrag zu gewährleisten."},"16":{"selection":"a","statement":"Um die Schuldenkrise in Europa wirksam zu lösen, fordern wir die kurzfristige Durchführung frühzeitiger einmaliger Schuldenschnitte von Staatsschulden in der Europäischen Union sowie eine effektive Restrukturierung, und wenn nötig, Rekapitalisierung maroder Banken. Was in Griechenland gemacht wurde, führt zum Ausbluten der dortigen Wirtschaft zum Vorteil der kreditgebenden Banken."},"17":{"selection":"a","statement":"Die Vereinheitlichung des Wirtschafts- und Steuersystems kann nur gelingen, wenn es auch ein einheitliches Sozialsystem gibt. Insofern soll es auch spätestens wenn die beiden erstgenannten Punkte ihrer Vollendung zugehen zu einer gemeinsamen Arbeitslosenversicherung kommen. Wobei unser eigentliches Ziel ein europaweites bedingungsloses Grundeinkommen ist, was eine Arbeitslosenversicherung überflüssig machen würde."},"18":{"selection":"a","statement":"Jeder haftet für jeden. Das sollte das europäische Prinzip sein. Vorausgesetzt, man lässt es gar nicht so weit kommen. Insofern dürfte in der gegenwärtigen Situation von Griechenland, Spanien, Portugal, Irland und Italien die Einführung derartiger Finanzierungsmethoden nur die Ausnahme sein. In der Zukunft sind die Entwicklungen wesentlich früher zu erkennen und so zu behandeln, dass Schieflagen der Staaten vermieden werden."},"19":{"selection":"b","statement":"Ein einheitliches Wahlrecht ist die Voraussetzung für ein tatsächlich unter gleichen Bedingungen zustande gekommenes Parlament. Quoten- und Zugangsregeln zur Wahl sind wo vorhanden abzuschaffen, das Berechnungssystem der Ergebnisse muss identisch sein, das Wahlsystem ebenfalls. Inwieweit dann transnationale Listen noch notwendig und zielführend sind, ist noch nicht innerhalb unserer Partei entschieden."}},"8":{"0":{"selection":"a","statement":""},"1":{"selection":"a","statement":"Unser Leitbild ist eine politische Union, die allen europäischen Bürgern demokratische Mitwirkungsrechte gibt. Als längerfristige Perspektive braucht das demokratische Europa eine parlamentarisch verantwortliche Regierung auf der Basis einer europäischen Verfassung."},"2":{"selection":"a","statement":"Perspektivisch bedarf eine erneuerte Europäische Union einer Überarbeitung des Lissaboner Vertrages. Ziel ist eine europäische Verfassung, die sicherstellt, dass wirtschaftliche Integration mit sozialem Fortschritt und mehr Demokratie verbunden wird."},"3":{"selection":"a","statement":"Wir sind dafür, Mehrheitsentscheidungen und eine Beteiligung des Europäischen Parlamentes auch in Fragen der europäischen Außenpolitik zu verstärken."},"4":{"selection":"a","statement":"Auch in der Verteidigungspolitik wollen wir stärker zusammenarbeiten und die Integration von Streitkräften der Mitgliedsstaaten voranbringen – als Teil einer umfassenden, präventiven und in das internationale Recht eingebetteten Sicherheits- und Verteidigungspolitik der EU. Perspektivisch wollen wir eine europäische Armee aufbauen, deren Einsatz parlamentarisch legitimiert werden muss."},"5":{"selection":"a","statement":"Die Außengrenzen müssen besser vor illegalen Grenzübertritten geschützt werden. Dieser Schutz ist die Bedingung für offene Grenzen und für Freizügigkeit im Inneren der EU. Wir wollen daher das Mandat und die Arbeit von Frontex, der europäischen Agentur für die Grenz- und Küstenwache, stärken. Dabei werden wir dafür Sorge tragen, dass die Gefahren für Flüchtende reduziert und das Gebot der Nicht-Zurückweisung eingehalten wird."},"6":{"selection":"a","statement":"Wir sind nicht einzeln stark, sondern nur gemeinsam. Daher brauchen wir eine koordinierte Wirtschaftspolitik in Europa. Unser Ziel ist es, die konjunkturellen Entwicklungen der Mitgliedstaaten Europas besser aufeinander abzustimmen. Exzessive Ungleichgewichte wollen wir überwinden. Dafür brauchen wir eine bessere und wirksamere Integration der Wirtschaftspolitik – perspektivisch mit der Einrichtung einer Wirtschaftsregierung für den Euro-Raum."},"7":{"selection":"a","statement":"Mehr Wachstum und Investitionen in Europa setzen solide Einnahmen voraus. Deshalb muss Europa Schritte zur Harmonisierung der Unternehmensbesteuerung und des Steuervollzugs in Europa auf den Weg bringen. Europa braucht Instrumente, um Steuervermeidung und Steuerbetrug effektiv zu bekämpfen. Unternehmen sollen dort ihre Steuern bezahlen, wo sie ihre Gewinne erwirtschaften. Große Unternehmen dürfen nicht länger die Staaten untereinander ausspielen können, um ihre Steuerlast zu drücken."},"8":{"selection":"a","statement":""},"9":{"selection":"b","statement":"Grundsätzlich treten wir für mehr Transparenz und mehr Öffentlichkeit auch bei Sitzungen des Europäischen Rates und der EU-Ministerräte ein. Um politische Verhandlungen zwischen den Regierungen zu ermöglichen, können Transparenz und Öffentlichkeit allerdings nicht für alle Bereiche und Themen gelten."},"10":{"selection":"a","statement":"Wir wollen eine europäische Sozialunion, die ihre Politik an den Bedürfnissen der Menschen ausrichtet, soziale Mindeststandards sichert und Lohn- und Sozialdumping wirksam unterbindet. Dazu gehören auch Standards für Mindestlöhne in möglichst allen EU-Mitgliedstaaten."},"11":{"selection":"a","statement":"Die EU-Erweiterungspolitik bleibt wichtig, um Frieden, Stabilität und Zusammenarbeit zu fördern. Zugleich muss die EU aber durch innere Reformen ihre Handlungsfähigkeit sicherstellen. Außerdem gilt grundsätzlich, dass neue Mitgliedstaaten vor Beitritt die umfassenden Beitrittskriterien gerade auch in den Bereichen der Menschenrechte und Rechtstaatlichkeit erfüllen müssen."},"12":{"selection":"b","statement":"Weder die Türkei noch die EU sind in absehbarer Zeit für einen Beitritt zur bereit. Allerdings sind die Beitrittsverhandlungen das einzige kontinuierliche Gesprächsformat der EU mit der Türkei. Eine Isolierung der Türkei ist nicht im Interesse Europas. Klar ist: Hält die türkische Regierung an ihrem konfrontativen Kurs fest, entfernt sie die Türkei von Europa. Sollte die Türkei die Todesstrafe einführen, müssen die Beitrittsverhandlungen aber beendet werden."},"13":{"selection":"c","statement":"Das europäische Gesellschaftsmodell beruht auf den Werten der Aufklärung und verbindet Freiheit und Verantwortung, wirtschaftlichen Erfolg und soziale Sicherheit. Diese gemeinsame europäische Idee werden wir stärken."},"14":{"selection":"a","statement":"Unser Leitbild ist eine politische Union, die allen europäischen Bürgern demokratische Mitwirkungsrechte gibt. Das demokratische Europa braucht eine parlamentarisch verantwortliche Regierung auf der Basis einer europäischen Verfassung. Bereits in unserem Heidelberger Grundsatzprogramm 1925 hat sich die SPD zu den Vereinigten Staaten von Europa als Vision bekannt."},"15":{"selection":"a","statement":"Wenn eine Bank in Schieflage gerät, müssen vorrangig ihre Anteileigentümer und deren vermögende Gläubiger haften (Bail-in-Prinzip). Der entsprechende europäische Abwicklungsmechanismus ist in diesem Sinne anzuwenden und weiter zu stärken."},"16":{"selection":"b","statement":"Griechenland wurde von den europäischen Gläubigern bei erfolgreicher Fortsetzung des Reformkurses zwar kein erneuter Schuldenschnitt, aber weitere Schuldenerleichterungen in Aussicht gestellt. Die griechische Regierung hat zuletzt unter größten Anstrengungen einschneidende Reformen auf den Weg gebracht. Um langfristig Sicherheit zu schaffen, sollten nun auch die Gläubiger ihre gemachten Zusagen einhalten. Eine reine Sparpolitik wird den Menschen in Griechenland nicht helfen."},"17":{"selection":"c","statement":"Wir wollen eine europäische Sozialunion, die ihre Politik an den Bedürfnissen der Menschen ausrichtet, soziale Mindeststandards sichert und Lohn- und Sozialdumping wirksam unterbindet. Diese gemeinsamen sozialen Standards zu schaffen, muss der erste Schritt sein, auf den das politische Hauptaugenmerk liegen sollte."},"18":{"selection":"c","statement":"Mit dem Europäischen Stabilitätsmechanismus (ESM) ist es gelungen, die Eurozone und insbesondere die Refinanzierungsbedingungen zu stabilisieren. Darüber hinaus ist es nun vor allem erforderlich, bessere Strukturen für eine abgestimmte Wirtschafts- und Finanzpolitik in der Eurozone zu schaffen. Wir wollen eine Wirtschaftsregierung der Eurozone aufbauen, mit einem gemeinsamen Finanzbudget, das verstärkte Investitionen in Wachstum, Beschäftigung und den europäischen Zusammenhalt ermöglicht."},"19":{"selection":"a","statement":"Wir wollen die europäischen Parteien weiter stärken und die Möglichkeiten, sich in ihnen zu engagieren, erweitern. Die europäischen Parteien sind Träger einer transnationalen politischen Willensbildung. Um diesen wichtigen Aspekt europäischer Demokratie zusätzlich zu stärken, setzen wir uns auch dafür ein, dass die durch das Ausscheiden Großbritanniens freiwerdenden Sitze im Europäischen Parlament künftig durch Abgeordnete besetzt werden, die anhand transnationaler Listen gewählt worden sind."}},"9":{"0":{"selection":"a","statement":"Der Euro wurde genauso wie die EU als Friedensprojekt geschaffen und an diesem Gedanken muss trotz aller Schwierigkeiten festgehalten werden. Die Probleme der Euro-Zone liegen nicht in der gemeinsamen Währung, sondern in konkreten falschen finanzpolitischen Einzelentscheidungen. Eine Abschaffung des Euros würde die Probleme der Euro-Zone lediglich verschärfen und ist daher keine Lösung. Zudem ist eine globale Alternative zum Dollar unabdingbar."},"1":{"selection":"a","statement":"Eine demokratisch von allen Europäer_innen gewählte Regierung kann die großen Herausforderungen unserer Zeit besser angehen als die derzeitigen Strukturen, bei denen Einzelstaaten zu viel Macht haben, um wichtige Veränderungen zu verhindern."},"2":{"selection":"a","statement":"Eine gemeinsame Verfassung, die von allen Bürger_innen der EU verabschiedet wäre, würde das Zusammengehörigkeitsgefühl und das Pflichtbewusstsein der EU gegenüber stärken. Wichtig wäre hierbei, dass bei ihrer Ausarbeitung alle EU-Bürger_innen mitwirken können."},"3":{"selection":"a","statement":""},"4":{"selection":"a","statement":"Mit einer gemeinsamen Armee könnten Synergieeffekte genutzt und somit gleichzeitig Kosten gespart und die Verteidigungsfähigkeit verbessert werden. Außerdem wäre so die Verhandlungsposition der EU auf internationaler Ebene gestärkt."},"5":{"selection":"c","statement":"Die Abschottungspolitik der EU lehnen wir ab. Die Industrienationen und somit ganz besonders auch die EU sind durch ihre Vergangenheit, durch ihren Konsum, durch ihre Ausbeutung der restlichen Welt, durch ihre Waffenexporte, durch ihre rohstofforientierte Unterstützung für Diktaturen und aufgrund Fehlverhaltens für zahlreiche Fluchtursachen maßgeblich mitverantwortlich und dürfen sich daher nicht der Verantwortung entziehen, indem sie Menschen daran hindern, in Europa Schutz zu suchen."},"6":{"selection":"a","statement":""},"7":{"selection":"a","statement":"Ein einheitliches Steuersystem würde Steuerflucht, zumindest innerhalb der EU, verhindern und für mehr Gerechtigkeit sorgen."},"8":{"selection":"a","statement":"Dies wäre zumindest eine kleine Verbesserung in Richtung einer demokratischeren EU. Wir finden jedoch, dass die EU-Kommissare direkt von den Wähler_innen gewählt werden sollten. Um den finanziellen Aufwand hierfür möglichst gering zu halten, sollte dies zeitgleich mit der Wahl zum europäischen Parlament erfolgen."},"9":{"selection":"a","statement":"Die PARTEI MENSCH UMWELT TIERSCHUTZ steht für Demokratie statt Lobbykratie. Dazu gehört ganz klar auch mehr Transparenz."},"10":{"selection":"a","statement":"Die PARTEI MENSCH UMWELT TIERSCHUTZ steht für soziale Gerechtigkeit. Dazu gehört ganz klar auch ein EU-weiter Mindestlohn. Dieser würde Lohndumping über Grenzen hinweg besser verhindern."},"11":{"selection":"a","statement":"Weitere Länder Europas würden die EU stärken. Vor ihrer Aufnahme muss aber zwingend sichergestellt werden, dass sie den demokratischen und rechtsstaatlichen Grundsätzen der EU entsprechen und die Menschenrechte beachtet werden."},"12":{"selection":"a","statement":"Für einen Beitritt müsste die türkische Regierung fähig und gewillt sein, eine Demokratie nach dem Verständnis der europäischen Staaten zu entwickeln: Eine demokratische Regierungsform, die Gewährleistung der Menschenrechte, Meinungs- und Religionsfreiheit sowie den Schutz von Minderheiten. Der Wille hierzu hat in den letzten Jahren und Monaten in erschreckendem Maße abgenommen. Daher erachten wir einen Abbruch für unbedingt erforderlich."},"13":{"selection":"c","statement":"Sich als christliche Wertegemeinschaft zu verstehen, würde die Trennung von Staat und Kirche verletzen, zu der sich die PARTEI MENSCH UMWELT TIERSCHUTZ ausdrücklich bekennt. Ob und woran ein Mensch glaubt, muss Privatsache sein. Außerdem würde dies Nicht- und Andersgläubige diskriminieren."},"14":{"selection":"b","statement":"Diese Frage sollte zum heutigen Zeitpunkt offen gelassen werden. Zunächst muss die EU demokratischer werden und wieder mehr Vertrauen zurückgewinnen. Je nachdem, wie sich die EU dann weiterentwickelt und wie viel Vertrauen sie in der Bevölkerung genießt, kann dies evtl. zu einem späteren Zeitpunkt wieder diskutiert werden."},"15":{"selection":"a","statement":""},"16":{"selection":"a","statement":"Insbesondere ärmere Griechen trifft die Schuldenkrise durch die Sparmaßnahmen bei Sozialleistungen besonders hart. Um ihnen künftig wieder ein menschenwürdiges Leben ohne Existenzangst zu ermöglichen, ist ein Schuldenschnitt nötig. Praktisch gesehen ist der Schuldenerlass für Griechenland durch lange tilgungsfreie Kreditphasen und niedrige Kreditzinsen ohnehin bereits Realität."},"17":{"selection":"a","statement":""},"18":{"selection":"b","statement":"Bei Eurobonds sind weder die wirtschaftlichen Auswirkungen noch die juristische Zulässigkeit klar. Diese Fragen müssten zunächst geklärt werden, bevor darüber entschieden werden soll."},"19":{"selection":"a","statement":"Den vom EU-Parlament vorgelegten Entwurf, der eine demokratiefeindliche 3-%-Hürde beinhaltet, lehnen wir jedoch ab."}},"10":{"0":{"selection":"a","statement":"CDU und CSU wollen die dauerhafte Stabilisierung der Eurozone erreichen. Europa hat in der Staatsverschuldungskrise entschlossen und umsichtig gehandelt. Der Euro ist ein sichtbares Zeichen für das Zusammenwachsen in Europa und eine weltweit geschätzte Währung."},"1":{"selection":"c","statement":"Die EU braucht eine effektive parlamentarische Kontrolle. Als Kontroll-, Initiativ- und Exekutivorgan der EU ist die EU-Kommission bereits jetzt dem Europäischen Parlament politisch verantwortlich. Das Europäische Parlament kann die Kommission bei einem erfolgreichen Misstrauensvotum sogar zum Rücktritt zwingen."},"2":{"selection":"b","statement":"Wir müssen Europa fit machen für die Gegenwart und Zukunft. CDU und CSU wollen ein starkes, selbstbewusstes und dynamisches Europa. Darauf kommt es jetzt an. Ein neuer Anlauf für eine europäische Verfassung ist auf absehbare Zeit nicht realistisch."},"3":{"selection":"b","statement":"CDU und CSU unterstützen die enge Zusammenarbeit der EU-Mitgliedstaaten in der Außen- und Sicherheitspolitik. Die Vergemeinschaftung der Außen- und Sicherheitspolitik ist momentan noch nicht realisierbar."},"4":{"selection":"b","statement":"Die EU muss sich selbständig wappnen, wenn sie dauerhaft bestehen will. Wir wollen dafür die vorhandenen militärischen Kapazitäten und Fähigkeiten besser nutzen und bündeln und das Potenzial integrierter europäischer Streitkräfte ausbauen. Wir unterstützen deshalb die Vorschläge für eine Europäische Verteidigungsunion und für einen Europäischen Verteidigungsfonds."},"5":{"selection":"a","statement":"Europa muss seine Außengrenzen wirksam gegen illegale Migration schützen und die Grenzschutzagentur Frontex stärken.  Der Einsatz von Frontex sollte auch ohne Einverständnis des betreffenden Mitgliedstaats möglich sein, wenn dieser trotz Aufforderung seinen Verpflichtungen nicht nachkommt."},"6":{"selection":"b","statement":"CDU und CSU wollen die dauerhafte Stabilisierung der Eurozone erreichen. Maßstab muss dabei bleiben: Eine Vergemeinschaftung von Schulden schließen wir weiter aus. Wir sind bereit, mit der neuen französischen Regierung die Eurozone schrittweise weiterzuentwickeln."},"7":{"selection":"c","statement":"CDU und CSU streben die Harmonisierung der Bemessungsgrundlage der Körperschaftssteuer an. Dies wäre ein deutliches Signal für unsere Bereitschaft, um Märkte und Investitionen zu kämpfen und den Binnenmarkt zu stärken. Die Festlegung der Höhe von Steuersätzen sollte aber als Wettbewerbselement weiterhin den EU-Mitgliedstaaten vorbehalten bleiben."},"8":{"selection":"b","statement":"Bereits jetzt müssen sich die designierten EU-Kommissare im Europäischen Parlament Einzelanhörungen stellen. Das Parlament verfügt damit faktisch über ein Veto-Recht bei der Ernennung von Kommissaren."},"9":{"selection":"c","statement":"Der Schutz der Vertraulichkeit auf höchster politischer Ebene bei der Diskussion wichtiger europapolitischer Grundsatzfragen, der EU-Außenbeziehungen (z.B. EU-Sanktionen) sowie internationaler Handelspolitik sollte gewahrt bleiben. Anders als der EU-Ministerrat ist der Europäische Rat nicht gesetzgeberisch tätig."},"10":{"selection":"c","statement":"Die Festsetzung der Höhe von Löhnen ist Aufgabe der Tarifpartner, nicht Aufgabe des Staates oder der EU. Wichtige Bereiche der Arbeits- und Sozialpolitik liegen in der Hand der EU-Mitgliedstaaten, so auch die Regelung des Arbeitsentgelts. Die EU-Mitgliedstaaten können so arbeits- und sozialpolitisch eigene, maßgeschneiderte Akzente setzen und voneinander lernen. Damit wird dem Subsidiaritätsgedanken Rechnung getragen."},"11":{"selection":"b","statement":"Weder die EU noch die Beitrittskandidaten dürfen überfordert werden. Die EU muss eine Zone der politischen Stabilität und des Friedens in Europa bleiben. Deshalb gilt für uns: Konsolidierung vor Erweiterung. Die Aufnahme weiterer Länder in die Europäische Union schließen wir nicht grundsätzlich aus. Eine Aufnahme in die EU kann aber erst erfolgen, wenn die Beitrittskandidaten sämtliche Beitrittskriterien voll und ganz erfüllen und gleichzeitig die Aufnahmefähigkeit der EU gegeben ist."},"12":{"selection":"b","statement":"Wir sehen mit großer Sorge die jüngsten Entwicklungen in der Türkei. Die Beitrittsverhandlungen liegen derzeit faktisch auf Eis. Eine Vollmitgliedschaft der Türkei lehnen wir ab, weil sie die Voraussetzungen für einen Beitritt nicht erfüllt. Wir möchten aber die Beziehungen zwischen der EU und der Türkei weiter vertiefen. Wir wollen eine möglichst starke Kooperation sowie eine enge Zusammenarbeit in außen– und sicherheitspolitischen Fragen."},"13":{"selection":"b","statement":"Die EU gewährt Religionsfreiheit. Sie ist eine Wertegemeinschaft, die aus dem kulturellen, religiösen und humanistischem Erbe Europas schöpft. Dieses Erbe ist in hohem Maße vom Christentum geprägt."},"14":{"selection":"c","statement":"CDU und CSU wollen ein starkes, selbstbewusstes und dynamisches Europa. Wir müssen Europa fit machen für die Gegenwart und Zukunft. Darauf kommt es jetzt an. Die EU ist eine supranationale Organisation.  CDU und CSU wollen ein starkes Europa mit starken Kommunen, Regionen und Nationalstaaten. Einen europäischen Bundesstaat lehnen wir ab."},"15":{"selection":"a","statement":"Die europäischen Regelungen zur Bankenrettung müssen eingehalten werden. Im Falle einer Abwicklung sind vorrangig die Eigentümer und Gläubiger der Bank heranzuziehen. Die EU-Mitgliedstaaten sollten sich im Falle von Liquiditätsproblemen einer Bank mit der Verwendung von Steuergeldern möglichst zurückhalten."},"16":{"selection":"c","statement":"Nach den EU-Verträgen haftet kein Mitgliedstaat für die Verbindlichkeiten eines anderen Mitgliedstaats und tritt auch nicht für dessen Verbindlichkeiten ein. Die Anpassungsprogramme zielen deshalb darauf ab, Griechenland langfristig in die Lage zu versetzen, seine Schulden selbst zu begleichen. Das schließt die Möglichkeit von Schuldenerleichterungen, wie Zins- und Tilgungsstundungen, mit ein. Diese wurden Griechenland in der Vergangenheit bereits in erheblichem Umfang gewährt."},"17":{"selection":"c","statement":"Die Kompetenz für die Arbeitslosenversicherung liegt in der Hand der Mitgliedstaaten und sollte dort auch bleiben. Die Einführung einer europäischen Arbeitslosenversicherung könnte EU-Mitgliedstaaten dazu verleiten, auf Kosten von Arbeitnehmerinnen und Arbeitnehmern anderer EU-Mitgliedstaaten, notwendige Haushaltssanierungen und Strukturreformen aufzuschieben oder gar zu unterlassen."},"18":{"selection":"c","statement":"Wir wollen die dauerhafte Stabilisierung der Eurozone erreichen. Eine Vergemeinschaftung von Schulden schließen wir weiter aus. Gemeinschaftliche Anleihen würden falsche Anreize setzen und könnten EU-Mitgliedstaaten dazu verleiten, notwendige Haushaltssanierungen und Strukturreformen aufzuschieben oder gar zu unterlassen."},"19":{"selection":"b","statement":"Die Einführung transnationaler Listen bei der Europawahl erfordert eine Änderung des EU-Vertrages. Diese ist kurzfristig nicht realisierbar."}},"11":{"0":{"selection":"a","statement":"DIE LINKE will den Euro nicht abschaffen, aber die Währungsunion radikal reformieren, da sie sonst zerbrechen wird. Die neoliberale Konstruktion des Euros nützt Großkonzernen und der deutschen Exportindustrie, während sie die EU wirtschaftlich und sozial spaltet. Die EU braucht eine andere deutsche Wirtschaftspolitik und ein Ende der Austerität mit einer koordinierten Wirtschafts- und Investitionspolitik und Mindestlöhnen. Euro-Länder, die die neoliberale Politik beenden wollen, dürfen nicht mit dem Ausschluss aus der Eurozone bedroht oder erpresst werden."},"1":{"selection":"c","statement":"DIE LINKE sieht Geheimdienste äußerst kritisch. Sie lassen sich selbst in den etablierten nationalen Strukturen kaum kontrollieren und sind einer Demokratie wesensfremd. In Deutschland haben wir erlebt, wie sie Teil eines Problems werden (Beispiele NSU, NSA-Unterstützung durch BND) beziehungsweise Verbrechen eben nicht verhindern (Anis Amri). Wir wollen Geheimdienste perspektivisch abschaffen und nicht supranationale, unkontrollierbare neue Geheimstrukturen aufbauen, wie es ein EU-Geheimdienst wäre."},"2":{"selection":"a","statement":"Die Europäische Union braucht einen Neustart mit einer vollständigen Revision der EU-Verträge, um militaristische,undemokratische und neoliberale Teile zu entfernen. Wir wollen eine Verfassung, die von den Bürgerinnen und Bürgern mitgestaltet wird und über die zeitgleich in allen EU-Mitgliedstaaten in einem Referendum abgestimmt wird. Die EU-Verfassung soll wirtschaftspolitisch neutral und gegenüber künftigen Gesellschaftsentwicklungen offen sein und soziale Rechte müssen Vorrang vor dem Binnenmarktfreiheiten haben. Eigentum hat auch dem Gemeinwohl zu dienen."},"3":{"selection":"b","statement":"DIE LINKE bekämpft die Militarisierung der EU: Die Pläne zur Schaffung einer „Verteidigungsunion“ und einer EU-Armee führen nicht zu mehr Sicherheit und Frieden, im Gegenteil. DIE LINKE fordert eine dem Frieden verpflichtete, zivile EU-Außen- und Sicherheitspolitik, die auf Konfliktprävention und globale Gerechtigkeit setzt. Die verstärkte Zusammenarbeit und die von Merkel und Macron angekündigte Kooperation außerhalb der Gemeinschaftsmethode lehnt die LINKE ab. Sie fordert dagegen die volle Kontrolle durch das Europäische Parlament und einen Parlamentsvorbehalt der für  Parlamente nationalen alle Militäreinsätze."},"4":{"selection":"c","statement":"DIE LINKE will abrüsten und keine neue Armee aus der Taufe heben und lehnt daher die in den letzten Jahren verstärkte Militarisierung der EU ab. Eine EU-Armee führt nicht zu mehr Sicherheit und Frieden, im Gegenteil. In dem Zusammenhang lehnt DIE LINKE die geplante Intensivierung der EU-NATO-Kooperation ab. DIE LINKE fordert eine dem Frieden verpflichtete EU-Außen- und Sicherheitspolitik, die strikt auf zivile Instrumente und Konfliktprävention setzt sowie das Ziel globaler Gerechtigkeit verfolgt, um die strukturellen Kriegs- und Konfliktursachen zu beseitigen."},"5":{"selection":"c","statement":"Die Militarisierung des EU-Außengrenzschutzes und der Flucht- und Migrationsabwehr wollen wir beenden. Die Grenzschutzagentur Frontex, die derzeit zur Europäischen Grenz- und Küstenwache ausgebaut wird, muss abgeschafft und durch eine EU-weit koordinierte zivile Seenotrettung ersetzt werden. Krieg, Hunger und wirtschaftliche Not sind maßgebliche Fluchtursachen. Die Mitgliedstaaten der EU tragen dafür historische Mitverantwortung und dürfen Lösungen nicht länger blockieren, sondern müssen sie fördern."},"6":{"selection":"c","statement":"DIE LINKE will eine enge wirtschaftspolitische Koordinierung in der EU, die im Gegensatz zur aktuellen Politik auf öffentliche Investitionen und eine soziale und ökologische Wirtschaftsentwicklung setzt. Die demokratische Kontrolle auch der Eurogruppe und der EZB soll über die Stärkung des EU-Parlaments und die der Mitgliedstaaten erfolgen: Sie müssen in Fragen der Wirtschafts- und Währungsunion dem Rat gleichberechtigt entscheiden können. Die aktuellen Vorschläge für ein Eurogruppen-Parlament und einen Euro-Finanzminister sowie die Entmachtung der Parlamente und Eingriffe in die Tarifautonomie lehnen wir ab."},"7":{"selection":"b","statement":"Ein einheitliches Steuersystem lehnt DIE LINKE unter heutigen Bedingungen ab: Ohne eine grundlegende Vertragsrevision dürfen keine weiteren Kompetenzen auf die EU-Ebene verlagert werden. Steuerpolitik ist eine Kernkompetenz der Mitgliedstaaten, über deren Ausgestaltung nationale Parlamente entscheiden. Auf EU-Ebene gibt es derzeit keine ausreichenden demokratischen Kontrollmöglichkeiten. Wichtig ist jedoch, dass die Steuerpolitik EU-weit koordiniert wird, um Steuerdumping und -wettbewerb der Mitgliedstaaten in der EU zu unterbinden. DIE LINKE fordert EU-weit verbindliche Mindeststeuersätze für Unternehmen."},"8":{"selection":"a","statement":"Neben der/dem Kommissionspräsidentin/en sollen auch die Kommissionsmitglieder von den Abgeordneten des Europäischen Parlaments einzeln gewählt und auch einzeln abgewählt werden können."},"9":{"selection":"a","statement":"Das grundlegende Problem, dass die Regierungen der Mitgliedstaaten als Gesetzgeber aktiv sind und die Gewaltenteilung verletzt wird, wird durch die fehlende Öffentlichkeit, mangelnde Transparenz und so verhinderte Zurechenbarkeit noch verschärft."},"10":{"selection":"a","statement":"DIE LINKE fordert im Einklang mit der Europäischen Sozialcharta des Europarates einen Europäischen Mindestlohn in Höhe von mindestens 60% des Durchschnittslohns des jeweiligen Landes. In Deutschland setzten wir uns für die Anhebung des Mindestlohns auf 12 Euro ein."},"11":{"selection":"a","statement":"DIE LINKE ist für Beitrittswünsche offen, wenn sich die Bevölkerung klar dafür ausspricht und die demokratischen und menschenrechtlichen Standards der „Kopenhagener Kriterien“ erfüllt werden. Die EU-Beitrittspolitik muss aber grundlegend reformiert werden: In künftigen Erweiterungen müssen soziale Standards in den Beitrittsländern wie auch der EU insgesamt gesichert werden. So würde die wirtschaftlichen und sozialen Gefälle in den Beitrittsländern und der EU nicht weiter zunehmen und es könnten wachsende Vorbehalte gegen weitere Beitritte entkräftet werden."},"12":{"selection":"b","statement":"DIE LINKE verurteilt den von der AKP vorangetriebenen autoritären Umbau der Türkei und fordert das sofortige Einfrieren der EU-Beitrittsverhandlungen. Eine radikale Wende in der Türkeipolitik beinhaltet den Stopp von Rüstungsexporten in die Türkei, den Auszahlungsstopp von Vorbeitrittshilfen, die Absage an jede Ausweitung der Zollunion und ein Ende des EU-Türkei-Deals zur Migrationsbekämpfung. DIE LINKE steht an der Seite der progressiven Kräfte in der Türkei. Über einen EU-Beitritt darf erst nach der Rücknahme der autoritären „Reformen“ und weiterverhandelt  Menschenrechtsstandards der Wiederherstellung der werden."},"13":{"selection":"c","statement":"DIE LINKE ist für eine säkulare Wertegemeinschaft der bürgerlichen, sozialen und kulturellen Menschenrechte und des Friedens."},"14":{"selection":"c","statement":""},"15":{"selection":"a","statement":"DIE LINKE lehnt Bankenrettungen auf Kosten der Gesellschaft ab. Die Eigentümer und Gläubiger müssen für die Banken haften, wobei die Einlagen von Kleinsparerinnen und Kleinsparern abgesichert werden müssen. Auch Sparkassen und Genossenschaftsbanken dürfen nicht für private Großbanken haften. Die angeblich zur Rettung Griechenlands ausgegebenen Kredite stellten ebenfalls eine Rettung vor allem deutscher und französischer Banken dar. Der zwingend notwendige Schuldenschnitt in Griechenland wird dann nicht mehr die Banken treffen, sondern die Steuerzahler."},"16":{"selection":"a","statement":"Die “Griechenlandrettung“ hätte mit einem Schuldenschnitt beginnen müssen. Die seitdem ausbezahlten „Hilfskredite“ flossen zu 90 Prozent in den Schuldendienst, vor allem an deutsche und französische Banken. Jetzt müssen Kreditausfälle nicht mehr von den Banken, sondern der Öffentlichkeit getragen werden: Die Risiken wurden von privaten Gläubigern auf die öffentliche Hand übertragen. Das hat DIE LINKE von Beginn an kritisiert. Anstatt weiter Schulden aufzuhäufen, muss mit einem Schuldenschnitt und einem Stopp der Kürzungsdiktate eine Entwicklungschance eröffnet werden."},"17":{"selection":"b","statement":"DIE LINKE kämpft für eine soziale EU und Maßnahmen zur Bekämpfung des Steuer-, Lohn- und Sozialdumpings. Wir wollen eine stärkere Koordinierung und die schrittweise Anhebung von Sozialleistungen in allen EU-Ländern. Die gegenwärtigen Pläne für eine gemeinsame Arbeitslosenversicherung, wie sie im Rahmen der Debatten um die Vertiefung der Wirtschafts- und Währungsunion diskutiert werden, lehnen wir entschieden ab: Der Zugriff auf diesen geplanten Fonds ist an neoliberale Strukturreformen geknüpft, die Arbeitnehmer*innenrechte und den Sozialstaat weiter aushöhlen."},"18":{"selection":"a","statement":"DIE LINKE will in einem ersten Schritt die Kreditaufnahme der Euro-Länder durch eine gemeinsame Haftung absichern. Mit diesen Anleihen könnten Spekulationen mit Schulden einzelner Länder auf den Finanzmärkten eingedämmt werden. Wichtiger ist aber, die Staatsfinanzierung von den Finanzmärkten unabhängig zu machen: Euro- und EU-Länder sollen bei der EZB direkt Kredite aufnehmen können. Da dies Vertragsänderungen voraussetzt, will DIE LINKE als Zwischenschritt eine Bank für öf f entliche Anleihen gründen, die bei der EZB Kredite aufnimmt und diese an die Staaten weiterreicht."},"19":{"selection":"c","statement":"In den Mitgliedstaaten der EU haben sich, teilweise über Jahrhunderte, völlig unterschiedliche Parteien- und Wahlsysteme ausgebildet, die in den historischen Auseinandersetzungen innerhalb ihrer Gesellschaften gebildet wurden. Das lässt sich nicht über ein Wahlrecht und transnationale Listen glattbügeln und vereinheitlichen."}}}}
+{
+    "theses": [
+        {
+            "l": "Die EU soll den Euro als gemeinschaftliche Einheitswährung behalten.",
+            "s": "Euro",
+            "x": ""
+        },
+        {
+            "l": "Die EU braucht eine parlamentarisch verantwortliche Regierung.",
+            "s": "Regierungsverantwortung",
+            "x": ""
+        },
+        {
+            "l": "Die Europäische Union braucht eine europäische Verfassung.",
+            "s": "Europäische Verfassung",
+            "x": ""
+        },
+        {
+            "l": "Die gemeinsame Außen- und Sicherheitspolitik muss mit der Gemeinschaftsmethode umgesetzt werden.",
+            "s": "Außen- und Sicherheitspolitik",
+            "x": "Unter Gemeinschaftsmethode versteht man, wenn Beschlüsse in der EU über die europäischen Institutionen (z.B. Rat oder Parlament) gefasst werden und nicht zwischen den Regierungen der einzelnen Mitgliedsstaaten."
+        },
+        {
+            "l": "Die EU braucht eine eigene Armee.",
+            "s": "EU-Armee",
+            "x": ""
+        },
+        {
+            "l": "Frontex muss zu einer europäischen Grenzschutzeinheit mit eigener Handlungsbefugnis ausgebaut werden.",
+            "s": "Frontex",
+            "x": "Frontex ist für die Koordinierung der Maßnahmen zum Schutz der EU-Außengrenzen zuständig. "
+        },
+        {
+            "l": "Die EU braucht eine gemeinsame Wirtschaftsregierung für die Eurozone.",
+            "s": "Wirtschaftsregierung",
+            "x": ""
+        },
+        {
+            "l": "Der Europäische Rat soll in Zukunft öffentlich tagen.",
+            "s": "Transparenz Europäischer Rat",
+            "x": ""
+        },
+        {
+            "l": "Die EU soll einen EU-weiten Mindestlohn einführen, der vom Durchschnittseinkommen im jeweiligen Mitgliedsstaat abhängt.",
+            "s": "EU-Mindestlohn",
+            "x": ""
+        },
+        {
+            "l": "Die EU soll neue Mitgliedsstaaten aufnehmen.",
+            "s": "EU-Erweiterung",
+            "x": ""
+        },
+        {
+            "l": "Die EU soll die Beitrittsverhandlungen mit der Türkei beenden.",
+            "s": "Türkei",
+            "x": ""
+        },
+        {
+            "l": "Die EU soll sich langfristig zu einem europäischen Bundessstaat entwickeln.",
+            "s": "Bundesstaat",
+            "x": ""
+        },
+        {
+            "l": "Die EU soll keine Banken mit Steuergeldern retten.",
+            "s": "Bankenrettungen",
+            "x": ""
+        },
+        {
+            "l": "Griechenland soll ein Teil seiner Schulden erlassen werden.",
+            "s": "Griechenland",
+            "x": ""
+        },
+        {
+            "l": "Die EU soll eine gemeinsame Arbeitslosenversicherung einführen.",
+            "s": "EU-Arbeitslosenversicherung",
+            "x": ""
+        },
+        {
+            "l": "Die EU soll europäische Gemeinschaftsanleihen (Euro-Bonds) einführen.",
+            "s": "Euro-Bonds",
+            "x": ""
+        },
+        {
+            "l": "Für die Wahl des Europaparlaments braucht es ein einheitliches europäisches Wahlrecht, welches transnationale Listen ermöglicht.",
+            "s": "Wahl EU-Parlament",
+            "x": ""
+        }
+    ],
+    "lists": [
+        {
+            "name": "Nationaldemokratische Partei Deutschlands",
+            "name_x": "NPD",
+            "hint": "",
+            "logo": "npd.png"
+        },
+        {
+            "name": "Ökologisch-Demokratische Partei",
+            "name_x": "ÖDP",
+            "hint": "",
+            "logo": "oedp.png"
+        },
+        {
+            "name": "Freie Demokratische Partei Sachsen",
+            "name_x": "FDP Sachsen",
+            "hint": "Wir haben die Bundes-FDP gebeten sich zu unseren Thesen zu positionieren. Die Partei bestand darauf, dass der Landesverband Sachsen die Fragen beantwortet.",
+            "logo": "fdp.png"
+        },
+        {
+            "name": "BÜNDNIS 90/DIE GRÜNEN",
+            "name_x": "GRÜNE",
+            "hint": "",
+            "logo": "gruene.png"
+        },
+        {
+            "name": "Alternative für Deutschland",
+            "name_x": "AfD",
+            "hint": "",
+            "logo": "afd.png"
+        },
+        {
+            "name": "Freie Wähler",
+            "name_x": "Freie Wähler",
+            "hint": "",
+            "logo": "freie_waehler.png"
+        },
+        {
+            "name": "Die PARTEI Sachsen",
+            "name_x": "Die PARTEI Sachsen",
+            "hint": "Wir haben die Bundes-PARTEI gebeten sich zu unseren Thesen zu positionieren. Die Partei bestand darauf, dass der Landesverband Sachsen die Fragen beantwortet.",
+            "logo": "die_partei.png"
+        },
+        {
+            "name": "Piratenpartei Deutschland",
+            "name_x": "PIRATEN",
+            "hint": "",
+            "logo": "piraten.png"
+        },
+        {
+            "name": "Sozialdemokratische Partei Deutschlands",
+            "name_x": "SPD",
+            "hint": "",
+            "logo": "spd.png"
+        },
+        {
+            "name": "Partei Mensch Umwelt Tierschutz",
+            "name_x": "Tierschutzpartei",
+            "hint": "",
+            "logo": "tierschutzpartei.png"
+        },
+        {
+            "name": "Christlich Demokratische Union",
+            "name_x": "CDU",
+            "hint": "",
+            "logo": "cdu.png"
+        },
+        {
+            "name": "Die LINKE",
+            "name_x": "LINKE",
+            "hint": "",
+            "logo": "linke.png"
+        }
+    ],
+    "answers": [
+        [
+            {
+                "selection": "c",
+                "statement": ""
+            },
+            {
+                "selection": "c",
+                "statement": ""
+            },
+            {
+                "selection": "c",
+                "statement": ""
+            },
+            {
+                "selection": "c",
+                "statement": ""
+            },
+            {
+                "selection": "c",
+                "statement": ""
+            },
+            {
+                "selection": "a",
+                "statement": ""
+            },
+            {
+                "selection": "c",
+                "statement": ""
+            },
+            {
+                "selection": "a",
+                "statement": ""
+            },
+            {
+                "selection": "c",
+                "statement": ""
+            },
+            {
+                "selection": "c",
+                "statement": ""
+            },
+            {
+                "selection": "a",
+                "statement": ""
+            },
+            {
+                "selection": "c",
+                "statement": ""
+            },
+            {
+                "selection": "a",
+                "statement": ""
+            },
+            {
+                "selection": "b",
+                "statement": ""
+            },
+            {
+                "selection": "c",
+                "statement": ""
+            },
+            {
+                "selection": "c",
+                "statement": ""
+            },
+            {
+                "selection": "b",
+                "statement": ""
+            }
+        ],
+        [
+            {
+                "selection": "a",
+                "statement": ""
+            },
+            {
+                "selection": "a",
+                "statement": ""
+            },
+            {
+                "selection": "a",
+                "statement": ""
+            },
+            {
+                "selection": "a",
+                "statement": ""
+            },
+            {
+                "selection": "c",
+                "statement": ""
+            },
+            {
+                "selection": "c",
+                "statement": "Wir würden hier u.U. zustimmen können, wenn eine parlamentarische Kontrollle gegeben wäre."
+            },
+            {
+                "selection": "b",
+                "statement": "Die Entwicklung in den einzelnen Mitgliedsländern ist zu unterschiedlich."
+            },
+            {
+                "selection": "a",
+                "statement": ""
+            },
+            {
+                "selection": "a",
+                "statement": ""
+            },
+            {
+                "selection": "a",
+                "statement": "vorausgesetzt, diese neuen Mitgliedsstaaten erfüllen die Aufnahmekriterien."
+            },
+            {
+                "selection": "a",
+                "statement": "Zum jetzigen Zeitpunkt sollten die ca. 4 Mrd. Euro an EU-Gelder für den nicht stattfindenden Demokratisierungsprozess in der Türkei gespart werden."
+            },
+            {
+                "selection": "c",
+                "statement": "Die ÖDP favorisiert den Staatenverbund, wie ihn das Bundesverfassungsgericht vorgeschlagen hat."
+            },
+            {
+                "selection": "a",
+                "statement": ""
+            },
+            {
+                "selection": "a",
+                "statement": ""
+            },
+            {
+                "selection": "c",
+                "statement": "Die Voraussetzungen sind in den einzelnen Mitgliedsländern zu unterschiedlich."
+            },
+            {
+                "selection": "c",
+                "statement": "Dies würde den EU-Verträgen widersprechen."
+            },
+            {
+                "selection": "c",
+                "statement": "Auch hier halten wir die Voraussetzungen in den einzelnen EU-Mitgliedsländern für zu unterschiedlich."
+            }
+        ],
+        [
+            {
+                "selection": "a",
+                "statement": ""
+            },
+            {
+                "selection": "a",
+                "statement": ""
+            },
+            {
+                "selection": "a",
+                "statement": "Eine europäische Verfassung ist ein langfristiges Ziel und bedarf einer Volksabstimmung"
+            },
+            {
+                "selection": "a",
+                "statement": ""
+            },
+            {
+                "selection": "a",
+                "statement": "Vor  gemeinsamen Streitkräften ist zunächst eine koordinierte Verteidigungspolitik in der EU zu schaffen."
+            },
+            {
+                "selection": "a",
+                "statement": ""
+            },
+            {
+                "selection": "c",
+                "statement": "Eine solche Wirtschaftsregierung kann erst im Rahmen einer gemeinsamen Wirtschafts- und Fiskalpolitik tätig werden, die gegenwärtig nicht durchsetzbar erscheint."
+            },
+            {
+                "statement": "Wir wollen den Europäischen Rat abschaffen und die Ratssitzungen i.d.R.  öffentlich abhalten lassen.",
+                "selection": "a"
+            },
+            {
+                "statement": "",
+                "selection": "c"
+            },
+            {
+                "statement": "Wenn die Kandidaten sämtliche Aufnahmekriterien erfüllen.",
+                "selection": "a"
+            },
+            {
+                "statement": "Vor einem endgültigen Abbruch können die Verhandlungen auch ausgesetzt werden.",
+                "selection": "a"
+            },
+            {
+                "statement": "Auch dies ist nur ein langfristiges Ziel der Entwicklung der EU.",
+                "selection": "a"
+            },
+            {
+                "statement": "",
+                "selection": "c"
+            },
+            {
+                "statement": "",
+                "selection": "c"
+            },
+            {
+                "statement": "",
+                "selection": "c"
+            },
+            {
+                "statement": "",
+                "selection": "c"
+            },
+            {
+                "statement": "",
+                "selection": "a"
+            }
+        ],
+        [
+            {
+                "selection": "a",
+                "statement": "Der Euro ist das Herzstück der Wirtschafts- und Währungsunion. Er hat Europa weiter zusammenwachsen lassen. Grenzenlos Reisen, Arbeiten und überall mit dem Euro zahlen–das ist für viele Ausdruck von Freiheit. Für Unternehmen ist der Euro ein riesiger Vorteil, der Arbeitsplätze sichert. Wir wollen die deutsche Europolitik solidarischer und demokratischer ausrichten. Deutschland soll dazu beitragen, Europa zu einen und zu stärken und nicht Mitgliedstaaten wie Griechenland aus der Eurozone werfen."
+            },
+            {
+                "selection": "a",
+                "statement": "Wie jede Demokratie hat auch die europäische Demokratie Schwächen. Zu oft wird sie zu einseitig über das Handeln nationaler Regierungen legitimiert. Das, was wir europäisch organisieren, muss  zwischen EU-Parlament, Rat und EU-Kommission innerhalb der EU-Verträge demokratisch verhandelt und gestaltet werden. Wir wollen zunächst ein Mitglied der EU-Kommission mit allen Kompetenzen ausstatten im Bereich der Wirtschafts- und Währungsunion, gewählt bzw. abwählbar durch das EU-Parlament."
+            },
+            {
+                "selection": "a",
+                "statement": "Wir bedauern es sehr, dass die EU-Verfassung von 2004 nicht angenommen wurde. Sie hätte den Zusammenhalt gestärkt. Ein starkes Europa ist das beste Rezept gegen Populismus und Nationalismus. Wir wollen ein nachhaltigeres, demokratischeres, solidarischeres und gerechteres Europa. Dazu sollen notwendige Vertragsänderungen nicht in Hinterzimmer, sondern im Rahmen eines öffentlichen, demokratischen und bürgerfreundlichen Europäischen Konvents diskutiert und erarbeitet werden."
+            },
+            {
+                "selection": "b",
+                "statement": "Wir fördern als überzeugte Europäer*innen jede Form der weiteren Integration. Deswegen ist auch eine weitere Vergemeinschaftung der Außen- und Sicherheitspolitik sinnvoll. Uns ist aber gerade bei dieser Frage der Vorrang des Zivilen besonders wichtig. Diesen Ansatz sehen wir in anderen EU-Mitgliedsländern nur unzureichend ausgeprägt. Es braucht daher noch viele Diskussionen, um sich bei der Frage nach der Ausrichtung einer Außen- und Sicherheitspolitik anzunähern."
+            },
+            {
+                "selection": "b",
+                "statement": "Wir halten Schritte für eine verstärkte Zusammenarbeit und Integration der Streitkräfte in der Europäischen Union für sinnvoll. Uns geht es darum, durch engere gemeinsame Planung, Kooperation und Koordination Fähigkeiten auf europäischer Ebene zu bündeln – auch, um die Verschwendung öffentliche Gelder zu beenden, die durch die Nicht-Kooperation entsteht. Europa muss bei der äußeren Sicherheit besser zusammenzuarbeiten. In gleichem Maße muss aber auch das EU-Parlament mehr Mitsprache erhalten."
+            },
+            {
+                "selection": "c",
+                "statement": "Wir treten für ein menschenrechtsbasiertes europäisches Grenzregime ein. Wir wollen die parlamentarische Kontrolle stärken. Zudem muss das Handeln der Frontex- Beamt*innen durch unabhängige Akteure und nicht nur durch die EU-Grundrechte-Agentur kontrolliert werden. Es soll möglich sein, diese Handlungen ggf. auch vor den europäischen Gerichten überprüfen zu lassen."
+            },
+            {
+                "selection": "b",
+                "statement": "Die Wirtschafts- und Währungsunion braucht weitere Reformen. Aber unser Ziel bleibt ein Europa, in dem alle zusammenhalten. Eine Spaltung der EU in einen Euro-Exklusiv-Club und den Rest mit neuen Doppelstrukturen lehnen wir ab. Wir wollen, dass ein Mitglied der EU-Kommission mit allen Kompetenzen ausgestattet im Bereich der Wirtschafts- und Währungsunion wird, den Vorsitz der Euro-Gruppe und des Rats für Wirtschaft und Finanzen innehat und gegenüber dem EU-Parlament verantwortlich ist."
+            },
+            {
+                "selection": "a",
+                "statement": "Ein Schlüssel zur Stärkung der europäischen Demokratie ist mehr Transparenz. Derzeit tagt der Rat nur dann öffentlich, wenn er gesetzgeberisch berät oder abstimmt. Das ist zu wenig. Der Rat sollte grundsätzlich öffentlich tagen und seine vorbereitenden Gremien transparent werden. Zudem sollten Protokolle sowie non-Paper in der Regel öffentlich sein. So werden Positionen, Debatte und Kompromisssuche von Beginn an nachvollziehbarer."
+            },
+            {
+                "selection": "a",
+                "statement": "Auch wenn sich die wirtschaftliche Lage langsam verbessert, ist davon bei breiten Teilen der Bevölkerung noch zu wenig angekommen. Das Versprechen der EU auf Wohlstand und soziale Teilhabe muss glaubwürdig bleiben. Allerdings haben die EU-Mitgliedstaaten im sozialen Bereich der EU bisher kaum Kompetenzen übertragen. Als ersten Schritt innerhalb der aktuellen Kompetenzen wollen wir eine Mindesteinkommensrichtlinie für Eckpunkte von Grundsicherungsleistungen in den Mitgliedstaaten vorantreiben."
+            },
+            {
+                "selection": "a",
+                "statement": "Wir wollen, dass EU-Erweiterungen grundsätzlich für weitere Länder offen bleiben anstatt den Reformeifer durch Ausschluss weiterer Beitritte auszubremsen. Dies gilt insbesondere gegenüber den Ländern des Westbalkans (Voraussetzung: Kopenhagener Kriterien). Wir wollen zudem, dass die Gemeinsame Außen- und Sicherheitspolitik der EU (GASP) enger mit Beitrittsverfahren und der EU- Nachbarschaftspolitik verzahnt wird, um jenseits technokratischer Verhandlungen kohärente Impulse setzen zu können."
+            },
+            {
+                "selection": "c",
+                "statement": "Die Beitrittsgespräche wegen der autoritären Regierung Erdoğans komplett abzubrechen, würde das falsche Signal an die proeuropäischen und demokratischen Kräfte in der Türkei senden. Für eine demokratische und weltoffene Türkei müssen die Türen zur EU offen bleiben. Eine Fortführung der Beitrittsgespräche, die de-facto bereits auf Eis liegen, wie auch eine Ausweitung der Zollunion kann es aber erst geben, wenn die Türkei eine Kehrtwende zurück zu Demokratie und Rechtstaatlichkeit vollzieht."
+            },
+            {
+                "selection": "b",
+                "statement": "Wir wollen Europa zusammenhalten, selbstverständlich aber auch weiter an unserem gemeinsamen Haus Europa bauen. Die Probleme heute sind global und für einen Staat alleine zu groß. Wir wollen eine EU, in der jede Ebene das macht, was sie am besten kann. Ob dies am besten ein europäischer Bundesstaat oder eine andere Form leisten kann, wollen wir innerhalb eines EU-Konvents in einem öffentlichen, demokratischen und bürgerfreundlichen Verfahren erarbeiten, um möglichst viele Menschen mitzunehmen."
+            },
+            {
+                "selection": "a",
+                "statement": "Hierfür müssen die bestehenden Regeln des Abwicklungsmechanismus konsequent eingehalten und die Bankenunion vollendet werden, u.a. durch ein Trennbankenmodell, eine Entkopplung von Staats- und Bankrisiken auch in Bezug auf Staatsanleihen, die Beseitigung rechtlicher Hürden zur Gläubigerbeteiligung und einen „back stop“ für den EU-Bankenabwicklungsfonds. Bankenaufsicht und der Europäische Systemrisikorat (ESRB) sollten aus der EZB herausgelöst werden und vom EU-Parlament kontrolliert werden."
+            },
+            {
+                "selection": "b",
+                "statement": "Griechenland kann Schulden nur abbauen, wenn es neben sozial gerechten Reformen und Sparen auch Wirtschafts-Impulse setzen kann etwa bei Erneuerbaren Energien durch Haushaltsüberschüsse und Mitteln aus EU-Struktur- oder Investitionsfonds. Milliardengewinne aus den EZB-Anleihekäufen sollten an Griechenland ausgeschüttet werden. Nötig sind aber Schuldenerleichterungen bspw. durch Zinssenkungen und Laufzeitverlängerungen. Eine Umschuldung der IWF-Kredite hin zum ESM könnte die Zinslast senken."
+            },
+            {
+                "selection": "a",
+                "statement": "Wir wollen europäische Mindeststandards im Bereich der sozialen Sicherung und des Arbeitsmarktes erreichen. Uns ist wichtig, die grenzüberschreitende Freizügigkeit von Arbeitnehmer*innen sozial besser abzusichern, damit sie nicht durch ein Raster national fragmentierter Sozialsysteme fallen. Als Ziel in diesem Bereich setzen wir uns perspektivisch auch für die Einführung einer europäischen Arbeitslosenversicherung ein."
+            },
+            {
+                "selection": "b",
+                "statement": "Der wichtigste Schritt in der Eurozone ist eine verbesserte Abstimmung in der Wirtschafts- und Fiskalpolitik. In einem gemeinsamen Markt muss es Mindeststandards geben, wenn wir nicht in einen Wettlauf um die niedrigsten Steuern, Renten und Löhne geraten wollen. Gibt es hier eine Übereinkunft, können wir auch über gemeinschaftliche Anleihen nachdenken. Wir wollen einen zeitlich befristeten und mengenmäßig begrenzten Altschuldentilgungsfonds nach Vorschlag des Sachverständigenrats."
+            },
+            {
+                "selection": "a",
+                "statement": "Ein demokratischeres Europa braucht mehr grenzübergreifenden politischen Diskurs und lebendige europäische Parteien. Für die Wahlen zum Europäischen Parlament streben wir die schrittweise Einführung europaweiter Listen an, damit die Wähler*innen die Möglichkeit haben, für die Kandidat*innen zu stimmen, die verstärkt gesamteuropäische Interessen vertreten."
+            }
+        ],
+        [
+            {
+                "selection": "c",
+                "statement": "Eine gemeinschaftliche Währung für Staaten mit so unterschiedlichen Wirtschaftsstrukturen, insbesondere Produktivität, wie Schwellenlandökonomien und hochtechnologischen Volkswirtschaften ist eine währungspolitische Absurdität. Weil das so ist, ist die Lage in der EU-Zone so, wie sie ist. Griechenland: Arbeitslosigkeit 25 %, Deutschland 5 %; Jugendarbeitslosigkeit Griechenland 58 %, Deutschland 8 % (Zahlen aus 2014, 1. Quartal)."
+            },
+            {
+                "selection": "c",
+                "statement": "Europa kann kein Staat sein, weil es kein Staatsvolk hat. Dies jedoch ist -staatstheoretisch unbestritten- eines der konstituierenden Merkmale für einen Staat. Insofern gibt es auch kein europäisches Parlament. Das Substitut ist auch nicht durch demokratische Wahlen legitimiert, weil Wahlen nur dann demokratisch sind, wenn jeder Wähler das gleiche Stimmgewicht hat. Es gibt auch keine europäische Öffentlichkeit und keine europäische Kommunikation, weil es keine europäische Sprache gibt."
+            },
+            {
+                "selection": "c",
+                "statement": "Nur Staaten haben Verfassungen. Da die EU kein Staat sein kann, kann sie auch keine \"Verfassung\" haben. Der Versuch, eine solche durch einen völkerrechtlichen Vertrag in die Welt zu bringen, ist 2005 an den Volksabstimmungen in Frankreich und den Niederlanden glücklicherweise gescheitert. Verfassungen kann man nicht durch völkerrechtliche Verträge erzeugen. Es handelte sich um den Versuch eines Staatstreichs gegenüber den existierenden europäischen Demokratien."
+            },
+            {
+                "selection": "c",
+                "statement": "Staaten können versuchen, ihre Sicherheitspolitik mit einander abzustimmen. Bereits dies ist für jeden Einzelstaat Außenpolitik. Echte Außenpolitik ist immer an die Existenz von Staaten gebunden. Da die EU kein Staat ist und auch nicht sein kann (s. o.), kann sie auch keine Außenpolitik betreiben."
+            },
+            {
+                "selection": "c",
+                "statement": "Nur Staaten können \"eigene\" Armeen haben. Die EU kann daher keine \"eigene\" Armee haben. Selbstverständlich werden die Franzosen ihre Atomstreitmöglichkeit nicht entnationalisieren. Auch daraus wird der akademische Charakter der Frage ersichtlich. Die EU könnte eine Verteidigungsgemeinschaft bilden. Selbst die ist bisher und wird in Zukunft an den nationalen Egoismen scheitern. Das alleinige Bindemittel der EU ist der wirtschaftliche Nutzen aus Sicht jedes einzelnen Mitglieds im Staatenverbund.  "
+            },
+            {
+                "selection": "b",
+                "statement": "Frontex als \"Grenzschutzeinheit\" würde dann Sinn machen, wenn man ein einheitliches europäisches Asyl-, Flüchtlings- und Staatsangehörigkeitsrecht hätte. Dies ist jedoch nicht der Fall. Sofern die EU eine solche Rechtsgleichheit nicht zu Stande bringt, muss Schengen und Dublin aufgehoben werden und der Grenzschutz renationalisiert werden."
+            },
+            {
+                "selection": "c",
+                "statement": "Es ist völlig unklar, was dieser Begriff meint. \"Regiert\" werden kann nur im Rahmen eines einheitlichen Rechtsrahmens und eines einheitlichen Budgets. Da es unvorstellbar ist, dass eine \"Regierung\" einheitliche wirtschaftliche Entscheidungen für 27 wirtschaftlich völlig unterschiedliche Volkswirtschaften trifft, ist sowohl das Schlagwort wie alles, was man sich darunter vorstellen kann, absurd."
+            },
+            {
+                "selection": "a",
+                "statement": "Das wäre deshalb erkenntnisreich, weil man erleben könnte, mit welchen Koalitionen Klein- und Kleinstländer mit ihren Mehrheiten die EU-Politik bestimmen."
+            },
+            {
+                "selection": "c",
+                "statement": "Die EU geht der Mindestlohn nichts an. Dies ist allein Angelegenheit der Nationalstaaten. Es wäre eine weitere Einschränkung des Wettbewerbs der EU-Staaten, der zum weiteren Verfall der Leistungsfähigkeit der Volkswirtschaften der EU-Mitgliedstaaten führt."
+            },
+            {
+                "selection": "c",
+                "statement": "Sofern man die EU-völlig funktionsunfähig machen will, ist das eine gute Idee. Formale Größe ist kein Wert. Wie Staaten funktionieren auch Staatengemeinschaften nur, wenn sie strukturelle Gemeinsamkeiten haben. Solche kann man nicht durch das Hinschütten von Geld herstellen. Dies ist eine der sichersten Erkenntnisse aus der bisherigen EU-Geschichte."
+            },
+            {
+                "selection": "a",
+                "statement": "Selbstverständlich. Die Türkei hatte zu keiner Zeit strukturelle Voraussetzungen für eine Mitgliedschaft in der EU, weder ökonomisch noch kulturell. Dass dies stets so war, wird derzeit für jedermann offenkundig. Die schiere Größe ist kein Wert an sich (s. o.). Dies galt und gilt für die Türkei besonders plakativ."
+            },
+            {
+                "selection": "c",
+                "statement": "Wer Chaos und die Bedrohung des europäischen Friedens will, verfolgt ein solchen Projekt. Demokratie braucht Bürger. Bürger sind Menschen, die miteinander eine Kulturgemeinschaft bilden, die einen Staat hervorbringen können. Multiethnische/multinationale Gesellschaften haben noch nirgendwo auf der Welt stabile/gelingende Staaten hervorgebracht. Solche Experimente widersprechen jeglicher Empirie. Sie sind menschenfeindlich."
+            },
+            {
+                "selection": "a",
+                "statement": "Selbstverständlich. Wer wirtschaftet, der haftet. Der Staat hat für die Banken genau diese Regeln durchzusetzen. Wenn Staatsanleihen nicht mit Eigenkapital unterlegt werden müssen, weil ein Staat das zulässt, dann trägt er die politische Verantwortung dafür, dass Banker mit Staatsanleihen zocken. Die Regeln und die nationale Aufsicht für das Kreditwesen ist Staatsangelegenheit. Wer diese Aufgabe gut löst, wird das Problem minimieren."
+            },
+            {
+                "selection": "c",
+                "statement": "Natürlich nicht, abgesehen davon dass dies bereits erfolglos geschehen ist mit über 100 Mrd. Euro. Für Staaten muss das Gleiche gelten wir für Wirtschaftsakteure. Wer handelt, trägt dafür die Verantwortung. Die Politik und eben auch die Parlamente tragen keine Verantwortung, weil die Amts- und Funktionsträger nicht für ihr Verhalten haften. Dieser Zustand muss geändert werden, sonst kann das Problem der unverantwortlichen Politik nicht gelöst werden."
+            },
+            {
+                "selection": "c",
+                "statement": "Das ist so absurd wie die \"EU-Wirtschaftsregierung\". Wenn nationale Politik etwas mit dem wirtschaftlichen Wohlergehen der Bürger zu tun hat, dann ist insoweit eine gewisse \"Verantwortung\" noch zuordenbar. Wenn die schlechte nationale Politik (Wirtschaft, Bürokratie, Fiskalismus, Bildung usw.) in ihren Folgen anderen Staaten aufgebürdet wird, dann besteht keinerlei Anreiz, eine gute nationale Politik zu betreiben. Dies alles erleben wir in der EU täglich."
+            },
+            {
+                "selection": "c",
+                "statement": "Wer will, dass Europa im Schuldenmeer untergeht, muss auch hier jede dezentrale Verantwortung beseitigen. Nur wer haftet, hat Anreiz zu verantwortlichem Handeln. Bei Nationalstaaten funktioniert das immer noch besser als bei der EU. Für die Sünder braucht es eine Konkursordnung aber keine Verschiebung der Haftung auf den Nachbarn. Der Gipfel der Absurdität."
+            },
+            {
+                "selection": "c",
+                "statement": "Transnationale Listen setzen transnationale Willensbildungen und Wahlversammlungen voraus. Wie soll man die sich vorstellen. Alle Kandidaten müssen doch eine Basis in Versammlungen haben, die in ständiger persönlicher Beziehung miteinander stehen. Mein Abgeordneter aus Sizilien kann doch nicht meine Interessen vertreten und umgekehrt genauso. Das ist doch Theaterspiel aber keine Demokratie."
+            }
+        ],
+        [
+            {
+                "selection": "a",
+                "statement": "Wir wollen die Stabilität unserer Gemeinschaftswährung wieder herstellen. Allerdings halten wir es für erforderlich, schnellstmöglich ein Zusatzprotokoll zu den europäischen Verträgen zu verhandeln, um einen geordneten Ausstieg von Euro-Krisenländern zu ermöglichen und die Einführung von Zweitwährungen zu erleichtern. Krisenländer müssen mit ihrer eigenen Währung abwerten können, um wieder wettbewerbsfähiger zu werden."
+            },
+            {
+                "selection": "a",
+                "statement": "Schon heute wird der Kommissionspräsident und jeder einzelne Kommissar vom Europäischen Parlament gewählt. Die Abberufbarkeit mit einfacher Mehrheit durch ein Misstrauensvotum gibt es noch nicht. Wir FREIE WÄHLER halten dies für erforderlich, um das Europaparlament zu stärken und die Legitimation der EU-Kommission und ihres Handelns zu erhöhen."
+            },
+            {
+                "selection": "a",
+                "statement": "Wir FREIE WÄHLER wollen, dass Europa transparenter und bürgernäher wird. Die Vielzahl Vertragswerke – von EUV und AEUV über den Euratom-Vertrag, das Schengener Abkommen, den ESM-Vertrag bis hin zur Grundrechtecharta – tragen dazu keineswegs bei. Deshalb setzen wir uns für ein einheitliches Regelwerk ein, über das dann aber auch die Europäischen Bürger abstimmen sollen. Dabei halten wir es für nebensächlich, ob hierfür letztendlich der symbolische Begriff „Verfassung“ verwendet wird."
+            },
+            {
+                "selection": "a",
+                "statement": "Wir wollen unsere Verteidigung europäisch organisieren und die militärische Zusammenarbeit zwischen den EU-Mitgliedstaaten systematisch ausdehnen. Die europäische Sicherheitsarchitektur ist zunehmend fragil. Dazu ist es erforderlich, die Gemeinsame Sicherheits- und Verteidigungspolitik (GSVP) durch Mehrheitsentscheidungen anstelle der bislang erforderlichen Einstimmigkeit und durch den gleichberechtigten Einbezug des Europaparlaments in die Entscheidungsfindung zu stärken."
+            },
+            {
+                "selection": "a",
+                "statement": "Im Grundsatz halten wir eine drastische Vertiefung der Zusammenarbeit in der Gemeinsamen Sicherheits- und Verteidigungspolitik für erforderlich. Ob dies letztlich unter dem Schlagwort einer „EU-Armee“ geschehen muss, halten wir allerdings für nebensächlich. Wichtig ist in erster Linie, dass durch Pooling und Sharing die Effizienz unserer europäischen Verteidigungskapazitäten erhöht wird und ein gemeinsames europäisches Hauptquartier die Koordination übernimmt."
+            },
+            {
+                "selection": "a",
+                "statement": "Wir wollen keine Rückkehr zu Schlagbäumen in Europa, denn wir sind stolz auf die offenen Grenzen zu unseren europäischen Nachbarn. Aber damit wir dies erhalten können, brauchen wir eine umso bessere Sicherung unserer europäischen Außengrenzen. Deshalb sind wir für eine Stärkung des Grenzschutzes auf der europäischen Ebene. Die Grenzschutzagentur Frontex braucht daher mehr Personal und weitreichendere Kompetenzen."
+            },
+            {
+                "selection": "c",
+                "statement": "Mit einer europäischen Wirtschaftsregierung, wie sie auf europäischer Ebene diskutiert wird, hätte die Abgabe weiterer nationaler Kompetenzen zur Folge, insbesondere im Bereich der Budgethoheit. Das Demokratiedefizit in Europa würde durch eine solche Maßnahme nur unnötig größer werden, die führende Wirtschaftswissenschaftler ohnehin für entbehrlich halten."
+            },
+            {
+                "selection": "c",
+                "statement": "Die Zusammenkunft der europäischen Staats- und Regierungschefs muss auch weiterhin Raum für vertrauliche Beratungen lassen. Grundsätzlich halten wir FREIE WÄHLER es aber für erforderlich, dass die Arbeit dieses Gremiums transparenter wird."
+            },
+            {
+                "selection": "c",
+                "statement": "Die Einführung eines für jeden Mitgliedstaat individuellen Mindestlohns auf EU-Ebene lehnen wir ab. Die EU soll gemäß dem Subsidiaritätsprinzip nur dort tätig werden, wo die unteren Ebenen dieselbe Aufgabe nicht genauso gut erledigen können. Die Tatsache, dass die einzelnen Mitgliedstaaten in der Lage sind, ihrem Lohnniveau entsprechend Mindestlöhne festzulegen, macht ein Tätigwerden der EU überflüssig."
+            },
+            {
+                "selection": "c",
+                "statement": "Grundsätzlich sollte allen europäischen Ländern eine Beitrittsperspektive gegeben werden. Wir müssen aber in Folge der letzten Krisenjahre gegenwärtig die weitere Aufnahmefähigkeit der Union in Frage stellen. Wir wollen die Konsolidierung Europas nicht durch eine übereilte Erweiterung gefährden. Deshalb sind wir vorübergehend für einen Stopp der Aufnahme weiterer Beitrittskandidaten. "
+            },
+            {
+                "selection": "a",
+                "statement": "Die repressiven Maßnahmen im Rahmen des ausgerufenen Ausnahmezustands verurteilen wir und appellieren an die türkische Regierung, auf den Pfad der Demokratie und des freiheitlichen Rechtstaats zurückzukehren. Auch die geplante Einführung der Todesstrafe in diesem Land alarmiert uns. Unter diesen Voraussetzungen können wir nicht länger über eine EU-Mitgliedschaft verhandeln, weil sie nicht mit unseren europäischen Grundwerten vereinbar sind."
+            },
+            {
+                "selection": "a",
+                "statement": "Wir FREIE WÄHLER fordern ein Europa der Regionen mit starken Regionen und Kommunen. Wir müssen gewährleisten, dass möglichst viele Entscheidungen so weit unten wie möglich getroffen werden. Gleichwohl halten wir es für erforderlich, die Zusammenarbeit auf europäischer Ebene auf verschiedenen Feldern zu stärken. Dazu zählen die Sicherheitspolitik, der Binnenmarkt oder auch die Migrationspolitik. Daher halten wir das Modell eines Bundesstaats mit starken Regionen und Kommunen für zielführend."
+            },
+            {
+                "selection": "a",
+                "statement": "Jeder haftet für seine Schulden selbst. Wenn große Banken mit Steuergeldern gerettet werden, kommt es zu Wettbewerbsverzerrungen im Verhältnis zu solide wirtschaftenden Geldinstituten. Es ist den Bürgern nicht vermittelbar, weshalb große insolvente Banken gerettet werden, kleine und mittlere Unternehmen bei finanziellen Schwierigkeiten i.d.R. keine Unterstützung erhalten. Wichtig ist allerdings in jedem Fall die Gewährleistung der Einlagensicherung für kleine Sparer bei zahlungsunfähigen Banken."
+            },
+            {
+                "selection": "a",
+                "statement": "Zustimmung Ein teilweiser Schuldenerlass oder zumindest ein Verzicht der EU und des IWF auf Zinsen und Streckung der Rückzahlung der Kredite auf unbestimmte Zeit ist letztlich unausweichlich. Es ist falsch, einem de facto zahlungsunfähigen Land immer weiteres frisches Geld zu leihen, um die Zinsen alter Schulden bedienen zu können. Dieser Teufelskreis muss durchbrochen werden. Griechenland muss wieder handlungsfähig werden, damit wir wenigstens einen Teil des geliehenen Geldes wieder sehen."
+            },
+            {
+                "selection": "c",
+                "statement": "Wir FREIE WÄHLER sehen keine Notwendigkeit, unsere vergleichsweise gut funktionierenden sozialen Sicherungssysteme auf die europäische Ebene zu verlagern."
+            },
+            {
+                "selection": "c",
+                "statement": "Die Einführung von Euro-Bonds führt zu einer Vergemeinschaftung der Schulden in Europa. Eine Entwicklung weg vom Grundsatz, demzufolge jedes Land für seine Schulden selbst haftet, lehnen wir ab."
+            },
+            {
+                "selection": "c",
+                "statement": "Wir sehen transnationale Listen kritisch, da damit keine proportionale Verteilung der Abgeordneten nach Regionen und zugleich politischer Färbung gewährleistet ist. Im Europaparlament können wir regelmäßig beobachten, dass bei Abstimmungen der nationale Hintergrund eine besondere Rolle spielt. Mit transnationalen Listen würden dann eher Zufälle festlegen, welche nationalen Interessen in der fünfjährigen Wahlperiode besonders stark und besonders schwach vertreten werden."
+            }
+        ],
+        [
+            {
+                "selection": "a",
+                "statement": "Ja, aber mit an der nationalen Wirtschaftsleistung angepassten Wechselkursen."
+            },
+            {
+                "selection": "a",
+                "statement": "Ja, wir nehmen die Wahl an."
+            },
+            {
+                "selection": "c",
+                "statement": "Nein. Unter Freunden macht man sowas nicht."
+            },
+            {
+                "selection": "a",
+                "statement": "Ja, für gemeine Methoden braucht es gemeinsame Methoden."
+            },
+            {
+                "selection": "c",
+                "statement": "Nein, die Bundeswehr. Dient. Deutschland."
+            },
+            {
+                "selection": "a",
+                "statement": "Ja... ähm ... Nein."
+            },
+            {
+                "selection": "c",
+                "statement": "Nein, unter Freunden macht man sowas nicht."
+            },
+            {
+                "selection": "c",
+                "statement": "Nein, Teile der Bevölkerung könnte das verunsichern."
+            },
+            {
+                "selection": "c",
+                "statement": "Nein, die Rechnung wäre zu einfach. Dinge, die man leicht versteht, werden zu schnell kaputt geredet."
+            },
+            {
+                "selection": "a",
+                "statement": "Ja, Stichwort: Lebensraum im Osten"
+            },
+            {
+                "selection": "c",
+                "statement": "Nein, Tradition verpflichtet"
+            },
+            {
+                "selection": "c",
+                "statement": "Nein, die EU soll sich als gut integriertes Bundesland in Deutschland entwickeln."
+            },
+            {
+                "selection": "c",
+                "statement": "Nein, das wäre Kommunismus."
+            },
+            {
+                "selection": "a",
+                "statement": "Ja, denn Spielschuld, ist Ehrenschuld; wir Deutsche wissen das."
+            },
+            {
+                "selection": "a",
+                "statement": "Ja, aber Arbeitslose sollte man generell nicht versichern. Stichwort: Selektion"
+            },
+            {
+                "selection": "c",
+                "statement": "Nein, aber die Idee mit den Euro-Bongs finden wir prinzipiell gut."
+            },
+            {
+                "selection": "a",
+                "statement": "Ja, alles was zu unserer Machtergreifung führt, sehen wir positiv."
+            }
+        ],
+        [
+            {
+                "selection": "a",
+                "statement": "Der Euro hat sich als Bindeglied der europäischen Gemeinschaft erwiesen. Dies sollte, sofern die jeweiligen Bürger in freien Abstimmungen darüber entscheiden dürfen, erweitert werden, um das Zusammengehörigkeitsgefühl zu stärken. Stärker als in der Vergangenheit muss jedoch darauf geachtet werden, dass die Konvergenzkriterien erfüllt sind."
+            },
+            {
+                "selection": "a",
+                "statement": "Parlament und Regierung sind die beiden großen Elemente der parlamentarischen Demokratie. Das eine geht nicht ohne das andere, will man die Legitimation von beidem erhalten."
+            },
+            {
+                "selection": "a",
+                "statement": "Wir fordern die Einberufung einer verfassungsgebenden Versammlung (Verfassungskonvent) für die Europäische Union. Ziel des Verfassungskonvents ist es, das politische System der EU und ihre Beziehung zu den Mitgliedstaaten und Regionen neu zu strukturieren und auf eine demokratische Basis zu heben. Der Prozess der Ausarbeitung einer europäischen Verfassung muss transparent geschehen und die europäischen Bürgerinnen und Bürger umfassend beteiligen."
+            },
+            {
+                "selection": "c",
+                "statement": "Da die Gemeinschaftsmethode das Europäische Parlament weitgehend einflusslos lässt, lehnen wir sie generell ab. Abgesehen davon ist die ursprüngliche Idee mehrfach ad absurdum geführt. Nationale Interessen finden immer wieder Einzug in Kommission und Ministerrat. Solange sich dort die europäische Idee nicht durchsetzt, wird es nur in den seltensten Fällen zu tatsächlichen Entscheidungen im europäischen Sinn kommen."
+            },
+            {
+                "selection": "a",
+                "statement": "Wir stehen der Idee einer gemeinsamen europäischen Armee wohlwollend gegenüber. Wir betrachten die Gemeinsame Europäische Armee als selbständigen Teil eines transatlantischen Sicherheits- und Verteidigungsbündnisses. Integriert in ein immer größer werdendes globales Sicherheitsbündnis, welches dazu beiträgt das Macht- und  Sicherheitsdilemma zwischen den Mitgliedern des Bündnisses zu überwinden."
+            },
+            {
+                "selection": "c",
+                "statement": "Frontex muss abgeschafft werden. Stattdessen sind sichere Fluchtwege zu realisieren. So tritt man dem Schleppertum am besten entgegen."
+            },
+            {
+                "selection": "a",
+                "statement": "Will man den Fokus von nationalen Interessen wegbringen, führt insbesondere in der Wirtschaftspolitik kein Weg an einer wesentlich weiteren europäischen Zusammenarbeit und gebündelter Entscheidungskompetenz vorbei."
+            },
+            {
+                "selection": "a",
+                "statement": "Transparenz ist in jeglicher Form der politischen Entscheidungsfindung ein Mittel zur besseren Akzeptanz von Entscheidungen. Dies gilt auch für den Europäischen Rat."
+            },
+            {
+                "selection": "a",
+                "statement": "Wir streben die europaweite Einführung eines bedingungslosen Grundeinkommens an, das jedem Bürger ein Existenzminimum und gesellschaftliche Teilhabe garantiert. Bis zu dessen Einführung setzen wir uns europaweit für Mindestlöhne ein, welche den Lohnwettbewerb eindämmen sollen, für menschenwürdige Arbeits- und Lebensverhältnisse sorgen und genauso wie das bedingungslose Grundeinkommen auch die Binnennachfrage steigern würden."
+            },
+            {
+                "selection": "a",
+                "statement": "Solange es zu für alle Beteiligten vorteilhaften Bedingungen geschieht, spricht nichts gegen die Aufnahme weiterer Mitglieder. Allerdings muss man sehr genau darauf achten, dass man die Wirtschaften und Gesellschaften der neuen Mitglieder nicht überfordert und somit der Situation aussetzt, Bedingungen erfüllen zu müssen, die eben nicht auch für sie vorteilhaft sind."
+            },
+            {
+                "selection": "a",
+                "statement": "Ein Staat, der auch nur darüber nachdenkt, die Todesstrafe einzuführen, kann kein Mitglied der europäischen Wertegemeinschaft sein. Der Prozess dorthin, der sich seit über vier Jahren abzeichnete und der zu immer weiter greifenden Einschränkungen bürgerlicher Rechte und demokratischer Grundzüge führte, hätte schon vor geraumer Zeit gestoppt werden müssen."
+            },
+            {
+                "selection": "a",
+                "statement": "Wir streben für die Zukunft Europas einen offenen Prozess an, der von den Bürgerinnen und Bürgern Europas gemeinsam getragen wird. Langfristig sehen wir die Chance, dass Europa als ein demokratischer europäischer Bundesstaat mit eigener Verfassung gestaltet wird, die in  einem direktdemokratischen Prozess mit breiter Mehrheit aller Europäer entworfen und in Referenden der Mitgliedsländer angenommen wird."
+            },
+            {
+                "selection": "a",
+                "statement": "Wird nach konsequenter Beteiligung der Eigentümer die Eigenkapitalquote einer Bank zu niedrig, soll die betroffene Bank durch Umwandlung von Fremdkapital in Eigenkapital stabilisiert werden. Als letzter Schritt ist eine Verstaatlichung zu prüfen, wenn eine Insolvenz aufgrund der gesamtwirtschaftlichen Folgewirkungen ausscheidet. Eine Abfederung sozialer Einschnitte durch den Schutz von Kleinanlegern bzw. privater Renten- und Lebensversicherungen ist bis zu einem Höchstbetrag zu gewährleisten."
+            },
+            {
+                "selection": "a",
+                "statement": "Um die Schuldenkrise in Europa wirksam zu lösen, fordern wir die kurzfristige Durchführung frühzeitiger einmaliger Schuldenschnitte von Staatsschulden in der Europäischen Union sowie eine effektive Restrukturierung, und wenn nötig, Rekapitalisierung maroder Banken. Was in Griechenland gemacht wurde, führt zum Ausbluten der dortigen Wirtschaft zum Vorteil der kreditgebenden Banken."
+            },
+            {
+                "selection": "a",
+                "statement": "Die Vereinheitlichung des Wirtschafts- und Steuersystems kann nur gelingen, wenn es auch ein einheitliches Sozialsystem gibt. Insofern soll es auch spätestens wenn die beiden erstgenannten Punkte ihrer Vollendung zugehen zu einer gemeinsamen Arbeitslosenversicherung kommen. Wobei unser eigentliches Ziel ein europaweites bedingungsloses Grundeinkommen ist, was eine Arbeitslosenversicherung überflüssig machen würde."
+            },
+            {
+                "selection": "a",
+                "statement": "Jeder haftet für jeden. Das sollte das europäische Prinzip sein. Vorausgesetzt, man lässt es gar nicht so weit kommen. Insofern dürfte in der gegenwärtigen Situation von Griechenland, Spanien, Portugal, Irland und Italien die Einführung derartiger Finanzierungsmethoden nur die Ausnahme sein. In der Zukunft sind die Entwicklungen wesentlich früher zu erkennen und so zu behandeln, dass Schieflagen der Staaten vermieden werden."
+            },
+            {
+                "selection": "b",
+                "statement": "Ein einheitliches Wahlrecht ist die Voraussetzung für ein tatsächlich unter gleichen Bedingungen zustande gekommenes Parlament. Quoten- und Zugangsregeln zur Wahl sind wo vorhanden abzuschaffen, das Berechnungssystem der Ergebnisse muss identisch sein, das Wahlsystem ebenfalls. Inwieweit dann transnationale Listen noch notwendig und zielführend sind, ist noch nicht innerhalb unserer Partei entschieden."
+            }
+        ],
+        [
+            {
+                "selection": "a",
+                "statement": ""
+            },
+            {
+                "selection": "a",
+                "statement": "Unser Leitbild ist eine politische Union, die allen europäischen Bürgern demokratische Mitwirkungsrechte gibt. Als längerfristige Perspektive braucht das demokratische Europa eine parlamentarisch verantwortliche Regierung auf der Basis einer europäischen Verfassung."
+            },
+            {
+                "selection": "a",
+                "statement": "Perspektivisch bedarf eine erneuerte Europäische Union einer Überarbeitung des Lissaboner Vertrages. Ziel ist eine europäische Verfassung, die sicherstellt, dass wirtschaftliche Integration mit sozialem Fortschritt und mehr Demokratie verbunden wird."
+            },
+            {
+                "selection": "a",
+                "statement": "Wir sind dafür, Mehrheitsentscheidungen und eine Beteiligung des Europäischen Parlamentes auch in Fragen der europäischen Außenpolitik zu verstärken."
+            },
+            {
+                "selection": "a",
+                "statement": "Auch in der Verteidigungspolitik wollen wir stärker zusammenarbeiten und die Integration von Streitkräften der Mitgliedsstaaten voranbringen – als Teil einer umfassenden, präventiven und in das internationale Recht eingebetteten Sicherheits- und Verteidigungspolitik der EU. Perspektivisch wollen wir eine europäische Armee aufbauen, deren Einsatz parlamentarisch legitimiert werden muss."
+            },
+            {
+                "selection": "a",
+                "statement": "Die Außengrenzen müssen besser vor illegalen Grenzübertritten geschützt werden. Dieser Schutz ist die Bedingung für offene Grenzen und für Freizügigkeit im Inneren der EU. Wir wollen daher das Mandat und die Arbeit von Frontex, der europäischen Agentur für die Grenz- und Küstenwache, stärken. Dabei werden wir dafür Sorge tragen, dass die Gefahren für Flüchtende reduziert und das Gebot der Nicht-Zurückweisung eingehalten wird."
+            },
+            {
+                "selection": "a",
+                "statement": "Wir sind nicht einzeln stark, sondern nur gemeinsam. Daher brauchen wir eine koordinierte Wirtschaftspolitik in Europa. Unser Ziel ist es, die konjunkturellen Entwicklungen der Mitgliedstaaten Europas besser aufeinander abzustimmen. Exzessive Ungleichgewichte wollen wir überwinden. Dafür brauchen wir eine bessere und wirksamere Integration der Wirtschaftspolitik – perspektivisch mit der Einrichtung einer Wirtschaftsregierung für den Euro-Raum."
+            },
+            {
+                "selection": "b",
+                "statement": "Grundsätzlich treten wir für mehr Transparenz und mehr Öffentlichkeit auch bei Sitzungen des Europäischen Rates und der EU-Ministerräte ein. Um politische Verhandlungen zwischen den Regierungen zu ermöglichen, können Transparenz und Öffentlichkeit allerdings nicht für alle Bereiche und Themen gelten."
+            },
+            {
+                "selection": "a",
+                "statement": "Wir wollen eine europäische Sozialunion, die ihre Politik an den Bedürfnissen der Menschen ausrichtet, soziale Mindeststandards sichert und Lohn- und Sozialdumping wirksam unterbindet. Dazu gehören auch Standards für Mindestlöhne in möglichst allen EU-Mitgliedstaaten."
+            },
+            {
+                "selection": "a",
+                "statement": "Die EU-Erweiterungspolitik bleibt wichtig, um Frieden, Stabilität und Zusammenarbeit zu fördern. Zugleich muss die EU aber durch innere Reformen ihre Handlungsfähigkeit sicherstellen. Außerdem gilt grundsätzlich, dass neue Mitgliedstaaten vor Beitritt die umfassenden Beitrittskriterien gerade auch in den Bereichen der Menschenrechte und Rechtstaatlichkeit erfüllen müssen."
+            },
+            {
+                "selection": "b",
+                "statement": "Weder die Türkei noch die EU sind in absehbarer Zeit für einen Beitritt zur bereit. Allerdings sind die Beitrittsverhandlungen das einzige kontinuierliche Gesprächsformat der EU mit der Türkei. Eine Isolierung der Türkei ist nicht im Interesse Europas. Klar ist: Hält die türkische Regierung an ihrem konfrontativen Kurs fest, entfernt sie die Türkei von Europa. Sollte die Türkei die Todesstrafe einführen, müssen die Beitrittsverhandlungen aber beendet werden."
+            },
+            {
+                "selection": "a",
+                "statement": "Unser Leitbild ist eine politische Union, die allen europäischen Bürgern demokratische Mitwirkungsrechte gibt. Das demokratische Europa braucht eine parlamentarisch verantwortliche Regierung auf der Basis einer europäischen Verfassung. Bereits in unserem Heidelberger Grundsatzprogramm 1925 hat sich die SPD zu den Vereinigten Staaten von Europa als Vision bekannt."
+            },
+            {
+                "selection": "a",
+                "statement": "Wenn eine Bank in Schieflage gerät, müssen vorrangig ihre Anteileigentümer und deren vermögende Gläubiger haften (Bail-in-Prinzip). Der entsprechende europäische Abwicklungsmechanismus ist in diesem Sinne anzuwenden und weiter zu stärken."
+            },
+            {
+                "selection": "b",
+                "statement": "Griechenland wurde von den europäischen Gläubigern bei erfolgreicher Fortsetzung des Reformkurses zwar kein erneuter Schuldenschnitt, aber weitere Schuldenerleichterungen in Aussicht gestellt. Die griechische Regierung hat zuletzt unter größten Anstrengungen einschneidende Reformen auf den Weg gebracht. Um langfristig Sicherheit zu schaffen, sollten nun auch die Gläubiger ihre gemachten Zusagen einhalten. Eine reine Sparpolitik wird den Menschen in Griechenland nicht helfen."
+            },
+            {
+                "selection": "c",
+                "statement": "Wir wollen eine europäische Sozialunion, die ihre Politik an den Bedürfnissen der Menschen ausrichtet, soziale Mindeststandards sichert und Lohn- und Sozialdumping wirksam unterbindet. Diese gemeinsamen sozialen Standards zu schaffen, muss der erste Schritt sein, auf den das politische Hauptaugenmerk liegen sollte."
+            },
+            {
+                "selection": "c",
+                "statement": "Mit dem Europäischen Stabilitätsmechanismus (ESM) ist es gelungen, die Eurozone und insbesondere die Refinanzierungsbedingungen zu stabilisieren. Darüber hinaus ist es nun vor allem erforderlich, bessere Strukturen für eine abgestimmte Wirtschafts- und Finanzpolitik in der Eurozone zu schaffen. Wir wollen eine Wirtschaftsregierung der Eurozone aufbauen, mit einem gemeinsamen Finanzbudget, das verstärkte Investitionen in Wachstum, Beschäftigung und den europäischen Zusammenhalt ermöglicht."
+            },
+            {
+                "selection": "a",
+                "statement": "Wir wollen die europäischen Parteien weiter stärken und die Möglichkeiten, sich in ihnen zu engagieren, erweitern. Die europäischen Parteien sind Träger einer transnationalen politischen Willensbildung. Um diesen wichtigen Aspekt europäischer Demokratie zusätzlich zu stärken, setzen wir uns auch dafür ein, dass die durch das Ausscheiden Großbritanniens freiwerdenden Sitze im Europäischen Parlament künftig durch Abgeordnete besetzt werden, die anhand transnationaler Listen gewählt worden sind."
+            }
+        ],
+        [
+            {
+                "selection": "a",
+                "statement": "Der Euro wurde genauso wie die EU als Friedensprojekt geschaffen und an diesem Gedanken muss trotz aller Schwierigkeiten festgehalten werden. Die Probleme der Euro-Zone liegen nicht in der gemeinsamen Währung, sondern in konkreten falschen finanzpolitischen Einzelentscheidungen. Eine Abschaffung des Euros würde die Probleme der Euro-Zone lediglich verschärfen und ist daher keine Lösung. Zudem ist eine globale Alternative zum Dollar unabdingbar."
+            },
+            {
+                "selection": "a",
+                "statement": "Eine demokratisch von allen Europäer_innen gewählte Regierung kann die großen Herausforderungen unserer Zeit besser angehen als die derzeitigen Strukturen, bei denen Einzelstaaten zu viel Macht haben, um wichtige Veränderungen zu verhindern."
+            },
+            {
+                "selection": "a",
+                "statement": "Eine gemeinsame Verfassung, die von allen Bürger_innen der EU verabschiedet wäre, würde das Zusammengehörigkeitsgefühl und das Pflichtbewusstsein der EU gegenüber stärken. Wichtig wäre hierbei, dass bei ihrer Ausarbeitung alle EU-Bürger_innen mitwirken können."
+            },
+            {
+                "selection": "a",
+                "statement": ""
+            },
+            {
+                "selection": "a",
+                "statement": "Mit einer gemeinsamen Armee könnten Synergieeffekte genutzt und somit gleichzeitig Kosten gespart und die Verteidigungsfähigkeit verbessert werden. Außerdem wäre so die Verhandlungsposition der EU auf internationaler Ebene gestärkt."
+            },
+            {
+                "selection": "c",
+                "statement": "Die Abschottungspolitik der EU lehnen wir ab. Die Industrienationen und somit ganz besonders auch die EU sind durch ihre Vergangenheit, durch ihren Konsum, durch ihre Ausbeutung der restlichen Welt, durch ihre Waffenexporte, durch ihre rohstofforientierte Unterstützung für Diktaturen und aufgrund Fehlverhaltens für zahlreiche Fluchtursachen maßgeblich mitverantwortlich und dürfen sich daher nicht der Verantwortung entziehen, indem sie Menschen daran hindern, in Europa Schutz zu suchen."
+            },
+            {
+                "selection": "a",
+                "statement": ""
+            },
+            {
+                "selection": "a",
+                "statement": "Die PARTEI MENSCH UMWELT TIERSCHUTZ steht für Demokratie statt Lobbykratie. Dazu gehört ganz klar auch mehr Transparenz."
+            },
+            {
+                "selection": "a",
+                "statement": "Die PARTEI MENSCH UMWELT TIERSCHUTZ steht für soziale Gerechtigkeit. Dazu gehört ganz klar auch ein EU-weiter Mindestlohn. Dieser würde Lohndumping über Grenzen hinweg besser verhindern."
+            },
+            {
+                "selection": "a",
+                "statement": "Weitere Länder Europas würden die EU stärken. Vor ihrer Aufnahme muss aber zwingend sichergestellt werden, dass sie den demokratischen und rechtsstaatlichen Grundsätzen der EU entsprechen und die Menschenrechte beachtet werden."
+            },
+            {
+                "selection": "a",
+                "statement": "Für einen Beitritt müsste die türkische Regierung fähig und gewillt sein, eine Demokratie nach dem Verständnis der europäischen Staaten zu entwickeln: Eine demokratische Regierungsform, die Gewährleistung der Menschenrechte, Meinungs- und Religionsfreiheit sowie den Schutz von Minderheiten. Der Wille hierzu hat in den letzten Jahren und Monaten in erschreckendem Maße abgenommen. Daher erachten wir einen Abbruch für unbedingt erforderlich."
+            },
+            {
+                "selection": "b",
+                "statement": "Diese Frage sollte zum heutigen Zeitpunkt offen gelassen werden. Zunächst muss die EU demokratischer werden und wieder mehr Vertrauen zurückgewinnen. Je nachdem, wie sich die EU dann weiterentwickelt und wie viel Vertrauen sie in der Bevölkerung genießt, kann dies evtl. zu einem späteren Zeitpunkt wieder diskutiert werden."
+            },
+            {
+                "selection": "a",
+                "statement": ""
+            },
+            {
+                "selection": "a",
+                "statement": "Insbesondere ärmere Griechen trifft die Schuldenkrise durch die Sparmaßnahmen bei Sozialleistungen besonders hart. Um ihnen künftig wieder ein menschenwürdiges Leben ohne Existenzangst zu ermöglichen, ist ein Schuldenschnitt nötig. Praktisch gesehen ist der Schuldenerlass für Griechenland durch lange tilgungsfreie Kreditphasen und niedrige Kreditzinsen ohnehin bereits Realität."
+            },
+            {
+                "selection": "a",
+                "statement": ""
+            },
+            {
+                "selection": "b",
+                "statement": "Bei Eurobonds sind weder die wirtschaftlichen Auswirkungen noch die juristische Zulässigkeit klar. Diese Fragen müssten zunächst geklärt werden, bevor darüber entschieden werden soll."
+            },
+            {
+                "selection": "a",
+                "statement": "Den vom EU-Parlament vorgelegten Entwurf, der eine demokratiefeindliche 3-%-Hürde beinhaltet, lehnen wir jedoch ab."
+            }
+        ],
+        [
+            {
+                "selection": "a",
+                "statement": "CDU und CSU wollen die dauerhafte Stabilisierung der Eurozone erreichen. Europa hat in der Staatsverschuldungskrise entschlossen und umsichtig gehandelt. Der Euro ist ein sichtbares Zeichen für das Zusammenwachsen in Europa und eine weltweit geschätzte Währung."
+            },
+            {
+                "selection": "c",
+                "statement": "Die EU braucht eine effektive parlamentarische Kontrolle. Als Kontroll-, Initiativ- und Exekutivorgan der EU ist die EU-Kommission bereits jetzt dem Europäischen Parlament politisch verantwortlich. Das Europäische Parlament kann die Kommission bei einem erfolgreichen Misstrauensvotum sogar zum Rücktritt zwingen."
+            },
+            {
+                "selection": "b",
+                "statement": "Wir müssen Europa fit machen für die Gegenwart und Zukunft. CDU und CSU wollen ein starkes, selbstbewusstes und dynamisches Europa. Darauf kommt es jetzt an. Ein neuer Anlauf für eine europäische Verfassung ist auf absehbare Zeit nicht realistisch."
+            },
+            {
+                "selection": "b",
+                "statement": "CDU und CSU unterstützen die enge Zusammenarbeit der EU-Mitgliedstaaten in der Außen- und Sicherheitspolitik. Die Vergemeinschaftung der Außen- und Sicherheitspolitik ist momentan noch nicht realisierbar."
+            },
+            {
+                "selection": "b",
+                "statement": "Die EU muss sich selbständig wappnen, wenn sie dauerhaft bestehen will. Wir wollen dafür die vorhandenen militärischen Kapazitäten und Fähigkeiten besser nutzen und bündeln und das Potenzial integrierter europäischer Streitkräfte ausbauen. Wir unterstützen deshalb die Vorschläge für eine Europäische Verteidigungsunion und für einen Europäischen Verteidigungsfonds."
+            },
+            {
+                "selection": "a",
+                "statement": "Europa muss seine Außengrenzen wirksam gegen illegale Migration schützen und die Grenzschutzagentur Frontex stärken.  Der Einsatz von Frontex sollte auch ohne Einverständnis des betreffenden Mitgliedstaats möglich sein, wenn dieser trotz Aufforderung seinen Verpflichtungen nicht nachkommt."
+            },
+            {
+                "selection": "b",
+                "statement": "CDU und CSU wollen die dauerhafte Stabilisierung der Eurozone erreichen. Maßstab muss dabei bleiben: Eine Vergemeinschaftung von Schulden schließen wir weiter aus. Wir sind bereit, mit der neuen französischen Regierung die Eurozone schrittweise weiterzuentwickeln."
+            },
+            {
+                "selection": "c",
+                "statement": "Der Schutz der Vertraulichkeit auf höchster politischer Ebene bei der Diskussion wichtiger europapolitischer Grundsatzfragen, der EU-Außenbeziehungen (z.B. EU-Sanktionen) sowie internationaler Handelspolitik sollte gewahrt bleiben. Anders als der EU-Ministerrat ist der Europäische Rat nicht gesetzgeberisch tätig."
+            },
+            {
+                "selection": "c",
+                "statement": "Die Festsetzung der Höhe von Löhnen ist Aufgabe der Tarifpartner, nicht Aufgabe des Staates oder der EU. Wichtige Bereiche der Arbeits- und Sozialpolitik liegen in der Hand der EU-Mitgliedstaaten, so auch die Regelung des Arbeitsentgelts. Die EU-Mitgliedstaaten können so arbeits- und sozialpolitisch eigene, maßgeschneiderte Akzente setzen und voneinander lernen. Damit wird dem Subsidiaritätsgedanken Rechnung getragen."
+            },
+            {
+                "selection": "b",
+                "statement": "Weder die EU noch die Beitrittskandidaten dürfen überfordert werden. Die EU muss eine Zone der politischen Stabilität und des Friedens in Europa bleiben. Deshalb gilt für uns: Konsolidierung vor Erweiterung. Die Aufnahme weiterer Länder in die Europäische Union schließen wir nicht grundsätzlich aus. Eine Aufnahme in die EU kann aber erst erfolgen, wenn die Beitrittskandidaten sämtliche Beitrittskriterien voll und ganz erfüllen und gleichzeitig die Aufnahmefähigkeit der EU gegeben ist."
+            },
+            {
+                "selection": "b",
+                "statement": "Wir sehen mit großer Sorge die jüngsten Entwicklungen in der Türkei. Die Beitrittsverhandlungen liegen derzeit faktisch auf Eis. Eine Vollmitgliedschaft der Türkei lehnen wir ab, weil sie die Voraussetzungen für einen Beitritt nicht erfüllt. Wir möchten aber die Beziehungen zwischen der EU und der Türkei weiter vertiefen. Wir wollen eine möglichst starke Kooperation sowie eine enge Zusammenarbeit in außen– und sicherheitspolitischen Fragen."
+            },
+            {
+                "selection": "c",
+                "statement": "CDU und CSU wollen ein starkes, selbstbewusstes und dynamisches Europa. Wir müssen Europa fit machen für die Gegenwart und Zukunft. Darauf kommt es jetzt an. Die EU ist eine supranationale Organisation.  CDU und CSU wollen ein starkes Europa mit starken Kommunen, Regionen und Nationalstaaten. Einen europäischen Bundesstaat lehnen wir ab."
+            },
+            {
+                "selection": "a",
+                "statement": "Die europäischen Regelungen zur Bankenrettung müssen eingehalten werden. Im Falle einer Abwicklung sind vorrangig die Eigentümer und Gläubiger der Bank heranzuziehen. Die EU-Mitgliedstaaten sollten sich im Falle von Liquiditätsproblemen einer Bank mit der Verwendung von Steuergeldern möglichst zurückhalten."
+            },
+            {
+                "selection": "c",
+                "statement": "Nach den EU-Verträgen haftet kein Mitgliedstaat für die Verbindlichkeiten eines anderen Mitgliedstaats und tritt auch nicht für dessen Verbindlichkeiten ein. Die Anpassungsprogramme zielen deshalb darauf ab, Griechenland langfristig in die Lage zu versetzen, seine Schulden selbst zu begleichen. Das schließt die Möglichkeit von Schuldenerleichterungen, wie Zins- und Tilgungsstundungen, mit ein. Diese wurden Griechenland in der Vergangenheit bereits in erheblichem Umfang gewährt."
+            },
+            {
+                "selection": "c",
+                "statement": "Die Kompetenz für die Arbeitslosenversicherung liegt in der Hand der Mitgliedstaaten und sollte dort auch bleiben. Die Einführung einer europäischen Arbeitslosenversicherung könnte EU-Mitgliedstaaten dazu verleiten, auf Kosten von Arbeitnehmerinnen und Arbeitnehmern anderer EU-Mitgliedstaaten, notwendige Haushaltssanierungen und Strukturreformen aufzuschieben oder gar zu unterlassen."
+            },
+            {
+                "selection": "c",
+                "statement": "Wir wollen die dauerhafte Stabilisierung der Eurozone erreichen. Eine Vergemeinschaftung von Schulden schließen wir weiter aus. Gemeinschaftliche Anleihen würden falsche Anreize setzen und könnten EU-Mitgliedstaaten dazu verleiten, notwendige Haushaltssanierungen und Strukturreformen aufzuschieben oder gar zu unterlassen."
+            },
+            {
+                "selection": "b",
+                "statement": "Die Einführung transnationaler Listen bei der Europawahl erfordert eine Änderung des EU-Vertrages. Diese ist kurzfristig nicht realisierbar."
+            }
+        ],
+        [
+            {
+                "selection": "a",
+                "statement": "DIE LINKE will den Euro nicht abschaffen, aber die Währungsunion radikal reformieren, da sie sonst zerbrechen wird. Die neoliberale Konstruktion des Euros nützt Großkonzernen und der deutschen Exportindustrie, während sie die EU wirtschaftlich und sozial spaltet. Die EU braucht eine andere deutsche Wirtschaftspolitik und ein Ende der Austerität mit einer koordinierten Wirtschafts- und Investitionspolitik und Mindestlöhnen. Euro-Länder, die die neoliberale Politik beenden wollen, dürfen nicht mit dem Ausschluss aus der Eurozone bedroht oder erpresst werden."
+            },
+            {
+                "selection": "c",
+                "statement": "DIE LINKE sieht Geheimdienste äußerst kritisch. Sie lassen sich selbst in den etablierten nationalen Strukturen kaum kontrollieren und sind einer Demokratie wesensfremd. In Deutschland haben wir erlebt, wie sie Teil eines Problems werden (Beispiele NSU, NSA-Unterstützung durch BND) beziehungsweise Verbrechen eben nicht verhindern (Anis Amri). Wir wollen Geheimdienste perspektivisch abschaffen und nicht supranationale, unkontrollierbare neue Geheimstrukturen aufbauen, wie es ein EU-Geheimdienst wäre."
+            },
+            {
+                "selection": "a",
+                "statement": "Die Europäische Union braucht einen Neustart mit einer vollständigen Revision der EU-Verträge, um militaristische,undemokratische und neoliberale Teile zu entfernen. Wir wollen eine Verfassung, die von den Bürgerinnen und Bürgern mitgestaltet wird und über die zeitgleich in allen EU-Mitgliedstaaten in einem Referendum abgestimmt wird. Die EU-Verfassung soll wirtschaftspolitisch neutral und gegenüber künftigen Gesellschaftsentwicklungen offen sein und soziale Rechte müssen Vorrang vor dem Binnenmarktfreiheiten haben. Eigentum hat auch dem Gemeinwohl zu dienen."
+            },
+            {
+                "selection": "b",
+                "statement": "DIE LINKE bekämpft die Militarisierung der EU: Die Pläne zur Schaffung einer „Verteidigungsunion“ und einer EU-Armee führen nicht zu mehr Sicherheit und Frieden, im Gegenteil. DIE LINKE fordert eine dem Frieden verpflichtete, zivile EU-Außen- und Sicherheitspolitik, die auf Konfliktprävention und globale Gerechtigkeit setzt. Die verstärkte Zusammenarbeit und die von Merkel und Macron angekündigte Kooperation außerhalb der Gemeinschaftsmethode lehnt die LINKE ab. Sie fordert dagegen die volle Kontrolle durch das Europäische Parlament und einen Parlamentsvorbehalt der für  Parlamente nationalen alle Militäreinsätze."
+            },
+            {
+                "selection": "c",
+                "statement": "DIE LINKE will abrüsten und keine neue Armee aus der Taufe heben und lehnt daher die in den letzten Jahren verstärkte Militarisierung der EU ab. Eine EU-Armee führt nicht zu mehr Sicherheit und Frieden, im Gegenteil. In dem Zusammenhang lehnt DIE LINKE die geplante Intensivierung der EU-NATO-Kooperation ab. DIE LINKE fordert eine dem Frieden verpflichtete EU-Außen- und Sicherheitspolitik, die strikt auf zivile Instrumente und Konfliktprävention setzt sowie das Ziel globaler Gerechtigkeit verfolgt, um die strukturellen Kriegs- und Konfliktursachen zu beseitigen."
+            },
+            {
+                "selection": "c",
+                "statement": "Die Militarisierung des EU-Außengrenzschutzes und der Flucht- und Migrationsabwehr wollen wir beenden. Die Grenzschutzagentur Frontex, die derzeit zur Europäischen Grenz- und Küstenwache ausgebaut wird, muss abgeschafft und durch eine EU-weit koordinierte zivile Seenotrettung ersetzt werden. Krieg, Hunger und wirtschaftliche Not sind maßgebliche Fluchtursachen. Die Mitgliedstaaten der EU tragen dafür historische Mitverantwortung und dürfen Lösungen nicht länger blockieren, sondern müssen sie fördern."
+            },
+            {
+                "selection": "c",
+                "statement": "DIE LINKE will eine enge wirtschaftspolitische Koordinierung in der EU, die im Gegensatz zur aktuellen Politik auf öffentliche Investitionen und eine soziale und ökologische Wirtschaftsentwicklung setzt. Die demokratische Kontrolle auch der Eurogruppe und der EZB soll über die Stärkung des EU-Parlaments und die der Mitgliedstaaten erfolgen: Sie müssen in Fragen der Wirtschafts- und Währungsunion dem Rat gleichberechtigt entscheiden können. Die aktuellen Vorschläge für ein Eurogruppen-Parlament und einen Euro-Finanzminister sowie die Entmachtung der Parlamente und Eingriffe in die Tarifautonomie lehnen wir ab."
+            },
+            {
+                "selection": "a",
+                "statement": "Das grundlegende Problem, dass die Regierungen der Mitgliedstaaten als Gesetzgeber aktiv sind und die Gewaltenteilung verletzt wird, wird durch die fehlende Öffentlichkeit, mangelnde Transparenz und so verhinderte Zurechenbarkeit noch verschärft."
+            },
+            {
+                "selection": "a",
+                "statement": "DIE LINKE fordert im Einklang mit der Europäischen Sozialcharta des Europarates einen Europäischen Mindestlohn in Höhe von mindestens 60% des Durchschnittslohns des jeweiligen Landes. In Deutschland setzten wir uns für die Anhebung des Mindestlohns auf 12 Euro ein."
+            },
+            {
+                "selection": "a",
+                "statement": "DIE LINKE ist für Beitrittswünsche offen, wenn sich die Bevölkerung klar dafür ausspricht und die demokratischen und menschenrechtlichen Standards der „Kopenhagener Kriterien“ erfüllt werden. Die EU-Beitrittspolitik muss aber grundlegend reformiert werden: In künftigen Erweiterungen müssen soziale Standards in den Beitrittsländern wie auch der EU insgesamt gesichert werden. So würde die wirtschaftlichen und sozialen Gefälle in den Beitrittsländern und der EU nicht weiter zunehmen und es könnten wachsende Vorbehalte gegen weitere Beitritte entkräftet werden."
+            },
+            {
+                "selection": "b",
+                "statement": "DIE LINKE verurteilt den von der AKP vorangetriebenen autoritären Umbau der Türkei und fordert das sofortige Einfrieren der EU-Beitrittsverhandlungen. Eine radikale Wende in der Türkeipolitik beinhaltet den Stopp von Rüstungsexporten in die Türkei, den Auszahlungsstopp von Vorbeitrittshilfen, die Absage an jede Ausweitung der Zollunion und ein Ende des EU-Türkei-Deals zur Migrationsbekämpfung. DIE LINKE steht an der Seite der progressiven Kräfte in der Türkei. Über einen EU-Beitritt darf erst nach der Rücknahme der autoritären „Reformen“ und weiterverhandelt  Menschenrechtsstandards der Wiederherstellung der werden."
+            },
+            {
+                "selection": "c",
+                "statement": ""
+            },
+            {
+                "selection": "a",
+                "statement": "DIE LINKE lehnt Bankenrettungen auf Kosten der Gesellschaft ab. Die Eigentümer und Gläubiger müssen für die Banken haften, wobei die Einlagen von Kleinsparerinnen und Kleinsparern abgesichert werden müssen. Auch Sparkassen und Genossenschaftsbanken dürfen nicht für private Großbanken haften. Die angeblich zur Rettung Griechenlands ausgegebenen Kredite stellten ebenfalls eine Rettung vor allem deutscher und französischer Banken dar. Der zwingend notwendige Schuldenschnitt in Griechenland wird dann nicht mehr die Banken treffen, sondern die Steuerzahler."
+            },
+            {
+                "selection": "a",
+                "statement": "Die “Griechenlandrettung“ hätte mit einem Schuldenschnitt beginnen müssen. Die seitdem ausbezahlten „Hilfskredite“ flossen zu 90 Prozent in den Schuldendienst, vor allem an deutsche und französische Banken. Jetzt müssen Kreditausfälle nicht mehr von den Banken, sondern der Öffentlichkeit getragen werden: Die Risiken wurden von privaten Gläubigern auf die öffentliche Hand übertragen. Das hat DIE LINKE von Beginn an kritisiert. Anstatt weiter Schulden aufzuhäufen, muss mit einem Schuldenschnitt und einem Stopp der Kürzungsdiktate eine Entwicklungschance eröffnet werden."
+            },
+            {
+                "selection": "b",
+                "statement": "DIE LINKE kämpft für eine soziale EU und Maßnahmen zur Bekämpfung des Steuer-, Lohn- und Sozialdumpings. Wir wollen eine stärkere Koordinierung und die schrittweise Anhebung von Sozialleistungen in allen EU-Ländern. Die gegenwärtigen Pläne für eine gemeinsame Arbeitslosenversicherung, wie sie im Rahmen der Debatten um die Vertiefung der Wirtschafts- und Währungsunion diskutiert werden, lehnen wir entschieden ab: Der Zugriff auf diesen geplanten Fonds ist an neoliberale Strukturreformen geknüpft, die Arbeitnehmer*innenrechte und den Sozialstaat weiter aushöhlen."
+            },
+            {
+                "selection": "a",
+                "statement": "DIE LINKE will in einem ersten Schritt die Kreditaufnahme der Euro-Länder durch eine gemeinsame Haftung absichern. Mit diesen Anleihen könnten Spekulationen mit Schulden einzelner Länder auf den Finanzmärkten eingedämmt werden. Wichtiger ist aber, die Staatsfinanzierung von den Finanzmärkten unabhängig zu machen: Euro- und EU-Länder sollen bei der EZB direkt Kredite aufnehmen können. Da dies Vertragsänderungen voraussetzt, will DIE LINKE als Zwischenschritt eine Bank für öf f entliche Anleihen gründen, die bei der EZB Kredite aufnimmt und diese an die Staaten weiterreicht."
+            },
+            {
+                "selection": "c",
+                "statement": "In den Mitgliedstaaten der EU haben sich, teilweise über Jahrhunderte, völlig unterschiedliche Parteien- und Wahlsysteme ausgebildet, die in den historischen Auseinandersetzungen innerhalb ihrer Gesellschaften gebildet wurden. Das lässt sich nicht über ein Wahlrecht und transnationale Listen glattbügeln und vereinheitlichen."
+            }
+        ]
+    ]
+}
