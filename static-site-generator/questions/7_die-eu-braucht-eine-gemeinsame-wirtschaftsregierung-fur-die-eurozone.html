@@ -1,0 +1,373 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <style>
+        html {
+            font-family: Lato, 'Helvetica Neue', Arial, Helvetica, sans-serif;
+            font-size: 14px;
+        }
+
+        h5 {
+            font-size: 1.28571429em;
+            font-weight: 700;
+            line-height: 1.2857em;
+            margin: 0;
+        }
+
+        .card {
+            font-size: 1em;
+            overflow: hidden;
+            padding: 0;
+            border: none;
+            border-radius: .28571429rem;
+            box-shadow: 0 1px 3px 0 #d4d4d5, 0 0 0 1px #d4d4d5;
+            }
+
+            .card-block {
+            font-size: 1em;
+            position: relative;
+            margin: 0;
+            padding: 1em;
+            border: none;
+            border-top: 1px solid rgba(34, 36, 38, .1);
+            box-shadow: none;
+            }
+
+            .card-img-top {
+            display: block;
+            width: 100%;
+            height: auto;
+            }
+
+            .card-title {
+            font-size: 1.28571429em;
+            font-weight: 700;
+            line-height: 1.2857em;
+            }
+
+            .card-text {
+            clear: both;
+            margin-top: .5em;
+            color: rgba(0, 0, 0, .68);
+            }
+
+            .card-footer {
+            font-size: 1em;
+            position: static;
+            top: 0;
+            left: 0;
+            max-width: 100%;
+            padding: .75em 1em;
+            color: rgba(0, 0, 0, .4);
+            border-top: 1px solid rgba(0, 0, 0, .05) !important;
+            background: #fff;
+            }
+
+            .card-inverse .btn {
+            border: 1px solid rgba(0, 0, 0, .05);
+            }
+
+            .profile {
+            position: absolute;
+            top: -12px;
+            display: inline-block;
+            overflow: hidden;
+            box-sizing: border-box;
+            width: 25px;
+            height: 25px;
+            margin: 0;
+            border: 1px solid #fff;
+            border-radius: 50%;
+            }
+
+            .profile-avatar {
+            display: block;
+            width: 100%;
+            height: auto;
+            border-radius: 50%;
+            }
+
+            .profile-inline {
+            position: relative;
+            top: 0;
+            display: inline-block;
+            }
+
+            .profile-inline ~ .card-title {
+            display: inline-block;
+            margin-left: 4px;
+            vertical-align: top;
+            }
+
+            .text-bold {
+            font-weight: 700;
+            }
+
+            .meta {
+            font-size: 1em;
+            color: rgba(0, 0, 0, .4);
+            }
+
+            .meta a {
+            text-decoration: none;
+            color: rgba(0, 0, 0, .4);
+            }
+
+            .meta a:hover {
+            color: rgba(0, 0, 0, .87);
+            }
+        </style>
+        <title>Die EU braucht eine gemeinsame Wirtschaftsregierung für die Eurozone.</title>
+        <!-- Latest compiled and minified CSS -->
+        <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"> -->
+
+        <!-- Optional theme -->
+        <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous"> -->
+
+        <!-- Latest compiled and minified JavaScript -->
+        <!-- <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script> -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.4.0/Chart.min.js"></script>
+    </head>
+    <body>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <img src="images/header.jpg" class="img-fluid" alt="Eurom.at"/>
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <h4>Wir haben folgende These geprüft:</h4>
+            <h1>Die EU braucht eine gemeinsame Wirtschaftsregierung für die Eurozone.</h1>
+        </div>
+        <div class="container">
+            <div class="col-md-4">
+                <canvas id="myChart" ></canvas>
+            </div>
+            <div class="col-md-8">
+                <div class="container">
+                    <div class="col-md-12">
+                        <h5>Zustimmung</h5>
+                        <p style="word-wrap: break-word;">Piratenpartei Deutschland, SPD, Partei Mensch Umwelt Tierschutz</p>
+                    </div>
+                    <div class="col-md-12">
+                        <h5>Enthaltung</h5>
+                        <p>Ökologisch-Demokratische Partei, ÖDP, BÜNDNIS 90/DIE GRÜNEN, CDU</p>
+                    </div>
+                    <div class="col-md-12">
+                        <h5>Enthaltung</h5>
+                        <p>NPD, FDP Landesverband Sachsen, AfD, Freie Wähler, Die PARTEI</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="container" style="margin-top: 20px;">
+            <h4>Antworten der Partein:</h4>
+        </div>
+        <div class="container">
+            <div class="row">
+                    <div class="col-sm-6 col-md-4 col-lg-3 mt-4">
+                        <div class="card">
+                            <img class="card-img-top" src="images/afd.png">
+                            <!-- <img class="card-img-top" src="images/cdu.png"> -->
+                            <div class="card-block">
+                                <h4 class="card-title">AfD</h4>
+                                <div class="card-text">
+                                    Es ist völlig unklar, was dieser Begriff meint. &quot;Regiert&quot; werden kann nur im Rahmen eines einheitlichen Rechtsrahmens und eines einheitlichen Budgets. Da es unvorstellbar ist, dass eine &quot;Regierung&quot; einheitliche wirtschaftliche Entscheidungen für 27 wirtschaftlich völlig unterschiedliche Volkswirtschaften trifft, ist sowohl das Schlagwort wie alles, was man sich darunter vorstellen kann, absurd.
+                                </div>
+
+                                <div class="card-text">
+                                        <button type="button" class="btn btn-danger">Ablehnung</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3 mt-4">
+                        <div class="card">
+                            <img class="card-img-top" src="images/grün.png">
+                            <!-- <img class="card-img-top" src="images/cdu.png"> -->
+                            <div class="card-block">
+                                <h4 class="card-title">BÜNDNIS 90/DIE GRÜNEN</h4>
+                                <div class="card-text">
+                                    Die Wirtschafts- und Währungsunion braucht weitere Reformen. Aber unser Ziel bleibt ein Europa, in dem alle zusammenhalten. Eine Spaltung der EU in einen Euro-Exklusiv-Club und den Rest mit neuen Doppelstrukturen lehnen wir ab. Wir wollen, dass ein Mitglied der EU-Kommission mit allen Kompetenzen ausgestattet im Bereich der Wirtschafts- und Währungsunion wird, den Vorsitz der Euro-Gruppe und des Rats für Wirtschaft und Finanzen innehat und gegenüber dem EU-Parlament verantwortlich ist.
+                                </div>
+
+                                <div class="card-text">
+                                        <button type="button" class="btn btn-info">Enthaltung</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3 mt-4">
+                        <div class="card">
+                            <img class="card-img-top" src="images/cdu.png">
+                            <!-- <img class="card-img-top" src="images/cdu.png"> -->
+                            <div class="card-block">
+                                <h4 class="card-title">CDU</h4>
+                                <div class="card-text">
+                                    CDU und CSU wollen die dauerhafte Stabilisierung der Eurozone erreichen. Maßstab muss dabei bleiben: Eine Vergemeinschaftung von Schulden schließen wir weiter aus. Wir sind bereit, mit der neuen französischen Regierung die Eurozone schrittweise weiterzuentwickeln.
+                                </div>
+
+                                <div class="card-text">
+                                        <button type="button" class="btn btn-info">Enthaltung</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3 mt-4">
+                        <div class="card">
+                            <img class="card-img-top" src="images/partei.png">
+                            <!-- <img class="card-img-top" src="images/cdu.png"> -->
+                            <div class="card-block">
+                                <h4 class="card-title">Die PARTEI</h4>
+                                <div class="card-text">
+                                    Nein, unter Freunden macht man sowas nicht.
+                                </div>
+
+                                <div class="card-text">
+                                        <button type="button" class="btn btn-danger">Ablehnung</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3 mt-4">
+                        <div class="card">
+                            <img class="card-img-top" src="images/fdp.png">
+                            <!-- <img class="card-img-top" src="images/cdu.png"> -->
+                            <div class="card-block">
+                                <h4 class="card-title">FDP Landesverband Sachsen</h4>
+                                <div class="card-text">
+                                    Eine solche Wirtschaftsregierung kann erst im Rahmen einer gemeinsamen Wirtschafts- und Fiskalpolitik tätig werden, die gegenwärtig nicht durchsetzbar erscheint.
+                                </div>
+
+                                <div class="card-text">
+                                        <button type="button" class="btn btn-danger">Ablehnung</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3 mt-4">
+                        <div class="card">
+                            <img class="card-img-top" src="images/fw.png">
+                            <!-- <img class="card-img-top" src="images/cdu.png"> -->
+                            <div class="card-block">
+                                <h4 class="card-title">Freie Wähler</h4>
+                                <div class="card-text">
+                                    Mit einer europäischen Wirtschaftsregierung, wie sie auf europäischer Ebene diskutiert wird, hätte die Abgabe weiterer nationaler Kompetenzen zur Folge, insbesondere im Bereich der Budgethoheit. Das Demokratiedefizit in Europa würde durch eine solche Maßnahme nur unnötig größer werden, die führende Wirtschaftswissenschaftler ohnehin für entbehrlich halten.
+                                </div>
+
+                                <div class="card-text">
+                                        <button type="button" class="btn btn-danger">Ablehnung</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3 mt-4">
+                        <div class="card">
+                            <img class="card-img-top" src="images/npd.png">
+                            <!-- <img class="card-img-top" src="images/cdu.png"> -->
+                            <div class="card-block">
+                                <h4 class="card-title">NPD</h4>
+                                <div class="card-text">
+                                    Keine Erklärung angegeben
+                                </div>
+
+                                <div class="card-text">
+                                        <button type="button" class="btn btn-danger">Ablehnung</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3 mt-4">
+                        <div class="card">
+                            <img class="card-img-top" src="images/ödp.png">
+                            <!-- <img class="card-img-top" src="images/cdu.png"> -->
+                            <div class="card-block">
+                                <h4 class="card-title">Ökologisch-Demokratische Partei, ÖDP</h4>
+                                <div class="card-text">
+                                    Die Entwicklung in den einzelnen Mitgliedsländern ist zu unterschiedlich.
+                                </div>
+
+                                <div class="card-text">
+                                        <button type="button" class="btn btn-info">Enthaltung</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3 mt-4">
+                        <div class="card">
+                            <img class="card-img-top" src="images/mut.png">
+                            <!-- <img class="card-img-top" src="images/cdu.png"> -->
+                            <div class="card-block">
+                                <h4 class="card-title">Partei Mensch Umwelt Tierschutz</h4>
+                                <div class="card-text">
+                                    Keine Erklärung angegeben
+                                </div>
+
+                                <div class="card-text">
+                                        <button type="button" class="btn btn-success">Zustimmung</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3 mt-4">
+                        <div class="card">
+                            <img class="card-img-top" src="images/piraten.png">
+                            <!-- <img class="card-img-top" src="images/cdu.png"> -->
+                            <div class="card-block">
+                                <h4 class="card-title">Piratenpartei Deutschland</h4>
+                                <div class="card-text">
+                                    Will man den Fokus von nationalen Interessen wegbringen, führt insbesondere in der Wirtschaftspolitik kein Weg an einer wesentlich weiteren europäischen Zusammenarbeit und gebündelter Entscheidungskompetenz vorbei.
+                                </div>
+
+                                <div class="card-text">
+                                        <button type="button" class="btn btn-success">Zustimmung</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3 mt-4">
+                        <div class="card">
+                            <img class="card-img-top" src="images/spd.png">
+                            <!-- <img class="card-img-top" src="images/cdu.png"> -->
+                            <div class="card-block">
+                                <h4 class="card-title">SPD</h4>
+                                <div class="card-text">
+                                    Wir sind nicht einzeln stark, sondern nur gemeinsam. Daher brauchen wir eine koordinierte Wirtschaftspolitik in Europa. Unser Ziel ist es, die konjunkturellen Entwicklungen der Mitgliedstaaten Europas besser aufeinander abzustimmen. Exzessive Ungleichgewichte wollen wir überwinden. Dafür brauchen wir eine bessere und wirksamere Integration der Wirtschaftspolitik – perspektivisch mit der Einrichtung einer Wirtschaftsregierung für den Euro-Raum.
+                                </div>
+
+                                <div class="card-text">
+                                        <button type="button" class="btn btn-success">Zustimmung</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+            </div>
+        </div>
+        <script type="text/javascript">
+
+            window.onload = function() {
+                var ctx = document.getElementById('myChart').getContext('2d');
+                var myDoughnutChart = new Chart(ctx, {
+                    type: 'doughnut',
+                    data: {
+                        datasets: [{
+                            data: [3, 3, 5],
+                            backgroundColor: [ '#5cb85c', '#5bc0de', '#d9534f']
+                        }],
+
+                        // These labels appear in the legend and in the tooltips when hovering different arcs
+                        labels: [
+                            'Zustimmung',
+                            'Enthaltung',
+                            'Ablehnung'
+                        ]
+                    },
+                    options: {}
+                });
+            };
+        </script>
+    </body>
+</html>

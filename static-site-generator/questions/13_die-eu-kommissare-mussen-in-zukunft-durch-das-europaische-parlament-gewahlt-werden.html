@@ -1,0 +1,373 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <style>
+        html {
+            font-family: Lato, 'Helvetica Neue', Arial, Helvetica, sans-serif;
+            font-size: 14px;
+        }
+
+        h5 {
+            font-size: 1.28571429em;
+            font-weight: 700;
+            line-height: 1.2857em;
+            margin: 0;
+        }
+
+        .card {
+            font-size: 1em;
+            overflow: hidden;
+            padding: 0;
+            border: none;
+            border-radius: .28571429rem;
+            box-shadow: 0 1px 3px 0 #d4d4d5, 0 0 0 1px #d4d4d5;
+            }
+
+            .card-block {
+            font-size: 1em;
+            position: relative;
+            margin: 0;
+            padding: 1em;
+            border: none;
+            border-top: 1px solid rgba(34, 36, 38, .1);
+            box-shadow: none;
+            }
+
+            .card-img-top {
+            display: block;
+            width: 100%;
+            height: auto;
+            }
+
+            .card-title {
+            font-size: 1.28571429em;
+            font-weight: 700;
+            line-height: 1.2857em;
+            }
+
+            .card-text {
+            clear: both;
+            margin-top: .5em;
+            color: rgba(0, 0, 0, .68);
+            }
+
+            .card-footer {
+            font-size: 1em;
+            position: static;
+            top: 0;
+            left: 0;
+            max-width: 100%;
+            padding: .75em 1em;
+            color: rgba(0, 0, 0, .4);
+            border-top: 1px solid rgba(0, 0, 0, .05) !important;
+            background: #fff;
+            }
+
+            .card-inverse .btn {
+            border: 1px solid rgba(0, 0, 0, .05);
+            }
+
+            .profile {
+            position: absolute;
+            top: -12px;
+            display: inline-block;
+            overflow: hidden;
+            box-sizing: border-box;
+            width: 25px;
+            height: 25px;
+            margin: 0;
+            border: 1px solid #fff;
+            border-radius: 50%;
+            }
+
+            .profile-avatar {
+            display: block;
+            width: 100%;
+            height: auto;
+            border-radius: 50%;
+            }
+
+            .profile-inline {
+            position: relative;
+            top: 0;
+            display: inline-block;
+            }
+
+            .profile-inline ~ .card-title {
+            display: inline-block;
+            margin-left: 4px;
+            vertical-align: top;
+            }
+
+            .text-bold {
+            font-weight: 700;
+            }
+
+            .meta {
+            font-size: 1em;
+            color: rgba(0, 0, 0, .4);
+            }
+
+            .meta a {
+            text-decoration: none;
+            color: rgba(0, 0, 0, .4);
+            }
+
+            .meta a:hover {
+            color: rgba(0, 0, 0, .87);
+            }
+        </style>
+        <title>Die EU-Kommissare müssen in Zukunft durch das Europäische Parlament gewählt werden!</title>
+        <!-- Latest compiled and minified CSS -->
+        <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"> -->
+
+        <!-- Optional theme -->
+        <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous"> -->
+
+        <!-- Latest compiled and minified JavaScript -->
+        <!-- <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script> -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.4.0/Chart.min.js"></script>
+    </head>
+    <body>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <img src="images/header.jpg" class="img-fluid" alt="Eurom.at"/>
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <h4>Wir haben folgende These geprüft:</h4>
+            <h1>Die EU-Kommissare müssen in Zukunft durch das Europäische Parlament gewählt werden!</h1>
+        </div>
+        <div class="container">
+            <div class="col-md-4">
+                <canvas id="myChart" ></canvas>
+            </div>
+            <div class="col-md-8">
+                <div class="container">
+                    <div class="col-md-12">
+                        <h5>Zustimmung</h5>
+                        <p style="word-wrap: break-word;">NPD, Ökologisch-Demokratische Partei, ÖDP, FDP Landesverband Sachsen, BÜNDNIS 90/DIE GRÜNEN, Freie Wähler, Die PARTEI, Piratenpartei Deutschland, SPD, Partei Mensch Umwelt Tierschutz</p>
+                    </div>
+                    <div class="col-md-12">
+                        <h5>Enthaltung</h5>
+                        <p>CDU</p>
+                    </div>
+                    <div class="col-md-12">
+                        <h5>Enthaltung</h5>
+                        <p>AfD</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="container" style="margin-top: 20px;">
+            <h4>Antworten der Partein:</h4>
+        </div>
+        <div class="container">
+            <div class="row">
+                    <div class="col-sm-6 col-md-4 col-lg-3 mt-4">
+                        <div class="card">
+                            <img class="card-img-top" src="images/afd.png">
+                            <!-- <img class="card-img-top" src="images/cdu.png"> -->
+                            <div class="card-block">
+                                <h4 class="card-title">AfD</h4>
+                                <div class="card-text">
+                                    Da es kein wirkliches Parlament gibt, hilft eine solche Scheinlegitimation auch nicht weiter. Darüber zu reden, lohnt sich erst, wenn die Staaten proportional zu ihrer Einwohnerzahl im Parlament vertreten wären.
+                                </div>
+
+                                <div class="card-text">
+                                        <button type="button" class="btn btn-danger">Ablehnung</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3 mt-4">
+                        <div class="card">
+                            <img class="card-img-top" src="images/grün.png">
+                            <!-- <img class="card-img-top" src="images/cdu.png"> -->
+                            <div class="card-block">
+                                <h4 class="card-title">BÜNDNIS 90/DIE GRÜNEN</h4>
+                                <div class="card-text">
+                                    Wir wollen die europäische Demokratie stärken. Das EU-Parlament soll zentraler Ort aller europäischen Entscheidungen werden. Das gilt auch für die Wahl der Mitglieder der EU-Kommission. In der Wirtschafts- und Währungsunion wollen wir beginnen. Ein EU-Kommissionsmitglied ausgestattet mit allen Kompetenzen im Bereich der WWU soll individuell vom EU-Parlament gewählt bzw. abgewählt werden können. Die Abwahl der gesamten EU-Kommission wollen wir über ein konstruktives Misstrauensvotum ermöglichen.
+                                </div>
+
+                                <div class="card-text">
+                                        <button type="button" class="btn btn-success">Zustimmung</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3 mt-4">
+                        <div class="card">
+                            <img class="card-img-top" src="images/cdu.png">
+                            <!-- <img class="card-img-top" src="images/cdu.png"> -->
+                            <div class="card-block">
+                                <h4 class="card-title">CDU</h4>
+                                <div class="card-text">
+                                    Bereits jetzt müssen sich die designierten EU-Kommissare im Europäischen Parlament Einzelanhörungen stellen. Das Parlament verfügt damit faktisch über ein Veto-Recht bei der Ernennung von Kommissaren.
+                                </div>
+
+                                <div class="card-text">
+                                        <button type="button" class="btn btn-info">Enthaltung</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3 mt-4">
+                        <div class="card">
+                            <img class="card-img-top" src="images/partei.png">
+                            <!-- <img class="card-img-top" src="images/cdu.png"> -->
+                            <div class="card-block">
+                                <h4 class="card-title">Die PARTEI</h4>
+                                <div class="card-text">
+                                    Ja, solange die EU-Kommission das alleinige Vorschlagsrecht inne hat.
+                                </div>
+
+                                <div class="card-text">
+                                        <button type="button" class="btn btn-success">Zustimmung</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3 mt-4">
+                        <div class="card">
+                            <img class="card-img-top" src="images/fdp.png">
+                            <!-- <img class="card-img-top" src="images/cdu.png"> -->
+                            <div class="card-block">
+                                <h4 class="card-title">FDP Landesverband Sachsen</h4>
+                                <div class="card-text">
+                                    Keine Erklärung angegeben
+                                </div>
+
+                                <div class="card-text">
+                                        <button type="button" class="btn btn-success">Zustimmung</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3 mt-4">
+                        <div class="card">
+                            <img class="card-img-top" src="images/fw.png">
+                            <!-- <img class="card-img-top" src="images/cdu.png"> -->
+                            <div class="card-block">
+                                <h4 class="card-title">Freie Wähler</h4>
+                                <div class="card-text">
+                                    Auch weiterhin müssen der Kommissionspräsident und die einzelnen Kommissare sich der Wahl durch das Europaparlament stellen.
+                                </div>
+
+                                <div class="card-text">
+                                        <button type="button" class="btn btn-success">Zustimmung</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3 mt-4">
+                        <div class="card">
+                            <img class="card-img-top" src="images/npd.png">
+                            <!-- <img class="card-img-top" src="images/cdu.png"> -->
+                            <div class="card-block">
+                                <h4 class="card-title">NPD</h4>
+                                <div class="card-text">
+                                    Keine Erklärung angegeben
+                                </div>
+
+                                <div class="card-text">
+                                        <button type="button" class="btn btn-success">Zustimmung</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3 mt-4">
+                        <div class="card">
+                            <img class="card-img-top" src="images/ödp.png">
+                            <!-- <img class="card-img-top" src="images/cdu.png"> -->
+                            <div class="card-block">
+                                <h4 class="card-title">Ökologisch-Demokratische Partei, ÖDP</h4>
+                                <div class="card-text">
+                                    Keine Erklärung angegeben
+                                </div>
+
+                                <div class="card-text">
+                                        <button type="button" class="btn btn-success">Zustimmung</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3 mt-4">
+                        <div class="card">
+                            <img class="card-img-top" src="images/mut.png">
+                            <!-- <img class="card-img-top" src="images/cdu.png"> -->
+                            <div class="card-block">
+                                <h4 class="card-title">Partei Mensch Umwelt Tierschutz</h4>
+                                <div class="card-text">
+                                    Dies wäre zumindest eine kleine Verbesserung in Richtung einer demokratischeren EU. Wir finden jedoch, dass die EU-Kommissare direkt von den Wähler_innen gewählt werden sollten. Um den finanziellen Aufwand hierfür möglichst gering zu halten, sollte dies zeitgleich mit der Wahl zum europäischen Parlament erfolgen.
+                                </div>
+
+                                <div class="card-text">
+                                        <button type="button" class="btn btn-success">Zustimmung</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3 mt-4">
+                        <div class="card">
+                            <img class="card-img-top" src="images/piraten.png">
+                            <!-- <img class="card-img-top" src="images/cdu.png"> -->
+                            <div class="card-block">
+                                <h4 class="card-title">Piratenpartei Deutschland</h4>
+                                <div class="card-text">
+                                    Das wäre eine Möglichkeit - und die am weitesten zielführende - die demokratische Legitimation herzustellen. Noch besser wäre die direkte Wahl durch die Europäischen Wähler.
+                                </div>
+
+                                <div class="card-text">
+                                        <button type="button" class="btn btn-success">Zustimmung</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3 mt-4">
+                        <div class="card">
+                            <img class="card-img-top" src="images/spd.png">
+                            <!-- <img class="card-img-top" src="images/cdu.png"> -->
+                            <div class="card-block">
+                                <h4 class="card-title">SPD</h4>
+                                <div class="card-text">
+                                    Keine Erklärung angegeben
+                                </div>
+
+                                <div class="card-text">
+                                        <button type="button" class="btn btn-success">Zustimmung</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+            </div>
+        </div>
+        <script type="text/javascript">
+
+            window.onload = function() {
+                var ctx = document.getElementById('myChart').getContext('2d');
+                var myDoughnutChart = new Chart(ctx, {
+                    type: 'doughnut',
+                    data: {
+                        datasets: [{
+                            data: [9, 1, 1],
+                            backgroundColor: [ '#5cb85c', '#5bc0de', '#d9534f']
+                        }],
+
+                        // These labels appear in the legend and in the tooltips when hovering different arcs
+                        labels: [
+                            'Zustimmung',
+                            'Enthaltung',
+                            'Ablehnung'
+                        ]
+                    },
+                    options: {}
+                });
+            };
+        </script>
+    </body>
+</html>

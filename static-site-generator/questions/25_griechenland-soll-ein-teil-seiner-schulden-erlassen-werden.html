@@ -1,0 +1,374 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <style>
+        html {
+            font-family: Lato, 'Helvetica Neue', Arial, Helvetica, sans-serif;
+            font-size: 14px;
+        }
+
+        h5 {
+            font-size: 1.28571429em;
+            font-weight: 700;
+            line-height: 1.2857em;
+            margin: 0;
+        }
+
+        .card {
+            font-size: 1em;
+            overflow: hidden;
+            padding: 0;
+            border: none;
+            border-radius: .28571429rem;
+            box-shadow: 0 1px 3px 0 #d4d4d5, 0 0 0 1px #d4d4d5;
+            }
+
+            .card-block {
+            font-size: 1em;
+            position: relative;
+            margin: 0;
+            padding: 1em;
+            border: none;
+            border-top: 1px solid rgba(34, 36, 38, .1);
+            box-shadow: none;
+            }
+
+            .card-img-top {
+            display: block;
+            width: 100%;
+            height: auto;
+            }
+
+            .card-title {
+            font-size: 1.28571429em;
+            font-weight: 700;
+            line-height: 1.2857em;
+            }
+
+            .card-text {
+            clear: both;
+            margin-top: .5em;
+            color: rgba(0, 0, 0, .68);
+            }
+
+            .card-footer {
+            font-size: 1em;
+            position: static;
+            top: 0;
+            left: 0;
+            max-width: 100%;
+            padding: .75em 1em;
+            color: rgba(0, 0, 0, .4);
+            border-top: 1px solid rgba(0, 0, 0, .05) !important;
+            background: #fff;
+            }
+
+            .card-inverse .btn {
+            border: 1px solid rgba(0, 0, 0, .05);
+            }
+
+            .profile {
+            position: absolute;
+            top: -12px;
+            display: inline-block;
+            overflow: hidden;
+            box-sizing: border-box;
+            width: 25px;
+            height: 25px;
+            margin: 0;
+            border: 1px solid #fff;
+            border-radius: 50%;
+            }
+
+            .profile-avatar {
+            display: block;
+            width: 100%;
+            height: auto;
+            border-radius: 50%;
+            }
+
+            .profile-inline {
+            position: relative;
+            top: 0;
+            display: inline-block;
+            }
+
+            .profile-inline ~ .card-title {
+            display: inline-block;
+            margin-left: 4px;
+            vertical-align: top;
+            }
+
+            .text-bold {
+            font-weight: 700;
+            }
+
+            .meta {
+            font-size: 1em;
+            color: rgba(0, 0, 0, .4);
+            }
+
+            .meta a {
+            text-decoration: none;
+            color: rgba(0, 0, 0, .4);
+            }
+
+            .meta a:hover {
+            color: rgba(0, 0, 0, .87);
+            }
+        </style>
+        <title>Griechenland soll ein Teil seiner Schulden erlassen werden.</title>
+        <!-- Latest compiled and minified CSS -->
+        <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"> -->
+
+        <!-- Optional theme -->
+        <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous"> -->
+
+        <!-- Latest compiled and minified JavaScript -->
+        <!-- <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script> -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.4.0/Chart.min.js"></script>
+    </head>
+    <body>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <img src="images/header.jpg" class="img-fluid" alt="Eurom.at"/>
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <h4>Wir haben folgende These geprüft:</h4>
+            <h1>Griechenland soll ein Teil seiner Schulden erlassen werden.</h1>
+        </div>
+        <div class="container">
+            <div class="col-md-4">
+                <canvas id="myChart" ></canvas>
+            </div>
+            <div class="col-md-8">
+                <div class="container">
+                    <div class="col-md-12">
+                        <h5>Zustimmung</h5>
+                        <p style="word-wrap: break-word;">Ökologisch-Demokratische Partei, ÖDP, Freie Wähler, Die PARTEI, Piratenpartei Deutschland, Partei Mensch Umwelt Tierschutz</p>
+                    </div>
+                    <div class="col-md-12">
+                        <h5>Enthaltung</h5>
+                        <p>NPD, BÜNDNIS 90/DIE GRÜNEN, SPD</p>
+                    </div>
+                    <div class="col-md-12">
+                        <h5>Enthaltung</h5>
+                        <p>FDP Landesverband Sachsen, AfD, CDU</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="container" style="margin-top: 20px;">
+            <h4>Antworten der Partein:</h4>
+        </div>
+        <div class="container">
+            <div class="row">
+                    <div class="col-sm-6 col-md-4 col-lg-3 mt-4">
+                        <div class="card">
+                            <img class="card-img-top" src="images/afd.png">
+                            <!-- <img class="card-img-top" src="images/cdu.png"> -->
+                            <div class="card-block">
+                                <h4 class="card-title">AfD</h4>
+                                <div class="card-text">
+                                    Natürlich nicht, abgesehen davon dass dies bereits erfolglos geschehen ist mit über 100 Mrd. Euro. Für Staaten muss das Gleiche gelten wir für Wirtschaftsakteure. Wer handelt, trägt dafür die Verantwortung. Die Politik und eben auch die Parlamente tragen keine Verantwortung, weil die Amts- und Funktionsträger nicht für ihr Verhalten haften. Dieser Zustand muss geändert werden, sonst kann das Problem der unverantwortlichen Politik nicht gelöst werden.
+                                </div>
+
+                                <div class="card-text">
+                                        <button type="button" class="btn btn-danger">Ablehnung</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3 mt-4">
+                        <div class="card">
+                            <img class="card-img-top" src="images/grün.png">
+                            <!-- <img class="card-img-top" src="images/cdu.png"> -->
+                            <div class="card-block">
+                                <h4 class="card-title">BÜNDNIS 90/DIE GRÜNEN</h4>
+                                <div class="card-text">
+                                    Griechenland kann Schulden nur abbauen, wenn es neben sozial gerechten Reformen und Sparen auch Wirtschafts-Impulse setzen kann etwa bei Erneuerbaren Energien durch Haushaltsüberschüsse und Mitteln aus EU-Struktur- oder Investitionsfonds. Milliardengewinne aus den EZB-Anleihekäufen sollten an Griechenland ausgeschüttet werden. Nötig sind aber Schuldenerleichterungen bspw. durch Zinssenkungen und Laufzeitverlängerungen. Eine Umschuldung der IWF-Kredite hin zum ESM könnte die Zinslast senken.
+                                </div>
+
+                                <div class="card-text">
+                                        <button type="button" class="btn btn-info">Enthaltung</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3 mt-4">
+                        <div class="card">
+                            <img class="card-img-top" src="images/cdu.png">
+                            <!-- <img class="card-img-top" src="images/cdu.png"> -->
+                            <div class="card-block">
+                                <h4 class="card-title">CDU</h4>
+                                <div class="card-text">
+                                    Nach den EU-Verträgen haftet kein Mitgliedstaat für die Verbindlichkeiten eines anderen Mitgliedstaats und tritt auch nicht für dessen Verbindlichkeiten ein. Die Anpassungsprogramme zielen deshalb darauf ab, Griechenland langfristig in die Lage zu versetzen, seine Schulden selbst zu begleichen. Das schließt die Möglichkeit von Schuldenerleichterungen, wie Zins- und Tilgungsstundungen, mit ein. Diese wurden Griechenland in der Vergangenheit bereits in erheblichem Umfang gewährt.
+                                </div>
+
+                                <div class="card-text">
+                                        <button type="button" class="btn btn-danger">Ablehnung</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3 mt-4">
+                        <div class="card">
+                            <img class="card-img-top" src="images/partei.png">
+                            <!-- <img class="card-img-top" src="images/cdu.png"> -->
+                            <div class="card-block">
+                                <h4 class="card-title">Die PARTEI</h4>
+                                <div class="card-text">
+                                    Ja, denn Spielschuld, ist Ehrenschuld; wir Deutsche wissen das.
+                                </div>
+
+                                <div class="card-text">
+                                        <button type="button" class="btn btn-success">Zustimmung</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3 mt-4">
+                        <div class="card">
+                            <img class="card-img-top" src="images/fdp.png">
+                            <!-- <img class="card-img-top" src="images/cdu.png"> -->
+                            <div class="card-block">
+                                <h4 class="card-title">FDP Landesverband Sachsen</h4>
+                                <div class="card-text">
+                                    Keine Erklärung angegeben
+                                </div>
+
+                                <div class="card-text">
+                                        <button type="button" class="btn btn-danger">Ablehnung</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3 mt-4">
+                        <div class="card">
+                            <img class="card-img-top" src="images/fw.png">
+                            <!-- <img class="card-img-top" src="images/cdu.png"> -->
+                            <div class="card-block">
+                                <h4 class="card-title">Freie Wähler</h4>
+                                <div class="card-text">
+                                    Zustimmung 
+Ein teilweiser Schuldenerlass oder zumindest ein Verzicht der EU und des IWF auf Zinsen und Streckung der Rückzahlung der Kredite auf unbestimmte Zeit ist letztlich unausweichlich. Es ist falsch, einem de facto zahlungsunfähigen Land immer weiteres frisches Geld zu leihen, um die Zinsen alter Schulden bedienen zu können. Dieser Teufelskreis muss durchbrochen werden. Griechenland muss wieder handlungsfähig werden, damit wir wenigstens einen Teil des geliehenen Geldes wieder sehen.
+                                </div>
+
+                                <div class="card-text">
+                                        <button type="button" class="btn btn-success">Zustimmung</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3 mt-4">
+                        <div class="card">
+                            <img class="card-img-top" src="images/npd.png">
+                            <!-- <img class="card-img-top" src="images/cdu.png"> -->
+                            <div class="card-block">
+                                <h4 class="card-title">NPD</h4>
+                                <div class="card-text">
+                                    Keine Erklärung angegeben
+                                </div>
+
+                                <div class="card-text">
+                                        <button type="button" class="btn btn-info">Enthaltung</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3 mt-4">
+                        <div class="card">
+                            <img class="card-img-top" src="images/ödp.png">
+                            <!-- <img class="card-img-top" src="images/cdu.png"> -->
+                            <div class="card-block">
+                                <h4 class="card-title">Ökologisch-Demokratische Partei, ÖDP</h4>
+                                <div class="card-text">
+                                    Keine Erklärung angegeben
+                                </div>
+
+                                <div class="card-text">
+                                        <button type="button" class="btn btn-success">Zustimmung</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3 mt-4">
+                        <div class="card">
+                            <img class="card-img-top" src="images/mut.png">
+                            <!-- <img class="card-img-top" src="images/cdu.png"> -->
+                            <div class="card-block">
+                                <h4 class="card-title">Partei Mensch Umwelt Tierschutz</h4>
+                                <div class="card-text">
+                                    Insbesondere ärmere Griechen trifft die Schuldenkrise durch die Sparmaßnahmen bei Sozialleistungen besonders hart. Um ihnen künftig wieder ein menschenwürdiges Leben ohne Existenzangst zu ermöglichen, ist ein Schuldenschnitt nötig. Praktisch gesehen ist der Schuldenerlass für Griechenland durch lange tilgungsfreie Kreditphasen und niedrige Kreditzinsen ohnehin bereits Realität.
+                                </div>
+
+                                <div class="card-text">
+                                        <button type="button" class="btn btn-success">Zustimmung</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3 mt-4">
+                        <div class="card">
+                            <img class="card-img-top" src="images/piraten.png">
+                            <!-- <img class="card-img-top" src="images/cdu.png"> -->
+                            <div class="card-block">
+                                <h4 class="card-title">Piratenpartei Deutschland</h4>
+                                <div class="card-text">
+                                    Um die Schuldenkrise in Europa wirksam zu lösen, fordern wir die kurzfristige Durchführung frühzeitiger einmaliger Schuldenschnitte von Staatsschulden in der Europäischen Union sowie eine effektive Restrukturierung, und wenn nötig, Rekapitalisierung maroder Banken. Was in Griechenland gemacht wurde, führt zum Ausbluten der dortigen Wirtschaft zum Vorteil der kreditgebenden Banken.
+                                </div>
+
+                                <div class="card-text">
+                                        <button type="button" class="btn btn-success">Zustimmung</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3 mt-4">
+                        <div class="card">
+                            <img class="card-img-top" src="images/spd.png">
+                            <!-- <img class="card-img-top" src="images/cdu.png"> -->
+                            <div class="card-block">
+                                <h4 class="card-title">SPD</h4>
+                                <div class="card-text">
+                                    Griechenland wurde von den europäischen Gläubigern bei erfolgreicher Fortsetzung des Reformkurses zwar kein erneuter Schuldenschnitt, aber weitere Schuldenerleichterungen in Aussicht gestellt. Die griechische Regierung hat zuletzt unter größten Anstrengungen einschneidende Reformen auf den Weg gebracht. Um langfristig Sicherheit zu schaffen, sollten nun auch die Gläubiger ihre gemachten Zusagen einhalten. Eine reine Sparpolitik wird den Menschen in Griechenland nicht helfen.
+                                </div>
+
+                                <div class="card-text">
+                                        <button type="button" class="btn btn-info">Enthaltung</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+            </div>
+        </div>
+        <script type="text/javascript">
+
+            window.onload = function() {
+                var ctx = document.getElementById('myChart').getContext('2d');
+                var myDoughnutChart = new Chart(ctx, {
+                    type: 'doughnut',
+                    data: {
+                        datasets: [{
+                            data: [5, 3, 3],
+                            backgroundColor: [ '#5cb85c', '#5bc0de', '#d9534f']
+                        }],
+
+                        // These labels appear in the legend and in the tooltips when hovering different arcs
+                        labels: [
+                            'Zustimmung',
+                            'Enthaltung',
+                            'Ablehnung'
+                        ]
+                    },
+                    options: {}
+                });
+            };
+        </script>
+    </body>
+</html>

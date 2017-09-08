@@ -1,0 +1,374 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <style>
+        html {
+            font-family: Lato, 'Helvetica Neue', Arial, Helvetica, sans-serif;
+            font-size: 14px;
+        }
+
+        h5 {
+            font-size: 1.28571429em;
+            font-weight: 700;
+            line-height: 1.2857em;
+            margin: 0;
+        }
+
+        .card {
+            font-size: 1em;
+            overflow: hidden;
+            padding: 0;
+            border: none;
+            border-radius: .28571429rem;
+            box-shadow: 0 1px 3px 0 #d4d4d5, 0 0 0 1px #d4d4d5;
+            }
+
+            .card-block {
+            font-size: 1em;
+            position: relative;
+            margin: 0;
+            padding: 1em;
+            border: none;
+            border-top: 1px solid rgba(34, 36, 38, .1);
+            box-shadow: none;
+            }
+
+            .card-img-top {
+            display: block;
+            width: 100%;
+            height: auto;
+            }
+
+            .card-title {
+            font-size: 1.28571429em;
+            font-weight: 700;
+            line-height: 1.2857em;
+            }
+
+            .card-text {
+            clear: both;
+            margin-top: .5em;
+            color: rgba(0, 0, 0, .68);
+            }
+
+            .card-footer {
+            font-size: 1em;
+            position: static;
+            top: 0;
+            left: 0;
+            max-width: 100%;
+            padding: .75em 1em;
+            color: rgba(0, 0, 0, .4);
+            border-top: 1px solid rgba(0, 0, 0, .05) !important;
+            background: #fff;
+            }
+
+            .card-inverse .btn {
+            border: 1px solid rgba(0, 0, 0, .05);
+            }
+
+            .profile {
+            position: absolute;
+            top: -12px;
+            display: inline-block;
+            overflow: hidden;
+            box-sizing: border-box;
+            width: 25px;
+            height: 25px;
+            margin: 0;
+            border: 1px solid #fff;
+            border-radius: 50%;
+            }
+
+            .profile-avatar {
+            display: block;
+            width: 100%;
+            height: auto;
+            border-radius: 50%;
+            }
+
+            .profile-inline {
+            position: relative;
+            top: 0;
+            display: inline-block;
+            }
+
+            .profile-inline ~ .card-title {
+            display: inline-block;
+            margin-left: 4px;
+            vertical-align: top;
+            }
+
+            .text-bold {
+            font-weight: 700;
+            }
+
+            .meta {
+            font-size: 1em;
+            color: rgba(0, 0, 0, .4);
+            }
+
+            .meta a {
+            text-decoration: none;
+            color: rgba(0, 0, 0, .4);
+            }
+
+            .meta a:hover {
+            color: rgba(0, 0, 0, .87);
+            }
+        </style>
+        <title>Die EU soll neue Mitgliedsstaaten aufnehmen.</title>
+        <!-- Latest compiled and minified CSS -->
+        <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"> -->
+
+        <!-- Optional theme -->
+        <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous"> -->
+
+        <!-- Latest compiled and minified JavaScript -->
+        <!-- <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script> -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.4.0/Chart.min.js"></script>
+    </head>
+    <body>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <img src="images/header.jpg" class="img-fluid" alt="Eurom.at"/>
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <h4>Wir haben folgende These geprüft:</h4>
+            <h1>Die EU soll neue Mitgliedsstaaten aufnehmen.</h1>
+        </div>
+        <div class="container">
+            <div class="col-md-4">
+                <canvas id="myChart" ></canvas>
+            </div>
+            <div class="col-md-8">
+                <div class="container">
+                    <div class="col-md-12">
+                        <h5>Zustimmung</h5>
+                        <p style="word-wrap: break-word;">Ökologisch-Demokratische Partei, ÖDP, FDP Landesverband Sachsen, BÜNDNIS 90/DIE GRÜNEN, Die PARTEI, Piratenpartei Deutschland, SPD, Partei Mensch Umwelt Tierschutz</p>
+                    </div>
+                    <div class="col-md-12">
+                        <h5>Enthaltung</h5>
+                        <p>CDU</p>
+                    </div>
+                    <div class="col-md-12">
+                        <h5>Enthaltung</h5>
+                        <p>NPD, AfD, Freie Wähler</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="container" style="margin-top: 20px;">
+            <h4>Antworten der Partein:</h4>
+        </div>
+        <div class="container">
+            <div class="row">
+                    <div class="col-sm-6 col-md-4 col-lg-3 mt-4">
+                        <div class="card">
+                            <img class="card-img-top" src="images/afd.png">
+                            <!-- <img class="card-img-top" src="images/cdu.png"> -->
+                            <div class="card-block">
+                                <h4 class="card-title">AfD</h4>
+                                <div class="card-text">
+                                    Sofern man die EU-völlig funktionsunfähig machen will, ist das eine gute Idee. Formale Größe ist kein Wert. Wie Staaten funktionieren auch Staatengemeinschaften nur, wenn sie strukturelle Gemeinsamkeiten haben. Solche kann man nicht durch das Hinschütten von Geld herstellen. Dies ist eine der sichersten Erkenntnisse aus der bisherigen EU-Geschichte.
+                                </div>
+
+                                <div class="card-text">
+                                        <button type="button" class="btn btn-danger">Ablehnung</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3 mt-4">
+                        <div class="card">
+                            <img class="card-img-top" src="images/grün.png">
+                            <!-- <img class="card-img-top" src="images/cdu.png"> -->
+                            <div class="card-block">
+                                <h4 class="card-title">BÜNDNIS 90/DIE GRÜNEN</h4>
+                                <div class="card-text">
+                                    Wir wollen, dass EU-Erweiterungen grundsätzlich für weitere Länder offen bleiben anstatt den Reformeifer durch Ausschluss weiterer Beitritte auszubremsen. Dies gilt insbesondere gegenüber den Ländern des Westbalkans (Voraussetzung: Kopenhagener Kriterien). Wir wollen zudem, dass die Gemeinsame Außen- und Sicherheitspolitik der EU (GASP) enger mit Beitrittsverfahren und der EU- Nachbarschaftspolitik verzahnt wird, um jenseits technokratischer Verhandlungen kohärente Impulse setzen zu können.
+                                </div>
+
+                                <div class="card-text">
+                                        <button type="button" class="btn btn-success">Zustimmung</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3 mt-4">
+                        <div class="card">
+                            <img class="card-img-top" src="images/cdu.png">
+                            <!-- <img class="card-img-top" src="images/cdu.png"> -->
+                            <div class="card-block">
+                                <h4 class="card-title">CDU</h4>
+                                <div class="card-text">
+                                    Weder die EU noch die Beitrittskandidaten dürfen überfordert werden. Die EU muss eine Zone der politischen Stabilität und des Friedens in Europa bleiben. Deshalb gilt für uns: Konsolidierung vor Erweiterung. Die Aufnahme weiterer Länder in die Europäische Union schließen wir nicht grundsätzlich aus. Eine Aufnahme in die EU kann aber erst erfolgen, wenn die Beitrittskandidaten sämtliche Beitrittskriterien voll und ganz erfüllen und gleichzeitig die Aufnahmefähigkeit der EU gegeben ist.
+                                </div>
+
+                                <div class="card-text">
+                                        <button type="button" class="btn btn-info">Enthaltung</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3 mt-4">
+                        <div class="card">
+                            <img class="card-img-top" src="images/partei.png">
+                            <!-- <img class="card-img-top" src="images/cdu.png"> -->
+                            <div class="card-block">
+                                <h4 class="card-title">Die PARTEI</h4>
+                                <div class="card-text">
+                                    Ja, Stichwort: Lebensraum im Osten
+                                </div>
+
+                                <div class="card-text">
+                                        <button type="button" class="btn btn-success">Zustimmung</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3 mt-4">
+                        <div class="card">
+                            <img class="card-img-top" src="images/fdp.png">
+                            <!-- <img class="card-img-top" src="images/cdu.png"> -->
+                            <div class="card-block">
+                                <h4 class="card-title">FDP Landesverband Sachsen</h4>
+                                <div class="card-text">
+                                    Wenn die Kandidaten sämtliche Aufnahmekriterien erfüllen.
+                                </div>
+
+                                <div class="card-text">
+                                        <button type="button" class="btn btn-success">Zustimmung</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3 mt-4">
+                        <div class="card">
+                            <img class="card-img-top" src="images/fw.png">
+                            <!-- <img class="card-img-top" src="images/cdu.png"> -->
+                            <div class="card-block">
+                                <h4 class="card-title">Freie Wähler</h4>
+                                <div class="card-text">
+                                    Grundsätzlich sollte allen europäischen Ländern eine Beitrittsperspektive gegeben werden. Wir müssen aber in Folge der letzten Krisenjahre gegenwärtig die weitere Aufnahmefähigkeit der Union in Frage stellen. Wir wollen 
+die Konsolidierung Europas nicht durch eine übereilte Erweiterung gefährden. Deshalb sind wir vorübergehend für einen Stopp der Aufnahme weiterer Beitrittskandidaten. 
+                                </div>
+
+                                <div class="card-text">
+                                        <button type="button" class="btn btn-danger">Ablehnung</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3 mt-4">
+                        <div class="card">
+                            <img class="card-img-top" src="images/npd.png">
+                            <!-- <img class="card-img-top" src="images/cdu.png"> -->
+                            <div class="card-block">
+                                <h4 class="card-title">NPD</h4>
+                                <div class="card-text">
+                                    Keine Erklärung angegeben
+                                </div>
+
+                                <div class="card-text">
+                                        <button type="button" class="btn btn-danger">Ablehnung</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3 mt-4">
+                        <div class="card">
+                            <img class="card-img-top" src="images/ödp.png">
+                            <!-- <img class="card-img-top" src="images/cdu.png"> -->
+                            <div class="card-block">
+                                <h4 class="card-title">Ökologisch-Demokratische Partei, ÖDP</h4>
+                                <div class="card-text">
+                                    vorausgesetzt, diese neuen Mitgliedsstaaten erfüllen die Aufnahmekriterien.
+                                </div>
+
+                                <div class="card-text">
+                                        <button type="button" class="btn btn-success">Zustimmung</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3 mt-4">
+                        <div class="card">
+                            <img class="card-img-top" src="images/mut.png">
+                            <!-- <img class="card-img-top" src="images/cdu.png"> -->
+                            <div class="card-block">
+                                <h4 class="card-title">Partei Mensch Umwelt Tierschutz</h4>
+                                <div class="card-text">
+                                    Weitere Länder Europas würden die EU stärken. Vor ihrer Aufnahme muss aber zwingend sichergestellt werden, dass sie den demokratischen und rechtsstaatlichen Grundsätzen der EU entsprechen und die Menschenrechte beachtet werden.
+                                </div>
+
+                                <div class="card-text">
+                                        <button type="button" class="btn btn-success">Zustimmung</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3 mt-4">
+                        <div class="card">
+                            <img class="card-img-top" src="images/piraten.png">
+                            <!-- <img class="card-img-top" src="images/cdu.png"> -->
+                            <div class="card-block">
+                                <h4 class="card-title">Piratenpartei Deutschland</h4>
+                                <div class="card-text">
+                                    Solange es zu für alle Beteiligten vorteilhaften Bedingungen geschieht, spricht nichts gegen die Aufnahme weiterer Mitglieder. Allerdings muss man sehr genau darauf achten, dass man die Wirtschaften und Gesellschaften der neuen Mitglieder nicht überfordert und somit der Situation aussetzt, Bedingungen erfüllen zu müssen, die eben nicht auch für sie vorteilhaft sind.
+                                </div>
+
+                                <div class="card-text">
+                                        <button type="button" class="btn btn-success">Zustimmung</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3 mt-4">
+                        <div class="card">
+                            <img class="card-img-top" src="images/spd.png">
+                            <!-- <img class="card-img-top" src="images/cdu.png"> -->
+                            <div class="card-block">
+                                <h4 class="card-title">SPD</h4>
+                                <div class="card-text">
+                                    Die EU-Erweiterungspolitik bleibt wichtig, um Frieden, Stabilität und Zusammenarbeit zu fördern. Zugleich muss die EU aber durch innere Reformen ihre Handlungsfähigkeit sicherstellen. Außerdem gilt grundsätzlich, dass neue Mitgliedstaaten vor Beitritt die umfassenden Beitrittskriterien gerade auch in den Bereichen der Menschenrechte und Rechtstaatlichkeit erfüllen müssen.
+                                </div>
+
+                                <div class="card-text">
+                                        <button type="button" class="btn btn-success">Zustimmung</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+            </div>
+        </div>
+        <script type="text/javascript">
+
+            window.onload = function() {
+                var ctx = document.getElementById('myChart').getContext('2d');
+                var myDoughnutChart = new Chart(ctx, {
+                    type: 'doughnut',
+                    data: {
+                        datasets: [{
+                            data: [7, 1, 3],
+                            backgroundColor: [ '#5cb85c', '#5bc0de', '#d9534f']
+                        }],
+
+                        // These labels appear in the legend and in the tooltips when hovering different arcs
+                        labels: [
+                            'Zustimmung',
+                            'Enthaltung',
+                            'Ablehnung'
+                        ]
+                    },
+                    options: {}
+                });
+            };
+        </script>
+    </body>
+</html>

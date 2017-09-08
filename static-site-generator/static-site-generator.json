@@ -1,0 +1,2774 @@
+{
+    "0": {
+        "text": "Die EU soll den Euro als gemeinschaftliche Einheitswährung behalten.",
+        "Zustimmung": 0,
+        "Enthaltung": 0,
+        "Ablehnung": 0,
+        "ZustimmungParteien": [],
+        "EnthaltungParteien": [],
+        "AblehnungParteien": [],
+        "answers": [
+            {
+                "name": "NPD",
+                "party": "npd",
+                "answer": "Ablehnung",
+                "text": "Keine Erklärung angegeben"
+            },
+            {
+                "name": "Ökologisch-Demokratische Partei, ÖDP",
+                "party": "ödp",
+                "answer": "Zustimmung",
+                "text": "Keine Erklärung angegeben"
+            },
+            {
+                "name": "FDP Landesverband Sachsen",
+                "party": "fdp",
+                "answer": "Zustimmung",
+                "text": "Keine Erklärung angegeben"
+            },
+            {
+                "name": "BÜNDNIS 90/DIE GRÜNEN",
+                "party": "grün",
+                "answer": "Zustimmung",
+                "text": "Der Euro ist das Herzstück der Wirtschafts- und Währungsunion. Er hat Europa weiter zusammenwachsen lassen. Grenzenlos Reisen, Arbeiten und überall mit dem Euro zahlen–das ist für viele Ausdruck von Freiheit. Für Unternehmen ist der Euro ein riesiger Vorteil, der Arbeitsplätze sichert. Wir wollen die deutsche Europolitik solidarischer und demokratischer ausrichten. Deutschland soll dazu beitragen, Europa zu einen und zu stärken und nicht Mitgliedstaaten wie Griechenland aus der Eurozone werfen."
+            },
+            {
+                "name": "AfD",
+                "party": "afd",
+                "answer": "Ablehnung",
+                "text": "Eine gemeinschaftliche Währung für Staaten mit so unterschiedlichen Wirtschaftsstrukturen, insbesondere Produktivität, wie Schwellenlandökonomien und hochtechnologischen Volkswirtschaften ist eine währungspolitische Absurdität. Weil das so ist, ist die Lage in der EU-Zone so, wie sie ist. Griechenland: Arbeitslosigkeit 25 %, Deutschland 5 %; Jugendarbeitslosigkeit Griechenland 58 %, Deutschland 8 % (Zahlen aus 2014, 1. Quartal)."
+            },
+            {
+                "name": "Freie Wähler",
+                "party": "fw",
+                "answer": "Zustimmung",
+                "text": "Wir wollen die Stabilität unserer Gemeinschaftswährung wieder herstellen. Allerdings halten wir es für erforderlich, schnellstmöglich ein Zusatzprotokoll zu den europäischen Verträgen zu verhandeln, um einen geordneten Ausstieg von Euro-Krisenländern zu ermöglichen und die Einführung von Zweitwährungen zu \nerleichtern. Krisenländer müssen mit ihrer eigenen Währung abwerten können, um wieder wettbewerbsfähiger zu werden."
+            },
+            {
+                "name": "Die PARTEI",
+                "party": "partei",
+                "answer": "Zustimmung",
+                "text": "Ja, aber mit an der nationalen Wirtschaftsleistung angepassten Wechselkursen."
+            },
+            {
+                "name": "Piratenpartei Deutschland",
+                "party": "piraten",
+                "answer": "Zustimmung",
+                "text": "Der Euro hat sich als Bindeglied der europäischen Gemeinschaft erwiesen. Dies sollte, sofern die jeweiligen Bürger in freien Abstimmungen darüber entscheiden dürfen, erweitert werden, um das Zusammengehörigkeitsgefühl zu stärken. Stärker als in der Vergangenheit muss jedoch darauf geachtet werden, dass die Konvergenzkriterien erfüllt sind."
+            },
+            {
+                "name": "SPD",
+                "party": "spd",
+                "answer": "Zustimmung",
+                "text": "Keine Erklärung angegeben"
+            },
+            {
+                "name": "Partei Mensch Umwelt Tierschutz",
+                "party": "mut",
+                "answer": "Zustimmung",
+                "text": "Der Euro wurde genauso wie die EU als Friedensprojekt geschaffen und an diesem Gedanken muss trotz aller Schwierigkeiten festgehalten werden. Die Probleme der Euro-Zone liegen nicht in der gemeinsamen Währung, sondern in konkreten falschen finanzpolitischen Einzelentscheidungen. Eine Abschaffung des Euros würde die Probleme der Euro-Zone lediglich verschärfen und ist daher keine Lösung. Zudem ist eine globale Alternative zum Dollar unabdingbar."
+            },
+            {
+                "name": "CDU",
+                "party": "cdu",
+                "answer": "Zustimmung",
+                "text": "CDU und CSU wollen die dauerhafte Stabilisierung der Eurozone erreichen. Europa hat in der Staatsverschuldungskrise entschlossen und umsichtig gehandelt. Der Euro ist ein sichtbares Zeichen für das Zusammenwachsen in Europa und eine weltweit geschätzte Währung."
+            }
+        ]
+    },
+    "1": {
+        "text": "Die EU soll einen eigenständigen europäischen Nachrichtendienst schaffen.",
+        "Zustimmung": 0,
+        "Enthaltung": 0,
+        "Ablehnung": 0,
+        "ZustimmungParteien": [],
+        "EnthaltungParteien": [],
+        "AblehnungParteien": [],
+        "answers": [
+            {
+                "name": "NPD",
+                "party": "npd",
+                "answer": "Ablehnung",
+                "text": "Keine Erklärung angegeben"
+            },
+            {
+                "name": "Ökologisch-Demokratische Partei, ÖDP",
+                "party": "ödp",
+                "answer": "Enthaltung",
+                "text": "Ein europäischer Nachrichtendienst ist bereits vorhanden."
+            },
+            {
+                "name": "FDP Landesverband Sachsen",
+                "party": "fdp",
+                "answer": "Ablehnung",
+                "text": "Da weder Aufgaben, Befugnisse noch die Aufsicht über einen solchen Nachrichtendienstes geklärt sind"
+            },
+            {
+                "name": "BÜNDNIS 90/DIE GRÜNEN",
+                "party": "grün",
+                "answer": "Enthaltung",
+                "text": "Wir treten für eine stärkere Europäisierung der inneren Sicherheit ein. Wir lehnen aber einen anlasslos agierenden Überwachungsapparat und eine gefährliche Pauschalverknüpfung sämtlicher Daten ab, die die Freiheit der Europäer*innen einschränken. Zunächst müssen vorhandene  Sicherheitsbehörden und Geheimdienste auf EU-Ebene besser kooperieren, bessere Ausstattung, aber auch klare rechtstaatliche EU-Rahmenbedingungen, gemeinsame Standards für Grundrechte und parlamentarische Kontrolle erhalten."
+            },
+            {
+                "name": "AfD",
+                "party": "afd",
+                "answer": "Ablehnung",
+                "text": "Die nationalen Egoismen werden einen leistungsfähigen europäischen Nachrichtendienst nicht zulassen. Der stets genährte Glaube, weil Europa größer ist als jeder Einzelstaat, könne Europa etwas besser als die Einzelstaaten, ist außerhalb der Idee eines möglichst restriktionsfreien Wirtschaftsraums irrational. Die Qualität eines politischen Raums hat mit seiner Größe nichts zu tun, zumal, wenn die Größe virtuell ist."
+            },
+            {
+                "name": "Freie Wähler",
+                "party": "fw",
+                "answer": "Zustimmung",
+                "text": "Offene Grenzen in Europa erfordern europäische Antworten auf dadurch entstandene Probleme. Wir wollen grundsätzlich die EU-Sicherheitsagenturen OLAF, CEPOL, Europol und Eurojust mit weitreichenden Handlungsbefugnissen ausstatten und eine europaweit reibungslose Zusammenarbeit der Sicherheitsbehörden der EU-Mitgliedstaaten erreichen. Ein eigener europäischer Nachrichtendienst könnte darüber hinaus noch bestehende Lücken in unserem europäischen Sicherheitssystem schließen."
+            },
+            {
+                "name": "Die PARTEI",
+                "party": "partei",
+                "answer": "Ablehnung",
+                "text": "Nein, NSA, Verfassungsschutz und Facebook bieten ausreichend Schutz."
+            },
+            {
+                "name": "Piratenpartei Deutschland",
+                "party": "piraten",
+                "answer": "Ablehnung",
+                "text": "Mit Nachrichtendienst ist sicher Geheimdienst gemeint. Derartigen Institutionen stehen wir schon auf nationaler Ebene seht kritisch gegenüber, ein europäischer Nachrichtendienst, der sich noch viel schwerer kontrollieren lässt, findet somit nicht unsere Zustimmung."
+            },
+            {
+                "name": "SPD",
+                "party": "spd",
+                "answer": "Ablehnung",
+                "text": "Wir fordern keinen eigenständigen europäischen Nachrichtendienst, aber haben folgende Forderungen: Europol wollen wir stärker bei der Terrorismusbekämpfung einbeziehen. Mit dem Aufbau einer europäischen Staatsanwaltschaft werden wir dafür sorgen, dass künftig Straftaten EU-weit effektiver verfolgt werden können. Für eine engere Kooperation der Sicherheitsbehörden fordern wir ein Anti-Terrorzentrum auf europäischer Ebene, in dem ein Austausch aller Sicherheitsbehörden stattfindet."
+            },
+            {
+                "name": "Partei Mensch Umwelt Tierschutz",
+                "party": "mut",
+                "answer": "Zustimmung",
+                "text": "Bedrohungen wie Terrorismus, Spionage und organisierte Kriminalität bestehen heutzutage nicht mehr nur auf nationaler Ebene, sondern international. Insbesondere angesichts des gemeinsamen Binnenmarkts, der Personenfreizügigkeit und weggefallener innereuropäischer Grenzkontrollen ist es wichtig, die Gefahren, die die gesamte europäische Bevölkerung bedrohen, auch gemeinsam zu bekämpfen."
+            },
+            {
+                "name": "CDU",
+                "party": "cdu",
+                "answer": "Enthaltung",
+                "text": "CDU und CSU befürworten die engere Zusammenarbeit der Nachrichtendienste der EU-Mitgliedstaaten. Die Einrichtung eines europäischen Nachrichtendienstes ist auf absehbare Zeit kein realistisches Projekt."
+            }
+        ]
+    },
+    "2": {
+        "text": "Die EU braucht eine parlamentarisch verantwortliche Regierung.",
+        "Zustimmung": 0,
+        "Enthaltung": 0,
+        "Ablehnung": 0,
+        "ZustimmungParteien": [],
+        "EnthaltungParteien": [],
+        "AblehnungParteien": [],
+        "answers": [
+            {
+                "name": "NPD",
+                "party": "npd",
+                "answer": "Ablehnung",
+                "text": "Keine Erklärung angegeben"
+            },
+            {
+                "name": "Ökologisch-Demokratische Partei, ÖDP",
+                "party": "ödp",
+                "answer": "Zustimmung",
+                "text": "Keine Erklärung angegeben"
+            },
+            {
+                "name": "FDP Landesverband Sachsen",
+                "party": "fdp",
+                "answer": "Zustimmung",
+                "text": "Keine Erklärung angegeben"
+            },
+            {
+                "name": "BÜNDNIS 90/DIE GRÜNEN",
+                "party": "grün",
+                "answer": "Zustimmung",
+                "text": "Wie jede Demokratie hat auch die europäische Demokratie Schwächen. Zu oft wird sie zu einseitig über das Handeln nationaler Regierungen legitimiert. Das, was wir europäisch organisieren, muss  zwischen EU-Parlament, Rat und EU-Kommission innerhalb der EU-Verträge demokratisch verhandelt und gestaltet werden. Wir wollen zunächst ein Mitglied der EU-Kommission mit allen Kompetenzen ausstatten im Bereich der Wirtschafts- und Währungsunion, gewählt bzw. abwählbar durch das EU-Parlament."
+            },
+            {
+                "name": "AfD",
+                "party": "afd",
+                "answer": "Ablehnung",
+                "text": "Europa kann kein Staat sein, weil es kein Staatsvolk hat. Dies jedoch ist -staatstheoretisch unbestritten- eines der konstituierenden Merkmale für einen Staat. Insofern gibt es auch kein europäisches Parlament. Das Substitut ist auch nicht durch demokratische Wahlen legitimiert, weil Wahlen nur dann demokratisch sind, wenn jeder Wähler das gleiche Stimmgewicht hat. Es gibt auch keine europäische Öffentlichkeit und keine europäische Kommunikation, weil es keine europäische Sprache gibt."
+            },
+            {
+                "name": "Freie Wähler",
+                "party": "fw",
+                "answer": "Zustimmung",
+                "text": "Schon heute wird der Kommissionspräsident und jeder einzelne Kommissar vom Europäischen Parlament gewählt. Die Abberufbarkeit mit einfacher Mehrheit durch ein Misstrauensvotum gibt es noch nicht. Wir FREIE WÄHLER halten dies für erforderlich, um das Europaparlament zu stärken und die Legitimation der EU-Kommission und ihres Handelns zu erhöhen."
+            },
+            {
+                "name": "Die PARTEI",
+                "party": "partei",
+                "answer": "Zustimmung",
+                "text": "Ja, wir nehmen die Wahl an."
+            },
+            {
+                "name": "Piratenpartei Deutschland",
+                "party": "piraten",
+                "answer": "Zustimmung",
+                "text": "Parlament und Regierung sind die beiden großen Elemente der parlamentarischen Demokratie. Das eine geht nicht ohne das andere, will man die Legitimation von beidem erhalten."
+            },
+            {
+                "name": "SPD",
+                "party": "spd",
+                "answer": "Zustimmung",
+                "text": "Unser Leitbild ist eine politische Union, die allen europäischen Bürgern demokratische Mitwirkungsrechte gibt. Als längerfristige Perspektive braucht das demokratische Europa eine parlamentarisch verantwortliche Regierung auf der Basis einer europäischen Verfassung."
+            },
+            {
+                "name": "Partei Mensch Umwelt Tierschutz",
+                "party": "mut",
+                "answer": "Zustimmung",
+                "text": "Eine demokratisch von allen Europäer_innen gewählte Regierung kann die großen Herausforderungen unserer Zeit besser angehen als die derzeitigen Strukturen, bei denen Einzelstaaten zu viel Macht haben, um wichtige Veränderungen zu verhindern."
+            },
+            {
+                "name": "CDU",
+                "party": "cdu",
+                "answer": "Ablehnung",
+                "text": "Die EU braucht eine effektive parlamentarische Kontrolle. Als Kontroll-, Initiativ- und Exekutivorgan der EU ist die EU-Kommission bereits jetzt dem Europäischen Parlament politisch verantwortlich. Das Europäische Parlament kann die Kommission bei einem erfolgreichen Misstrauensvotum sogar zum Rücktritt zwingen."
+            }
+        ]
+    },
+    "3": {
+        "text": "Die Europäische Union braucht eine europäische Verfassung.",
+        "Zustimmung": 0,
+        "Enthaltung": 0,
+        "Ablehnung": 0,
+        "ZustimmungParteien": [],
+        "EnthaltungParteien": [],
+        "AblehnungParteien": [],
+        "answers": [
+            {
+                "name": "NPD",
+                "party": "npd",
+                "answer": "Ablehnung",
+                "text": "Keine Erklärung angegeben"
+            },
+            {
+                "name": "Ökologisch-Demokratische Partei, ÖDP",
+                "party": "ödp",
+                "answer": "Zustimmung",
+                "text": "Keine Erklärung angegeben"
+            },
+            {
+                "name": "FDP Landesverband Sachsen",
+                "party": "fdp",
+                "answer": "Zustimmung",
+                "text": "Eine europäische Verfassung ist ein langfristiges Ziel und bedarf einer Volksabstimmung"
+            },
+            {
+                "name": "BÜNDNIS 90/DIE GRÜNEN",
+                "party": "grün",
+                "answer": "Zustimmung",
+                "text": "Wir bedauern es sehr, dass die EU-Verfassung von 2004 nicht angenommen wurde. Sie hätte den Zusammenhalt gestärkt. Ein starkes Europa ist das beste Rezept gegen Populismus und Nationalismus. Wir wollen ein nachhaltigeres, demokratischeres, solidarischeres und gerechteres Europa. Dazu sollen notwendige Vertragsänderungen nicht in Hinterzimmer, sondern im Rahmen eines öffentlichen, demokratischen und bürgerfreundlichen Europäischen Konvents diskutiert und erarbeitet werden."
+            },
+            {
+                "name": "AfD",
+                "party": "afd",
+                "answer": "Ablehnung",
+                "text": "Nur Staaten haben Verfassungen. Da die EU kein Staat sein kann, kann sie auch keine \"Verfassung\" haben. Der Versuch, eine solche durch einen völkerrechtlichen Vertrag in die Welt zu bringen, ist 2005 an den Volksabstimmungen in Frankreich und den Niederlanden glücklicherweise gescheitert. Verfassungen kann man nicht durch völkerrechtliche Verträge erzeugen. Es handelte sich um den Versuch eines Staatstreichs gegenüber den existierenden europäischen Demokratien."
+            },
+            {
+                "name": "Freie Wähler",
+                "party": "fw",
+                "answer": "Zustimmung",
+                "text": "Wir FREIE WÄHLER wollen, dass Europa transparenter und bürgernäher wird. Die Vielzahl Vertragswerke – von EUV und AEUV über den Euratom-Vertrag, das Schengener Abkommen, den ESM-Vertrag bis hin zur Grundrechtecharta – tragen dazu keineswegs bei. Deshalb setzen wir uns für ein einheitliches Regelwerk ein, über das dann aber auch die Europäischen Bürger abstimmen sollen. Dabei halten wir es für nebensächlich, ob hierfür letztendlich der symbolische Begriff „Verfassung“ verwendet wird."
+            },
+            {
+                "name": "Die PARTEI",
+                "party": "partei",
+                "answer": "Ablehnung",
+                "text": "Nein. Unter Freunden macht man sowas nicht."
+            },
+            {
+                "name": "Piratenpartei Deutschland",
+                "party": "piraten",
+                "answer": "Zustimmung",
+                "text": "Wir fordern die Einberufung einer verfassungsgebenden Versammlung (Verfassungskonvent) für die Europäische Union. Ziel des Verfassungskonvents ist es, das politische System der EU und ihre Beziehung zu den Mitgliedstaaten und Regionen neu zu strukturieren und auf eine demokratische Basis zu heben. Der Prozess der Ausarbeitung einer europäischen Verfassung muss transparent geschehen und die europäischen Bürgerinnen und Bürger umfassend beteiligen."
+            },
+            {
+                "name": "SPD",
+                "party": "spd",
+                "answer": "Zustimmung",
+                "text": "Perspektivisch bedarf eine erneuerte Europäische Union einer Überarbeitung des Lissaboner Vertrages. Ziel ist eine europäische Verfassung, die sicherstellt, dass wirtschaftliche Integration mit sozialem Fortschritt und mehr Demokratie verbunden wird."
+            },
+            {
+                "name": "Partei Mensch Umwelt Tierschutz",
+                "party": "mut",
+                "answer": "Zustimmung",
+                "text": "Eine gemeinsame Verfassung, die von allen Bürger_innen der EU verabschiedet wäre, würde das Zusammengehörigkeitsgefühl und das Pflichtbewusstsein der EU gegenüber stärken. Wichtig wäre hierbei, dass bei ihrer Ausarbeitung alle EU-Bürger_innen mitwirken können."
+            },
+            {
+                "name": "CDU",
+                "party": "cdu",
+                "answer": "Enthaltung",
+                "text": "Wir müssen Europa fit machen für die Gegenwart und Zukunft. CDU und CSU wollen ein starkes, selbstbewusstes und dynamisches Europa. Darauf kommt es jetzt an. Ein neuer Anlauf für eine europäische Verfassung ist auf absehbare Zeit nicht realistisch."
+            }
+        ]
+    },
+    "4": {
+        "text": "Die gemeinsame Außen- und Sicherheitspolitik muss mit der Gemeinschaftsmethode umgesetzte werden.",
+        "Zustimmung": 0,
+        "Enthaltung": 0,
+        "Ablehnung": 0,
+        "ZustimmungParteien": [],
+        "EnthaltungParteien": [],
+        "AblehnungParteien": [],
+        "answers": [
+            {
+                "name": "NPD",
+                "party": "npd",
+                "answer": "Ablehnung",
+                "text": "Keine Erklärung angegeben"
+            },
+            {
+                "name": "Ökologisch-Demokratische Partei, ÖDP",
+                "party": "ödp",
+                "answer": "Zustimmung",
+                "text": "Keine Erklärung angegeben"
+            },
+            {
+                "name": "FDP Landesverband Sachsen",
+                "party": "fdp",
+                "answer": "Zustimmung",
+                "text": "Keine Erklärung angegeben"
+            },
+            {
+                "name": "BÜNDNIS 90/DIE GRÜNEN",
+                "party": "grün",
+                "answer": "Enthaltung",
+                "text": "Wir fördern als überzeugte Europäer*innen jede Form der weiteren Integration. Deswegen ist auch eine weitere Vergemeinschaftung der Außen- und Sicherheitspolitik sinnvoll. Uns ist aber gerade bei dieser Frage der Vorrang des Zivilen besonders wichtig. Diesen Ansatz sehen wir in anderen EU-Mitgliedsländern nur unzureichend ausgeprägt. Es braucht daher noch viele Diskussionen, um sich bei der Frage nach der Ausrichtung einer Außen- und Sicherheitspolitik anzunähern."
+            },
+            {
+                "name": "AfD",
+                "party": "afd",
+                "answer": "Ablehnung",
+                "text": "Staaten können versuchen, ihre Sicherheitspolitik mit einander abzustimmen. Bereits dies ist für jeden Einzelstaat Außenpolitik. Echte Außenpolitik ist immer an die Existenz von Staaten gebunden. Da die EU kein Staat ist und auch nicht sein kann (s. o.), kann sie auch keine Außenpolitik betreiben."
+            },
+            {
+                "name": "Freie Wähler",
+                "party": "fw",
+                "answer": "Zustimmung",
+                "text": "Wir wollen unsere Verteidigung europäisch organisieren und die militärische Zusammenarbeit zwischen den EU-Mitgliedstaaten systematisch ausdehnen. Die europäische Sicherheitsarchitektur ist zunehmend fragil. Dazu ist es erforderlich, die Gemeinsame Sicherheits- und Verteidigungspolitik (GSVP) durch Mehrheitsentscheidungen anstelle der bislang erforderlichen Einstimmigkeit und durch den gleichberechtigten Einbezug des Europaparlaments in die Entscheidungsfindung zu stärken."
+            },
+            {
+                "name": "Die PARTEI",
+                "party": "partei",
+                "answer": "Zustimmung",
+                "text": "Ja, für gemeine Methoden braucht es gemeinsame Methoden."
+            },
+            {
+                "name": "Piratenpartei Deutschland",
+                "party": "piraten",
+                "answer": "Ablehnung",
+                "text": "Da die Gemeinschaftsmethode das Europäische Parlament weitgehend einflusslos lässt, lehnen wir sie generell ab. Abgesehen davon ist die ursprüngliche Idee mehrfach ad absurdum geführt. Nationale Interessen finden immer wieder Einzug in Kommission und Ministerrat. Solange sich dort die europäische Idee nicht durchsetzt, wird es nur in den seltensten Fällen zu tatsächlichen Entscheidungen im europäischen Sinn kommen."
+            },
+            {
+                "name": "SPD",
+                "party": "spd",
+                "answer": "Zustimmung",
+                "text": "Wir sind dafür, Mehrheitsentscheidungen und eine Beteiligung des Europäischen Parlamentes auch in Fragen der europäischen Außenpolitik zu verstärken."
+            },
+            {
+                "name": "Partei Mensch Umwelt Tierschutz",
+                "party": "mut",
+                "answer": "Zustimmung",
+                "text": "Keine Erklärung angegeben"
+            },
+            {
+                "name": "CDU",
+                "party": "cdu",
+                "answer": "Enthaltung",
+                "text": "CDU und CSU unterstützen die enge Zusammenarbeit der EU-Mitgliedstaaten in der Außen- und Sicherheitspolitik. Die Vergemeinschaftung der Außen- und Sicherheitspolitik ist momentan noch nicht realisierbar."
+            }
+        ]
+    },
+    "5": {
+        "text": "Die EU braucht eine eigene Armee.",
+        "Zustimmung": 0,
+        "Enthaltung": 0,
+        "Ablehnung": 0,
+        "ZustimmungParteien": [],
+        "EnthaltungParteien": [],
+        "AblehnungParteien": [],
+        "answers": [
+            {
+                "name": "NPD",
+                "party": "npd",
+                "answer": "Ablehnung",
+                "text": "Keine Erklärung angegeben"
+            },
+            {
+                "name": "Ökologisch-Demokratische Partei, ÖDP",
+                "party": "ödp",
+                "answer": "Ablehnung",
+                "text": "Keine Erklärung angegeben"
+            },
+            {
+                "name": "FDP Landesverband Sachsen",
+                "party": "fdp",
+                "answer": "Zustimmung",
+                "text": "Vor  gemeinsamen Streitkräften ist zunächst eine koordinierte Verteidigungspolitik in der EU zu schaffen."
+            },
+            {
+                "name": "BÜNDNIS 90/DIE GRÜNEN",
+                "party": "grün",
+                "answer": "Enthaltung",
+                "text": "Wir halten Schritte für eine verstärkte Zusammenarbeit und Integration der Streitkräfte in der Europäischen Union für sinnvoll. Uns geht es darum, durch engere gemeinsame Planung, Kooperation und Koordination Fähigkeiten auf europäischer Ebene zu bündeln – auch, um die Verschwendung öffentliche Gelder zu beenden, die durch die Nicht-Kooperation entsteht. Europa muss bei der äußeren Sicherheit besser zusammenzuarbeiten. In gleichem Maße muss aber auch das EU-Parlament mehr Mitsprache erhalten."
+            },
+            {
+                "name": "AfD",
+                "party": "afd",
+                "answer": "Ablehnung",
+                "text": "Nur Staaten können \"eigene\" Armeen haben. Die EU kann daher keine \"eigene\" Armee haben. Selbstverständlich werden die Franzosen ihre Atomstreitmöglichkeit nicht entnationalisieren. Auch daraus wird der akademische Charakter der Frage ersichtlich. Die EU könnte eine Verteidigungsgemeinschaft bilden. Selbst die ist bisher und wird in Zukunft an den nationalen Egoismen scheitern. Das alleinige Bindemittel der EU ist der wirtschaftliche Nutzen aus Sicht jedes einzelnen Mitglieds im Staatenverbund.  "
+            },
+            {
+                "name": "Freie Wähler",
+                "party": "fw",
+                "answer": "Zustimmung",
+                "text": "Im Grundsatz halten wir eine drastische Vertiefung der Zusammenarbeit in der Gemeinsamen Sicherheits- und Verteidigungspolitik für erforderlich. Ob dies letztlich unter dem Schlagwort einer „EU-Armee“ geschehen muss, halten wir allerdings für nebensächlich. Wichtig ist in erster Linie, dass durch Pooling und Sharing die Effizienz unserer europäischen Verteidigungskapazitäten erhöht wird und ein gemeinsames europäisches Hauptquartier die Koordination übernimmt."
+            },
+            {
+                "name": "Die PARTEI",
+                "party": "partei",
+                "answer": "Ablehnung",
+                "text": "Nein, die Bundeswehr. Dient. Deutschland."
+            },
+            {
+                "name": "Piratenpartei Deutschland",
+                "party": "piraten",
+                "answer": "Zustimmung",
+                "text": "Wir stehen der Idee einer gemeinsamen europäischen Armee wohlwollend gegenüber. Wir betrachten die Gemeinsame Europäische Armee als selbständigen Teil eines transatlantischen Sicherheits- und Verteidigungsbündnisses. Integriert in ein immer größer werdendes globales Sicherheitsbündnis, welches dazu beiträgt das Macht- und  Sicherheitsdilemma zwischen den Mitgliedern des Bündnisses zu überwinden."
+            },
+            {
+                "name": "SPD",
+                "party": "spd",
+                "answer": "Zustimmung",
+                "text": "Auch in der Verteidigungspolitik wollen wir stärker zusammenarbeiten und die Integration von Streitkräften der Mitgliedsstaaten voranbringen – als Teil einer umfassenden, präventiven und in das internationale Recht eingebetteten Sicherheits- und Verteidigungspolitik der EU. Perspektivisch wollen wir eine europäische Armee aufbauen, deren Einsatz parlamentarisch legitimiert werden muss."
+            },
+            {
+                "name": "Partei Mensch Umwelt Tierschutz",
+                "party": "mut",
+                "answer": "Zustimmung",
+                "text": "Mit einer gemeinsamen Armee könnten Synergieeffekte genutzt und somit gleichzeitig Kosten gespart und die Verteidigungsfähigkeit verbessert werden. Außerdem wäre so die Verhandlungsposition der EU auf internationaler Ebene gestärkt."
+            },
+            {
+                "name": "CDU",
+                "party": "cdu",
+                "answer": "Enthaltung",
+                "text": "Die EU muss sich selbständig wappnen, wenn sie dauerhaft bestehen will. Wir wollen dafür die vorhandenen militärischen Kapazitäten und Fähigkeiten besser nutzen und bündeln und das Potenzial integrierter europäischer Streitkräfte ausbauen. Wir unterstützen deshalb die Vorschläge für eine Europäische Verteidigungsunion und für einen Europäischen Verteidigungsfonds."
+            }
+        ]
+    },
+    "6": {
+        "text": "Frontex muss zu einer europäischen Grenzschutzeinheit mit eigener Handlungsbefugnis ausgebaut werden.",
+        "Zustimmung": 0,
+        "Enthaltung": 0,
+        "Ablehnung": 0,
+        "ZustimmungParteien": [],
+        "EnthaltungParteien": [],
+        "AblehnungParteien": [],
+        "answers": [
+            {
+                "name": "NPD",
+                "party": "npd",
+                "answer": "Zustimmung",
+                "text": "Keine Erklärung angegeben"
+            },
+            {
+                "name": "Ökologisch-Demokratische Partei, ÖDP",
+                "party": "ödp",
+                "answer": "Ablehnung",
+                "text": "Wir würden hier u.U. zustimmen können, wenn eine parlamentarische Kontrollle gegeben wäre."
+            },
+            {
+                "name": "FDP Landesverband Sachsen",
+                "party": "fdp",
+                "answer": "Zustimmung",
+                "text": "Keine Erklärung angegeben"
+            },
+            {
+                "name": "BÜNDNIS 90/DIE GRÜNEN",
+                "party": "grün",
+                "answer": "Ablehnung",
+                "text": "Wir treten für ein menschenrechtsbasiertes europäisches Grenzregime ein. Wir wollen die parlamentarische Kontrolle stärken. Zudem muss das Handeln der Frontex- Beamt*innen durch unabhängige Akteure und nicht nur durch die EU-Grundrechte-Agentur kontrolliert werden. Es soll möglich sein, diese Handlungen ggf. auch vor den europäischen Gerichten überprüfen zu lassen."
+            },
+            {
+                "name": "AfD",
+                "party": "afd",
+                "answer": "Enthaltung",
+                "text": "Frontex als \"Grenzschutzeinheit\" würde dann Sinn machen, wenn man ein einheitliches europäisches Asyl-, Flüchtlings- und Staatsangehörigkeitsrecht hätte. Dies ist jedoch nicht der Fall. Sofern die EU eine solche Rechtsgleichheit nicht zu Stande bringt, muss Schengen und Dublin aufgehoben werden und der Grenzschutz renationalisiert werden."
+            },
+            {
+                "name": "Freie Wähler",
+                "party": "fw",
+                "answer": "Zustimmung",
+                "text": "Wir wollen keine Rückkehr zu Schlagbäumen in Europa, denn wir sind stolz auf die offenen Grenzen zu unseren europäischen Nachbarn. Aber damit wir dies erhalten können, brauchen wir eine umso bessere Sicherung unserer europäischen Außengrenzen. Deshalb sind wir für eine Stärkung des Grenzschutzes auf der europäischen Ebene. Die Grenzschutzagentur Frontex braucht daher mehr Personal und weitreichendere Kompetenzen."
+            },
+            {
+                "name": "Die PARTEI",
+                "party": "partei",
+                "answer": "Zustimmung",
+                "text": "Ja... ähm ... Nein."
+            },
+            {
+                "name": "Piratenpartei Deutschland",
+                "party": "piraten",
+                "answer": "Ablehnung",
+                "text": "Frontex muss abgeschafft werden. Stattdessen sind sichere Fluchtwege zu realisieren. So tritt man dem Schleppertum am besten entgegen."
+            },
+            {
+                "name": "SPD",
+                "party": "spd",
+                "answer": "Zustimmung",
+                "text": "Die Außengrenzen müssen besser vor illegalen Grenzübertritten geschützt werden. Dieser Schutz ist die Bedingung für offene Grenzen und für Freizügigkeit im Inneren der EU. Wir wollen daher das Mandat und die Arbeit von Frontex, der europäischen Agentur für die Grenz- und Küstenwache, stärken. Dabei werden wir dafür Sorge tragen, dass die Gefahren für Flüchtende reduziert und das Gebot der Nicht-Zurückweisung eingehalten wird."
+            },
+            {
+                "name": "Partei Mensch Umwelt Tierschutz",
+                "party": "mut",
+                "answer": "Ablehnung",
+                "text": "Die Abschottungspolitik der EU lehnen wir ab. Die Industrienationen und somit ganz besonders auch die EU sind durch ihre Vergangenheit, durch ihren Konsum, durch ihre Ausbeutung der restlichen Welt, durch ihre Waffenexporte, durch ihre rohstofforientierte Unterstützung für Diktaturen und aufgrund Fehlverhaltens für zahlreiche Fluchtursachen maßgeblich mitverantwortlich und dürfen sich daher nicht der Verantwortung entziehen, indem sie Menschen daran hindern, in Europa Schutz zu suchen."
+            },
+            {
+                "name": "CDU",
+                "party": "cdu",
+                "answer": "Zustimmung",
+                "text": "Europa muss seine Außengrenzen wirksam gegen illegale Migration schützen und die Grenzschutzagentur Frontex stärken.  Der Einsatz von Frontex sollte auch ohne Einverständnis des betreffenden Mitgliedstaats möglich sein, wenn dieser trotz Aufforderung seinen Verpflichtungen nicht nachkommt."
+            }
+        ]
+    },
+    "7": {
+        "text": "Die EU braucht eine gemeinsame Wirtschaftsregierung für die Eurozone.",
+        "Zustimmung": 0,
+        "Enthaltung": 0,
+        "Ablehnung": 0,
+        "ZustimmungParteien": [],
+        "EnthaltungParteien": [],
+        "AblehnungParteien": [],
+        "answers": [
+            {
+                "name": "NPD",
+                "party": "npd",
+                "answer": "Ablehnung",
+                "text": "Keine Erklärung angegeben"
+            },
+            {
+                "name": "Ökologisch-Demokratische Partei, ÖDP",
+                "party": "ödp",
+                "answer": "Enthaltung",
+                "text": "Die Entwicklung in den einzelnen Mitgliedsländern ist zu unterschiedlich."
+            },
+            {
+                "name": "FDP Landesverband Sachsen",
+                "party": "fdp",
+                "answer": "Ablehnung",
+                "text": "Eine solche Wirtschaftsregierung kann erst im Rahmen einer gemeinsamen Wirtschafts- und Fiskalpolitik tätig werden, die gegenwärtig nicht durchsetzbar erscheint."
+            },
+            {
+                "name": "BÜNDNIS 90/DIE GRÜNEN",
+                "party": "grün",
+                "answer": "Enthaltung",
+                "text": "Die Wirtschafts- und Währungsunion braucht weitere Reformen. Aber unser Ziel bleibt ein Europa, in dem alle zusammenhalten. Eine Spaltung der EU in einen Euro-Exklusiv-Club und den Rest mit neuen Doppelstrukturen lehnen wir ab. Wir wollen, dass ein Mitglied der EU-Kommission mit allen Kompetenzen ausgestattet im Bereich der Wirtschafts- und Währungsunion wird, den Vorsitz der Euro-Gruppe und des Rats für Wirtschaft und Finanzen innehat und gegenüber dem EU-Parlament verantwortlich ist."
+            },
+            {
+                "name": "AfD",
+                "party": "afd",
+                "answer": "Ablehnung",
+                "text": "Es ist völlig unklar, was dieser Begriff meint. \"Regiert\" werden kann nur im Rahmen eines einheitlichen Rechtsrahmens und eines einheitlichen Budgets. Da es unvorstellbar ist, dass eine \"Regierung\" einheitliche wirtschaftliche Entscheidungen für 27 wirtschaftlich völlig unterschiedliche Volkswirtschaften trifft, ist sowohl das Schlagwort wie alles, was man sich darunter vorstellen kann, absurd."
+            },
+            {
+                "name": "Freie Wähler",
+                "party": "fw",
+                "answer": "Ablehnung",
+                "text": "Mit einer europäischen Wirtschaftsregierung, wie sie auf europäischer Ebene diskutiert wird, hätte die Abgabe weiterer nationaler Kompetenzen zur Folge, insbesondere im Bereich der Budgethoheit. Das Demokratiedefizit in Europa würde durch eine solche Maßnahme nur unnötig größer werden, die führende Wirtschaftswissenschaftler ohnehin für entbehrlich halten."
+            },
+            {
+                "name": "Die PARTEI",
+                "party": "partei",
+                "answer": "Ablehnung",
+                "text": "Nein, unter Freunden macht man sowas nicht."
+            },
+            {
+                "name": "Piratenpartei Deutschland",
+                "party": "piraten",
+                "answer": "Zustimmung",
+                "text": "Will man den Fokus von nationalen Interessen wegbringen, führt insbesondere in der Wirtschaftspolitik kein Weg an einer wesentlich weiteren europäischen Zusammenarbeit und gebündelter Entscheidungskompetenz vorbei."
+            },
+            {
+                "name": "SPD",
+                "party": "spd",
+                "answer": "Zustimmung",
+                "text": "Wir sind nicht einzeln stark, sondern nur gemeinsam. Daher brauchen wir eine koordinierte Wirtschaftspolitik in Europa. Unser Ziel ist es, die konjunkturellen Entwicklungen der Mitgliedstaaten Europas besser aufeinander abzustimmen. Exzessive Ungleichgewichte wollen wir überwinden. Dafür brauchen wir eine bessere und wirksamere Integration der Wirtschaftspolitik – perspektivisch mit der Einrichtung einer Wirtschaftsregierung für den Euro-Raum."
+            },
+            {
+                "name": "Partei Mensch Umwelt Tierschutz",
+                "party": "mut",
+                "answer": "Zustimmung",
+                "text": "Keine Erklärung angegeben"
+            },
+            {
+                "name": "CDU",
+                "party": "cdu",
+                "answer": "Enthaltung",
+                "text": "CDU und CSU wollen die dauerhafte Stabilisierung der Eurozone erreichen. Maßstab muss dabei bleiben: Eine Vergemeinschaftung von Schulden schließen wir weiter aus. Wir sind bereit, mit der neuen französischen Regierung die Eurozone schrittweise weiterzuentwickeln."
+            }
+        ]
+    },
+    "8": {
+        "text": "Die EU braucht eine eigene Fiskalpolitik.",
+        "Zustimmung": 0,
+        "Enthaltung": 0,
+        "Ablehnung": 0,
+        "ZustimmungParteien": [],
+        "EnthaltungParteien": [],
+        "AblehnungParteien": [],
+        "answers": [
+            {
+                "name": "NPD",
+                "party": "npd",
+                "answer": "Ablehnung",
+                "text": "Keine Erklärung angegeben"
+            },
+            {
+                "name": "Ökologisch-Demokratische Partei, ÖDP",
+                "party": "ödp",
+                "answer": "Zustimmung",
+                "text": "Keine Erklärung angegeben"
+            },
+            {
+                "name": "FDP Landesverband Sachsen",
+                "party": "fdp",
+                "answer": "Zustimmung",
+                "text": "Keine Erklärung angegeben"
+            },
+            {
+                "name": "BÜNDNIS 90/DIE GRÜNEN",
+                "party": "grün",
+                "answer": "Zustimmung",
+                "text": "Nur mit einer gemeinsamen Wirtschafts- und Fiskalpolitik ist die Handlungsfähigkeit der WWU dauerhaft zu gewährleisten. Zwischenstaatliche Instrumente wie den Fiskalvertrag wollen wir wegen mehr Rechtsicherheit und demokratischer Legitimation in die EU-Verträge integrieren. Wir wollen die Diskussion vorantreiben, wie im EU-Haushalt ein Fiskalinstrument ausgestaltet sein könnte, um auf Wirtschafts-Schocks zu reagieren. Auch die Steuerung über das Europäische Semester soll gestärkt werden."
+            },
+            {
+                "name": "AfD",
+                "party": "afd",
+                "answer": "Ablehnung",
+                "text": "Die Grundlage der Währungsunion waren die Grundsätze einer einheitlichen Fiskalpolitik (Schuldenbegrenzung, Defizitbegrenzung). Diese wurde durch den sog. Stabilitätspakt ergänzt, erneuert, bestätigt. Funktioniert hat nichts. Statt Begrenzung sind die Staatsschulden explodiert. Zudem wurden und werden viele Instrumente geschaffen (ESFS, ESM, EQ, OMT, Juncker-Fonds usw.), welche eine zusätzliche Schuldenpolitik befeuern, obwohl die Kernregeln bereits zerstört worden sind."
+            },
+            {
+                "name": "Freie Wähler",
+                "party": "fw",
+                "answer": "Ablehnung",
+                "text": "Eine gemeinsame Fiskalpolitik führt zu einem Verlust der Budgethoheit der Mitgliedstaaten. Die Änderung des bestehenden Finanzierungssystems der EU wäre nicht länger mit dem Charakter der EU als Staatenverbund vereinbar. Auch die Haushaltsdisziplin auf EU-Ebene würde durch eine eigene EU-Steuer entscheidend geschwächt. Zudem lehnen wir die mit einer gemeinsamen Fiskalpolitik angedachte Vergemeinschaftung der \nSchulden in Europa ab."
+            },
+            {
+                "name": "Die PARTEI",
+                "party": "partei",
+                "answer": "Zustimmung",
+                "text": "Ja, das wäre Fiskalhumor."
+            },
+            {
+                "name": "Piratenpartei Deutschland",
+                "party": "piraten",
+                "answer": "Enthaltung",
+                "text": "Keine Erklärung angegeben"
+            },
+            {
+                "name": "SPD",
+                "party": "spd",
+                "answer": "Zustimmung",
+                "text": "Wir wollen insbesondere dort, wo wir mit dem Euro eine gemeinsame Währung haben, ein gemeinsames Finanzbudget schaffen. Es ermöglicht Investitionsimpulse und wirkt zugleich stabilisierend als Ausgleichsmechanismus bei Krisen. Eine wirksame Besteuerung der Finanzmärkte muss zu dessen Finanzierung beitragen. Auch wollen wir eine gemeinsame Bemessungsgrundlage und Mindestsätze bei den Unternehmenssteuern in Europa durchsetzen."
+            },
+            {
+                "name": "Partei Mensch Umwelt Tierschutz",
+                "party": "mut",
+                "answer": "Zustimmung",
+                "text": "Keine Erklärung angegeben"
+            },
+            {
+                "name": "CDU",
+                "party": "cdu",
+                "answer": "Enthaltung",
+                "text": "Es kommt darauf an, was damit konkret gemeint ist. CDU und CSU sind bereit, bei der Überwindung der Probleme gerade beim Abbau der hohen Jugendarbeitslosigkeit solidarisch zu helfen, denn wir wollen den Erfolg der gesamten EU. Dieser ist nur möglich, wenn gemeinsam vereinbarte Regeln wie der Stabilitätspakt eingehalten werden."
+            }
+        ]
+    },
+    "9": {
+        "text": "Die EU soll auf ein einheitliches Steuersystem einführen.",
+        "Zustimmung": 0,
+        "Enthaltung": 0,
+        "Ablehnung": 0,
+        "ZustimmungParteien": [],
+        "EnthaltungParteien": [],
+        "AblehnungParteien": [],
+        "answers": [
+            {
+                "name": "NPD",
+                "party": "npd",
+                "answer": "Ablehnung",
+                "text": "Keine Erklärung angegeben"
+            },
+            {
+                "name": "Ökologisch-Demokratische Partei, ÖDP",
+                "party": "ödp",
+                "answer": "Ablehnung",
+                "text": "Keine Erklärung angegeben"
+            },
+            {
+                "name": "FDP Landesverband Sachsen",
+                "party": "fdp",
+                "answer": "Ablehnung",
+                "text": "Auch in Fragen der Steuerpolitik hat die EU zur Zeit nahezu keine Kompetenz; die Möglichkeiten der Angleichung über Richtlinien sind weiter zu nutzen."
+            },
+            {
+                "name": "BÜNDNIS 90/DIE GRÜNEN",
+                "party": "grün",
+                "answer": "Zustimmung",
+                "text": "Wir wollen eine Harmonisierung der Steuerpolitik vorantreiben für mehr Steuergerechtigkeit, Vorteilen für die Wirtschaft und eine Stärkung der Einnahmeseite der EU - zB. via einen europäischen Steuerpakt, der Steuervermeidung und -hinterziehung gemeinsam bekämpfen hilft. Schrittweise wollen wir mit der Einführung ökologischer Eigenmittel beginnen, um den EU-Haushalt transparenter und unabhängiger von den Zahlungen der EU-Mitgliedsländer zu machen. Gleiches gilt eine EU-Finanztransaktionssteuer."
+            },
+            {
+                "name": "AfD",
+                "party": "afd",
+                "answer": "Ablehnung",
+                "text": "Auch dies eine absurde Idee. Europa kann wirtschaftlich nur erfolgreich sein, wenn die Einzelstaaten in gesundem Wettbewerb zueinander stehen. Das hatte schon David Hume kenntnisreich beschrieben. Wer den Wettbewerb guter Staatsführung innerhalb Europas beseitigt, zerstört die letzte Dimension, welche noch einen Rest an Vitalität in Europa derzeit darstellt. Der Wettbewerb der Steuersysteme ist ein wichtiger Baustein dabei."
+            },
+            {
+                "name": "Freie Wähler",
+                "party": "fw",
+                "answer": "Ablehnung",
+                "text": "Eine Änderung des bestehenden Finanzierungssystems der EU ist mit dem Charakter der Europäischen Union als Staatenverbund nicht vereinbar. Hinzu kommt, dass ein solches Vorhaben die notwendige Haushaltsdisziplin auf EU-Ebene entscheidend schwächen und zu einer höheren Steuerbelastung von Bürgern und Unternehmen führen würde."
+            },
+            {
+                "name": "Die PARTEI",
+                "party": "partei",
+                "answer": "Ablehnung",
+                "text": "Nein, das wäre Fäkalhumor. (hihi, einführen...)"
+            },
+            {
+                "name": "Piratenpartei Deutschland",
+                "party": "piraten",
+                "answer": "Zustimmung",
+                "text": "Der innereuropäische aber auch der innerregionale Steuerwettbewerb führt zu negativen Effekten für die Gesamtgesellschaft. Einzig und allein profitieren davon langfristig die Unternehmen, die sich den Ort mit der geringsten Steuerbelastung als Sitz suchen. Auch wenn dort überhaupt keine Produktion oder Dienstleistung stattfindet."
+            },
+            {
+                "name": "SPD",
+                "party": "spd",
+                "answer": "Zustimmung",
+                "text": "Mehr Wachstum und Investitionen in Europa setzen solide Einnahmen voraus. Deshalb muss Europa Schritte zur Harmonisierung der Unternehmensbesteuerung und des Steuervollzugs in Europa auf den Weg bringen. Europa braucht Instrumente, um Steuervermeidung und Steuerbetrug effektiv zu bekämpfen. Unternehmen sollen dort ihre Steuern bezahlen, wo sie ihre Gewinne erwirtschaften. Große Unternehmen dürfen nicht länger die Staaten untereinander ausspielen können, um ihre Steuerlast zu drücken."
+            },
+            {
+                "name": "Partei Mensch Umwelt Tierschutz",
+                "party": "mut",
+                "answer": "Zustimmung",
+                "text": "Ein einheitliches Steuersystem würde Steuerflucht, zumindest innerhalb der EU, verhindern und für mehr Gerechtigkeit sorgen."
+            },
+            {
+                "name": "CDU",
+                "party": "cdu",
+                "answer": "Ablehnung",
+                "text": "CDU und CSU streben die Harmonisierung der Bemessungsgrundlage der Körperschaftssteuer an. Dies wäre ein deutliches Signal für unsere Bereitschaft, um Märkte und Investitionen zu kämpfen und den Binnenmarkt zu stärken. Die Festlegung der Höhe von Steuersätzen sollte aber als Wettbewerbselement weiterhin den EU-Mitgliedstaaten vorbehalten bleiben."
+            }
+        ]
+    },
+    "10": {
+        "text": "Das Europäische Parlament soll ein Initiativrecht für Gesetze erhalten.",
+        "Zustimmung": 0,
+        "Enthaltung": 0,
+        "Ablehnung": 0,
+        "ZustimmungParteien": [],
+        "EnthaltungParteien": [],
+        "AblehnungParteien": [],
+        "answers": [
+            {
+                "name": "NPD",
+                "party": "npd",
+                "answer": "Zustimmung",
+                "text": "Keine Erklärung angegeben"
+            },
+            {
+                "name": "Ökologisch-Demokratische Partei, ÖDP",
+                "party": "ödp",
+                "answer": "Zustimmung",
+                "text": "Keine Erklärung angegeben"
+            },
+            {
+                "name": "FDP Landesverband Sachsen",
+                "party": "fdp",
+                "answer": "Zustimmung",
+                "text": "Keine Erklärung angegeben"
+            },
+            {
+                "name": "BÜNDNIS 90/DIE GRÜNEN",
+                "party": "grün",
+                "answer": "Zustimmung",
+                "text": "Wir wollen, dass das Europäische Parlament als einzige direkt gewählte EU-Institution der zentrale Ort aller europäischen Entscheidungen wird und das Recht erhält, eigene Gesetzesvorschläge einzubringen. Zu oft wird europäische Demokratie zu einseitig über das Handeln nationaler Regierungen legitimiert anstatt über das Europäische Parlament."
+            },
+            {
+                "name": "AfD",
+                "party": "afd",
+                "answer": "Ablehnung",
+                "text": "Da es kein wirkliches Parlament gibt, die \"Parlamentarier\" sich auch nicht als Vertreter der \"EU-Bürger\" begreifen sondern als Agenten der Institution, bei der sie angestellt sind, wäre es absurd, durch eine solche Berechtigung den Eindruck zu erwecken, aus der Repräsentanz des \"Volkes\" heraus würden Gesetzesinitiativen entfaltet. Dies ist ja nicht einmal im nationalen Rahmen der Fall. Auch dort kommen alle Gesetzentwürfe von den Regierungen. Deren Abgeordnete vollziehen Gesetzesvorlagen nach."
+            },
+            {
+                "name": "Freie Wähler",
+                "party": "fw",
+                "answer": "Zustimmung",
+                "text": "Das Europaparlament muss als direkt gewählte europäische Volksvertretung gestärkt werden. Dazu gehört auch ein echtes Initiativrecht für EU-Gesetze."
+            },
+            {
+                "name": "Die PARTEI",
+                "party": "partei",
+                "answer": "Zustimmung",
+                "text": "Ja, wenngleich die Demokratie genug Gefahren ausgesetzt ist."
+            },
+            {
+                "name": "Piratenpartei Deutschland",
+                "party": "piraten",
+                "answer": "Zustimmung",
+                "text": "Das europäische Parlament braucht, unabhängig davon wie viele Kompetenzen auf EU Ebene angesiedelt sind, die vollen Rechte eines Parlamentes. Zumindest zusätzlich das Gesetzesinitiativrecht, worauf heute noch die Kommission das Monopol hat und das volle Budgetrecht. Zudem wäre eine zweite Parlamentskammer sinnvoll, besetzt mit Vertretern  der nationalen Parlamente oder direkt gewählte Landesvertretern. Die Rechte der Kommission und des Europäischen Rates müssten im Gegenzug beschnitten werden."
+            },
+            {
+                "name": "SPD",
+                "party": "spd",
+                "answer": "Zustimmung",
+                "text": "Keine Erklärung angegeben"
+            },
+            {
+                "name": "Partei Mensch Umwelt Tierschutz",
+                "party": "mut",
+                "answer": "Zustimmung",
+                "text": "Das Europäische Parlament als bisher einziges direkt gewähltes Organ der EU muss dringend mehr Gewicht bekommen, um die Demokratie in der EU zu verbessern."
+            },
+            {
+                "name": "CDU",
+                "party": "cdu",
+                "answer": "Zustimmung",
+                "text": "CDU und CSU sind für ein echtes Initiativrecht des Europäischen Parlaments und des Rates. Das Europäische Parlament verfügt bereits über ein mittelbares Initiativrecht, in dem es die EU-Kommission auffordern kann, Gesetzgebungsvorschläge vorzulegen. Will die EU-Kommission dem nicht Folge leisten, muss sie dies begründen."
+            }
+        ]
+    },
+    "11": {
+        "text": "Das Europäische Parlament soll ein Initiativrecht für Gesetze erhalten.",
+        "Zustimmung": 0,
+        "Enthaltung": 0,
+        "Ablehnung": 0,
+        "ZustimmungParteien": [],
+        "EnthaltungParteien": [],
+        "AblehnungParteien": [],
+        "answers": [
+            {
+                "name": "NPD",
+                "party": "npd",
+                "answer": "Zustimmung",
+                "text": "Keine Erklärung angegeben"
+            },
+            {
+                "name": "Ökologisch-Demokratische Partei, ÖDP",
+                "party": "ödp",
+                "answer": "Zustimmung",
+                "text": "Frage doppelt gestellt!"
+            },
+            {
+                "name": "FDP Landesverband Sachsen",
+                "party": "fdp",
+                "answer": "Zustimmung",
+                "text": "Keine Erklärung angegeben"
+            },
+            {
+                "name": "BÜNDNIS 90/DIE GRÜNEN",
+                "party": "grün",
+                "answer": "Zustimmung",
+                "text": "Wir wollen, dass das Europäische Parlament als einzige direkt gewählte EU-Institution der zentrale Ort aller europäischen Entscheidungen wird und das Recht erhält, eigene Gesetzesvorschläge einzubringen. Zu oft wird europäische Demokratie zu einseitig über das Handeln nationaler Regierungen legitimiert anstatt über das Europäische Parlament."
+            },
+            {
+                "name": "AfD",
+                "party": "afd",
+                "answer": "Ablehnung",
+                "text": "Die These wurde soeben bereits aufgestellt. Siehe oben."
+            },
+            {
+                "name": "Freie Wähler",
+                "party": "fw",
+                "answer": "Zustimmung",
+                "text": "Das Europaparlament muss als direkt gewählte europäische Volksvertretung gestärkt werden. Dazu gehört auch ein echtes Initiativrecht für EU-Gesetze."
+            },
+            {
+                "name": "Die PARTEI",
+                "party": "partei",
+                "answer": "Zustimmung",
+                "text": "Ja, wenngleich die Demokratie genug Gefahren ausgesetzt ist."
+            },
+            {
+                "name": "Piratenpartei Deutschland",
+                "party": "piraten",
+                "answer": "Zustimmung",
+                "text": "Das europäische Parlament braucht, unabhängig davon wie viele Kompetenzen auf EU Ebene angesiedelt sind, die vollen Rechte eines Parlamentes. Zumindest zusätzlich das Gesetzesinitiativrecht, worauf heute noch die Kommission das Monopol hat und das volle Budgetrecht. Zudem wäre eine zweite Parlamentskammer sinnvoll, besetzt mit Vertretern  der nationalen Parlamente oder direkt gewählte Landesvertretern. Die Rechte der Kommission und des Europäischen Rates müssten im Gegenzug beschnitten werden."
+            },
+            {
+                "name": "SPD",
+                "party": "spd",
+                "answer": "Zustimmung",
+                "text": "Keine Erklärung angegeben"
+            },
+            {
+                "name": "Partei Mensch Umwelt Tierschutz",
+                "party": "mut",
+                "answer": "Zustimmung",
+                "text": "Das Europäische Parlament als bisher einziges direkt gewähltes Organ der EU muss dringend mehr Gewicht bekommen, um die Demokratie in der EU zu verbessern."
+            },
+            {
+                "name": "CDU",
+                "party": "cdu",
+                "answer": "Zustimmung",
+                "text": "CDU und CSU sind für ein echtes Initiativrecht des Europäischen Parlaments und des Rates. Das Europäische Parlament verfügt bereits über ein mittelbares Initiativrecht, in dem es die EU-Kommission auffordern kann, Gesetzgebungsvorschläge vorzulegen. Will die EU-Kommission dem nicht Folge leisten, muss sie dies begründen."
+            }
+        ]
+    },
+    "12": {
+        "text": "Die Anzahl der EU-Kommissare sollte sich verringern.",
+        "Zustimmung": 0,
+        "Enthaltung": 0,
+        "Ablehnung": 0,
+        "ZustimmungParteien": [],
+        "EnthaltungParteien": [],
+        "AblehnungParteien": [],
+        "answers": [
+            {
+                "name": "NPD",
+                "party": "npd",
+                "answer": "Enthaltung",
+                "text": "Keine Erklärung angegeben"
+            },
+            {
+                "name": "Ökologisch-Demokratische Partei, ÖDP",
+                "party": "ödp",
+                "answer": "Ablehnung",
+                "text": "Bei einer Verringerung müsste ein Rotationsprinzip unter den Mitgliedsländern eingeführt werden, um alle Länder gleich zu beteiligen."
+            },
+            {
+                "name": "FDP Landesverband Sachsen",
+                "party": "fdp",
+                "answer": "Zustimmung",
+                "text": "Keine Erklärung angegeben"
+            },
+            {
+                "name": "BÜNDNIS 90/DIE GRÜNEN",
+                "party": "grün",
+                "answer": "Zustimmung",
+                "text": "Wir wollen daran festhalten, die Kommission zu verkleinern, so wie im Lissabon-Vertrag vorgesehen. Die Forderung, dass jeder Mitgliedstaat eine/n Kommissar*in benennt, widerspricht dem Charakter\nder Kommission als Gemeinschaftsinstitution."
+            },
+            {
+                "name": "AfD",
+                "party": "afd",
+                "answer": "Enthaltung",
+                "text": "Aus der Sicht einer fachlichen Logik wäre das richtig. Sofern jedoch eine Repräsentanz der EU-Organe nach Einwohnerzahlen der Entsenderstaaten nicht eingeführt wird, ist diese Forderung theoretisch."
+            },
+            {
+                "name": "Freie Wähler",
+                "party": "fw",
+                "answer": "Zustimmung",
+                "text": "Auf 28 Kommissare sind die Aufgaben der Europäischen Kommission verteilt. Das ist höchst ineffizient und bläht den bürokratischen Apparat in Brüssel unnötig auf. Wir wollen die Kommission deshalb drastisch verkleinern: \nZehn Kommissare müssen ausreichen, um Europa sinnvoll lenken zu können."
+            },
+            {
+                "name": "Die PARTEI",
+                "party": "partei",
+                "answer": "Ablehnung",
+                "text": "Nein, viel hilft viel. (Oettinger)"
+            },
+            {
+                "name": "Piratenpartei Deutschland",
+                "party": "piraten",
+                "answer": "Zustimmung",
+                "text": "Die Anzahl der Kommissare sollte sich auf Null verringern. Sie sind durch keine Wahlen legitimiert, ihre Machtpositionen sind quasi unangreifbar. Das hat nichts mit einem demokratischen Vorgehen zu tun. Dies gilt auch für die Unsitte, dass unbedingt jedes Land einen Kommissar stellen muss, egal, wie fähig er für dieses Amt ist. Das beste Beispiel ist der langjährige, in verschiedenen Gebieten zuständige Kommissar Öttinger, der gerade von dem Feld der Digitalisierung überhaupt keine Ahnung hatte."
+            },
+            {
+                "name": "SPD",
+                "party": "spd",
+                "answer": "Enthaltung",
+                "text": "Keine Erklärung angegeben"
+            },
+            {
+                "name": "Partei Mensch Umwelt Tierschutz",
+                "party": "mut",
+                "answer": "Ablehnung",
+                "text": "Keine Erklärung angegeben"
+            },
+            {
+                "name": "CDU",
+                "party": "cdu",
+                "answer": "Zustimmung",
+                "text": "CDU und CSU treten für eine Verkleinerung der Kommission ein, wie dies im Lissabon-Vertrag angelegt ist. Das Problem der Zersplitterung der Portfolios der Kommissare hat sich etwas entschärft, seitdem Kommissionspräsident Jean-Claude Juncker die EU-Kommission im Jahr 2014 erfolgreich umstrukturiert hat."
+            }
+        ]
+    },
+    "13": {
+        "text": "Die EU-Kommissare müssen in Zukunft durch das Europäische Parlament gewählt werden!",
+        "Zustimmung": 0,
+        "Enthaltung": 0,
+        "Ablehnung": 0,
+        "ZustimmungParteien": [],
+        "EnthaltungParteien": [],
+        "AblehnungParteien": [],
+        "answers": [
+            {
+                "name": "NPD",
+                "party": "npd",
+                "answer": "Zustimmung",
+                "text": "Keine Erklärung angegeben"
+            },
+            {
+                "name": "Ökologisch-Demokratische Partei, ÖDP",
+                "party": "ödp",
+                "answer": "Zustimmung",
+                "text": "Keine Erklärung angegeben"
+            },
+            {
+                "name": "FDP Landesverband Sachsen",
+                "party": "fdp",
+                "answer": "Zustimmung",
+                "text": "Keine Erklärung angegeben"
+            },
+            {
+                "name": "BÜNDNIS 90/DIE GRÜNEN",
+                "party": "grün",
+                "answer": "Zustimmung",
+                "text": "Wir wollen die europäische Demokratie stärken. Das EU-Parlament soll zentraler Ort aller europäischen Entscheidungen werden. Das gilt auch für die Wahl der Mitglieder der EU-Kommission. In der Wirtschafts- und Währungsunion wollen wir beginnen. Ein EU-Kommissionsmitglied ausgestattet mit allen Kompetenzen im Bereich der WWU soll individuell vom EU-Parlament gewählt bzw. abgewählt werden können. Die Abwahl der gesamten EU-Kommission wollen wir über ein konstruktives Misstrauensvotum ermöglichen."
+            },
+            {
+                "name": "AfD",
+                "party": "afd",
+                "answer": "Ablehnung",
+                "text": "Da es kein wirkliches Parlament gibt, hilft eine solche Scheinlegitimation auch nicht weiter. Darüber zu reden, lohnt sich erst, wenn die Staaten proportional zu ihrer Einwohnerzahl im Parlament vertreten wären."
+            },
+            {
+                "name": "Freie Wähler",
+                "party": "fw",
+                "answer": "Zustimmung",
+                "text": "Auch weiterhin müssen der Kommissionspräsident und die einzelnen Kommissare sich der Wahl durch das Europaparlament stellen."
+            },
+            {
+                "name": "Die PARTEI",
+                "party": "partei",
+                "answer": "Zustimmung",
+                "text": "Ja, solange die EU-Kommission das alleinige Vorschlagsrecht inne hat."
+            },
+            {
+                "name": "Piratenpartei Deutschland",
+                "party": "piraten",
+                "answer": "Zustimmung",
+                "text": "Das wäre eine Möglichkeit - und die am weitesten zielführende - die demokratische Legitimation herzustellen. Noch besser wäre die direkte Wahl durch die Europäischen Wähler."
+            },
+            {
+                "name": "SPD",
+                "party": "spd",
+                "answer": "Zustimmung",
+                "text": "Keine Erklärung angegeben"
+            },
+            {
+                "name": "Partei Mensch Umwelt Tierschutz",
+                "party": "mut",
+                "answer": "Zustimmung",
+                "text": "Dies wäre zumindest eine kleine Verbesserung in Richtung einer demokratischeren EU. Wir finden jedoch, dass die EU-Kommissare direkt von den Wähler_innen gewählt werden sollten. Um den finanziellen Aufwand hierfür möglichst gering zu halten, sollte dies zeitgleich mit der Wahl zum europäischen Parlament erfolgen."
+            },
+            {
+                "name": "CDU",
+                "party": "cdu",
+                "answer": "Enthaltung",
+                "text": "Bereits jetzt müssen sich die designierten EU-Kommissare im Europäischen Parlament Einzelanhörungen stellen. Das Parlament verfügt damit faktisch über ein Veto-Recht bei der Ernennung von Kommissaren."
+            }
+        ]
+    },
+    "14": {
+        "text": "Der Europäische Rat soll in Zukunft öffentlich tagen.",
+        "Zustimmung": 0,
+        "Enthaltung": 0,
+        "Ablehnung": 0,
+        "ZustimmungParteien": [],
+        "EnthaltungParteien": [],
+        "AblehnungParteien": [],
+        "answers": [
+            {
+                "name": "NPD",
+                "party": "npd",
+                "answer": "Zustimmung",
+                "text": "Zustimmung"
+            },
+            {
+                "name": "Ökologisch-Demokratische Partei, ÖDP",
+                "party": "ödp",
+                "answer": "Zustimmung",
+                "text": "Zustimmung"
+            },
+            {
+                "name": "FDP Landesverband Sachsen",
+                "party": "fdp",
+                "answer": "Zustimmung",
+                "text": "Zustimmung"
+            },
+            {
+                "name": "BÜNDNIS 90/DIE GRÜNEN",
+                "party": "grün",
+                "answer": "Zustimmung",
+                "text": "Zustimmung"
+            },
+            {
+                "name": "AfD",
+                "party": "afd",
+                "answer": "Zustimmung",
+                "text": "Zustimmung"
+            },
+            {
+                "name": "Freie Wähler",
+                "party": "fw",
+                "answer": "Ablehnung",
+                "text": "Zustimmung"
+            },
+            {
+                "name": "Die PARTEI",
+                "party": "partei",
+                "answer": "Ablehnung",
+                "text": "Zustimmung"
+            },
+            {
+                "name": "Piratenpartei Deutschland",
+                "party": "piraten",
+                "answer": "Zustimmung",
+                "text": "Zustimmung"
+            },
+            {
+                "name": "SPD",
+                "party": "spd",
+                "answer": "Enthaltung",
+                "text": "Zustimmung"
+            },
+            {
+                "name": "Partei Mensch Umwelt Tierschutz",
+                "party": "mut",
+                "answer": "Zustimmung",
+                "text": "Zustimmung"
+            },
+            {
+                "name": "CDU",
+                "party": "cdu",
+                "answer": "Ablehnung",
+                "text": "Enthaltung"
+            }
+        ]
+    },
+    "15": {
+        "text": "",
+        "Zustimmung": 0,
+        "Enthaltung": 0,
+        "Ablehnung": 0,
+        "ZustimmungParteien": [],
+        "EnthaltungParteien": [],
+        "AblehnungParteien": [],
+        "answers": [
+            {
+                "name": "NPD",
+                "party": "npd",
+                "answer": "",
+                "text": "Keine Erklärung angegeben"
+            },
+            {
+                "name": "Ökologisch-Demokratische Partei, ÖDP",
+                "party": "ödp",
+                "answer": "",
+                "text": "Keine Erklärung angegeben"
+            },
+            {
+                "name": "FDP Landesverband Sachsen",
+                "party": "fdp",
+                "answer": "Wir wollen den Europäischen Rat abschaffen und die Ratssitzungen i.d.R.  öffentlich abhalten lassen.",
+                "text": "Keine Erklärung angegeben"
+            },
+            {
+                "name": "BÜNDNIS 90/DIE GRÜNEN",
+                "party": "grün",
+                "answer": "Ein Schlüssel zur Stärkung der europäischen Demokratie ist mehr Transparenz. Derzeit tagt der Rat nur dann öffentlich, wenn er gesetzgeberisch berät oder abstimmt. Das ist zu wenig. Der Rat sollte grundsätzlich öffentlich tagen und seine vorbereitenden Gremien transparent werden. Zudem sollten Protokolle sowie non-Paper in der Regel öffentlich sein. So werden Positionen, Debatte und Kompromisssuche von Beginn an nachvollziehbarer.",
+                "text": "Dass Lobbiyst*innen ihre Interessen durchsetzen wollen, ist an sich noch nicht verwerflich.Verwerflich agiert die Minderheit jener Politiker*innen, die diese Partikularinteressen in der Gesamtabwägung über das Gemeinwohl stellen. Deshalb fordern wir mehr Transparenz durch ein verpflichtendes Lobbyregister, striktere Karenzzeiten und einen „legislativer Fußabdruck“, der sichtbar macht, wer mit welchem Budget in wessen Auftrag und zu welchem Thema Einfluss auf die Politik nimmt."
+            },
+            {
+                "name": "AfD",
+                "party": "afd",
+                "answer": "Das wäre deshalb erkenntnisreich, weil man erleben könnte, mit welchen Koalitionen Klein- und Kleinstländer mit ihren Mehrheiten die EU-Politik bestimmen.",
+                "text": "Das ist immer gut, weil der Lobbyismus in Europa eine illegitime Macht darstellt. Ob alleine eine \"Registrierung\" der Lobbyisten daran etwas ändert, erscheint zweifelhaft. Der Ruf nach einem Register hat in diesem Zusammenhang sicher einen Alibi-Charakter."
+            },
+            {
+                "name": "Freie Wähler",
+                "party": "fw",
+                "answer": "Die Zusammenkunft der europäischen Staats- und Regierungschefs muss auch weiterhin Raum für vertrauliche Beratungen lassen. Grundsätzlich halten wir FREIE WÄHLER es aber für erforderlich, dass die Arbeit dieses Gremiums transparenter wird.",
+                "text": "Wir FREIE WÄHLER stehen für größtmögliche Transparenz in der Europapolitik. Die eingeführten Lobbyregister im Europäischen Parlament und in der Europäischen Kommission begrüßen wir daher sehr. Allerdings kritisieren \nwir, dass sich der Ministerrat immer noch kein vergleichbar strenges Lobbyregister auferlegt hat. Das wollen wir ändern."
+            },
+            {
+                "name": "Die PARTEI",
+                "party": "partei",
+                "answer": "Nein, Teile der Bevölkerung könnte das verunsichern.",
+                "text": "Ja, aber unter Ausschluss der Öffentlichkeit."
+            },
+            {
+                "name": "Piratenpartei Deutschland",
+                "party": "piraten",
+                "answer": "Transparenz ist in jeglicher Form der politischen Entscheidungsfindung ein Mittel zur besseren Akzeptanz von Entscheidungen. Dies gilt auch für den Europäischen Rat.",
+                "text": "Wir fordern ein verbindliches Lobbyregister für die Institutionen der Europäischen Union (EU), in das sich Interessenvertreter und Interessenvertretungen verpflichtend eintragen müssen, um die Möglichkeit zu bekommen, bei Gesetzesvorhaben durch das Europäische Parlament angehört zu werden. Dieses Register muss regelmäßig von autorisierten, unabhängigen Stellen überprüft werden."
+            },
+            {
+                "name": "SPD",
+                "party": "spd",
+                "answer": "Grundsätzlich treten wir für mehr Transparenz und mehr Öffentlichkeit auch bei Sitzungen des Europäischen Rates und der EU-Ministerräte ein. Um politische Verhandlungen zwischen den Regierungen zu ermöglichen, können Transparenz und Öffentlichkeit allerdings nicht für alle Bereiche und Themen gelten.",
+                "text": "Schon heute arbeiten das Europäische Parlament und die Kommission in einer Offenheit, die vielen EU-Mitgliedstaaten voraus ist. Dennoch gibt es Verbesserungsbedarf. Wir wollen das EU-Lobbyregister weiter stärken und sicherstellen, dass nur registrierte Interessenvertreter Zugang zu Entscheidungsträgern erhalten. Lobbyorganisationen sollen Einnahmen von über 3000 € mitsamt der Quelle offenlegen. Auch für Anwaltskanzleien muss es eine klare Trennung zwischen Rechtsberatung und Lobbyismus geben."
+            },
+            {
+                "name": "Partei Mensch Umwelt Tierschutz",
+                "party": "mut",
+                "answer": "Die PARTEI MENSCH UMWELT TIERSCHUTZ steht für Demokratie statt Lobbykratie. Dazu gehört ganz klar auch mehr Transparenz.",
+                "text": "Politische Interessenvertretung ist in der EU kaum reguliert und erfolgt weitgehend im Verborgenen. Viele Menschen sind deshalb zurecht besorgt, dass sich die Politik mehr von finanzstarken Wirtschaftsvertretern beeinflussen lässt als von den Interessen der BürgerInnen. Die PARTEI MENSCH UMWELT TIERSCHUTZ unterstützt daher aktiv die Einführung eines verbindlichen und einheitlichen Lobbyregisters."
+            },
+            {
+                "name": "CDU",
+                "party": "cdu",
+                "answer": "Der Schutz der Vertraulichkeit auf höchster politischer Ebene bei der Diskussion wichtiger europapolitischer Grundsatzfragen, der EU-Außenbeziehungen (z.B. EU-Sanktionen) sowie internationaler Handelspolitik sollte gewahrt bleiben. Anders als der EU-Ministerrat ist der Europäische Rat nicht gesetzgeberisch tätig.",
+                "text": "Das Register kann die Transparenz im EU-Gesetzgebungsprozess stärken. Es darf jedoch keine überbordende Bürokratie geschaffen und die Unabhängigkeit des Mandats des Abgeordneten darf nicht gefährdet werden. Zudem bedarf das Register einer klaren Rechtsgrundlage."
+            }
+        ]
+    },
+    "16": {
+        "text": "Die EU soll einen EU-weiten Mindestlohn einführen, der vom Durchschnittseinkommen im jeweiligen Mitgliedsstaat abhängt.",
+        "Zustimmung": 0,
+        "Enthaltung": 0,
+        "Ablehnung": 0,
+        "ZustimmungParteien": [],
+        "EnthaltungParteien": [],
+        "AblehnungParteien": [],
+        "answers": [
+            {
+                "name": "NPD",
+                "party": "npd",
+                "answer": "Ablehnung",
+                "text": "Keine Erklärung angegeben"
+            },
+            {
+                "name": "Ökologisch-Demokratische Partei, ÖDP",
+                "party": "ödp",
+                "answer": "Zustimmung",
+                "text": "Keine Erklärung angegeben"
+            },
+            {
+                "name": "FDP Landesverband Sachsen",
+                "party": "fdp",
+                "answer": "Ablehnung",
+                "text": "Keine Erklärung angegeben"
+            },
+            {
+                "name": "BÜNDNIS 90/DIE GRÜNEN",
+                "party": "grün",
+                "answer": "Zustimmung",
+                "text": "Auch wenn sich die wirtschaftliche Lage langsam verbessert, ist davon bei breiten Teilen der Bevölkerung noch zu wenig angekommen. Das Versprechen der EU auf Wohlstand und soziale Teilhabe muss glaubwürdig bleiben. Allerdings haben die EU-Mitgliedstaaten im sozialen Bereich der EU bisher kaum Kompetenzen übertragen. Als ersten Schritt innerhalb der aktuellen Kompetenzen wollen wir eine Mindesteinkommensrichtlinie für Eckpunkte von Grundsicherungsleistungen in den Mitgliedstaaten vorantreiben."
+            },
+            {
+                "name": "AfD",
+                "party": "afd",
+                "answer": "Ablehnung",
+                "text": "Die EU geht der Mindestlohn nichts an. Dies ist allein Angelegenheit der Nationalstaaten. Es wäre eine weitere Einschränkung des Wettbewerbs der EU-Staaten, der zum weiteren Verfall der Leistungsfähigkeit der Volkswirtschaften der EU-Mitgliedstaaten führt."
+            },
+            {
+                "name": "Freie Wähler",
+                "party": "fw",
+                "answer": "Ablehnung",
+                "text": "Die Einführung eines für jeden Mitgliedstaat individuellen Mindestlohns auf EU-Ebene lehnen wir ab. Die EU soll gemäß dem Subsidiaritätsprinzip nur dort tätig werden, wo die unteren Ebenen dieselbe Aufgabe nicht genauso gut erledigen können. Die Tatsache, dass die einzelnen Mitgliedstaaten in der Lage sind, ihrem Lohnniveau entsprechend Mindestlöhne festzulegen, macht ein Tätigwerden der EU überflüssig."
+            },
+            {
+                "name": "Die PARTEI",
+                "party": "partei",
+                "answer": "Ablehnung",
+                "text": "Nein, die Rechnung wäre zu einfach. Dinge, die man leicht versteht, werden zu schnell kaputt geredet."
+            },
+            {
+                "name": "Piratenpartei Deutschland",
+                "party": "piraten",
+                "answer": "Zustimmung",
+                "text": "Wir streben die europaweite Einführung eines bedingungslosen Grundeinkommens an, das jedem Bürger ein Existenzminimum und gesellschaftliche Teilhabe garantiert. Bis zu dessen Einführung setzen wir uns europaweit für Mindestlöhne ein, welche den Lohnwettbewerb eindämmen sollen, für menschenwürdige Arbeits- und Lebensverhältnisse sorgen und genauso wie das bedingungslose Grundeinkommen auch die Binnennachfrage steigern würden."
+            },
+            {
+                "name": "SPD",
+                "party": "spd",
+                "answer": "Zustimmung",
+                "text": "Wir wollen eine europäische Sozialunion, die ihre Politik an den Bedürfnissen der Menschen ausrichtet, soziale Mindeststandards sichert und Lohn- und Sozialdumping wirksam unterbindet. Dazu gehören auch Standards für Mindestlöhne in möglichst allen EU-Mitgliedstaaten."
+            },
+            {
+                "name": "Partei Mensch Umwelt Tierschutz",
+                "party": "mut",
+                "answer": "Zustimmung",
+                "text": "Die PARTEI MENSCH UMWELT TIERSCHUTZ steht für soziale Gerechtigkeit. Dazu gehört ganz klar auch ein EU-weiter Mindestlohn. Dieser würde Lohndumping über Grenzen hinweg besser verhindern."
+            },
+            {
+                "name": "CDU",
+                "party": "cdu",
+                "answer": "Ablehnung",
+                "text": "Die Festsetzung der Höhe von Löhnen ist Aufgabe der Tarifpartner, nicht Aufgabe des Staates oder der EU. Wichtige Bereiche der Arbeits- und Sozialpolitik liegen in der Hand der EU-Mitgliedstaaten, so auch die Regelung des Arbeitsentgelts. Die EU-Mitgliedstaaten können so arbeits- und sozialpolitisch eigene, maßgeschneiderte Akzente setzen und voneinander lernen. Damit wird dem Subsidiaritätsgedanken Rechnung getragen."
+            }
+        ]
+    },
+    "17": {
+        "text": "Die EU soll neue Mitgliedsstaaten aufnehmen.",
+        "Zustimmung": 0,
+        "Enthaltung": 0,
+        "Ablehnung": 0,
+        "ZustimmungParteien": [],
+        "EnthaltungParteien": [],
+        "AblehnungParteien": [],
+        "answers": [
+            {
+                "name": "NPD",
+                "party": "npd",
+                "answer": "Ablehnung",
+                "text": "Keine Erklärung angegeben"
+            },
+            {
+                "name": "Ökologisch-Demokratische Partei, ÖDP",
+                "party": "ödp",
+                "answer": "Zustimmung",
+                "text": "vorausgesetzt, diese neuen Mitgliedsstaaten erfüllen die Aufnahmekriterien."
+            },
+            {
+                "name": "FDP Landesverband Sachsen",
+                "party": "fdp",
+                "answer": "Zustimmung",
+                "text": "Wenn die Kandidaten sämtliche Aufnahmekriterien erfüllen."
+            },
+            {
+                "name": "BÜNDNIS 90/DIE GRÜNEN",
+                "party": "grün",
+                "answer": "Zustimmung",
+                "text": "Wir wollen, dass EU-Erweiterungen grundsätzlich für weitere Länder offen bleiben anstatt den Reformeifer durch Ausschluss weiterer Beitritte auszubremsen. Dies gilt insbesondere gegenüber den Ländern des Westbalkans (Voraussetzung: Kopenhagener Kriterien). Wir wollen zudem, dass die Gemeinsame Außen- und Sicherheitspolitik der EU (GASP) enger mit Beitrittsverfahren und der EU- Nachbarschaftspolitik verzahnt wird, um jenseits technokratischer Verhandlungen kohärente Impulse setzen zu können."
+            },
+            {
+                "name": "AfD",
+                "party": "afd",
+                "answer": "Ablehnung",
+                "text": "Sofern man die EU-völlig funktionsunfähig machen will, ist das eine gute Idee. Formale Größe ist kein Wert. Wie Staaten funktionieren auch Staatengemeinschaften nur, wenn sie strukturelle Gemeinsamkeiten haben. Solche kann man nicht durch das Hinschütten von Geld herstellen. Dies ist eine der sichersten Erkenntnisse aus der bisherigen EU-Geschichte."
+            },
+            {
+                "name": "Freie Wähler",
+                "party": "fw",
+                "answer": "Ablehnung",
+                "text": "Grundsätzlich sollte allen europäischen Ländern eine Beitrittsperspektive gegeben werden. Wir müssen aber in Folge der letzten Krisenjahre gegenwärtig die weitere Aufnahmefähigkeit der Union in Frage stellen. Wir wollen \ndie Konsolidierung Europas nicht durch eine übereilte Erweiterung gefährden. Deshalb sind wir vorübergehend für einen Stopp der Aufnahme weiterer Beitrittskandidaten. "
+            },
+            {
+                "name": "Die PARTEI",
+                "party": "partei",
+                "answer": "Zustimmung",
+                "text": "Ja, Stichwort: Lebensraum im Osten"
+            },
+            {
+                "name": "Piratenpartei Deutschland",
+                "party": "piraten",
+                "answer": "Zustimmung",
+                "text": "Solange es zu für alle Beteiligten vorteilhaften Bedingungen geschieht, spricht nichts gegen die Aufnahme weiterer Mitglieder. Allerdings muss man sehr genau darauf achten, dass man die Wirtschaften und Gesellschaften der neuen Mitglieder nicht überfordert und somit der Situation aussetzt, Bedingungen erfüllen zu müssen, die eben nicht auch für sie vorteilhaft sind."
+            },
+            {
+                "name": "SPD",
+                "party": "spd",
+                "answer": "Zustimmung",
+                "text": "Die EU-Erweiterungspolitik bleibt wichtig, um Frieden, Stabilität und Zusammenarbeit zu fördern. Zugleich muss die EU aber durch innere Reformen ihre Handlungsfähigkeit sicherstellen. Außerdem gilt grundsätzlich, dass neue Mitgliedstaaten vor Beitritt die umfassenden Beitrittskriterien gerade auch in den Bereichen der Menschenrechte und Rechtstaatlichkeit erfüllen müssen."
+            },
+            {
+                "name": "Partei Mensch Umwelt Tierschutz",
+                "party": "mut",
+                "answer": "Zustimmung",
+                "text": "Weitere Länder Europas würden die EU stärken. Vor ihrer Aufnahme muss aber zwingend sichergestellt werden, dass sie den demokratischen und rechtsstaatlichen Grundsätzen der EU entsprechen und die Menschenrechte beachtet werden."
+            },
+            {
+                "name": "CDU",
+                "party": "cdu",
+                "answer": "Enthaltung",
+                "text": "Weder die EU noch die Beitrittskandidaten dürfen überfordert werden. Die EU muss eine Zone der politischen Stabilität und des Friedens in Europa bleiben. Deshalb gilt für uns: Konsolidierung vor Erweiterung. Die Aufnahme weiterer Länder in die Europäische Union schließen wir nicht grundsätzlich aus. Eine Aufnahme in die EU kann aber erst erfolgen, wenn die Beitrittskandidaten sämtliche Beitrittskriterien voll und ganz erfüllen und gleichzeitig die Aufnahmefähigkeit der EU gegeben ist."
+            }
+        ]
+    },
+    "18": {
+        "text": "Die EU soll die Beitrittsverhandlungen mit der Türkei beenden.",
+        "Zustimmung": 0,
+        "Enthaltung": 0,
+        "Ablehnung": 0,
+        "ZustimmungParteien": [],
+        "EnthaltungParteien": [],
+        "AblehnungParteien": [],
+        "answers": [
+            {
+                "name": "NPD",
+                "party": "npd",
+                "answer": "Zustimmung",
+                "text": "Keine Erklärung angegeben"
+            },
+            {
+                "name": "Ökologisch-Demokratische Partei, ÖDP",
+                "party": "ödp",
+                "answer": "Zustimmung",
+                "text": "Zum jetzigen Zeitpunkt sollten die ca. 4 Mrd. Euro an EU-Gelder für den nicht stattfindenden Demokratisierungsprozess in der Türkei gespart werden."
+            },
+            {
+                "name": "FDP Landesverband Sachsen",
+                "party": "fdp",
+                "answer": "Zustimmung",
+                "text": "Vor einem endgültigen Abbruch können die Verhandlungen auch ausgesetzt werden."
+            },
+            {
+                "name": "BÜNDNIS 90/DIE GRÜNEN",
+                "party": "grün",
+                "answer": "Ablehnung",
+                "text": "Die Beitrittsgespräche wegen der autoritären Regierung Erdoğans komplett abzubrechen, würde das falsche Signal an die proeuropäischen und demokratischen Kräfte in der Türkei senden. Für eine demokratische und weltoffene Türkei müssen die Türen zur EU offen bleiben. Eine Fortführung der Beitrittsgespräche, die de-facto bereits auf Eis liegen, wie auch eine Ausweitung der Zollunion kann es aber erst geben, wenn die Türkei eine Kehrtwende zurück zu Demokratie und Rechtstaatlichkeit vollzieht."
+            },
+            {
+                "name": "AfD",
+                "party": "afd",
+                "answer": "Zustimmung",
+                "text": "Selbstverständlich. Die Türkei hatte zu keiner Zeit strukturelle Voraussetzungen für eine Mitgliedschaft in der EU, weder ökonomisch noch kulturell. Dass dies stets so war, wird derzeit für jedermann offenkundig. Die schiere Größe ist kein Wert an sich (s. o.). Dies galt und gilt für die Türkei besonders plakativ."
+            },
+            {
+                "name": "Freie Wähler",
+                "party": "fw",
+                "answer": "Zustimmung",
+                "text": "Die repressiven Maßnahmen im Rahmen des ausgerufenen Ausnahmezustands verurteilen wir und appellieren an die türkische Regierung, auf den Pfad der Demokratie und des freiheitlichen Rechtstaats zurückzukehren. Auch die geplante Einführung der Todesstrafe in diesem Land alarmiert uns. Unter diesen Voraussetzungen können wir nicht länger über eine EU-Mitgliedschaft verhandeln, weil sie nicht mit unseren europäischen Grundwerten vereinbar sind."
+            },
+            {
+                "name": "Die PARTEI",
+                "party": "partei",
+                "answer": "Ablehnung",
+                "text": "Nein, Tradition verpflichtet"
+            },
+            {
+                "name": "Piratenpartei Deutschland",
+                "party": "piraten",
+                "answer": "Zustimmung",
+                "text": "Ein Staat, der auch nur darüber nachdenkt, die Todesstrafe einzuführen, kann kein Mitglied der europäischen Wertegemeinschaft sein. Der Prozess dorthin, der sich seit über vier Jahren abzeichnete und der zu immer weiter greifenden Einschränkungen bürgerlicher Rechte und demokratischer Grundzüge führte, hätte schon vor geraumer Zeit gestoppt werden müssen."
+            },
+            {
+                "name": "SPD",
+                "party": "spd",
+                "answer": "Enthaltung",
+                "text": "Weder die Türkei noch die EU sind in absehbarer Zeit für einen Beitritt zur bereit. Allerdings sind die Beitrittsverhandlungen das einzige kontinuierliche Gesprächsformat der EU mit der Türkei. Eine Isolierung der Türkei ist nicht im Interesse Europas. Klar ist: Hält die türkische Regierung an ihrem konfrontativen Kurs fest, entfernt sie die Türkei von Europa. Sollte die Türkei die Todesstrafe einführen, müssen die Beitrittsverhandlungen aber beendet werden."
+            },
+            {
+                "name": "Partei Mensch Umwelt Tierschutz",
+                "party": "mut",
+                "answer": "Zustimmung",
+                "text": "Für einen Beitritt müsste die türkische Regierung fähig und gewillt sein, eine Demokratie nach dem Verständnis der europäischen Staaten zu entwickeln: Eine demokratische Regierungsform, die Gewährleistung der Menschenrechte, Meinungs- und Religionsfreiheit sowie den Schutz von Minderheiten. Der Wille hierzu hat in den letzten Jahren und Monaten in erschreckendem Maße abgenommen. Daher erachten wir einen Abbruch für unbedingt erforderlich."
+            },
+            {
+                "name": "CDU",
+                "party": "cdu",
+                "answer": "Enthaltung",
+                "text": "Wir sehen mit großer Sorge die jüngsten Entwicklungen in der Türkei. Die Beitrittsverhandlungen liegen derzeit faktisch auf Eis. Eine Vollmitgliedschaft der Türkei lehnen wir ab, weil sie die Voraussetzungen für einen Beitritt nicht erfüllt. Wir möchten aber die Beziehungen zwischen der EU und der Türkei weiter vertiefen. Wir wollen eine möglichst starke Kooperation sowie eine enge Zusammenarbeit in außen– und sicherheitspolitischen Fragen."
+            }
+        ]
+    },
+    "19": {
+        "text": "Die Europäische Union soll sich als christliche Wertegemeinschaft verstehen.",
+        "Zustimmung": 0,
+        "Enthaltung": 0,
+        "Ablehnung": 0,
+        "ZustimmungParteien": [],
+        "EnthaltungParteien": [],
+        "AblehnungParteien": [],
+        "answers": [
+            {
+                "name": "NPD",
+                "party": "npd",
+                "answer": "Enthaltung",
+                "text": "Keine Erklärung angegeben"
+            },
+            {
+                "name": "Ökologisch-Demokratische Partei, ÖDP",
+                "party": "ödp",
+                "answer": "Zustimmung",
+                "text": "Keine Erklärung angegeben"
+            },
+            {
+                "name": "FDP Landesverband Sachsen",
+                "party": "fdp",
+                "answer": "Ablehnung",
+                "text": "Keine Erklärung angegeben"
+            },
+            {
+                "name": "BÜNDNIS 90/DIE GRÜNEN",
+                "party": "grün",
+                "answer": "Ablehnung",
+                "text": "Als Wertegemeinschaft hat die EU bereits ein starkes Fundament, um gemeinsam nach Antworten und Lösungen zu suchen. Alle EU-Mitgliedstaaten haben sich in Art. 2 des EU-Vertrages verpflichtet, die Grundwerte zu schützen. Diese sind die Achtung der Menschenwürde, Freiheit, Gleichheit, die Wahrung der Menschenrechte einschließlich der Rechte der Personen, die Minderheiten angehören. Diese Werte haben universelle Gültigkeit. Es gilt das Prinzip der Nicht-Diskriminierung und Toleranz."
+            },
+            {
+                "name": "AfD",
+                "party": "afd",
+                "answer": "Enthaltung",
+                "text": "Da die EU einen laizistischen Staat imitiert, ist die Vorstellung von einer \"christlichen Wertegemeinschaft\" deplaziert. Dabei ist und bleibt richtig, dass der kulturelle Hintergrund einer Jahrtausende alten gemeinschaftlichen religiösen Geschichte eine gewisse \"Wertegemeinschaft\" hervorgebracht hat. Mit diesem \"Kapital\" kann man wuchern und seinen Wert schätzen. Dann muss man um so mehr solche Abenteuer wie die Türkeierweiterung ablehnen."
+            },
+            {
+                "name": "Freie Wähler",
+                "party": "fw",
+                "answer": "Zustimmung",
+                "text": "Wir sind stolz auf unsere freiheitliche Gesellschaft und unsere Grundwerte als Erbe unserer aufgeklärten, abendländischen Tradition. Das Christentum hat diese in den letzten zweitausend Jahren stark geprägt. Unsere sich daraus ergebenden Grundwerte sind Garant für unser Lebensglück und geben uns den Raum zur \nSelbstverwirklichung in Deutschland und Europa."
+            },
+            {
+                "name": "Die PARTEI",
+                "party": "partei",
+                "answer": "Zustimmung",
+                "text": "Ja, denn ihr werdet hören von Kriegen und Kriegsgeschrei; seht zu und erschreckt nicht. Denn das muß so geschehen; aber es ist noch nicht das Ende da; Denn es wird sich ein Volk gegen das andere erheben und ein Königreich gegen das andere; und es werden Hungersnöte sein und Erdbeben hier und dort. Matthäus 24,6.7"
+            },
+            {
+                "name": "Piratenpartei Deutschland",
+                "party": "piraten",
+                "answer": "Ablehnung",
+                "text": "Die Europäische Union soll sich als humanistische Wertegemeinschaft verstehen. Unabhängig von einer bestimmten Glaubensrichtung. Denn diese würde eine Dominanz für sich beanspruchen, die in einer modernen Welt keinen Platz mehr hat."
+            },
+            {
+                "name": "SPD",
+                "party": "spd",
+                "answer": "Ablehnung",
+                "text": "Das europäische Gesellschaftsmodell beruht auf den Werten der Aufklärung und verbindet Freiheit und Verantwortung, wirtschaftlichen Erfolg und soziale Sicherheit. Diese gemeinsame europäische Idee werden wir stärken."
+            },
+            {
+                "name": "Partei Mensch Umwelt Tierschutz",
+                "party": "mut",
+                "answer": "Ablehnung",
+                "text": "Sich als christliche Wertegemeinschaft zu verstehen, würde die Trennung von Staat und Kirche verletzen, zu der sich die PARTEI MENSCH UMWELT TIERSCHUTZ ausdrücklich bekennt. Ob und woran ein Mensch glaubt, muss Privatsache sein. Außerdem würde dies Nicht- und Andersgläubige diskriminieren."
+            },
+            {
+                "name": "CDU",
+                "party": "cdu",
+                "answer": "Enthaltung",
+                "text": "Die EU gewährt Religionsfreiheit. Sie ist eine Wertegemeinschaft, die aus dem kulturellen, religiösen und humanistischem Erbe Europas schöpft. Dieses Erbe ist in hohem Maße vom Christentum geprägt."
+            }
+        ]
+    },
+    "20": {
+        "text": "Deutschland soll dem Beispiel Großbritanniens folgen und aus der bestehenden EU austreten.",
+        "Zustimmung": 0,
+        "Enthaltung": 0,
+        "Ablehnung": 0,
+        "ZustimmungParteien": [],
+        "EnthaltungParteien": [],
+        "AblehnungParteien": [],
+        "answers": [
+            {
+                "name": "NPD",
+                "party": "npd",
+                "answer": "Zustimmung",
+                "text": "Keine Erklärung angegeben"
+            },
+            {
+                "name": "Ökologisch-Demokratische Partei, ÖDP",
+                "party": "ödp",
+                "answer": "Ablehnung",
+                "text": "Allerdings halten wir einen Demokratisierungsprozess der EU für unumgänglich und dringend erforderlich."
+            },
+            {
+                "name": "FDP Landesverband Sachsen",
+                "party": "fdp",
+                "answer": "Ablehnung",
+                "text": "Keine Erklärung angegeben"
+            },
+            {
+                "name": "BÜNDNIS 90/DIE GRÜNEN",
+                "party": "grün",
+                "answer": "Ablehnung",
+                "text": "Deutschlands Mitgliedschaft in einer handlungsfähigen EU ist eines der zentralsten deutschen Interessen. Kein Land hat mehr von der EU profitiert - politisch, wirtschaftlich und gesellschaftlich. Nur mit der EU war die deutsche Wiedervereinigung möglich. Der Brexit-Prozess und seine negativen Folgen für die Menschen und die Wirtschaft zeigen, ein Austritt ist keine Option. Für grenzüberschreitende Probleme gibt es keine nationalen, sondern nur gemeinsame Lösungen."
+            },
+            {
+                "name": "AfD",
+                "party": "afd",
+                "answer": "Enthaltung",
+                "text": "Diese Frage stellt sich konkret, wenn es nicht gelingt, die derzeitigen Machtanmaßungen bis zur Staatsbildung auf EU-Ebene zu begraben. Der Grundsatz der Subsidiarität, der in den Verträgen angelegt ist, ist so selbstverständlich verloren gegangen wie die Grundlagen des Währungssystems. Wenn die EU nicht reduziert wird auf einen wettbewerbsoffenen Wirtschaftsraum, der nicht ständig Zuständigkeitserweiterung betreibt, muss Deutschland austreten."
+            },
+            {
+                "name": "Freie Wähler",
+                "party": "fw",
+                "answer": "Ablehnung",
+                "text": "Wir FREIEN WÄHLER bekennen uns ausdrücklich zu unserem Friedenswerk Europa, das uns Freiheit, Wohlstand, Mobilität und Raum zu Selbstverwirklichung bietet. Die Globalisierung und globale Aufgabenstellungen der Politik erfordern Lösungen, die wir heute unter keinen Umständen mehr national lösen \nkönnen."
+            },
+            {
+                "name": "Die PARTEI",
+                "party": "partei",
+                "answer": "Ablehnung",
+                "text": "Nein, was kommt sonst als nächstes? Der NATO-Austritt der USA?!"
+            },
+            {
+                "name": "Piratenpartei Deutschland",
+                "party": "piraten",
+                "answer": "Ablehnung",
+                "text": "Eine derartige Abstimmung wäre vor Eintritt in die EU richtig und wichtig gewesen. Mittlerweile wäre es fatal, würde eine Abstimmung den Verbleib in der EU in Frage stellen. Gerade eine exportorientierte Wirtschaft wie die deutsche braucht die mit der Mitgliedschaft in der EU verbundenen Vorteile massiv."
+            },
+            {
+                "name": "SPD",
+                "party": "spd",
+                "answer": "Ablehnung",
+                "text": "Wir wollen einen mutigen Aufbruch für ein selbstbewusstes Europa. Ein Europa, das die Menschen und ihre Alltagssorgen in den Blick nimmt. Ein Europa, das massiv in Ausbildung, Arbeit, wirtschaftliches Wachstum und Umweltschutz investiert. Ein Europa, in dem große Konzerne faire Steuern zahlen. Ein Europa, das den Nationalismus überwindet, solidarisch handelt und den Menschen Sicherheit gibt."
+            },
+            {
+                "name": "Partei Mensch Umwelt Tierschutz",
+                "party": "mut",
+                "answer": "Ablehnung",
+                "text": "Keine Erklärung angegeben"
+            },
+            {
+                "name": "CDU",
+                "party": "cdu",
+                "answer": "Ablehnung",
+                "text": "Die EU ist die größte Errungenschaft des modernen Europas. Deutsche Interessen und europäische Interessen sind kein Gegensatz. Sie bedingen sich gegenseitig. Denn viele Herausforderungen können nur gemeinsam in Europa bewältigt werden. Zudem ist Deutschland allein nicht stark genug, um seinen Interessen in der Welt ausreichend Gehör zu verschaffen. Es braucht ein funktionierendes Europa, um Frieden, Wohlstand, Freiheit und sozialen Ausgleich zu erhalten, die die EU seit Jahrzehnten sichert."
+            }
+        ]
+    },
+    "21": {
+        "text": "Die deutsche Bevölkerung soll über den Verbleib Deutschlands in der Eurozone abstimmen!",
+        "Zustimmung": 0,
+        "Enthaltung": 0,
+        "Ablehnung": 0,
+        "ZustimmungParteien": [],
+        "EnthaltungParteien": [],
+        "AblehnungParteien": [],
+        "answers": [
+            {
+                "name": "NPD",
+                "party": "npd",
+                "answer": "Zustimmung",
+                "text": "Keine Erklärung angegeben"
+            },
+            {
+                "name": "Ökologisch-Demokratische Partei, ÖDP",
+                "party": "ödp",
+                "answer": "Zustimmung",
+                "text": "Keine Erklärung angegeben"
+            },
+            {
+                "name": "FDP Landesverband Sachsen",
+                "party": "fdp",
+                "answer": "Ablehnung",
+                "text": "Keine Erklärung angegeben"
+            },
+            {
+                "name": "BÜNDNIS 90/DIE GRÜNEN",
+                "party": "grün",
+                "answer": "Ablehnung",
+                "text": "Der Euro ist das Herzstück der Wirtschafts- und Währungsunion und hat vor allem Deutschland Wohlstand gebracht und den Zusammenhalt in der EU gestärkt. Ohne Deutschland wäre der Euro am Ende. Scheitert der Euro scheitert die EU. Dies wäre faktisch eine Entscheidung über das Schicksal aller Bürgerinnen und Bürger in der gesamten EU. Wir wollen dagegen den Euro krisenfester machen, die Wirtschafts- und Währungsunion stärken und mehr parlamentarischer Kontrolle."
+            },
+            {
+                "name": "AfD",
+                "party": "afd",
+                "answer": "Zustimmung",
+                "text": "Selbstverständlich ist dies überfällig. Bekanntlich wusste schon Kohl, dass der Euro nie eingeführt worden wäre, wenn man die Bürger dazu befragt hätte. Dies hatte den Grund, dass viele Fachleute und sogar das \"dumme Volk\" vorgesehen/geahnt haben, dass der Euro als politisches Projekt wirtschaftlicher Vernunft widerspricht. Diese Voraussicht/Vorahnung hat sich nachhaltig bestätigt. Statt Haftungsausschluss für die Schulden anderer Staaten ist eine Fremdhaftung für 1,5 Billionen entstanden."
+            },
+            {
+                "name": "Freie Wähler",
+                "party": "fw",
+                "answer": "Ablehnung",
+                "text": "Wir FREIE WÄHLER stehen zum Euro. Zwar wollen wir grundsätzlich Volksabstimmungen zu wichtigen europapolitischen Fragen auf Bundesebene ermöglichen. Eine Abstimmung über den Verbleib Deutschland in der Eurozone unterstützen wir aber nicht."
+            },
+            {
+                "name": "Die PARTEI",
+                "party": "partei",
+                "answer": "Zustimmung",
+                "text": "Ja, dass Deutsche sich immer richig entscheiden, versteht sich von selbst."
+            },
+            {
+                "name": "Piratenpartei Deutschland",
+                "party": "piraten",
+                "answer": "Ablehnung",
+                "text": "Eine derartige Abstimmung wäre vor Eintritt in die EU richtig und wichtig gewesen. Mittlerweile wäre es fatal, würde eine Abstimmung den Verbleib in der EU in Frage stellen. Gerade eine exportorientierte Wirtschaft wie die deutsche braucht die mit der Mitgliedschaft in der EU verbundenen Vorteile massiv."
+            },
+            {
+                "name": "SPD",
+                "party": "spd",
+                "answer": "Ablehnung",
+                "text": "Keine Erklärung angegeben"
+            },
+            {
+                "name": "Partei Mensch Umwelt Tierschutz",
+                "party": "mut",
+                "answer": "Ablehnung",
+                "text": "Keine Erklärung angegeben"
+            },
+            {
+                "name": "CDU",
+                "party": "cdu",
+                "answer": "Ablehnung",
+                "text": "CDU und CSU wollen die dauerhafte Stabilisierung der Eurozone erreichen. Europa hat in der Staatsverschuldungskrise entschlossen und umsichtig gehandelt. Der Euro ist ein sichtbares Zeichen für das Zusammenwachsen in Europa und eine weltweit geschätzte Währung."
+            }
+        ]
+    },
+    "22": {
+        "text": "Die EU soll sich langfristig zu einem europäischen Bundessstaat entwickeln.",
+        "Zustimmung": 0,
+        "Enthaltung": 0,
+        "Ablehnung": 0,
+        "ZustimmungParteien": [],
+        "EnthaltungParteien": [],
+        "AblehnungParteien": [],
+        "answers": [
+            {
+                "name": "NPD",
+                "party": "npd",
+                "answer": "Ablehnung",
+                "text": "Keine Erklärung angegeben"
+            },
+            {
+                "name": "Ökologisch-Demokratische Partei, ÖDP",
+                "party": "ödp",
+                "answer": "Ablehnung",
+                "text": "Die ÖDP favorisiert den Staatenverbund, wie ihn das Bundesverfassungsgericht vorgeschlagen hat."
+            },
+            {
+                "name": "FDP Landesverband Sachsen",
+                "party": "fdp",
+                "answer": "Zustimmung",
+                "text": "Auch dies ist nur ein langfristiges Ziel der Entwicklung der EU."
+            },
+            {
+                "name": "BÜNDNIS 90/DIE GRÜNEN",
+                "party": "grün",
+                "answer": "Enthaltung",
+                "text": "Wir wollen Europa zusammenhalten, selbstverständlich aber auch weiter an unserem gemeinsamen Haus Europa bauen. Die Probleme heute sind global und für einen Staat alleine zu groß. Wir wollen eine EU, in der jede Ebene das macht, was sie am besten kann. Ob dies am besten ein europäischer Bundesstaat oder eine andere Form leisten kann, wollen wir innerhalb eines EU-Konvents in einem öffentlichen, demokratischen und bürgerfreundlichen Verfahren erarbeiten, um möglichst viele Menschen mitzunehmen."
+            },
+            {
+                "name": "AfD",
+                "party": "afd",
+                "answer": "Ablehnung",
+                "text": "Wer Chaos und die Bedrohung des europäischen Friedens will, verfolgt ein solchen Projekt. Demokratie braucht Bürger. Bürger sind Menschen, die miteinander eine Kulturgemeinschaft bilden, die einen Staat hervorbringen können. Multiethnische/multinationale Gesellschaften haben noch nirgendwo auf der Welt stabile/gelingende Staaten hervorgebracht. Solche Experimente widersprechen jeglicher Empirie. Sie sind menschenfeindlich."
+            },
+            {
+                "name": "Freie Wähler",
+                "party": "fw",
+                "answer": "Zustimmung",
+                "text": "Wir FREIE WÄHLER fordern ein Europa der Regionen mit starken Regionen und Kommunen. Wir müssen gewährleisten, dass möglichst viele Entscheidungen so weit unten wie möglich getroffen werden. Gleichwohl halten wir es für erforderlich, die Zusammenarbeit auf europäischer Ebene auf verschiedenen Feldern zu stärken. Dazu zählen die Sicherheitspolitik, der Binnenmarkt oder auch die Migrationspolitik. Daher halten wir das Modell eines Bundesstaats mit starken Regionen und Kommunen für zielführend."
+            },
+            {
+                "name": "Die PARTEI",
+                "party": "partei",
+                "answer": "Ablehnung",
+                "text": "Nein, die EU soll sich als gut integriertes Bundesland in Deutschland entwickeln."
+            },
+            {
+                "name": "Piratenpartei Deutschland",
+                "party": "piraten",
+                "answer": "Zustimmung",
+                "text": "Wir streben für die Zukunft Europas einen offenen Prozess an, der von den Bürgerinnen und Bürgern Europas gemeinsam getragen wird. Langfristig sehen wir die Chance, dass Europa als ein demokratischer europäischer Bundesstaat mit eigener Verfassung gestaltet wird, die in  einem direktdemokratischen Prozess mit breiter Mehrheit aller Europäer entworfen und in Referenden der Mitgliedsländer angenommen wird."
+            },
+            {
+                "name": "SPD",
+                "party": "spd",
+                "answer": "Zustimmung",
+                "text": "Unser Leitbild ist eine politische Union, die allen europäischen Bürgern demokratische Mitwirkungsrechte gibt. Das demokratische Europa braucht eine parlamentarisch verantwortliche Regierung auf der Basis einer europäischen Verfassung. Bereits in unserem Heidelberger Grundsatzprogramm 1925 hat sich die SPD zu den Vereinigten Staaten von Europa als Vision bekannt."
+            },
+            {
+                "name": "Partei Mensch Umwelt Tierschutz",
+                "party": "mut",
+                "answer": "Enthaltung",
+                "text": "Diese Frage sollte zum heutigen Zeitpunkt offen gelassen werden. Zunächst muss die EU demokratischer werden und wieder mehr Vertrauen zurückgewinnen. Je nachdem, wie sich die EU dann weiterentwickelt und wie viel Vertrauen sie in der Bevölkerung genießt, kann dies evtl. zu einem späteren Zeitpunkt wieder diskutiert werden."
+            },
+            {
+                "name": "CDU",
+                "party": "cdu",
+                "answer": "Ablehnung",
+                "text": "CDU und CSU wollen ein starkes, selbstbewusstes und dynamisches Europa. Wir müssen Europa fit machen für die Gegenwart und Zukunft. Darauf kommt es jetzt an. Die EU ist eine supranationale Organisation.  CDU und CSU wollen ein starkes Europa mit starken Kommunen, Regionen und Nationalstaaten. Einen europäischen Bundesstaat lehnen wir ab."
+            }
+        ]
+    },
+    "23": {
+        "text": "Alle europäischen Banken sollen unter Aufsicht der EU verstaatlicht werden.",
+        "Zustimmung": 0,
+        "Enthaltung": 0,
+        "Ablehnung": 0,
+        "ZustimmungParteien": [],
+        "EnthaltungParteien": [],
+        "AblehnungParteien": [],
+        "answers": [
+            {
+                "name": "NPD",
+                "party": "npd",
+                "answer": "Enthaltung",
+                "text": "Keine Erklärung angegeben"
+            },
+            {
+                "name": "Ökologisch-Demokratische Partei, ÖDP",
+                "party": "ödp",
+                "answer": "Ablehnung",
+                "text": "Keine Erklärung angegeben"
+            },
+            {
+                "name": "FDP Landesverband Sachsen",
+                "party": "fdp",
+                "answer": "Ablehnung",
+                "text": "Keine Erklärung angegeben"
+            },
+            {
+                "name": "BÜNDNIS 90/DIE GRÜNEN",
+                "party": "grün",
+                "answer": "Ablehnung",
+                "text": "Nein. Riskante Geschäfte und Steuerkriminalität bei staatlichen Landesbanken zeigen, dass Verstaatlichung die Probleme im Bankensektor nicht löst. Alle Banken – ob privat oder staatlich – müssen besser reguliert werden mit einfachen, aber harten Regeln. Vor allem müssen Banken deutlich mehr Eigenkapital einsetzen, um für ihre Verluste selber einstehen zu können. Nötig ist ein Trennbankensystem sowie besserer Verbraucherschutz. Außerdem muss die Bankenaufsicht besser aufgestellt werden."
+            },
+            {
+                "name": "AfD",
+                "party": "afd",
+                "answer": "Ablehnung",
+                "text": "Schon die \"europäische Aufsicht\" für Banken ist falsch. Wenn wir das Währungsabenteuer nicht gemacht hätten, hätte sich diese Frage nicht gestellt. Und die \"Verstaatlichung\" der Banken ist aus dem Gruselkabinett des Staatsmonopolkapitalismus. Dann wird die Haftung für verantwortungsloses Handelns auch noch sozialisiert wie bei der Kreditanstalt für Wiederaufbau, der West LB, der Nord-LB, den Staatsbanken in Italien und Frankreich usw. Absurde Vorstellungen."
+            },
+            {
+                "name": "Freie Wähler",
+                "party": "fw",
+                "answer": "Ablehnung",
+                "text": "Eine Verstaatlichung von Banken lehnen wir kategorisch ab. Aus unserer Sicht ist es vielmehr wichtig, dass die Banken einer wirksamen und leistungsfähigen staatlichen Bankenaufsicht unterliegen."
+            },
+            {
+                "name": "Die PARTEI",
+                "party": "partei",
+                "answer": "Zustimmung",
+                "text": "Ja, das wäre Kommunismus."
+            },
+            {
+                "name": "Piratenpartei Deutschland",
+                "party": "piraten",
+                "answer": "Ablehnung",
+                "text": "Wird nach konsequenter Beteiligung der Eigentümer die Eigenkapitalquote einer Bank zu niedrig, soll die betroffene Bank durch Umwandlung von Fremdkapital in Eigenkapital stabilisiert werden. Als letzter Schritt ist eine Verstaatlichung zu prüfen, wenn eine Insolvenz aufgrund der gesamtwirtschaftlichen Folgewirkungen ausscheidet. Eine Abfederung sozialer Einschnitte durch den Schutz von Kleinanlegern bzw. privater Renten- und Lebensversicherungen ist bis zu einem Höchstbetrag zu gewährleisten."
+            },
+            {
+                "name": "SPD",
+                "party": "spd",
+                "answer": "Ablehnung",
+                "text": "Keine Erklärung angegeben"
+            },
+            {
+                "name": "Partei Mensch Umwelt Tierschutz",
+                "party": "mut",
+                "answer": "Enthaltung",
+                "text": "Banken brauchen sehr strenge gesetzliche Vorgaben und stetige, intensive Prüfungen ihrer Tätigkeiten und Geschäftsmodelle sowie Stresstests. Hochriskante Spekulationen und Risikovertuschung müssen verboten werden. Die Bankenüberwachung muss deutlich ausgebaut werden. Staatliche Banken mit sozialen sowie regionalen Aufgaben sind eine nötige Ergänzung. Eine Verstaatlichung des gesamten Bankensektors kann jedoch neue ökonomische Risiken bergen, die derzeit nicht überschaubar sind."
+            },
+            {
+                "name": "CDU",
+                "party": "cdu",
+                "answer": "Ablehnung",
+                "text": "Zu den Konstanten unserer erfolgreichen Politik gehört das Bekenntnis zur Sozialen Marktwirtschaft. Private Banken tragen als Kreditgeber ganz wesentlich zur Funktionsfähigkeit des volkswirtschaftlichen Kreislaufs bei."
+            }
+        ]
+    },
+    "24": {
+        "text": "Die EU soll keine Banken mit Steuergeldern retten.",
+        "Zustimmung": 0,
+        "Enthaltung": 0,
+        "Ablehnung": 0,
+        "ZustimmungParteien": [],
+        "EnthaltungParteien": [],
+        "AblehnungParteien": [],
+        "answers": [
+            {
+                "name": "NPD",
+                "party": "npd",
+                "answer": "Zustimmung",
+                "text": "Keine Erklärung angegeben"
+            },
+            {
+                "name": "Ökologisch-Demokratische Partei, ÖDP",
+                "party": "ödp",
+                "answer": "Zustimmung",
+                "text": "Keine Erklärung angegeben"
+            },
+            {
+                "name": "FDP Landesverband Sachsen",
+                "party": "fdp",
+                "answer": "Ablehnung",
+                "text": "Keine Erklärung angegeben"
+            },
+            {
+                "name": "BÜNDNIS 90/DIE GRÜNEN",
+                "party": "grün",
+                "answer": "Zustimmung",
+                "text": "Hierfür müssen die bestehenden Regeln des Abwicklungsmechanismus konsequent eingehalten und die Bankenunion vollendet werden, u.a. durch ein Trennbankenmodell, eine Entkopplung von Staats- und Bankrisiken auch in Bezug auf Staatsanleihen, die Beseitigung rechtlicher Hürden zur Gläubigerbeteiligung und einen „back stop“ für den EU-Bankenabwicklungsfonds. Bankenaufsicht und der Europäische Systemrisikorat (ESRB) sollten aus der EZB herausgelöst werden und vom EU-Parlament kontrolliert werden."
+            },
+            {
+                "name": "AfD",
+                "party": "afd",
+                "answer": "Zustimmung",
+                "text": "Selbstverständlich. Wer wirtschaftet, der haftet. Der Staat hat für die Banken genau diese Regeln durchzusetzen. Wenn Staatsanleihen nicht mit Eigenkapital unterlegt werden müssen, weil ein Staat das zulässt, dann trägt er die politische Verantwortung dafür, dass Banker mit Staatsanleihen zocken. Die Regeln und die nationale Aufsicht für das Kreditwesen ist Staatsangelegenheit. Wer diese Aufgabe gut löst, wird das Problem minimieren."
+            },
+            {
+                "name": "Freie Wähler",
+                "party": "fw",
+                "answer": "Zustimmung",
+                "text": "Jeder haftet für seine Schulden selbst. Wenn große Banken mit Steuergeldern gerettet werden, kommt es zu Wettbewerbsverzerrungen im Verhältnis zu solide wirtschaftenden Geldinstituten. Es ist den Bürgern nicht vermittelbar, weshalb große insolvente Banken gerettet werden, kleine und mittlere Unternehmen bei finanziellen Schwierigkeiten i.d.R. keine Unterstützung erhalten. Wichtig ist allerdings in jedem Fall die Gewährleistung der Einlagensicherung für kleine Sparer bei zahlungsunfähigen Banken."
+            },
+            {
+                "name": "Die PARTEI",
+                "party": "partei",
+                "answer": "Ablehnung",
+                "text": "Nein, das wäre Kommunismus."
+            },
+            {
+                "name": "Piratenpartei Deutschland",
+                "party": "piraten",
+                "answer": "Zustimmung",
+                "text": "Wird nach konsequenter Beteiligung der Eigentümer die Eigenkapitalquote einer Bank zu niedrig, soll die betroffene Bank durch Umwandlung von Fremdkapital in Eigenkapital stabilisiert werden. Als letzter Schritt ist eine Verstaatlichung zu prüfen, wenn eine Insolvenz aufgrund der gesamtwirtschaftlichen Folgewirkungen ausscheidet. Eine Abfederung sozialer Einschnitte durch den Schutz von Kleinanlegern bzw. privater Renten- und Lebensversicherungen ist bis zu einem Höchstbetrag zu gewährleisten."
+            },
+            {
+                "name": "SPD",
+                "party": "spd",
+                "answer": "Zustimmung",
+                "text": "Wenn eine Bank in Schieflage gerät, müssen vorrangig ihre Anteileigentümer und deren vermögende Gläubiger haften (Bail-in-Prinzip). Der entsprechende europäische Abwicklungsmechanismus ist in diesem Sinne anzuwenden und weiter zu stärken."
+            },
+            {
+                "name": "Partei Mensch Umwelt Tierschutz",
+                "party": "mut",
+                "answer": "Zustimmung",
+                "text": "Keine Erklärung angegeben"
+            },
+            {
+                "name": "CDU",
+                "party": "cdu",
+                "answer": "Zustimmung",
+                "text": "Die europäischen Regelungen zur Bankenrettung müssen eingehalten werden. Im Falle einer Abwicklung sind vorrangig die Eigentümer und Gläubiger der Bank heranzuziehen. Die EU-Mitgliedstaaten sollten sich im Falle von Liquiditätsproblemen einer Bank mit der Verwendung von Steuergeldern möglichst zurückhalten."
+            }
+        ]
+    },
+    "25": {
+        "text": "Griechenland soll ein Teil seiner Schulden erlassen werden.",
+        "Zustimmung": 0,
+        "Enthaltung": 0,
+        "Ablehnung": 0,
+        "ZustimmungParteien": [],
+        "EnthaltungParteien": [],
+        "AblehnungParteien": [],
+        "answers": [
+            {
+                "name": "NPD",
+                "party": "npd",
+                "answer": "Enthaltung",
+                "text": "Keine Erklärung angegeben"
+            },
+            {
+                "name": "Ökologisch-Demokratische Partei, ÖDP",
+                "party": "ödp",
+                "answer": "Zustimmung",
+                "text": "Keine Erklärung angegeben"
+            },
+            {
+                "name": "FDP Landesverband Sachsen",
+                "party": "fdp",
+                "answer": "Ablehnung",
+                "text": "Keine Erklärung angegeben"
+            },
+            {
+                "name": "BÜNDNIS 90/DIE GRÜNEN",
+                "party": "grün",
+                "answer": "Enthaltung",
+                "text": "Griechenland kann Schulden nur abbauen, wenn es neben sozial gerechten Reformen und Sparen auch Wirtschafts-Impulse setzen kann etwa bei Erneuerbaren Energien durch Haushaltsüberschüsse und Mitteln aus EU-Struktur- oder Investitionsfonds. Milliardengewinne aus den EZB-Anleihekäufen sollten an Griechenland ausgeschüttet werden. Nötig sind aber Schuldenerleichterungen bspw. durch Zinssenkungen und Laufzeitverlängerungen. Eine Umschuldung der IWF-Kredite hin zum ESM könnte die Zinslast senken."
+            },
+            {
+                "name": "AfD",
+                "party": "afd",
+                "answer": "Ablehnung",
+                "text": "Natürlich nicht, abgesehen davon dass dies bereits erfolglos geschehen ist mit über 100 Mrd. Euro. Für Staaten muss das Gleiche gelten wir für Wirtschaftsakteure. Wer handelt, trägt dafür die Verantwortung. Die Politik und eben auch die Parlamente tragen keine Verantwortung, weil die Amts- und Funktionsträger nicht für ihr Verhalten haften. Dieser Zustand muss geändert werden, sonst kann das Problem der unverantwortlichen Politik nicht gelöst werden."
+            },
+            {
+                "name": "Freie Wähler",
+                "party": "fw",
+                "answer": "Zustimmung",
+                "text": "Zustimmung \nEin teilweiser Schuldenerlass oder zumindest ein Verzicht der EU und des IWF auf Zinsen und Streckung der Rückzahlung der Kredite auf unbestimmte Zeit ist letztlich unausweichlich. Es ist falsch, einem de facto zahlungsunfähigen Land immer weiteres frisches Geld zu leihen, um die Zinsen alter Schulden bedienen zu können. Dieser Teufelskreis muss durchbrochen werden. Griechenland muss wieder handlungsfähig werden, damit wir wenigstens einen Teil des geliehenen Geldes wieder sehen."
+            },
+            {
+                "name": "Die PARTEI",
+                "party": "partei",
+                "answer": "Zustimmung",
+                "text": "Ja, denn Spielschuld, ist Ehrenschuld; wir Deutsche wissen das."
+            },
+            {
+                "name": "Piratenpartei Deutschland",
+                "party": "piraten",
+                "answer": "Zustimmung",
+                "text": "Um die Schuldenkrise in Europa wirksam zu lösen, fordern wir die kurzfristige Durchführung frühzeitiger einmaliger Schuldenschnitte von Staatsschulden in der Europäischen Union sowie eine effektive Restrukturierung, und wenn nötig, Rekapitalisierung maroder Banken. Was in Griechenland gemacht wurde, führt zum Ausbluten der dortigen Wirtschaft zum Vorteil der kreditgebenden Banken."
+            },
+            {
+                "name": "SPD",
+                "party": "spd",
+                "answer": "Enthaltung",
+                "text": "Griechenland wurde von den europäischen Gläubigern bei erfolgreicher Fortsetzung des Reformkurses zwar kein erneuter Schuldenschnitt, aber weitere Schuldenerleichterungen in Aussicht gestellt. Die griechische Regierung hat zuletzt unter größten Anstrengungen einschneidende Reformen auf den Weg gebracht. Um langfristig Sicherheit zu schaffen, sollten nun auch die Gläubiger ihre gemachten Zusagen einhalten. Eine reine Sparpolitik wird den Menschen in Griechenland nicht helfen."
+            },
+            {
+                "name": "Partei Mensch Umwelt Tierschutz",
+                "party": "mut",
+                "answer": "Zustimmung",
+                "text": "Insbesondere ärmere Griechen trifft die Schuldenkrise durch die Sparmaßnahmen bei Sozialleistungen besonders hart. Um ihnen künftig wieder ein menschenwürdiges Leben ohne Existenzangst zu ermöglichen, ist ein Schuldenschnitt nötig. Praktisch gesehen ist der Schuldenerlass für Griechenland durch lange tilgungsfreie Kreditphasen und niedrige Kreditzinsen ohnehin bereits Realität."
+            },
+            {
+                "name": "CDU",
+                "party": "cdu",
+                "answer": "Ablehnung",
+                "text": "Nach den EU-Verträgen haftet kein Mitgliedstaat für die Verbindlichkeiten eines anderen Mitgliedstaats und tritt auch nicht für dessen Verbindlichkeiten ein. Die Anpassungsprogramme zielen deshalb darauf ab, Griechenland langfristig in die Lage zu versetzen, seine Schulden selbst zu begleichen. Das schließt die Möglichkeit von Schuldenerleichterungen, wie Zins- und Tilgungsstundungen, mit ein. Diese wurden Griechenland in der Vergangenheit bereits in erheblichem Umfang gewährt."
+            }
+        ]
+    },
+    "26": {
+        "text": "Die EU muss die Mittel für den Jugendaustausch und die Jugendmobilitätsprogramme wie Erasmus+ deutlich aufstocken.",
+        "Zustimmung": 0,
+        "Enthaltung": 0,
+        "Ablehnung": 0,
+        "ZustimmungParteien": [],
+        "EnthaltungParteien": [],
+        "AblehnungParteien": [],
+        "answers": [
+            {
+                "name": "NPD",
+                "party": "npd",
+                "answer": "Enthaltung",
+                "text": "Keine Erklärung angegeben"
+            },
+            {
+                "name": "Ökologisch-Demokratische Partei, ÖDP",
+                "party": "ödp",
+                "answer": "Zustimmung",
+                "text": "Keine Erklärung angegeben"
+            },
+            {
+                "name": "FDP Landesverband Sachsen",
+                "party": "fdp",
+                "answer": "Zustimmung",
+                "text": "Keine Erklärung angegeben"
+            },
+            {
+                "name": "BÜNDNIS 90/DIE GRÜNEN",
+                "party": "grün",
+                "answer": "Zustimmung",
+                "text": "Den Austausch von Jugendlichen über Grenzen hinweg zu fördern, ist ein Herzstück des europäischen Projekts. Wir setzen uns für eine Stärkung von Austauschprogrammen wie Erasmus+ oder dem Europäischen Solidaritätskorps ein. Sie ermöglichen jungen Menschen wertvolle Auslandserfahrungen und lassen Europa zusammenwachsen. Derzeit hängt die Teilnahme an den Programmen aber noch zu stark vom sozialen Hintergrund ab. Das muss sich beim Ausbau von Erasmus+ und dem Europäischen Solidaritätskorps ändern."
+            },
+            {
+                "name": "AfD",
+                "party": "afd",
+                "answer": "Enthaltung",
+                "text": "Für solche Formen des internationalen Lebens braucht es keine EU. Das können Staaten, Stiftungen und Privatpersonen gut selber lösen. Auch hier gilt: Ein Moloch wie die EU macht dies uneffektiver als alle anderen."
+            },
+            {
+                "name": "Freie Wähler",
+                "party": "fw",
+                "answer": "Zustimmung",
+                "text": "Wir wollen EU-Programme für die europäische Jugend mit ausreichend Mitteln ausstatten, um das europäische Bewusstsein zu stärken."
+            },
+            {
+                "name": "Die PARTEI",
+                "party": "partei",
+                "answer": "Ablehnung",
+                "text": "Nein, seit G20 unterstützt man keine Linksextremen (mehr)."
+            },
+            {
+                "name": "Piratenpartei Deutschland",
+                "party": "piraten",
+                "answer": "Zustimmung",
+                "text": "Um ein friedliches Zusammenleben in Europa zu fördern, sind Kontakte in jeweils andere europäische Staaten ein gutes Mittel. Wer früh mit den Eigenarten anderer Länder in Berührung kommt, kann viel besser mit ihnen und den Eigenarten des eigenen Landes umgehen."
+            },
+            {
+                "name": "SPD",
+                "party": "spd",
+                "answer": "Zustimmung",
+                "text": "Wir wollen den europäischen Freiwilligendienst und die Austauschprogramme der EU wie Erasmus+ ausbauen. Und wir brauchen ein Europäisches Mobilitätsprogramm, aus dem junge Menschen unterstützt werden können, wenn sie in einem anderen Mitgliedstaat eine Ausbildung oder einen Arbeitsplatz aufnehmen möchten."
+            },
+            {
+                "name": "Partei Mensch Umwelt Tierschutz",
+                "party": "mut",
+                "answer": "Zustimmung",
+                "text": "Keine Erklärung angegeben"
+            },
+            {
+                "name": "CDU",
+                "party": "cdu",
+                "answer": "Zustimmung",
+                "text": "CDU und CSU setzen sich für einen künftigen Ausbau des erfolgreichen europäischen Bildungs- und Austauschprogramms „Erasmus+“ ein. Durch internationalen Austausch wird jungen Menschen Europa als Chance begreifbar und durch das Erasmus+-Programm erfahrbar gemacht. Begegnungen junger Europäerinnen und Europäer öffnen Perspektiven und beflügeln die Bildung einer europäischen Zivilgesellschaft. Der Schwerpunkt sollte verstärkt auch auf den Bereich der Mobilität von Auszubildenden gelegt werden."
+            }
+        ]
+    },
+    "27": {
+        "text": "Die EU soll eine gemeinsame Arbeitslosenversicherung einführen.",
+        "Zustimmung": 0,
+        "Enthaltung": 0,
+        "Ablehnung": 0,
+        "ZustimmungParteien": [],
+        "EnthaltungParteien": [],
+        "AblehnungParteien": [],
+        "answers": [
+            {
+                "name": "NPD",
+                "party": "npd",
+                "answer": "Ablehnung",
+                "text": "Keine Erklärung angegeben"
+            },
+            {
+                "name": "Ökologisch-Demokratische Partei, ÖDP",
+                "party": "ödp",
+                "answer": "Ablehnung",
+                "text": "Die Voraussetzungen sind in den einzelnen Mitgliedsländern zu unterschiedlich."
+            },
+            {
+                "name": "FDP Landesverband Sachsen",
+                "party": "fdp",
+                "answer": "Ablehnung",
+                "text": "Keine Erklärung angegeben"
+            },
+            {
+                "name": "BÜNDNIS 90/DIE GRÜNEN",
+                "party": "grün",
+                "answer": "Zustimmung",
+                "text": "Wir wollen europäische Mindeststandards im Bereich der sozialen Sicherung und des Arbeitsmarktes erreichen. Uns ist wichtig, die grenzüberschreitende Freizügigkeit von Arbeitnehmer*innen sozial besser abzusichern, damit sie nicht durch ein Raster national fragmentierter Sozialsysteme fallen. Als Ziel in diesem Bereich setzen wir uns perspektivisch auch für die Einführung einer europäischen Arbeitslosenversicherung ein."
+            },
+            {
+                "name": "AfD",
+                "party": "afd",
+                "answer": "Ablehnung",
+                "text": "Das ist so absurd wie die \"EU-Wirtschaftsregierung\". Wenn nationale Politik etwas mit dem wirtschaftlichen Wohlergehen der Bürger zu tun hat, dann ist insoweit eine gewisse \"Verantwortung\" noch zuordenbar. Wenn die schlechte nationale Politik (Wirtschaft, Bürokratie, Fiskalismus, Bildung usw.) in ihren Folgen anderen Staaten aufgebürdet wird, dann besteht keinerlei Anreiz, eine gute nationale Politik zu betreiben. Dies alles erleben wir in der EU täglich."
+            },
+            {
+                "name": "Freie Wähler",
+                "party": "fw",
+                "answer": "Ablehnung",
+                "text": "Wir FREIE WÄHLER sehen keine Notwendigkeit, unsere vergleichsweise gut funktionierenden sozialen Sicherungssysteme auf die europäische Ebene zu verlagern."
+            },
+            {
+                "name": "Die PARTEI",
+                "party": "partei",
+                "answer": "Zustimmung",
+                "text": "Ja, aber Arbeitslose sollte man generell nicht versichern. Stichwort: Selektion"
+            },
+            {
+                "name": "Piratenpartei Deutschland",
+                "party": "piraten",
+                "answer": "Zustimmung",
+                "text": "Die Vereinheitlichung des Wirtschafts- und Steuersystems kann nur gelingen, wenn es auch ein einheitliches Sozialsystem gibt. Insofern soll es auch spätestens wenn die beiden erstgenannten Punkte ihrer Vollendung zugehen zu einer gemeinsamen Arbeitslosenversicherung kommen. Wobei unser eigentliches Ziel ein europaweites bedingungsloses Grundeinkommen ist, was eine Arbeitslosenversicherung überflüssig machen würde."
+            },
+            {
+                "name": "SPD",
+                "party": "spd",
+                "answer": "Ablehnung",
+                "text": "Wir wollen eine europäische Sozialunion, die ihre Politik an den Bedürfnissen der Menschen ausrichtet, soziale Mindeststandards sichert und Lohn- und Sozialdumping wirksam unterbindet. Diese gemeinsamen sozialen Standards zu schaffen, muss der erste Schritt sein, auf den das politische Hauptaugenmerk liegen sollte."
+            },
+            {
+                "name": "Partei Mensch Umwelt Tierschutz",
+                "party": "mut",
+                "answer": "Zustimmung",
+                "text": "Keine Erklärung angegeben"
+            },
+            {
+                "name": "CDU",
+                "party": "cdu",
+                "answer": "Ablehnung",
+                "text": "Die Kompetenz für die Arbeitslosenversicherung liegt in der Hand der Mitgliedstaaten und sollte dort auch bleiben. Die Einführung einer europäischen Arbeitslosenversicherung könnte EU-Mitgliedstaaten dazu verleiten, auf Kosten von Arbeitnehmerinnen und Arbeitnehmern anderer EU-Mitgliedstaaten, notwendige Haushaltssanierungen und Strukturreformen aufzuschieben oder gar zu unterlassen."
+            }
+        ]
+    },
+    "28": {
+        "text": "Die EU muss den freien Handel fördern.",
+        "Zustimmung": 0,
+        "Enthaltung": 0,
+        "Ablehnung": 0,
+        "ZustimmungParteien": [],
+        "EnthaltungParteien": [],
+        "AblehnungParteien": [],
+        "answers": [
+            {
+                "name": "NPD",
+                "party": "npd",
+                "answer": "Ablehnung",
+                "text": "Keine Erklärung angegeben"
+            },
+            {
+                "name": "Ökologisch-Demokratische Partei, ÖDP",
+                "party": "ödp",
+                "answer": "Ablehnung",
+                "text": "Die neu ausverhandelten Freihandelsabkommen CETA, TTIP, TiSA und Jefta schränken das Vorsorgeprinzip ein, gefährden unsere hohen Standards u- die demokratischen Rechte der Bürgerinnen und Bürger. Sie schaffen eine Paralleljustiz. Durch die Regulatorische Kooperation erhalten Konzerne Mitspracherechte, die künftige Gesetzgebungsverfahren gefährden. Die ÖDP lehnt sämtliche Freihandelsabkommen ab und spricht sich für fairen statt freien Handel aus, der klare Regeln befolgen muss."
+            },
+            {
+                "name": "FDP Landesverband Sachsen",
+                "party": "fdp",
+                "answer": "Zustimmung",
+                "text": "Keine Erklärung angegeben"
+            },
+            {
+                "name": "BÜNDNIS 90/DIE GRÜNEN",
+                "party": "grün",
+                "answer": "Zustimmung",
+                "text": "Freier Handel allein reicht aber nicht, sondern es braucht fairen Handel. Eine neue Generation fairer Handelsabkommen muss soziale, ökologische und menschenrechtliche Standards und die Umsetzung der UN-Nachhaltigkeitsziele und des Pariser Klimavertrags zum Ziel haben. Entwicklungsländer brauchen in der Handelspolitik Spielräume, um ihre junge Wirtschaft zu schützen."
+            },
+            {
+                "name": "AfD",
+                "party": "afd",
+                "answer": "Zustimmung",
+                "text": "Dies war die Leitidee der EWG und die war gut. Wie alles, was man übertreibt, misslingt. Auch das zeigt die Geschichte der EWG/EU. Dabei ist nicht einmal dies befriedigend gelungen. Die Hindernisse, die mit nationaler Schlauheit bis heute bestehen, sind vielfältig. (Kein deutscher Bauunternehmer kann in Frankreich seine Tätigkeit entfalten usw.) Würde die EU sich darauf beschränken, könnte sie erfolgreich sein. Die politische Oligarchie will genau eine solche Beschränkung nicht."
+            },
+            {
+                "name": "Freie Wähler",
+                "party": "fw",
+                "answer": "Zustimmung",
+                "text": "Als Exportnation ist Deutschland auf freien und fairen Handel angewiesen. Darauf beruhen viele Arbeitsplätze und ein Großteil unseres Wohlstands. Deshalb setzen wir FREIE WÄHLER uns im Grundsatz für das Fördern des freien Handels ein. Wir lehnen aber die umstrittenen Handelsabkommen CETA, TTIP und TiSA ab, weil sie vorrangig Großkonzernen nutzen und eine Gefahr für unsere mittelständische Wirtschaft darstellen."
+            },
+            {
+                "name": "Die PARTEI",
+                "party": "partei",
+                "answer": "Ablehnung",
+                "text": "Nein, der freie Handel hat Die PARTEI zu fördern."
+            },
+            {
+                "name": "Piratenpartei Deutschland",
+                "party": "piraten",
+                "answer": "Zustimmung",
+                "text": "Prinzipiell sind wir nicht gegen Freihandel. Wohl aber sind wir gegen intransparente Verhandlung und die Steigerung der Macht der Konzerne unter Einschränkung der demokratisch gewählten Parlamente und insbesondere der Bürger. Nicht-staatliche Schiedsgerichte sind für uns genauso inakzeptabel, wie Regelungen, die die staatliche Daseinsvorsorge einschränken. Wo Infrastruktur oder grundlegende Güter wie Wasser zur Handelsware werden sollen, lehnen wir dies ab. CETA, TTIP oder TISA lehnen wir ab."
+            },
+            {
+                "name": "SPD",
+                "party": "spd",
+                "answer": "Zustimmung",
+                "text": "Wir wollen Globalisierung gerecht gestalten. Im Kern geht es darum, den Primat der Politik gegenüber entfesselten, globalen Marktkräften durchzusetzen. Eine auf faire und fortschrittliche Standards gerichtete Handelspolitik muss hierzu beitragen. Nicht reiner Freihandel, sondern fairer Handel ist dabei unser Ziel. Angesichts der Tendenzen zu Protektionismus und Abschottung in der Welt ist es umso wichtiger, dass die EU mit einer fortschrittlichen Handelspolitik ein Gegenmodell schafft."
+            },
+            {
+                "name": "Partei Mensch Umwelt Tierschutz",
+                "party": "mut",
+                "answer": "Enthaltung",
+                "text": "Freier Handel ist in der Tat wünschenswert. Dieser darf aber auf keinen Fall zu einer Verschlechterung von Arbeitnehmer-, Verbraucher-, Umwelt- und Tierschutzstandards führen. Daher müssen Handelsverträge immer auch mit gegenseitigen Verpflichtungen zu ebendiesen einhergehen."
+            },
+            {
+                "name": "CDU",
+                "party": "cdu",
+                "answer": "Zustimmung",
+                "text": "CDU und CSU bekämpfen jede Art von Protektionismus. Deutschland ist eine Exportnation, die von offenen Märkten und internationalen Lieferbeziehungen besonders profitiert."
+            }
+        ]
+    },
+    "29": {
+        "text": "Die EU braucht die Energiewende.",
+        "Zustimmung": 0,
+        "Enthaltung": 0,
+        "Ablehnung": 0,
+        "ZustimmungParteien": [],
+        "EnthaltungParteien": [],
+        "AblehnungParteien": [],
+        "answers": [
+            {
+                "name": "NPD",
+                "party": "npd",
+                "answer": "Enthaltung",
+                "text": "Keine Erklärung angegeben"
+            },
+            {
+                "name": "Ökologisch-Demokratische Partei, ÖDP",
+                "party": "ödp",
+                "answer": "Zustimmung",
+                "text": "Keine Erklärung angegeben"
+            },
+            {
+                "name": "FDP Landesverband Sachsen",
+                "party": "fdp",
+                "answer": "Ablehnung",
+                "text": "Hier ist unklar welche Maßnahmen hierunter fallen sollen."
+            },
+            {
+                "name": "BÜNDNIS 90/DIE GRÜNEN",
+                "party": "grün",
+                "answer": "Zustimmung",
+                "text": "Der grundlegende Umbau der europäischen Energieversorgung ist erforderlich, um die Klimaziele des Pariser Abkommens erreichen zu können und zugleich die Gefahren der Atomkraft zu überwinden. Er bietet enorme Chance für Innovation und wirtschaftliche Entwicklung der EU-Staaten und der gesamten Union. Klimaschutz und die ökologische Transformation der Energieversorgung sind für uns ein bedeutendes Projekt zur Neubelebung der EU."
+            },
+            {
+                "name": "AfD",
+                "party": "afd",
+                "answer": "Enthaltung",
+                "text": "Das ist ein weites Feld. Bekanntlich geht Frankreich einen völlig anderen energiepolitischen Weg als D. Die Grundannahme der Ersetzung der gesamten Energieversorgung durch Sonne, Wind, Biogas usw. ist irrational. Die zukünftigen Wege der Energieversorgung sind völlig offen. Sowohl die Fusionstechnologie wie auch technologisch verbesserte Kernkraftwerke mit Kernspaltung werden ihren Platz behalten oder sogar ausbauen. Ideologische Denkverbote behindern eine offene Zukunft. Die EU bedarf es nicht."
+            },
+            {
+                "name": "Freie Wähler",
+                "party": "fw",
+                "answer": "Zustimmung",
+                "text": "Wir FREIE WÄHLER stehen zur Energiewende und damit zur vollständigen Abkehr von fossilen und atomaren Energiequellen. Wir setzen uns auch dafür ein, dass das deutsche Vorbild Einzug auf der EU-Ebene hält."
+            },
+            {
+                "name": "Die PARTEI",
+                "party": "partei",
+                "answer": "Zustimmung",
+                "text": "Ja, weg vom Ökostrom hin zu ehrlichem Strom aus Autoreifen."
+            },
+            {
+                "name": "Piratenpartei Deutschland",
+                "party": "piraten",
+                "answer": "Zustimmung",
+                "text": "Wir stehen zu den Klimazielen der EU. Dabei setzen wir bei der Reduktion der Treibhausgasemissionen auf die Erhöhung der Energieeffizienz, ein funktionierendes System für den Emissionsrechtehandel auf europäischer Ebene sowie die Förderung der regenerativen Energien. Wir machen uns für eine verstärkte Zusammenarbeit bei den Investitionen in die europäische Energieinfrastruktur stark. Staatliche Subventionen für die fossile und nukleare Energiegewinnung sind nicht zukunftsfähig."
+            },
+            {
+                "name": "SPD",
+                "party": "spd",
+                "answer": "Zustimmung",
+                "text": "Die SPD hat sich in Deutschland für den Ausbau erneuerbarer Energien stark gemacht. Dies ist ein Ziel, dass wir auch europapolitisch weiter voranbringen wollen. Europa muss Vorreiter beim Klimaschutz und bei erneuerbaren Energien weltweit sein."
+            },
+            {
+                "name": "Partei Mensch Umwelt Tierschutz",
+                "party": "mut",
+                "answer": "Zustimmung",
+                "text": "Atomkraft lehnen wir konsequent ab, da deren Nutzung ein unkalkulierbares Risiko für Menschen, Tiere und Natur darstellt. Reaktorunfälle sowie die ungelösten Probleme der Endlagerung zeigen, dass diese Technologie durch den Menschen nicht beherrschbar ist. Wir fordern deshalb einen Artikel zur Nichtnutzung von Atomenergie im Grundgesetz. Um die Treibhausgas-Emissionen zu reduzieren, wollen wir zudem den Ausstieg aus der Kohleverstromung bis 2030 durch ein entsprechendes Bundesgesetz erreichen."
+            },
+            {
+                "name": "CDU",
+                "party": "cdu",
+                "answer": "Zustimmung",
+                "text": "Die energiepolitischen Herausforderungen wie den Klimaschutz müssen gemeinsam angegangen werden. Die EU-Mitgliedstaaten bestimmen über ihren nationalen Energiemix, aber Europa kann maßgeblich dazu beitragen, die Energieversorgung sicher, bezahlbar und nachhaltig zu gestalten."
+            }
+        ]
+    },
+    "30": {
+        "text": "Die EU soll europäische Gemeinschaftsanleihen (Euro-Bonds) einführen.",
+        "Zustimmung": 0,
+        "Enthaltung": 0,
+        "Ablehnung": 0,
+        "ZustimmungParteien": [],
+        "EnthaltungParteien": [],
+        "AblehnungParteien": [],
+        "answers": [
+            {
+                "name": "NPD",
+                "party": "npd",
+                "answer": "Ablehnung",
+                "text": "Keine Erklärung angegeben"
+            },
+            {
+                "name": "Ökologisch-Demokratische Partei, ÖDP",
+                "party": "ödp",
+                "answer": "Ablehnung",
+                "text": "Dies würde den EU-Verträgen widersprechen."
+            },
+            {
+                "name": "FDP Landesverband Sachsen",
+                "party": "fdp",
+                "answer": "Ablehnung",
+                "text": "Keine Erklärung angegeben"
+            },
+            {
+                "name": "BÜNDNIS 90/DIE GRÜNEN",
+                "party": "grün",
+                "answer": "Enthaltung",
+                "text": "Der wichtigste Schritt in der Eurozone ist eine verbesserte Abstimmung in der Wirtschafts- und Fiskalpolitik. In einem gemeinsamen Markt muss es Mindeststandards geben, wenn wir nicht in einen Wettlauf um die niedrigsten Steuern, Renten und Löhne geraten wollen. Gibt es hier eine Übereinkunft, können wir auch über gemeinschaftliche Anleihen nachdenken. Wir wollen einen zeitlich befristeten und mengenmäßig begrenzten Altschuldentilgungsfonds nach Vorschlag des Sachverständigenrats."
+            },
+            {
+                "name": "AfD",
+                "party": "afd",
+                "answer": "Ablehnung",
+                "text": "Wer will, dass Europa im Schuldenmeer untergeht, muss auch hier jede dezentrale Verantwortung beseitigen. Nur wer haftet, hat Anreiz zu verantwortlichem Handeln. Bei Nationalstaaten funktioniert das immer noch besser als bei der EU. Für die Sünder braucht es eine Konkursordnung aber keine Verschiebung der Haftung auf den Nachbarn. Der Gipfel der Absurdität."
+            },
+            {
+                "name": "Freie Wähler",
+                "party": "fw",
+                "answer": "Ablehnung",
+                "text": "Die Einführung von Euro-Bonds führt zu einer Vergemeinschaftung der Schulden in Europa. Eine Entwicklung weg vom Grundsatz, demzufolge jedes Land für seine Schulden selbst haftet, lehnen wir ab."
+            },
+            {
+                "name": "Die PARTEI",
+                "party": "partei",
+                "answer": "Ablehnung",
+                "text": "Nein, aber die Idee mit den Euro-Bongs finden wir prinzipiell gut."
+            },
+            {
+                "name": "Piratenpartei Deutschland",
+                "party": "piraten",
+                "answer": "Zustimmung",
+                "text": "Jeder haftet für jeden. Das sollte das europäische Prinzip sein. Vorausgesetzt, man lässt es gar nicht so weit kommen. Insofern dürfte in der gegenwärtigen Situation von Griechenland, Spanien, Portugal, Irland und Italien die Einführung derartiger Finanzierungsmethoden nur die Ausnahme sein. In der Zukunft sind die Entwicklungen wesentlich früher zu erkennen und so zu behandeln, dass Schieflagen der Staaten vermieden werden."
+            },
+            {
+                "name": "SPD",
+                "party": "spd",
+                "answer": "Ablehnung",
+                "text": "Mit dem Europäischen Stabilitätsmechanismus (ESM) ist es gelungen, die Eurozone und insbesondere die Refinanzierungsbedingungen zu stabilisieren. Darüber hinaus ist es nun vor allem erforderlich, bessere Strukturen für eine abgestimmte Wirtschafts- und Finanzpolitik in der Eurozone zu schaffen. Wir wollen eine Wirtschaftsregierung der Eurozone aufbauen, mit einem gemeinsamen Finanzbudget, das verstärkte Investitionen in Wachstum, Beschäftigung und den europäischen Zusammenhalt ermöglicht."
+            },
+            {
+                "name": "Partei Mensch Umwelt Tierschutz",
+                "party": "mut",
+                "answer": "Enthaltung",
+                "text": "Bei Eurobonds sind weder die wirtschaftlichen Auswirkungen noch die juristische Zulässigkeit klar. Diese Fragen müssten zunächst geklärt werden, bevor darüber entschieden werden soll."
+            },
+            {
+                "name": "CDU",
+                "party": "cdu",
+                "answer": "Ablehnung",
+                "text": "Wir wollen die dauerhafte Stabilisierung der Eurozone erreichen. Eine Vergemeinschaftung von Schulden schließen wir weiter aus. Gemeinschaftliche Anleihen würden falsche Anreize setzen und könnten EU-Mitgliedstaaten dazu verleiten, notwendige Haushaltssanierungen und Strukturreformen aufzuschieben oder gar zu unterlassen."
+            }
+        ]
+    },
+    "31": {
+        "text": "Die EU soll weiterhin versuchen multilaterale Handelsverträge abzuschließen.",
+        "Zustimmung": 0,
+        "Enthaltung": 0,
+        "Ablehnung": 0,
+        "ZustimmungParteien": [],
+        "EnthaltungParteien": [],
+        "AblehnungParteien": [],
+        "answers": [
+            {
+                "name": "NPD",
+                "party": "npd",
+                "answer": "Ablehnung",
+                "text": "Keine Erklärung angegeben"
+            },
+            {
+                "name": "Ökologisch-Demokratische Partei, ÖDP",
+                "party": "ödp",
+                "answer": "Ablehnung",
+                "text": "Hier gilt das bereits oben Gesagte. Künftige Handelsabkommen müssen faire und verpflichtende Regeln für alle Marktteilnehmer festschreiben."
+            },
+            {
+                "name": "FDP Landesverband Sachsen",
+                "party": "fdp",
+                "answer": "Ablehnung",
+                "text": "Keine Erklärung angegeben"
+            },
+            {
+                "name": "BÜNDNIS 90/DIE GRÜNEN",
+                "party": "grün",
+                "answer": "Zustimmung",
+                "text": "Die EU muss ihr handelspolitisches Gewicht nutzen, um sich weltweit für fairen Handel einzusetzen. Dazu gehört, Regeln multilateral zu entwickeln, d.h. unter Beteiligung vieler oder aller Länder und nicht nur der mächtigen. Sonst bleibt armen Ländern der Nutzen vom Welthandel verwehrt.\nDer Ort für multilaterale Handelsbeziehungen ist die Welthandelsorganisation (WTO). Sie muss reformiert werden, damit sie fairem Handel und nicht nur der Handelsliberalisierung und -deregulierung dient."
+            },
+            {
+                "name": "AfD",
+                "party": "afd",
+                "answer": "Ablehnung",
+                "text": "Es ist nicht einzusehen, wieso die WTO die Probleme des Internationalen Handels nicht lösen kann. TTIP hatte einen eindeutig imperialen Ansatz. Wirtschaftsinteressen sollen über staatliche Politik gestellt werden. Dies ist kein Ordnungsprinzip für eine friedliche Welt. Die Welt braucht Multipluralität, auch bezüglich ihrer ökonomischen Strukturen. Eine monopolistische oder oligopolistische Weltwirtschaft ist ähnlich gefährlich wie eine militärische und machpolitische one-World."
+            },
+            {
+                "name": "Freie Wähler",
+                "party": "fw",
+                "answer": "Zustimmung",
+                "text": "Wir wollen nicht länger mit einzelnen Staaten Handelsabkommen abschließen. CETA, TTIP und TiSA sind das Ergebnis des Scheiterns der Welthandelsorganisation, faire Regeln für den globalen Handel aufzustellen. \nDeshalb setzen wir uns für eine Wiederbelebung der Welthandelsrunden ein, bei denen die Industrieländer verantwortungsvoller auf die Interessen der ärmeren Länder dieser Welt eingehen müssen."
+            },
+            {
+                "name": "Die PARTEI",
+                "party": "partei",
+                "answer": "Zustimmung",
+                "text": "Ja, unter der deutschen Devise:  Export immer, Import nimmer."
+            },
+            {
+                "name": "Piratenpartei Deutschland",
+                "party": "piraten",
+                "answer": "Zustimmung",
+                "text": "Prinzipiell sind wir nicht gegen Freihandel. Wohl aber sind wir gegen intransparente Verhandlung und die Steigerung der Macht der Konzerne unter Einschränkung der demokratisch gewählten Parlamente und insbesondere der Bürger. Nicht-staatliche Schiedsgerichte sind für uns genauso inakzeptabel, wie Regelungen, die die staatliche Daseinsvorsorge einschränken. Wo Infrastruktur oder grundlegende Güter wie Wasser zur Handelsware werden sollen, lehnen wir dies ab. CETA, TTIP oder TISA lehnen wir ab."
+            },
+            {
+                "name": "SPD",
+                "party": "spd",
+                "answer": "Zustimmung",
+                "text": "Der beste, weil multilaterale Rahmen für internationale Handelsvereinbarungen, ist die Welthandelsorganisation (WTO), die derzeit aber weitgehend blockiert und handlungsunfähig ist. Wir werden alles daran setzen, diese Blockade zu überwinden. Allerdings sind auch bilaterale Handelsabkommen zu einer Alternative geworden. Wenn es gelingt, in ihnen fortschrittliche Standards zu vereinbaren, können auch sie grundsätzlich zu einer gerechteren Gestaltung der Globalisierung beitragen."
+            },
+            {
+                "name": "Partei Mensch Umwelt Tierschutz",
+                "party": "mut",
+                "answer": "Enthaltung",
+                "text": "Freier und v. a. fairer Handel? Ja! ABER: Geheime Verhandlungen, Investitionsschutz, nicht-rechtssaatliche „Gerichte“ sowie Aushöhlung von Arbeitnehmer-, Verbraucher-, Umwelt- und Tierschutzstandards? Nein!"
+            },
+            {
+                "name": "CDU",
+                "party": "cdu",
+                "answer": "Zustimmung",
+                "text": "CDU und CSU treten für internationale Handelsabkommen ein. Deutschland ist eine Exportnation, die von offenen Märkten und internationalen Lieferbeziehungen besonders profitiert."
+            }
+        ]
+    },
+    "32": {
+        "text": "Die EU soll weiterhin bilaterale Handelsverträge abschließen.",
+        "Zustimmung": 0,
+        "Enthaltung": 0,
+        "Ablehnung": 0,
+        "ZustimmungParteien": [],
+        "EnthaltungParteien": [],
+        "AblehnungParteien": [],
+        "answers": [
+            {
+                "name": "NPD",
+                "party": "npd",
+                "answer": "Ablehnung",
+                "text": "Keine Erklärung angegeben"
+            },
+            {
+                "name": "Ökologisch-Demokratische Partei, ÖDP",
+                "party": "ödp",
+                "answer": "Ablehnung",
+                "text": "Keine Erklärung angegeben"
+            },
+            {
+                "name": "FDP Landesverband Sachsen",
+                "party": "fdp",
+                "answer": "Zustimmung",
+                "text": "Keine Erklärung angegeben"
+            },
+            {
+                "name": "BÜNDNIS 90/DIE GRÜNEN",
+                "party": "grün",
+                "answer": "Ablehnung",
+                "text": "Bilaterale Handelsverträge untergraben oft regionale Kooperation und Wirtschaftsgefüge, etwa in Afrika. Neue Regelwerke, die sich auf Dritte auswirken, sollten möglichst multilateral verhandelt werden."
+            },
+            {
+                "name": "AfD",
+                "party": "afd",
+                "answer": "Enthaltung",
+                "text": "Das mag im Einzelfall sinnvoll sein, um als einheitlicher Wirtschaftsraum agieren zu können."
+            },
+            {
+                "name": "Freie Wähler",
+                "party": "fw",
+                "answer": "Ablehnung",
+                "text": "Wir wollen nicht länger mit einzelnen Staaten Handelsabkommen abschließen. CETA, TTIP und TiSA sind das Ergebnis des Scheiterns der Welthandelsorganisation, faire Regeln für den globalen Handel aufzustellen. \nDeshalb setzen wir uns für eine Wiederbelebung der Welthandelsrunden ein, bei denen die Industrieländer verantwortungsvoller auf die Interessen der ärmeren Länder dieser Welt eingehen müssen."
+            },
+            {
+                "name": "Die PARTEI",
+                "party": "partei",
+                "answer": "Ablehnung",
+                "text": "Nein, wir wollen nicht nur bilaterale sondern auch heterolaterale, homolaterale, translaterale, interlaterale und alaterale Handelsverträge gleichberechtigt unterstützen."
+            },
+            {
+                "name": "Piratenpartei Deutschland",
+                "party": "piraten",
+                "answer": "Zustimmung",
+                "text": "Prinzipiell sind wir nicht gegen Freihandel. Wohl aber sind wir gegen intransparente Verhandlung und die Steigerung der Macht der Konzerne unter Einschränkung der demokratisch gewählten Parlamente und insbesondere der Bürger. Nicht-staatliche Schiedsgerichte sind für uns genauso inakzeptabel, wie Regelungen, die die staatliche Daseinsvorsorge einschränken. Wo Infrastruktur oder grundlegende Güter wie Wasser zur Handelsware werden sollen, lehnen wir dies ab."
+            },
+            {
+                "name": "SPD",
+                "party": "spd",
+                "answer": "Zustimmung",
+                "text": "Der beste, weil multilaterale Rahmen für internationale Handelsvereinbarungen, ist die Welthandelsorganisation (WTO), die derzeit aber weitgehend blockiert und handlungsunfähig ist. Wir werden alles daran setzen, diese Blockade zu überwinden. Allerdings sind auch bilaterale Handelsabkommen zu einer Alternative geworden. Wenn es gelingt, in ihnen fortschrittliche Standards zu vereinbaren, können auch sie grundsätzlich zu einer gerechteren Gestaltung der Globalisierung beitragen."
+            },
+            {
+                "name": "Partei Mensch Umwelt Tierschutz",
+                "party": "mut",
+                "answer": "Enthaltung",
+                "text": "Freier und v. a. fairer Handel? Ja! ABER: Geheime Verhandlungen, Investitionsschutz, nicht-rechtssaatliche „Gerichte“ sowie Aushöhlung von Arbeitnehmer-, Verbraucher-, Umwelt- und Tierschutzstandards? Nein!"
+            },
+            {
+                "name": "CDU",
+                "party": "cdu",
+                "answer": "Zustimmung",
+                "text": "CDU und CSU wollen  das zwischen der EU und Kanada abgeschlossene Freihandelsabkommen CETA mit Leben erfüllen und streben weiterhin ein Freihandelsabkommen zwischen der EU und den USA an. Deutschland ist eine Exportnation, die von offenen Märkten und internationalen Lieferbeziehungen besonders profitiert."
+            }
+        ]
+    },
+    "33": {
+        "text": "Die EU muss sich für einen deutlichen Ausbau der Bankenregulierung einsetzen.",
+        "Zustimmung": 0,
+        "Enthaltung": 0,
+        "Ablehnung": 0,
+        "ZustimmungParteien": [],
+        "EnthaltungParteien": [],
+        "AblehnungParteien": [],
+        "answers": [
+            {
+                "name": "NPD",
+                "party": "npd",
+                "answer": "Zustimmung",
+                "text": "Keine Erklärung angegeben"
+            },
+            {
+                "name": "Ökologisch-Demokratische Partei, ÖDP",
+                "party": "ödp",
+                "answer": "Zustimmung",
+                "text": "Wir wollen die Rettung sog. systemrelevanter Banken mittels Steuergeld verhindern."
+            },
+            {
+                "name": "FDP Landesverband Sachsen",
+                "party": "fdp",
+                "answer": "Ablehnung",
+                "text": "Keine Erklärung angegeben"
+            },
+            {
+                "name": "BÜNDNIS 90/DIE GRÜNEN",
+                "party": "grün",
+                "answer": "Zustimmung",
+                "text": "Die Bankenunion muss vollendet werden, u.a. durch ein Trennbankenmodell, den Abbau nationaler Sonderregeln in der Bankenregulierung, eine Entkopplung von Staats- und Bankrisiken auch in Bezug auf Staatsanleihen, die Beseitigung aller rechtlichen Hürden zur Gläubigerbeteiligung bei Bankenabwicklungen und eines „back stops“ für den EU-Bankenabwicklungsfonds. Bankenaufsicht und der Europäische Systemrisikorat (ESRB) sollten aus der EZB herausgelöst werden und vom EU-Parlament kontrolliert werden."
+            },
+            {
+                "name": "AfD",
+                "party": "afd",
+                "answer": "Zustimmung",
+                "text": "Sofern dies rational geschieht, ist es zu begrüßen, weil es der Risikominimierung des gesamten Wirtschaftsraums dient. Allerdings bleiben die Bedenken, dass die EU nicht in der Lage ist, den selbst gesetzten Rechtsrahmen auch durchzusetzen, wie hinreichend bewiesen. Soeben werden in Italien zwei Banken mit Staatsmitteln gerettet, obwohl dies eindeutig gegen EU-Recht verstößt."
+            },
+            {
+                "name": "Freie Wähler",
+                "party": "fw",
+                "answer": "Zustimmung",
+                "text": "Die Finanz- und Wirtschaftskrise hat gezeigt, dass es weitere Regulierung bedarf, um sich gegen künftige Krisen zu wappnen. Wir sind deshalb beispielsweise für die Einführung einer Finanztransaktionssteuer. Allerdings darf weitere Bankenregulierung nicht dazu führen, dass kleine regional tätige Institute wie Sparkassen und Genossenschaftsbanken benachteiligt werden. Sie sind nicht für die Fehler international tätiger Großbanken verantwortlich und brauchen Ausnahmeregelungen."
+            },
+            {
+                "name": "Die PARTEI",
+                "party": "partei",
+                "answer": "Zustimmung",
+                "text": "Ja, aber unter dem Credo \"Der Markt regelt das.\""
+            },
+            {
+                "name": "Piratenpartei Deutschland",
+                "party": "piraten",
+                "answer": "Zustimmung",
+                "text": "Finanzielle Probleme von Banken dürfen nicht wie bisher zu Lasten der Steuerzahler gehen. Wir fordern eine Bankenregulierung, die Schieflagen durch scharfe Eigenkapitalvorschriften vermeidet. Eigentümer und Gläubiger müssen in Krisen an den Verlusten beteiligt werden. Auch echte Insolvenzen bzw. Abwicklungen müssen möglich sein."
+            },
+            {
+                "name": "SPD",
+                "party": "spd",
+                "answer": "Zustimmung",
+                "text": "Die Realwirtschaft, die Bürgerinnen und Bürger und auch der Staat brauchen ein Finanz- und Bankensystem, das sicher und verlässlich ist. Wir wollen international die treibende Kraft bei der Kontrolle und Aufsicht der Finanzmärkte werden. Kein Finanzmarkt, kein Finanzprodukt und kein Finanzakteur darf zukünftig ohne Regulierung und ohne Kontrolle sein. Die Aktivitäten der Finanzmärkte müssen auf die Erfordernisse der realen Wirtschaft ausgerichtet sein."
+            },
+            {
+                "name": "Partei Mensch Umwelt Tierschutz",
+                "party": "mut",
+                "answer": "Zustimmung",
+                "text": "Banken brauchen sehr strenge gesetzliche Vorgaben und stetige, intensive Prüfungen ihrer Tätigkeiten und Geschäftsmodelle sowie Stresstests. Hochriskante Spekulationen und Risikovertuschung müssen verboten werden. Die Bankenüberwachung muss deutlich ausgebaut werden. Staatliche Banken mit sozialen sowie regionalen Aufgaben sind eine nötige Ergänzung."
+            },
+            {
+                "name": "CDU",
+                "party": "cdu",
+                "answer": "Enthaltung",
+                "text": "Übermäßige Regulierung kann den wirtschaftlichen Aufschwung und das Wachstum durch mangelnde Kreditvergabe bremsen. Aber \nsoweit es Verbesserungsbedarf gibt, sollte nachjustiert werden. Unser Ziel ist es insbesondere, Risiken im europäischen Bankensystem deutlich zu reduzieren und die enge Verbindung von Staaten und Banken zu lockern. Auch die Differenzen zwischen europäischen und nationalen Abwicklungsregeln müssen auf den Prüfstand."
+            }
+        ]
+    },
+    "34": {
+        "text": "Alle EU-Bürgerinnen und Bürger sollen das aktive und passive Wahlrecht in ihrem Wohnsitzland haben.",
+        "Zustimmung": 0,
+        "Enthaltung": 0,
+        "Ablehnung": 0,
+        "ZustimmungParteien": [],
+        "EnthaltungParteien": [],
+        "AblehnungParteien": [],
+        "answers": [
+            {
+                "name": "NPD",
+                "party": "npd",
+                "answer": "Ablehnung",
+                "text": "Keine Erklärung angegeben"
+            },
+            {
+                "name": "Ökologisch-Demokratische Partei, ÖDP",
+                "party": "ödp",
+                "answer": "Enthaltung",
+                "text": "Für uns wäre in diesem Fall ungeklärt, ob der Wähler sein Wahlrecht in mehreren Ländern wahrnehmen kann."
+            },
+            {
+                "name": "FDP Landesverband Sachsen",
+                "party": "fdp",
+                "answer": "Zustimmung",
+                "text": "Keine Erklärung angegeben"
+            },
+            {
+                "name": "BÜNDNIS 90/DIE GRÜNEN",
+                "party": "grün",
+                "answer": "Zustimmung",
+                "text": "Alle, die längerfristig hier leben, sollen auch mitbestimmen können. Unionsbürgerinnen und Unionsbürgern wollen wir deshalb dort, wo sie seit mehr als fünf Jahren in der EU leben, auch auf regionaler und nationaler Ebene das Wahlrecht geben. Für Nicht-EU-Bürger*innen wollen wir durch eine Einbürgerungsoffensive den Zugang zum Wahlrecht erleichtern. Zudem wollen wir das kommunale Wahlrecht auch für Menschen ohne deutschen Pass oder Unionsbürgerschaft öffnen."
+            },
+            {
+                "name": "AfD",
+                "party": "afd",
+                "answer": "Enthaltung",
+                "text": "Dies ist eine vergleichsweise nebensächliche Angelegenheit. Viel entscheidenter ist, dass das Wahlrecht jedes EU-Wählers das gleiche Stimmgewicht hat. Wieso wird diese Frage nirgendwo in diesem Fragebogen gestellt? Derzeit haben wir Abweichungen im Stimmgewicht bis zum 10fachen Stimmwert. Das ist absurd und wird öffentlich beschwiegen, weil es völlig undemokratisch ist. Solange diese Frage nicht beordnet ist, stellt sich die hier gestellte Frage nicht."
+            },
+            {
+                "name": "Freie Wähler",
+                "party": "fw",
+                "answer": "Ablehnung",
+                "text": "Das Wahlrecht bei Landtags- und Bundestagswahlen soll weiterhin an die deutsche Staatsbürgerschaft gekoppelt sein. EU-Ausländer, die das Wahlrecht in Deutschland anstreben, steht der Weg der Einbürgerung offen. Ohnehin verfügen EU-Ausländer über das Wahlrecht bei Kommunalwahlen, mit dem sie heute schon Einfluss auf die politischen Entscheidungen vor Ort nehmen können."
+            },
+            {
+                "name": "Die PARTEI",
+                "party": "partei",
+                "answer": "Ablehnung",
+                "text": "Nein, das passive Wahlrecht wird ausschließlich PARTEI-Mitgliedern vorbehalten sein."
+            },
+            {
+                "name": "Piratenpartei Deutschland",
+                "party": "piraten",
+                "answer": "Zustimmung",
+                "text": "Wir setzen uns für eine erweiterte EU-Bürgerschaft ein. Die erweiterte EU-Bürgerschaft sichert ihren Inhabern am Hauptwohnsitz vollumfänglich die gleichen Rechte zu, wie dort beheimateten Menschen mit jeweiliger nationaler Staatsbürgerschaft. Dazu gehört selbstverständlich auch das Wahlrecht zu gleichen Bedingungen. Wo man Steuern zahlt, soll man auch entscheiden dürfen, was damit geschieht."
+            },
+            {
+                "name": "SPD",
+                "party": "spd",
+                "answer": "Ablehnung",
+                "text": "Keine Erklärung angegeben"
+            },
+            {
+                "name": "Partei Mensch Umwelt Tierschutz",
+                "party": "mut",
+                "answer": "Zustimmung",
+                "text": "Es ist absolut nicht nachvollziehbar, warum jemand in dem Land das Wahlrecht nicht haben sollte, in dem er (in vielen Fällen sogar bereits seit Jahrzehnten) lebt, dessen Politik er täglich mitbekommt und die ihn persönlich direkt betrifft sowie wo er durch seine berufliche und außerberufliche Tätigkeit aktiv mitgestaltet, dafür aber in dem Land, in dem er geboren ist, mit dessen Alltag er aber kaum noch etwas zu tun hat."
+            },
+            {
+                "name": "CDU",
+                "party": "cdu",
+                "answer": "Ablehnung",
+                "text": "EU-Bürgerinnen und Bürger wären dann in der Regel doppelt wahlberechtigt – in ihrem Heimatland und in ihrem Wohnsitzland. Das wäre weder verständlich, noch gerechtfertigt."
+            }
+        ]
+    },
+    "35": {
+        "text": "Für die Wahl des Europaparlaments braucht es ein einheitliches europäisches Wahlrecht, welches transnationale Listen ermöglicht.",
+        "Zustimmung": 0,
+        "Enthaltung": 0,
+        "Ablehnung": 0,
+        "ZustimmungParteien": [],
+        "EnthaltungParteien": [],
+        "AblehnungParteien": [],
+        "answers": [
+            {
+                "name": "NPD",
+                "party": "npd",
+                "answer": "Enthaltung",
+                "text": "Keine Erklärung angegeben"
+            },
+            {
+                "name": "Ökologisch-Demokratische Partei, ÖDP",
+                "party": "ödp",
+                "answer": "Ablehnung",
+                "text": "Auch hier halten wir die Voraussetzungen in den einzelnen EU-Mitgliedsländern für zu unterschiedlich."
+            },
+            {
+                "name": "FDP Landesverband Sachsen",
+                "party": "fdp",
+                "answer": "Zustimmung",
+                "text": "Keine Erklärung angegeben"
+            },
+            {
+                "name": "BÜNDNIS 90/DIE GRÜNEN",
+                "party": "grün",
+                "answer": "Zustimmung",
+                "text": "Ein demokratischeres Europa braucht mehr grenzübergreifenden politischen Diskurs und lebendige europäische Parteien. Für die Wahlen zum Europäischen Parlament streben wir die schrittweise Einführung europaweiter Listen an, damit die Wähler*innen die Möglichkeit haben, für die Kandidat*innen zu stimmen, die verstärkt gesamteuropäische Interessen vertreten."
+            },
+            {
+                "name": "AfD",
+                "party": "afd",
+                "answer": "Ablehnung",
+                "text": "Transnationale Listen setzen transnationale Willensbildungen und Wahlversammlungen voraus. Wie soll man die sich vorstellen. Alle Kandidaten müssen doch eine Basis in Versammlungen haben, die in ständiger persönlicher Beziehung miteinander stehen. Mein Abgeordneter aus Sizilien kann doch nicht meine Interessen vertreten und umgekehrt genauso. Das ist doch Theaterspiel aber keine Demokratie."
+            },
+            {
+                "name": "Freie Wähler",
+                "party": "fw",
+                "answer": "Ablehnung",
+                "text": "Wir sehen transnationale Listen kritisch, da damit keine proportionale Verteilung der Abgeordneten nach Regionen und zugleich politischer Färbung gewährleistet ist. Im Europaparlament können wir regelmäßig beobachten, dass bei Abstimmungen der nationale Hintergrund eine besondere Rolle spielt. Mit transnationalen Listen würden dann eher Zufälle festlegen, welche nationalen Interessen in der fünfjährigen Wahlperiode besonders stark und besonders schwach vertreten werden."
+            },
+            {
+                "name": "Die PARTEI",
+                "party": "partei",
+                "answer": "Zustimmung",
+                "text": "Ja, alles was zu unserer Machtergreifung führt, sehen wir positiv."
+            },
+            {
+                "name": "Piratenpartei Deutschland",
+                "party": "piraten",
+                "answer": "Enthaltung",
+                "text": "Ein einheitliches Wahlrecht ist die Voraussetzung für ein tatsächlich unter gleichen Bedingungen zustande gekommenes Parlament. Quoten- und Zugangsregeln zur Wahl sind wo vorhanden abzuschaffen, das Berechnungssystem der Ergebnisse muss identisch sein, das Wahlsystem ebenfalls. Inwieweit dann transnationale Listen noch notwendig und zielführend sind, ist noch nicht innerhalb unserer Partei entschieden."
+            },
+            {
+                "name": "SPD",
+                "party": "spd",
+                "answer": "Zustimmung",
+                "text": "Wir wollen die europäischen Parteien weiter stärken und die Möglichkeiten, sich in ihnen zu engagieren, erweitern. Die europäischen Parteien sind Träger einer transnationalen politischen Willensbildung. Um diesen wichtigen Aspekt europäischer Demokratie zusätzlich zu stärken, setzen wir uns auch dafür ein, dass die durch das Ausscheiden Großbritanniens freiwerdenden Sitze im Europäischen Parlament künftig durch Abgeordnete besetzt werden, die anhand transnationaler Listen gewählt worden sind."
+            },
+            {
+                "name": "Partei Mensch Umwelt Tierschutz",
+                "party": "mut",
+                "answer": "Zustimmung",
+                "text": "Den vom EU-Parlament vorgelegten Entwurf, der eine demokratiefeindliche 3-%-Hürde beinhaltet, lehnen wir jedoch ab."
+            },
+            {
+                "name": "CDU",
+                "party": "cdu",
+                "answer": "Enthaltung",
+                "text": "Die Einführung transnationaler Listen bei der Europawahl erfordert eine Änderung des EU-Vertrages. Diese ist kurzfristig nicht realisierbar."
+            }
+        ]
+    }
+}
