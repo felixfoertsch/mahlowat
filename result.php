@@ -79,25 +79,24 @@ if(!$data_content){
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Mahlowat - Ergebnis</title>
+  <title>EUromat - Ergebnis</title>
   <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
-  <meta content="Mahlowat">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+  <meta content="EUromat">
 
-  <meta name="image_src" content="img/mahlowat_logo.png"/>
-  <meta name="description" content="Mein Mahlowat-Ergebnis"/>
+  <meta name="image_src" content="img/euromat.png"/>
+  <meta name="description" content="Mein EUromat-Ergebnis"/>
 
-  <meta property="og:title" content="Mahlowat"/>
+  <meta property="og:title" content="EUromat"/>
   <meta property="og:type"  content="website"/>
-  <meta property="og:image" content="img/mahlowat_logo.png"/>
+  <meta property="og:image" content="img/euromat.png"/>
   <meta property="og:url"   content=""/>
-  <meta property="og:site-name" content="akut-bonn.de"/>
-  <meta property="og:description" content="Mein Mahlowat-Ergebnis"/>
+  <meta property="og:site-name" content="eurom.at"/>
+  <meta property="og:description" content="Mein EUromat-Ergebnis"/>
 
-
-
-  <link href="css/jef.min.css" rel="stylesheet" media="screen">
+  <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400i,600,700" rel="stylesheet">
   <link rel="stylesheet" href="css/font-awesome.min.css">
-
+  <link href="css/jef.min.css" rel="stylesheet" media="screen">
   <link rel="stylesheet" type="text/css" href="css/style.css">
 
   <script src="js/jquery-2.0.2.min.js"></script>
@@ -108,12 +107,14 @@ if(!$data_content){
 </head>
 <body>
 
-  <div class="container" style="margin-top: 20px;">
-    <div class="col-md-4 pull-right">
-      <a href="https://jef-sachsen.de/euromat"><img class="img-responsive" src="img/euromat.png" title="Euromat Logo" onclick="changeText()"/></a>
+  <div class="container mt-25">
+    <div class="col-md-3 pull-right">
+      <a href="https://jef-sachsen.de/euromat">
+        <img id="logo" class="img-responsive" src="img/euromat.png" title="Euromat Logo"/>
+      </a>
     </div>
 
-    <div class="bottom-buffer top-buffer">
+    <div class="col-md-12">
       <?php 
       if($bars_only){
         echo "<h1>Ergebnis</h1>";
@@ -161,41 +162,47 @@ if(!$data_content){
         <?php } ?>
 
         <?php if(!$bars_only){?>
-        <p>Nicht zufrieden mit dem Ergebnis? Vielleicht willst du die Thesen <a href="multiplier.php" onclick="callPage(event, 'multiplier.php', <?php echo "'$answerstring', '$count'";?>)" title="Gewichtung ändern">anders gewichten</a>.</p>
+        <div class="row">
+        <div class="col-md-12">
+            <div class="alert alert-info">
+              <strong>Nicht zufrieden mit dem Ergebnis?</strong> Vielleicht willst du die Thesen <a href="multiplier.php" onclick="callPage(event, 'multiplier.php', <?php echo "'$answerstring', '$count'";?>)" title="Gewichtung ändern">anders gewichten</a>.
+            </div>
+          </div>
+        </div>
         <?php } ?>
 
-        <div id="result-bars" class="table-responsive">
-          <table class="table table-bordered table-hover table-condensed table-striped">
-            <tr>
-              <th>Liste</th>
-              <th>Punkte</th>
-              <th>Prozent</th>
-            </tr>
-            <?php
-            $top = calculate_points($data['answers'][0], $answers);
-            for($i = 0; $i < sizeof($data['answers']); $i++){
-              (calculate_points($data['answers'][$i], $answers) == $top) ? $class = "" : $class = "";
-              print_list_result_bar($data, $i, $answers, $class);
-              echo "\n";
-            }
-            ?>
-
-          </table>
+        <div id="result-bars" class="container-fluid mt-25">
+          <?php
+          $top = calculate_points($data['answers'][0], $answers);
+          for($i = 0; $i < sizeof($data['answers']); $i++){
+            (calculate_points($data['answers'][$i], $answers) == $top) ? $class = "" : $class = "";
+            print_list_result_bar($data, $i, $answers, $class);
+            echo "\n";
+          }
+          ?>
         </div>
 
         <?php if(!$bars_only){?>
-        <div id="result-table">
-          <p>Thesen mit <i class='fa fa-star fa-lg'></i> fandest du besonders wichtig. Wenn du auf den Button mit dem Namen der These klickst, bekommst du die Statements der Listen in einer Übersicht angezeigt. Über die folgenden Schalter kannst Du einzelne Listen ein- oder ausblenden:</p>
-          <div class="well">
+        <div id="result-table" class="container-fluid mt-25">
+          <p>Thesen mit <i class='fa fa-star fa-lg'></i> fandest du besonders wichtig. Wenn du auf den Button mit dem Namen der These klickst, bekommst du die Statements der Listen in einer Übersicht angezeigt.</p>
+          <p class="hidden-sm hidden-xs">Über die folgenden Schalter kannst Du einzelne Listen ein- oder ausblenden:</p>
+          <ul class="nav nav-pills hidden-sm hidden-xs">
             <?php 
             for($i = 0; $i < sizeof($data['lists']); $i = $i + 1){
               $classname = string_to_css_classname($data['lists'][$i]['name']);
-              echo "<button class='btn btn-default btn-primary listbtn-$classname' onclick='toggleColumn(\"$classname\")'>{$data['lists'][$i]['name_x']} </button> ";   
+              $list_logo = $data['lists'][$i]['logo'];
+              $list_name_short = $data['lists'][$i]['name_x'];
+              echo "
+              <li role='presentation' class='active listbtn-$classname'>
+                <a onclick='toggleColumn(\"$classname\")'>
+                  $list_name_short
+                </a>
+              </li>
+              ";
             }
             ?>
-          </div>
-
-          <table class="table" id="resulttable">
+          </ul>
+          <table class="table mt-25" id="resulttable">
             <?php 
 
             print_result_detail_table($answers, $data);
@@ -260,7 +267,7 @@ if(!$data_content){
 
     function toggleColumn(listname){
       $('.list-'+listname).toggle(200);
-      $('.listbtn-'+listname).toggleClass('btn-primary');
+      $('.listbtn-'+listname).toggleClass('active');
     }
 
     function showOverview(){

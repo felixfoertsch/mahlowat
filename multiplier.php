@@ -1,201 +1,205 @@
 <?php
-    include 'includes/functions.php';
-    include 'includes/elements.php';
+include 'includes/functions.php';
+include 'includes/elements.php';
     #include 'includes/theses.php';
 
-    $data_content = file_get_contents("config/data.json");
-    if (!$data_content) {
-        echo "ERROR READING CONFIG";
-    } else {
-        $data = json_decode($data_content, true);
+$data_content = file_get_contents("config/data.json");
+if (!$data_content) {
+  echo "ERROR READING CONFIG";
+} else {
+  $data = json_decode($data_content, true);
 
 
     //$theses = get_theses_array();
-    $theses = $data['theses'];
+  $theses = $data['theses'];
 
-        $theses_count = sizeof($theses);
+  $theses_count = sizeof($theses);
 
-        $ans = array();
-        $emph = array();
-        $answerstring = '';
-        $warning = false;
-        $count = 'undefined';
+  $ans = array();
+  $emph = array();
+  $answerstring = '';
+  $warning = false;
+  $count = 'undefined';
 
-        if (isset($_POST['count'])) {
-            $count = $_POST['count'];
-        }
+  if (isset($_POST['count'])) {
+    $count = $_POST['count'];
+  }
 
-        if (isset($_POST['ans'])) {
-            $answerstring = $_POST['ans'];
-            $retval = result_from_string($answerstring, $theses_count);
-            $ans = $retval[0];
-            $emph = $retval[1];
-        } elseif (isset($_GET['ans'])) {
-            $answerstring = $_GET['ans'];
-            $retval = result_from_string($answerstring, $theses_count);
-            $ans = $retval[0];
-            $emph = $retval[1];
-        } else {
-            $warning = true;
-            for ($i = 0; $i < $theses_count; $i++) {
-                $ans[$i] = 'skip';
-                $emph[$i] = 1;
-            }
-        }
+  if (isset($_POST['ans'])) {
+    $answerstring = $_POST['ans'];
+    $retval = result_from_string($answerstring, $theses_count);
+    $ans = $retval[0];
+    $emph = $retval[1];
+  } elseif (isset($_GET['ans'])) {
+    $answerstring = $_GET['ans'];
+    $retval = result_from_string($answerstring, $theses_count);
+    $ans = $retval[0];
+    $emph = $retval[1];
+  } else {
+    $warning = true;
+    for ($i = 0; $i < $theses_count; $i++) {
+      $ans[$i] = 'skip';
+      $emph[$i] = 1;
     }
+  }
+}
 
 
 ?>
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>EUromat - Ergebnis</title>
-    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-    <meta content="">
-    
-    <link href="css/jef.min.css" rel="stylesheet" media="screen">
-    <link rel="stylesheet" href="css/font-awesome.min.css">
-    <link rel="stylesheet" type="text/css" href="css/style.css">
-  </head>
-  <body>
+<head>
+  <title>EUromat - Ergebnis</title>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+  <meta content="">
+
+  <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400i,600,700" rel="stylesheet">
+  <link rel="stylesheet" href="css/font-awesome.min.css">
+  <link href="css/jef.min.css" rel="stylesheet" media="screen">
+
+  <link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
 
   <script src="js/jquery-2.0.2.min.js"></script>
   <script src="js/bootstrap.min.js"></script>
   <script src="js/mahlowat.js"></script>
 
-    <?php if ($warning) {
+  <?php if ($warning) {
     ?>
-	<div id="warning" class="modal fade">
-		<div class="modal-dialog">
-			<div class="modal-content">
-				<div class="modal-header">
-					<button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-					<h4 class="modal-title">Hoppla...</h4>
-				</div>
-				<div class="modal-body">
-					<p><strong>Anscheinend hast du keine Fragen beantwortet.</strong><br />
-                  Entweder hast du diese Seite direkt aufgerufen, oder du hast die Thesen noch nicht bearbeitet.</p>
-                  <p>Falls letzteres zutrifft, möchten wir dir empfehlen, dies nun zu tun.</p>
-				</div>
-				<div class="modal-footer">
-					<button type="button" class="btn btn-default" data-dismiss="modal">Schließen</button>
-					<a href="mahlowat.php" class="btn btn-primary">Thesen bearbeiten</a>
-				</div>
-			</div><!-- /.modal-content -->
-		</div><!-- /.modal-dialog -->
-	</div><!-- /.modal -->
+    <div id="warning" class="modal fade">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+            <h4 class="modal-title">Hoppla...</h4>
+          </div>
+          <div class="modal-body">
+            <p><strong>Anscheinend hast du keine Fragen beantwortet.</strong><br />
+              Entweder hast du diese Seite direkt aufgerufen, oder du hast die Thesen noch nicht bearbeitet.</p>
+              <p>Falls letzteres zutrifft, möchten wir dir empfehlen, dies nun zu tun.</p>
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-default" data-dismiss="modal">Schließen</button>
+              <a href="mahlowat.php" class="btn btn-primary">Thesen bearbeiten</a>
+            </div>
+          </div><!-- /.modal-content -->
+        </div><!-- /.modal-dialog -->
+      </div><!-- /.modal -->
 
       <script type="text/javascript">
-      $(document).ready(function() {
-            setTimeout(function(){
-                  $('#warning').modal('show');
-            }, 500);
-      });
+        $(document).ready(function() {
+          setTimeout(function(){
+            $('#warning').modal('show');
+          }, 500);
+        });
       </script>
-     <?php
-} ?>
+      <?php
+    } ?>
 
-  <div class="container">
-    <div class="col-md-4 pull-right">
-      <a href="https://jef-sachsen.de/euromat"><img class="img-responsive" src="img/euromat.png" title="Euromat Logo" onclick="changeText()"/></a>
+    <div class="container mt-50">
+      <div class="col-md-4 pull-right">
+        <a href="https://jef-sachsen.de/euromat">
+          <img id="logo" class="img-responsive" src="img/euromat.png" title="Euromat Logo"/>
+        </a>
       </div>
 
-      <div class="bottom-buffer top-buffer">
+      <div class="col-md-8">
 
-    <h1>Ergebnisse</h1>
-    <p>Klicke auf die Titel, um die zugehörige These anzuzeigen.</p>
-      <table class="table table-bordered">
-            <tr><th style="width: 320px;">Deine Wahl</th><th>Doppelt gewichten</th>
+        <h1>Ergebnisse</h1>
+        <p>Klicke auf die Titel, um die zugehörige These anzuzeigen.</p>
+        <table class="table table-bordered">
+          <tr><th style="width: 320px;">Deine Wahl</th><th>Doppelt gewichten</th>
             <?php
 
 
 
             for ($i = 0; $i < sizeof($ans); $i = $i + 1) {
-                ($emph[$i] == 2) ? $active = "btn-info active" : $active = "btn-default";
-                ($emph[$i] == 2) ? $multbutton = "These wird doppelt gewichtet" : $multbutton = "These doppelt gewichten";
-                $btnclass = code_to_btnclass(char_to_value($ans[$i]));
-                $labelclass = code_to_labelclass($ans[$i]);
-                echo "<tr>";
-                echo "<td><a id='thesis$i' class='btn $btnclass btn-block' onclick='toggleNext(this)'>".$theses[$i]['s']."</a></td>
-                  <td><button id='thesis$i-multiply' class='btn btn-block weight $active' data-toggle='button'>$multbutton</button></td>";
-                echo "</tr>\n";
-                echo "<tr class='multheseslong'><td class='mtl' colspan='2'><!--<span class='label $labelclass'>These ".($i+1).": ".$theses[$i]['s']."</span><br>--> ".$theses[$i]['l']."</td></tr>";
+              ($emph[$i] == 2) ? $active = "btn-info active" : $active = "btn-default";
+              ($emph[$i] == 2) ? $multbutton = "These wird doppelt gewichtet" : $multbutton = "These doppelt gewichten";
+              $btnclass = code_to_btnclass(char_to_value($ans[$i]));
+              $labelclass = code_to_labelclass($ans[$i]);
+              echo "<tr>";
+              echo "<td><a id='thesis$i' class='btn $btnclass btn-block' onclick='toggleNext(this)'>".$theses[$i]['s']."</a></td>
+              <td><button id='thesis$i-multiply' class='btn btn-block weight $active' data-toggle='button'>$multbutton</button></td>";
+              echo "</tr>\n";
+              echo "<tr class='multheseslong'><td class='mtl' colspan='2'><!--<span class='label $labelclass'>These ".($i+1).": ".$theses[$i]['s']."</span><br>--> ".$theses[$i]['l']."</td></tr>";
             }
 
             ?>
-      </table>
-      <button id="commit" class="btn btn-primary">Neu Auswerten</button>
+          </table>
+          <button id="commit" class="btn btn-primary">Neu Auswerten</button>
 
-    <div class="text-right">
-    <hr />
-      <small>Du kannst die Befragung
-      <a href="index.php" title="Von vorn beginnen">neu starten</a>
-      oder deine
-      <a href="mahlowat.php" onclick="callPage(event, 'mahlowat.php', array2str(getResultArray()), <?php echo "'$count'"; ?>)" title="Antworten ändern">Antworten ändern</a>.<br />
-      Außerdem haben wir auch eine <a href="faq.php?from=multiplier.php" onclick="callPage(event, 'faq.php?from=multiplier.php', array2str(getResultArray()), <?php echo "'$count'"; ?>)" title="FAQ">FAQ-Seite</a>.
-      </small>
-    </div>
-    </div>
-  </div>
+          <div class="text-right">
+            <hr />
+            <small>Du kannst die Befragung
+              <a href="index.php" title="Von vorn beginnen">neu starten</a>
+              oder deine
+              <a href="mahlowat.php" onclick="callPage(event, 'mahlowat.php', array2str(getResultArray()), <?php echo "'$count'"; ?>)" title="Antworten ändern">Antworten ändern</a>.<br />
+              Außerdem haben wir auch eine <a href="faq.php?from=multiplier.php" onclick="callPage(event, 'faq.php?from=multiplier.php', array2str(getResultArray()), <?php echo "'$count'"; ?>)" title="FAQ">FAQ-Seite</a>.
+            </small>
+          </div>
+        </div>
+      </div>
 
-  <script type="text/javascript">
-	$('#commit').click(function(){
-		resultArray = getResultArray();
-		gotoResultPage(resultArray);
-	});
-	$('.multheseslong').hide();
-	$('.tt').tooltip();
+      <script type="text/javascript">
+        $('#commit').click(function(){
+          resultArray = getResultArray();
+          gotoResultPage(resultArray);
+        });
+        $('.multheseslong').hide();
+        $('.tt').tooltip();
 
-	$('.weight').click(function(){
-		$(this).toggleClass('btn-default');
-		$(this).toggleClass('btn-info');
-		if($(this).text() == 'These doppelt gewichten'){
-			$(this).text('These wird doppelt gewichtet');
-		} else {
-			$(this).text('These doppelt gewichten');
-		}
-	});
+        $('.weight').click(function(){
+          $(this).toggleClass('btn-default');
+          $(this).toggleClass('btn-info');
+          if($(this).text() == 'These doppelt gewichten'){
+            $(this).text('These wird doppelt gewichtet');
+          } else {
+            $(this).text('These doppelt gewichten');
+          }
+        });
 
-	function getResultArray(){
-		multipliers = $('.weight');
-		resultArray = resultStringToArray("<?php echo $answerstring;?>", multipliers.length);
-		for(i = 0; i < multipliers.length; i++){
-			if(multipliers.eq(i).hasClass('btn-info')){
-				resultArray[i] = result2letter(resultArray[i], true);
-			} else {
-				resultArray[i] = result2letter(resultArray[i], false);
-			}
-		}
-		return resultArray;
-	}
+        function getResultArray(){
+          multipliers = $('.weight');
+          resultArray = resultStringToArray("<?php echo $answerstring;?>", multipliers.length);
+          for(i = 0; i < multipliers.length; i++){
+            if(multipliers.eq(i).hasClass('btn-info')){
+              resultArray[i] = result2letter(resultArray[i], true);
+            } else {
+              resultArray[i] = result2letter(resultArray[i], false);
+            }
+          }
+          return resultArray;
+        }
 
-	function toggleNext(caller){
-		$(caller).parent().parent().next().toggle();
-	}
+        function toggleNext(caller){
+          $(caller).parent().parent().next().toggle();
+        }
 
-	function gotoResultPage(resultArray){
-		count = '<?php echo $count; ?>';
-		if(count == 'true') {
-			callResult(resultArray, true);
-		} else {
-			callResult(resultArray, false);
-		}
-	}
+        function gotoResultPage(resultArray){
+          count = '<?php echo $count; ?>';
+          if(count == 'true') {
+            callResult(resultArray, true);
+          } else {
+            callResult(resultArray, false);
+          }
+        }
 
-	function callResult(resultArray, count){
-		ans = array2str(resultArray);
-		if(count){
-			url = "count.php?ans=" + ans;
-			jQuery.get(url,function( data ) {
-				callPage(null, 'result.php', ans, 'true');
-			});
-		} else {
-			jQuery.get("count.php?false",function( data ) {
-				callPage(null, 'result.php', ans, 'false');
-			});
-		}
-	}
-  </script>
-  </body>
-</html>
+        function callResult(resultArray, count){
+          ans = array2str(resultArray);
+          if(count){
+            url = "count.php?ans=" + ans;
+            jQuery.get(url,function( data ) {
+              callPage(null, 'result.php', ans, 'true');
+            });
+          } else {
+            jQuery.get("count.php?false",function( data ) {
+              callPage(null, 'result.php', ans, 'false');
+            });
+          }
+        }
+      </script>
+    </body>
+    </html>
