@@ -1,7 +1,7 @@
 const request=require('request')
 const csv=require('csvtojson')
 var fs = require('fs');
-var parsedJSON = require('./sampleMahlowat.json');
+//var parsedJSON = require('./sampleMahlowat.json');
 
 var answers = {};
 for ( var i = 0 ; i < 36 ; i ++ ) {
@@ -30,8 +30,9 @@ function getParty(parteiname) {
     if ( parteiname == 'SPD' ) return "spd";
     if ( parteiname == 'Partei Mensch Umwelt Tierschutz' ) return "mut";
     if ( parteiname == 'CDU' ) return "cdu";
+    if ( parteiname == 'Die LINKE' ) return "linke";
 
-    console.log("error");
+    console.log("error: " + parteiname);
 }
 
 var header = []
@@ -47,7 +48,7 @@ csv({noheader: true})
         header = csvRow;
     else {
         // ingore the one from mucbkksfo@gmail.com (afd)
-        var parteien = [0, 1, 2, 3, 5, 6, 7, 8, 9, 10, 12];
+        var parteien = [0, 1, 2, 3, 5, 6, 7, 8, 9, 10, 12, 13];
 
         // -1 because fo header shit
         if ( parteien.indexOf(index - 1) > -1 ) {

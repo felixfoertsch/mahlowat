@@ -27,6 +27,10 @@ var slug = function(str) {
 
 
 Object.keys(questions).forEach(function(key) {
+
+    // if ( key == 15 )
+    //  console.log(questions[key]);
+
     var question = questions[key];
     question.answers.forEach(function(answer){
         question[answer.answer]++;
@@ -42,16 +46,34 @@ Object.keys(questions).forEach(function(key) {
     question.answers.sort(function(a, b) {
         return a.name.localeCompare(b.name);
     })
-    
+
+    question.ZustimmungParteienCount = question.ZustimmungParteien.length;
+    question.EnthaltungParteienCount = question.EnthaltungParteien.length;
+    question.AblehnungParteienCount = question.AblehnungParteien.length;
+
     question.ZustimmungParteien = question.ZustimmungParteien.join(", ");
     question.EnthaltungParteien = question.EnthaltungParteien.join(", ");
     question.AblehnungParteien = question.AblehnungParteien.join(", ");
 
+    if (question.ZustimmungParteien == "")
+        question.ZustimmungParteien = "-"
+
+    if (question.EnthaltungParteien == "")
+        question.EnthaltungParteien = "-"
+
+    if (question.AblehnungParteien == "")
+        question.AblehnungParteien = "-"
+
+    var colors = ['#FE851A', '#edeeed', '#FE4136', '#00CC65' ];
+
+    question.url = key + "_" + slug(question.text) + ".html";
+    question.color = colors[Math.floor(Math.random() * colors.length)];
+    question.textcolor = question.color == '#edeeed' ? 'black' : 'white';
+
     var template = Handlebars.compile(templateHtml);
     var result = template(question);
-
     var fs = require('fs');
-        fs.writeFile("questions/" + key + "_" + slug(question.text) + ".html", result, function(err) {
+        fs.writeFile("questions/" + question.url, result, function(err) {
         if(err) {
             return console.log(err);
         }

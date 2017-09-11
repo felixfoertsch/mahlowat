@@ -73,6 +73,12 @@
                 "party": "cdu",
                 "answer": "Zustimmung",
                 "text": "CDU und CSU wollen die dauerhafte Stabilisierung der Eurozone erreichen. Europa hat in der Staatsverschuldungskrise entschlossen und umsichtig gehandelt. Der Euro ist ein sichtbares Zeichen für das Zusammenwachsen in Europa und eine weltweit geschätzte Währung."
+            },
+            {
+                "name": "Die LINKE",
+                "party": "linke",
+                "answer": "Zustimmung",
+                "text": "DIE LINKE will den Euro nicht abschaffen, aber die Währungsunion radikal reformieren, da sie sonst zerbrechen wird. Dieneoliberale Konstruktion des Euros nützt Großkonzernen und der deutschen Exportindustrie, während sie die EU wirtschaftlich undsozial spaltet. Die EU braucht eine andere deutsche Wirtschaftspolitik und ein Ende der Austerität mit einer koordiniertenWirtschafts- und Investitionspolitik und Mindestlöhnen. Euro-Länder, die die neoliberale Politik beenden wollen, dürfen nicht mitdem Ausschluss aus der Eurozone bedroht oder erpresst werden."
             }
         ]
     },
@@ -150,6 +156,12 @@
                 "party": "cdu",
                 "answer": "Enthaltung",
                 "text": "CDU und CSU befürworten die engere Zusammenarbeit der Nachrichtendienste der EU-Mitgliedstaaten. Die Einrichtung eines europäischen Nachrichtendienstes ist auf absehbare Zeit kein realistisches Projekt."
+            },
+            {
+                "name": "Die LINKE",
+                "party": "linke",
+                "answer": "Ablehnung",
+                "text": "DIE LINKE sieht Geheimdienste äußerst kritisch. Sie lassen sich selbst in den etablierten nationalen Strukturen kaum kontrollierenund sind einer Demokratie wesensfremd. In Deutschland haben wir erlebt, wie sie Teil eines Problems werden (Beispiele NSU,NSA-Unterstützung durch BND) beziehungsweise Verbrechen eben nicht verhindern (Anis Amri). Wir wollen Geheimdiensteperspektivisch abschaffen und nicht supranationale, unkontrollierbare neue Geheimstrukturen aufbauen, wie es ein EU-Geheimdienst wäre."
             }
         ]
     },
@@ -227,6 +239,12 @@
                 "party": "cdu",
                 "answer": "Ablehnung",
                 "text": "Die EU braucht eine effektive parlamentarische Kontrolle. Als Kontroll-, Initiativ- und Exekutivorgan der EU ist die EU-Kommission bereits jetzt dem Europäischen Parlament politisch verantwortlich. Das Europäische Parlament kann die Kommission bei einem erfolgreichen Misstrauensvotum sogar zum Rücktritt zwingen."
+            },
+            {
+                "name": "Die LINKE",
+                "party": "linke",
+                "answer": "Zustimmung",
+                "text": "DIE LINKE fordert seit langem, dass die EU-Kommission einer wirksamen demokratischen Kontrolle unterworfen und dass dieKontrollrechte des EU-Parlaments gestärkt werden müssen. Ein wichtiges Instrument ist dabei, dass neben der/demKommissionspräsidentin/en auch die Kommissionsmitglieder von den Abgeordneten des Europäischen Parlaments einzeln gewähltund auch einzeln abgewählt werden können."
             }
         ]
     },
@@ -304,6 +322,12 @@
                 "party": "cdu",
                 "answer": "Enthaltung",
                 "text": "Wir müssen Europa fit machen für die Gegenwart und Zukunft. CDU und CSU wollen ein starkes, selbstbewusstes und dynamisches Europa. Darauf kommt es jetzt an. Ein neuer Anlauf für eine europäische Verfassung ist auf absehbare Zeit nicht realistisch."
+            },
+            {
+                "name": "Die LINKE",
+                "party": "linke",
+                "answer": "Zustimmung",
+                "text": "Die Europäische Union braucht einen Neustart mit einer vollständigen Revision der EU-Verträge, um militaristische,undemokratische und neoliberale Teile zu entfernen. Wir wollen eine Verfassung, die von den Bürgerinnen und Bürgernmitgestaltet wird und über die zeitgleich in allen EU-Mitgliedstaaten in einem Referendum abgestimmt wird. Die EU-Verfassungsoll wirtschaftspolitisch neutral und gegenüber künftigen Gesellschaftsentwicklungen offen sein und soziale Rechte müssenVorrang vor dem Binnenmarktfreiheiten haben. Eigentum hat auch dem Gemeinwohl zu dienen."
             }
         ]
     },
@@ -381,6 +405,12 @@
                 "party": "cdu",
                 "answer": "Enthaltung",
                 "text": "CDU und CSU unterstützen die enge Zusammenarbeit der EU-Mitgliedstaaten in der Außen- und Sicherheitspolitik. Die Vergemeinschaftung der Außen- und Sicherheitspolitik ist momentan noch nicht realisierbar."
+            },
+            {
+                "name": "Die LINKE",
+                "party": "linke",
+                "answer": "Enthaltung",
+                "text": "DIE LINKE bekämpft die Militarisierung der EU: Die Pläne zur Schaffung einer „Verteidigungsunion“ und einer EU-Armee führennicht zu mehr Sicherheit und Frieden, im Gegenteil. DIE LINKE fordert eine dem Frieden verpflichtete, zivile EU-Außen- undSicherheitspolitik, die auf Konfliktprävention und globale Gerechtigkeit setzt. Die verstärkte Zusammenarbeit und die von Merkelund Macron angekündigte Kooperation außerhalb der Gemeinschaftsmethode lehnt die LINKE ab. Sie fordert dagegen die volleKontrolle durch das Europäische Parlament und einen ParlamentsvorbehaltderfürParlamentenationalenalle Militäreinsätze."
             }
         ]
     },
@@ -458,6 +488,12 @@
                 "party": "cdu",
                 "answer": "Enthaltung",
                 "text": "Die EU muss sich selbständig wappnen, wenn sie dauerhaft bestehen will. Wir wollen dafür die vorhandenen militärischen Kapazitäten und Fähigkeiten besser nutzen und bündeln und das Potenzial integrierter europäischer Streitkräfte ausbauen. Wir unterstützen deshalb die Vorschläge für eine Europäische Verteidigungsunion und für einen Europäischen Verteidigungsfonds."
+            },
+            {
+                "name": "Die LINKE",
+                "party": "linke",
+                "answer": "Ablehnung",
+                "text": "DIE LINKE will abrüsten und keine neue Armee aus der Taufe heben und lehnt daher die in den letzten Jahren verstärkteMilitarisierung der EU ab. Eine EU-Armee führt nicht zu mehr Sicherheit und Frieden, im Gegenteil. In  dem Zusammenhang lehntDIE LINKE die geplante Intensivierung der EU-NATO-Kooperation ab. DIE LINKE fordert eine dem Frieden verpflichtete EU-Außen-und Sicherheitspolitik, die strikt auf zivile Instrumente und Konfliktprävention setzt sowie das Ziel globaler Gerechtigkeit verfolgt,um die strukturellen Kriegs- und Konfliktursachen zu beseitigen."
             }
         ]
     },
@@ -535,6 +571,12 @@
                 "party": "cdu",
                 "answer": "Zustimmung",
                 "text": "Europa muss seine Außengrenzen wirksam gegen illegale Migration schützen und die Grenzschutzagentur Frontex stärken.  Der Einsatz von Frontex sollte auch ohne Einverständnis des betreffenden Mitgliedstaats möglich sein, wenn dieser trotz Aufforderung seinen Verpflichtungen nicht nachkommt."
+            },
+            {
+                "name": "Die LINKE",
+                "party": "linke",
+                "answer": "Ablehnung",
+                "text": "Die Militarisierung des EU-Außengrenzschutzes und der Flucht- und Migrationsabwehr wollen wir beenden. DieGrenzschutzagentur Frontex, die derzeit zur Europäischen Grenz- und Küstenwache ausgebaut wird, muss abgeschafft und durch\neine EU-weit koordinierte zivile Seenotrettung ersetzt werden. Krieg, Hunger und wirtschaftliche Not sind maßgeblicheFluchtursachen. Die Mitgliedstaaten der EU tragen dafür historische Mitverantwortung und dürfen Lösungen nicht längerblockieren, sondern müssen sie fördern."
             }
         ]
     },
@@ -612,6 +654,12 @@
                 "party": "cdu",
                 "answer": "Enthaltung",
                 "text": "CDU und CSU wollen die dauerhafte Stabilisierung der Eurozone erreichen. Maßstab muss dabei bleiben: Eine Vergemeinschaftung von Schulden schließen wir weiter aus. Wir sind bereit, mit der neuen französischen Regierung die Eurozone schrittweise weiterzuentwickeln."
+            },
+            {
+                "name": "Die LINKE",
+                "party": "linke",
+                "answer": "Ablehnung",
+                "text": "DIE LINKE will eine enge wirtschaftspolitische Koordinierung in der EU, die im Gegensatz zur aktuellen Politik auf öffentlicheInvestitionen und eine soziale und ökologische Wirtschaftsentwicklung setzt. Die demokratische Kontrolle auch der Eurogruppeund der EZB soll über die Stärkung des EU-Parlaments und die der Mitgliedstaaten erfolgen: Sie müssen in Fragen derWirtschafts- und Währungsunion dem Rat gleichberechtigt entscheiden können. Die aktuellen Vorschläge für ein Eurogruppen-Parlament und einen Euro-FinanzministersowielehnenTarifautonomiedieinEingriffeundParlamentederEntmachtungdiewirab."
             }
         ]
     },
@@ -689,6 +737,12 @@
                 "party": "cdu",
                 "answer": "Enthaltung",
                 "text": "Es kommt darauf an, was damit konkret gemeint ist. CDU und CSU sind bereit, bei der Überwindung der Probleme gerade beim Abbau der hohen Jugendarbeitslosigkeit solidarisch zu helfen, denn wir wollen den Erfolg der gesamten EU. Dieser ist nur möglich, wenn gemeinsam vereinbarte Regeln wie der Stabilitätspakt eingehalten werden."
+            },
+            {
+                "name": "Die LINKE",
+                "party": "linke",
+                "answer": "Enthaltung",
+                "text": "Die EZB macht bereits eine problematische Fiskalpolitk, ohne jedoch demokratisch kontrolliert zu werden. Eine ergänzendekoordinierte Fiskalpolitik wäre in der gemeinsamen Wirtschaftspolitik zu organisieren."
             }
         ]
     },
@@ -766,6 +820,12 @@
                 "party": "cdu",
                 "answer": "Ablehnung",
                 "text": "CDU und CSU streben die Harmonisierung der Bemessungsgrundlage der Körperschaftssteuer an. Dies wäre ein deutliches Signal für unsere Bereitschaft, um Märkte und Investitionen zu kämpfen und den Binnenmarkt zu stärken. Die Festlegung der Höhe von Steuersätzen sollte aber als Wettbewerbselement weiterhin den EU-Mitgliedstaaten vorbehalten bleiben."
+            },
+            {
+                "name": "Die LINKE",
+                "party": "linke",
+                "answer": "Enthaltung",
+                "text": "Ein einheitliches Steuersystem lehnt DIE LINKE unter heutigen Bedingungen ab: Ohne eine grundlegende Vertragsrevision dürfenkeine weiteren Kompetenzen auf die EU-Ebene verlagert werden. Steuerpolitik ist eine Kernkompetenz der Mitgliedstaaten, überderen Ausgestaltung nationale Parlamente entscheiden. Auf EU-Ebene gibt es derzeit keine ausreichenden demokratischenKontrollmöglichkeiten. Wichtig ist jedoch, dass die Steuerpolitik EU-weit koordiniert wird, um Steuerdumping und -wettbewerb derMitgliedstaaten in der EU zu unterbinden. DIE LINKE fordert EU-weit verbindliche Mindeststeuersätze für Unternehmen."
             }
         ]
     },
@@ -843,6 +903,12 @@
                 "party": "cdu",
                 "answer": "Zustimmung",
                 "text": "CDU und CSU sind für ein echtes Initiativrecht des Europäischen Parlaments und des Rates. Das Europäische Parlament verfügt bereits über ein mittelbares Initiativrecht, in dem es die EU-Kommission auffordern kann, Gesetzgebungsvorschläge vorzulegen. Will die EU-Kommission dem nicht Folge leisten, muss sie dies begründen."
+            },
+            {
+                "name": "Die LINKE",
+                "party": "linke",
+                "answer": "Zustimmung",
+                "text": "DIE LINKE setzt sich vehement dafür ein, dass das EU-Parlament das Initiativrecht bekommt, um zu einem wirklichen Parlamentund im vollen Umfang gleichberechtigten Gesetzgebungsorgan werden zu können. Die Stärkung des EU-Parlaments als einzigedirekt demokratisch legitimierte, von den Bürger*innen gewählte EU-Institution gegenüber der EU-Kommission und dem Rat isteine zentrale Forderung der LINKEN. Dies ist ein wichtiger Baustein, um das Demokratiedefizit der EU zu überwinden."
             }
         ]
     },
@@ -920,6 +986,12 @@
                 "party": "cdu",
                 "answer": "Zustimmung",
                 "text": "CDU und CSU sind für ein echtes Initiativrecht des Europäischen Parlaments und des Rates. Das Europäische Parlament verfügt bereits über ein mittelbares Initiativrecht, in dem es die EU-Kommission auffordern kann, Gesetzgebungsvorschläge vorzulegen. Will die EU-Kommission dem nicht Folge leisten, muss sie dies begründen."
+            },
+            {
+                "name": "Die LINKE",
+                "party": "linke",
+                "answer": "Zustimmung",
+                "text": "DIE LINKE setzt sich vehement dafür ein, dass das EU-Parlament das Initiativrecht bekommt, um zu einem wirklichen Parlamentund im vollen Umfang gleichberechtigten Gesetzgebungsorgan werden zu können. Die Stärkung des EU-Parlaments als einzigedirekt demokratisch legitimierte, von den Bürger*innen gewählte EU-Institution gegenüber der EU-Kommission und dem Rat isteine zentrale Forderung der LINKEN. Dies ist ein wichtiger Baustein, um das Demokratiedefizit der EU zu überwinden."
             }
         ]
     },
@@ -997,6 +1069,12 @@
                 "party": "cdu",
                 "answer": "Zustimmung",
                 "text": "CDU und CSU treten für eine Verkleinerung der Kommission ein, wie dies im Lissabon-Vertrag angelegt ist. Das Problem der Zersplitterung der Portfolios der Kommissare hat sich etwas entschärft, seitdem Kommissionspräsident Jean-Claude Juncker die EU-Kommission im Jahr 2014 erfolgreich umstrukturiert hat."
+            },
+            {
+                "name": "Die LINKE",
+                "party": "linke",
+                "answer": "Enthaltung",
+                "text": "Entscheidender als die Zahl der EU-Kommissare ist die Frage, wie darüber demokratisch legitimiert entscheiden wird: DieMitglieder der EU-Kommission sollten nicht mehr von den nationalen Regierungen vorgeschlagen, sondern allein vomEuropäischen Parlament gewählt werden."
             }
         ]
     },
@@ -1074,6 +1152,12 @@
                 "party": "cdu",
                 "answer": "Enthaltung",
                 "text": "Bereits jetzt müssen sich die designierten EU-Kommissare im Europäischen Parlament Einzelanhörungen stellen. Das Parlament verfügt damit faktisch über ein Veto-Recht bei der Ernennung von Kommissaren."
+            },
+            {
+                "name": "Die LINKE",
+                "party": "linke",
+                "answer": "Zustimmung",
+                "text": "Neben der/dem Kommissionspräsidentin/en sollen auch die Kommissionsmitglieder von den Abgeordneten des EuropäischenParlaments einzeln gewählt und auch einzeln abgewählt werden können."
             }
         ]
     },
@@ -1090,72 +1174,78 @@
                 "name": "NPD",
                 "party": "npd",
                 "answer": "Zustimmung",
-                "text": "Zustimmung"
+                "text": "Keine Erklärung angegeben"
             },
             {
                 "name": "Ökologisch-Demokratische Partei, ÖDP",
                 "party": "ödp",
                 "answer": "Zustimmung",
-                "text": "Zustimmung"
+                "text": "Keine Erklärung angegeben"
             },
             {
                 "name": "FDP Landesverband Sachsen",
                 "party": "fdp",
                 "answer": "Zustimmung",
-                "text": "Zustimmung"
+                "text": "Wir wollen den Europäischen Rat abschaffen und die Ratssitzungen i.d.R.  öffentlich abhalten lassen."
             },
             {
                 "name": "BÜNDNIS 90/DIE GRÜNEN",
                 "party": "grün",
                 "answer": "Zustimmung",
-                "text": "Zustimmung"
+                "text": "Ein Schlüssel zur Stärkung der europäischen Demokratie ist mehr Transparenz. Derzeit tagt der Rat nur dann öffentlich, wenn er gesetzgeberisch berät oder abstimmt. Das ist zu wenig. Der Rat sollte grundsätzlich öffentlich tagen und seine vorbereitenden Gremien transparent werden. Zudem sollten Protokolle sowie non-Paper in der Regel öffentlich sein. So werden Positionen, Debatte und Kompromisssuche von Beginn an nachvollziehbarer."
             },
             {
                 "name": "AfD",
                 "party": "afd",
                 "answer": "Zustimmung",
-                "text": "Zustimmung"
+                "text": "Das wäre deshalb erkenntnisreich, weil man erleben könnte, mit welchen Koalitionen Klein- und Kleinstländer mit ihren Mehrheiten die EU-Politik bestimmen."
             },
             {
                 "name": "Freie Wähler",
                 "party": "fw",
                 "answer": "Ablehnung",
-                "text": "Zustimmung"
+                "text": "Die Zusammenkunft der europäischen Staats- und Regierungschefs muss auch weiterhin Raum für vertrauliche Beratungen lassen. Grundsätzlich halten wir FREIE WÄHLER es aber für erforderlich, dass die Arbeit dieses Gremiums transparenter wird."
             },
             {
                 "name": "Die PARTEI",
                 "party": "partei",
                 "answer": "Ablehnung",
-                "text": "Zustimmung"
+                "text": "Nein, Teile der Bevölkerung könnte das verunsichern."
             },
             {
                 "name": "Piratenpartei Deutschland",
                 "party": "piraten",
                 "answer": "Zustimmung",
-                "text": "Zustimmung"
+                "text": "Transparenz ist in jeglicher Form der politischen Entscheidungsfindung ein Mittel zur besseren Akzeptanz von Entscheidungen. Dies gilt auch für den Europäischen Rat."
             },
             {
                 "name": "SPD",
                 "party": "spd",
                 "answer": "Enthaltung",
-                "text": "Zustimmung"
+                "text": "Grundsätzlich treten wir für mehr Transparenz und mehr Öffentlichkeit auch bei Sitzungen des Europäischen Rates und der EU-Ministerräte ein. Um politische Verhandlungen zwischen den Regierungen zu ermöglichen, können Transparenz und Öffentlichkeit allerdings nicht für alle Bereiche und Themen gelten."
             },
             {
                 "name": "Partei Mensch Umwelt Tierschutz",
                 "party": "mut",
                 "answer": "Zustimmung",
-                "text": "Zustimmung"
+                "text": "Die PARTEI MENSCH UMWELT TIERSCHUTZ steht für Demokratie statt Lobbykratie. Dazu gehört ganz klar auch mehr Transparenz."
             },
             {
                 "name": "CDU",
                 "party": "cdu",
                 "answer": "Ablehnung",
-                "text": "Enthaltung"
+                "text": "Der Schutz der Vertraulichkeit auf höchster politischer Ebene bei der Diskussion wichtiger europapolitischer Grundsatzfragen, der EU-Außenbeziehungen (z.B. EU-Sanktionen) sowie internationaler Handelspolitik sollte gewahrt bleiben. Anders als der EU-Ministerrat ist der Europäische Rat nicht gesetzgeberisch tätig."
+            },
+            {
+                "name": "Die LINKE",
+                "party": "linke",
+                "answer": "Zustimmung",
+                "text": "Das grundlegende Problem, dass die Regierungen der Mitgliedstaaten als Gesetzgeber aktiv sind und die Gewaltenteilung verletztwird, wird durch die fehlende Öffentlichkeit, mangelnde Transparenz und so verhinderte Zurechenbarkeit noch verschärft."
             }
         ]
     },
     "15": {
-        "text": "",
+        "text": "Die EU braucht ein verbindliches und einheitliches Lobbyregister.",
         "Zustimmung": 0,
         "Enthaltung": 0,
         "Ablehnung": 0,
@@ -1166,68 +1256,74 @@
             {
                 "name": "NPD",
                 "party": "npd",
-                "answer": "",
+                "answer": "Zustimmung",
                 "text": "Keine Erklärung angegeben"
             },
             {
                 "name": "Ökologisch-Demokratische Partei, ÖDP",
                 "party": "ödp",
-                "answer": "",
+                "answer": "Zustimmung",
                 "text": "Keine Erklärung angegeben"
             },
             {
                 "name": "FDP Landesverband Sachsen",
                 "party": "fdp",
-                "answer": "Wir wollen den Europäischen Rat abschaffen und die Ratssitzungen i.d.R.  öffentlich abhalten lassen.",
+                "answer": "Zustimmung",
                 "text": "Keine Erklärung angegeben"
             },
             {
                 "name": "BÜNDNIS 90/DIE GRÜNEN",
                 "party": "grün",
-                "answer": "Ein Schlüssel zur Stärkung der europäischen Demokratie ist mehr Transparenz. Derzeit tagt der Rat nur dann öffentlich, wenn er gesetzgeberisch berät oder abstimmt. Das ist zu wenig. Der Rat sollte grundsätzlich öffentlich tagen und seine vorbereitenden Gremien transparent werden. Zudem sollten Protokolle sowie non-Paper in der Regel öffentlich sein. So werden Positionen, Debatte und Kompromisssuche von Beginn an nachvollziehbarer.",
+                "answer": "Zustimmung",
                 "text": "Dass Lobbiyst*innen ihre Interessen durchsetzen wollen, ist an sich noch nicht verwerflich.Verwerflich agiert die Minderheit jener Politiker*innen, die diese Partikularinteressen in der Gesamtabwägung über das Gemeinwohl stellen. Deshalb fordern wir mehr Transparenz durch ein verpflichtendes Lobbyregister, striktere Karenzzeiten und einen „legislativer Fußabdruck“, der sichtbar macht, wer mit welchem Budget in wessen Auftrag und zu welchem Thema Einfluss auf die Politik nimmt."
             },
             {
                 "name": "AfD",
                 "party": "afd",
-                "answer": "Das wäre deshalb erkenntnisreich, weil man erleben könnte, mit welchen Koalitionen Klein- und Kleinstländer mit ihren Mehrheiten die EU-Politik bestimmen.",
+                "answer": "Zustimmung",
                 "text": "Das ist immer gut, weil der Lobbyismus in Europa eine illegitime Macht darstellt. Ob alleine eine \"Registrierung\" der Lobbyisten daran etwas ändert, erscheint zweifelhaft. Der Ruf nach einem Register hat in diesem Zusammenhang sicher einen Alibi-Charakter."
             },
             {
                 "name": "Freie Wähler",
                 "party": "fw",
-                "answer": "Die Zusammenkunft der europäischen Staats- und Regierungschefs muss auch weiterhin Raum für vertrauliche Beratungen lassen. Grundsätzlich halten wir FREIE WÄHLER es aber für erforderlich, dass die Arbeit dieses Gremiums transparenter wird.",
+                "answer": "Zustimmung",
                 "text": "Wir FREIE WÄHLER stehen für größtmögliche Transparenz in der Europapolitik. Die eingeführten Lobbyregister im Europäischen Parlament und in der Europäischen Kommission begrüßen wir daher sehr. Allerdings kritisieren \nwir, dass sich der Ministerrat immer noch kein vergleichbar strenges Lobbyregister auferlegt hat. Das wollen wir ändern."
             },
             {
                 "name": "Die PARTEI",
                 "party": "partei",
-                "answer": "Nein, Teile der Bevölkerung könnte das verunsichern.",
+                "answer": "Zustimmung",
                 "text": "Ja, aber unter Ausschluss der Öffentlichkeit."
             },
             {
                 "name": "Piratenpartei Deutschland",
                 "party": "piraten",
-                "answer": "Transparenz ist in jeglicher Form der politischen Entscheidungsfindung ein Mittel zur besseren Akzeptanz von Entscheidungen. Dies gilt auch für den Europäischen Rat.",
+                "answer": "Zustimmung",
                 "text": "Wir fordern ein verbindliches Lobbyregister für die Institutionen der Europäischen Union (EU), in das sich Interessenvertreter und Interessenvertretungen verpflichtend eintragen müssen, um die Möglichkeit zu bekommen, bei Gesetzesvorhaben durch das Europäische Parlament angehört zu werden. Dieses Register muss regelmäßig von autorisierten, unabhängigen Stellen überprüft werden."
             },
             {
                 "name": "SPD",
                 "party": "spd",
-                "answer": "Grundsätzlich treten wir für mehr Transparenz und mehr Öffentlichkeit auch bei Sitzungen des Europäischen Rates und der EU-Ministerräte ein. Um politische Verhandlungen zwischen den Regierungen zu ermöglichen, können Transparenz und Öffentlichkeit allerdings nicht für alle Bereiche und Themen gelten.",
+                "answer": "Zustimmung",
                 "text": "Schon heute arbeiten das Europäische Parlament und die Kommission in einer Offenheit, die vielen EU-Mitgliedstaaten voraus ist. Dennoch gibt es Verbesserungsbedarf. Wir wollen das EU-Lobbyregister weiter stärken und sicherstellen, dass nur registrierte Interessenvertreter Zugang zu Entscheidungsträgern erhalten. Lobbyorganisationen sollen Einnahmen von über 3000 € mitsamt der Quelle offenlegen. Auch für Anwaltskanzleien muss es eine klare Trennung zwischen Rechtsberatung und Lobbyismus geben."
             },
             {
                 "name": "Partei Mensch Umwelt Tierschutz",
                 "party": "mut",
-                "answer": "Die PARTEI MENSCH UMWELT TIERSCHUTZ steht für Demokratie statt Lobbykratie. Dazu gehört ganz klar auch mehr Transparenz.",
+                "answer": "Zustimmung",
                 "text": "Politische Interessenvertretung ist in der EU kaum reguliert und erfolgt weitgehend im Verborgenen. Viele Menschen sind deshalb zurecht besorgt, dass sich die Politik mehr von finanzstarken Wirtschaftsvertretern beeinflussen lässt als von den Interessen der BürgerInnen. Die PARTEI MENSCH UMWELT TIERSCHUTZ unterstützt daher aktiv die Einführung eines verbindlichen und einheitlichen Lobbyregisters."
             },
             {
                 "name": "CDU",
                 "party": "cdu",
-                "answer": "Der Schutz der Vertraulichkeit auf höchster politischer Ebene bei der Diskussion wichtiger europapolitischer Grundsatzfragen, der EU-Außenbeziehungen (z.B. EU-Sanktionen) sowie internationaler Handelspolitik sollte gewahrt bleiben. Anders als der EU-Ministerrat ist der Europäische Rat nicht gesetzgeberisch tätig.",
+                "answer": "Enthaltung",
                 "text": "Das Register kann die Transparenz im EU-Gesetzgebungsprozess stärken. Es darf jedoch keine überbordende Bürokratie geschaffen und die Unabhängigkeit des Mandats des Abgeordneten darf nicht gefährdet werden. Zudem bedarf das Register einer klaren Rechtsgrundlage."
+            },
+            {
+                "name": "Die LINKE",
+                "party": "linke",
+                "answer": "Zustimmung",
+                "text": "DIE LINKE fordert die Einrichtung eines verbindlichen und verpflichtenden Lobbyregisters für alle Lobbyist*innen und für alle EU-Institutionen. Die Identität von Lobbyist*innen und ihre Einflussnahme („legislativer Fußabdruck“) auf die Gesetzgebung müssenoffen gelegt werden. Zudem fordert DIE LINKE die Offenlegung von Nebeneinkünften sowie längere Sperrzeiten fürPolitiker*innen, bevor diese nach ihrem Ausscheiden aus öffentlichen Ämtern in die Privatwirtschaft wechseln können."
             }
         ]
     },
@@ -1305,6 +1401,12 @@
                 "party": "cdu",
                 "answer": "Ablehnung",
                 "text": "Die Festsetzung der Höhe von Löhnen ist Aufgabe der Tarifpartner, nicht Aufgabe des Staates oder der EU. Wichtige Bereiche der Arbeits- und Sozialpolitik liegen in der Hand der EU-Mitgliedstaaten, so auch die Regelung des Arbeitsentgelts. Die EU-Mitgliedstaaten können so arbeits- und sozialpolitisch eigene, maßgeschneiderte Akzente setzen und voneinander lernen. Damit wird dem Subsidiaritätsgedanken Rechnung getragen."
+            },
+            {
+                "name": "Die LINKE",
+                "party": "linke",
+                "answer": "Zustimmung",
+                "text": "DIE LINKE fordert im Einklang mit der Europäischen Sozialcharta des Europarates einen Europäischen Mindestlohn in Höhe vonmindestens 60% des Durchschnittslohns des jeweiligen Landes. In  Deutschland setzten wir uns für die Anhebung desMindestlohns auf 12 Euro ein."
             }
         ]
     },
@@ -1382,6 +1484,12 @@
                 "party": "cdu",
                 "answer": "Enthaltung",
                 "text": "Weder die EU noch die Beitrittskandidaten dürfen überfordert werden. Die EU muss eine Zone der politischen Stabilität und des Friedens in Europa bleiben. Deshalb gilt für uns: Konsolidierung vor Erweiterung. Die Aufnahme weiterer Länder in die Europäische Union schließen wir nicht grundsätzlich aus. Eine Aufnahme in die EU kann aber erst erfolgen, wenn die Beitrittskandidaten sämtliche Beitrittskriterien voll und ganz erfüllen und gleichzeitig die Aufnahmefähigkeit der EU gegeben ist."
+            },
+            {
+                "name": "Die LINKE",
+                "party": "linke",
+                "answer": "Zustimmung",
+                "text": "DIE LINKE ist für Beitrittswünsche offen, wenn sich die Bevölkerung klar dafür ausspricht und die demokratischen undmenschenrechtlichen Standards der „Kopenhagener Kriterien“ erfüllt werden. Die EU-Beitrittspolitik muss aber grundlegendreformiert werden: In künftigen Erweiterungen müssen soziale Standards in den Beitrittsländern wie auch der EU insgesamtgesichert werden. So würde die wirtschaftlichen und sozialen Gefälle in den Beitrittsländern und der EU nicht weiter zunehmenund es könnten wachsende Vorbehalte gegen weitere Beitritte entkräftet werden."
             }
         ]
     },
@@ -1459,6 +1567,12 @@
                 "party": "cdu",
                 "answer": "Enthaltung",
                 "text": "Wir sehen mit großer Sorge die jüngsten Entwicklungen in der Türkei. Die Beitrittsverhandlungen liegen derzeit faktisch auf Eis. Eine Vollmitgliedschaft der Türkei lehnen wir ab, weil sie die Voraussetzungen für einen Beitritt nicht erfüllt. Wir möchten aber die Beziehungen zwischen der EU und der Türkei weiter vertiefen. Wir wollen eine möglichst starke Kooperation sowie eine enge Zusammenarbeit in außen– und sicherheitspolitischen Fragen."
+            },
+            {
+                "name": "Die LINKE",
+                "party": "linke",
+                "answer": "Enthaltung",
+                "text": "DIE LINKE verurteilt den von der AKP vorangetriebenen autoritären Umbau der Türkei und fordert das sofortige Einfrieren der EU-Beitrittsverhandlungen. Eine radikale Wende in der Türkeipolitik beinhaltet den Stopp von Rüstungsexporten in die Türkei, denAuszahlungsstopp von Vorbeitrittshilfen, die Absage an jede Ausweitung der Zollunion und ein Ende des EU-Türkei-Deals zurMigrationsbekämpfung. DIE LINKE steht an der Seite der progressiven Kräfte in der Türkei. Über einen EU-Beitritt darf erst nachder Rücknahme der autoritären „Reformen“undweiterverhandelt MenschenrechtsstandardsderWiederherstellungderwerden."
             }
         ]
     },
@@ -1536,6 +1650,12 @@
                 "party": "cdu",
                 "answer": "Enthaltung",
                 "text": "Die EU gewährt Religionsfreiheit. Sie ist eine Wertegemeinschaft, die aus dem kulturellen, religiösen und humanistischem Erbe Europas schöpft. Dieses Erbe ist in hohem Maße vom Christentum geprägt."
+            },
+            {
+                "name": "Die LINKE",
+                "party": "linke",
+                "answer": "Ablehnung",
+                "text": "DIE LINKE ist für eine säkulare Wertegemeinschaft der bürgerlichen, sozialen und kulturellen Menschenrechte und des Friedens."
             }
         ]
     },
@@ -1613,6 +1733,12 @@
                 "party": "cdu",
                 "answer": "Ablehnung",
                 "text": "Die EU ist die größte Errungenschaft des modernen Europas. Deutsche Interessen und europäische Interessen sind kein Gegensatz. Sie bedingen sich gegenseitig. Denn viele Herausforderungen können nur gemeinsam in Europa bewältigt werden. Zudem ist Deutschland allein nicht stark genug, um seinen Interessen in der Welt ausreichend Gehör zu verschaffen. Es braucht ein funktionierendes Europa, um Frieden, Wohlstand, Freiheit und sozialen Ausgleich zu erhalten, die die EU seit Jahrzehnten sichert."
+            },
+            {
+                "name": "Die LINKE",
+                "party": "linke",
+                "answer": "Ablehnung",
+                "text": "Wir wollen DIE LINKE europäische Idee von sozialer Gerechtigkeit, Humanismus und internationaler Solidarität vor ihrer Zerstörung durch die neoliberale Politik der EU bewahren. Dafür werben wir in der EU."
             }
         ]
     },
@@ -1690,6 +1816,12 @@
                 "party": "cdu",
                 "answer": "Ablehnung",
                 "text": "CDU und CSU wollen die dauerhafte Stabilisierung der Eurozone erreichen. Europa hat in der Staatsverschuldungskrise entschlossen und umsichtig gehandelt. Der Euro ist ein sichtbares Zeichen für das Zusammenwachsen in Europa und eine weltweit geschätzte Währung."
+            },
+            {
+                "name": "Die LINKE",
+                "party": "linke",
+                "answer": "Ablehnung",
+                "text": "DIE LINKE strebt weder den deutschen Austritt aus der Eurozone noch ein solches Referendum an. Allerdings setzen wir uns fürVolksentscheide und damit indirekt auch für die Möglichkeit eines solchen Referendums ein."
             }
         ]
     },
@@ -1767,6 +1899,12 @@
                 "party": "cdu",
                 "answer": "Ablehnung",
                 "text": "CDU und CSU wollen ein starkes, selbstbewusstes und dynamisches Europa. Wir müssen Europa fit machen für die Gegenwart und Zukunft. Darauf kommt es jetzt an. Die EU ist eine supranationale Organisation.  CDU und CSU wollen ein starkes Europa mit starken Kommunen, Regionen und Nationalstaaten. Einen europäischen Bundesstaat lehnen wir ab."
+            },
+            {
+                "name": "Die LINKE",
+                "party": "linke",
+                "answer": "Ablehnung",
+                "text": "Siehe Antworten zu: \"europäische Verfassung\", \"gemeinsame Außen- und Sicherheitspolitik\" und \"Armee\"."
             }
         ]
     },
@@ -1844,6 +1982,12 @@
                 "party": "cdu",
                 "answer": "Ablehnung",
                 "text": "Zu den Konstanten unserer erfolgreichen Politik gehört das Bekenntnis zur Sozialen Marktwirtschaft. Private Banken tragen als Kreditgeber ganz wesentlich zur Funktionsfähigkeit des volkswirtschaftlichen Kreislaufs bei."
+            },
+            {
+                "name": "Die LINKE",
+                "party": "linke",
+                "answer": "Enthaltung",
+                "text": "DIE LINKE will Großbanken entmachten, Banken unter demokratische Kontrolle bringen und in öffentliches Eigentum überführen,um den Finanzsektor auf gesellschaftlich sinnvolle Kernaufgaben zu konzentrieren. Wir wollen nicht alle Banken verstaatlichen,aber auch die Enteignung als ein Instrument der Einhegung und demokratischen Kontrolle nutzen. Großbanken sollen verkleinertwerden und Geschäftsbanken auf das Gemeinwohl verpflichtet werden."
             }
         ]
     },
@@ -1921,6 +2065,12 @@
                 "party": "cdu",
                 "answer": "Zustimmung",
                 "text": "Die europäischen Regelungen zur Bankenrettung müssen eingehalten werden. Im Falle einer Abwicklung sind vorrangig die Eigentümer und Gläubiger der Bank heranzuziehen. Die EU-Mitgliedstaaten sollten sich im Falle von Liquiditätsproblemen einer Bank mit der Verwendung von Steuergeldern möglichst zurückhalten."
+            },
+            {
+                "name": "Die LINKE",
+                "party": "linke",
+                "answer": "Zustimmung",
+                "text": "DIE LINKE lehnt Bankenrettungen auf Kosten der Gesellschaft ab. Die Eigentümer und Gläubiger müssen für die Banken haften,wobei die Einlagen von Kleinsparerinnen und Kleinsparern abgesichert werden müssen. Auch Sparkassen undGenossenschaftsbanken dürfen nicht für private Großbanken haften. Die angeblich zur Rettung Griechenlands ausgegebenenKredite stellten ebenfalls eine Rettung vor allem deutscher und französischer Banken dar. Der zwingend notwendigeSchuldenschnitt in Griechenland wird dann nicht mehr die Banken treffen, sondern die Steuerzahler."
             }
         ]
     },
@@ -1998,6 +2148,12 @@
                 "party": "cdu",
                 "answer": "Ablehnung",
                 "text": "Nach den EU-Verträgen haftet kein Mitgliedstaat für die Verbindlichkeiten eines anderen Mitgliedstaats und tritt auch nicht für dessen Verbindlichkeiten ein. Die Anpassungsprogramme zielen deshalb darauf ab, Griechenland langfristig in die Lage zu versetzen, seine Schulden selbst zu begleichen. Das schließt die Möglichkeit von Schuldenerleichterungen, wie Zins- und Tilgungsstundungen, mit ein. Diese wurden Griechenland in der Vergangenheit bereits in erheblichem Umfang gewährt."
+            },
+            {
+                "name": "Die LINKE",
+                "party": "linke",
+                "answer": "Zustimmung",
+                "text": "Die “Griechenlandrettung“ hätte mit einem Schuldenschnitt beginnen müssen. Die seitdem ausbezahlten „Hilfskredite“ flossen zu90 Prozent in den Schuldendienst, vor allem an deutsche und französische Banken. Jetzt müssen Kreditausfälle nicht mehr vonden Banken, sondern der Öffentlichkeit getragen werden: Die Risiken wurden von privaten Gläubigern auf die öffentliche Handübertragen. Das hat DIE LINKE von Beginn an kritisiert. Anstatt weiter Schulden aufzuhäufen, muss mit einem Schuldenschnittund einem Stopp der Kürzungsdiktate eine Entwicklungschance eröffnet werden."
             }
         ]
     },
@@ -2075,6 +2231,12 @@
                 "party": "cdu",
                 "answer": "Zustimmung",
                 "text": "CDU und CSU setzen sich für einen künftigen Ausbau des erfolgreichen europäischen Bildungs- und Austauschprogramms „Erasmus+“ ein. Durch internationalen Austausch wird jungen Menschen Europa als Chance begreifbar und durch das Erasmus+-Programm erfahrbar gemacht. Begegnungen junger Europäerinnen und Europäer öffnen Perspektiven und beflügeln die Bildung einer europäischen Zivilgesellschaft. Der Schwerpunkt sollte verstärkt auch auf den Bereich der Mobilität von Auszubildenden gelegt werden."
+            },
+            {
+                "name": "Die LINKE",
+                "party": "linke",
+                "answer": "Zustimmung",
+                "text": "Diese Programme ermöglichen es Jugendlichen, auf ihrem Bildungsweg im Beruf oder Studium andere Länder und Kulturenkennenzulernen. DIE LINKE ist vor allem für die verstärkte Förderung des Berufsausbildungsbereichs, damit auch Jugendliche, dienicht studieren, diese Möglichkeit der europaweiten Berufsausbildung kennen lernen und in Anspruch nehmen können."
             }
         ]
     },
@@ -2152,6 +2314,12 @@
                 "party": "cdu",
                 "answer": "Ablehnung",
                 "text": "Die Kompetenz für die Arbeitslosenversicherung liegt in der Hand der Mitgliedstaaten und sollte dort auch bleiben. Die Einführung einer europäischen Arbeitslosenversicherung könnte EU-Mitgliedstaaten dazu verleiten, auf Kosten von Arbeitnehmerinnen und Arbeitnehmern anderer EU-Mitgliedstaaten, notwendige Haushaltssanierungen und Strukturreformen aufzuschieben oder gar zu unterlassen."
+            },
+            {
+                "name": "Die LINKE",
+                "party": "linke",
+                "answer": "Enthaltung",
+                "text": "DIE LINKE kämpft für eine soziale EU und Maßnahmen zur Bekämpfung des Steuer-, Lohn- und Sozialdumpings. Wir wollen einestärkere Koordinierung und die schrittweise Anhebung von Sozialleistungen in allen EU-Ländern. Die gegenwärtigen Pläne für einegemeinsame Arbeitslosenversicherung, wie sie im Rahmen der Debatten um die Vertiefung der Wirtschafts- und Währungsunion\ndiskutiert werden, lehnen wir entschieden ab: Der Zugriff auf diesen geplanten Fonds ist an neoliberale Strukturreformengeknüpft, die Arbeitnehmer*innenrechte und den Sozialstaat weiter aushöhlen."
             }
         ]
     },
@@ -2229,6 +2397,12 @@
                 "party": "cdu",
                 "answer": "Zustimmung",
                 "text": "CDU und CSU bekämpfen jede Art von Protektionismus. Deutschland ist eine Exportnation, die von offenen Märkten und internationalen Lieferbeziehungen besonders profitiert."
+            },
+            {
+                "name": "Die LINKE",
+                "party": "linke",
+                "answer": "Enthaltung",
+                "text": "DIE LINKE ist für fairen internationalen Handel und eine neue EU-Außenhandelspolitik: Die Handels- und Investitionsabkommender EU verfolgen heute vorrangig das Ziel der Marktöffnung, der Liberalisierung und den Abbau regulatorischer Kompetenzenzugunsten von Wirtschafts- und Konzerninteressen. Damit tragen sie massiv zum Abbau von Umwelt-, Sozial- undVerbraucherschutzstandards und zur Zementierung der unfairen Weltwirtschaftsordnung bei. Wir wollen TTIP, CETA, JEFTA undTiSA stoppen und die Abkommen mit afrikanischen und karibischen Staaten neu verhandeln."
             }
         ]
     },
@@ -2306,6 +2480,12 @@
                 "party": "cdu",
                 "answer": "Zustimmung",
                 "text": "Die energiepolitischen Herausforderungen wie den Klimaschutz müssen gemeinsam angegangen werden. Die EU-Mitgliedstaaten bestimmen über ihren nationalen Energiemix, aber Europa kann maßgeblich dazu beitragen, die Energieversorgung sicher, bezahlbar und nachhaltig zu gestalten."
+            },
+            {
+                "name": "Die LINKE",
+                "party": "linke",
+                "answer": "Zustimmung",
+                "text": "Die Klimaschutzziele der EU, beispielsweise den Anteil erneuerbarer Energien bis 2020 auf 20% anzuheben, sind unzureichend –mehr wäre nötig und machbar. Die nötige EU-Förderung für regenerative Energien darf jedoch die nationalen Verpflichtungennicht ersetzen, sondern soll diese ergänzen und insbesondere wirtschaftlich schwächeren Staaten und grenzüberschreitendenRegionen zu Gute kommen. DIE LINKE will dieses Ziel zudem im Rahmen ihres Zukunftsinvestitionsprogramms sowie durch diestärkere ökologische Ausrichtung der bestehenden Strukturfonds fördern."
             }
         ]
     },
@@ -2383,6 +2563,12 @@
                 "party": "cdu",
                 "answer": "Ablehnung",
                 "text": "Wir wollen die dauerhafte Stabilisierung der Eurozone erreichen. Eine Vergemeinschaftung von Schulden schließen wir weiter aus. Gemeinschaftliche Anleihen würden falsche Anreize setzen und könnten EU-Mitgliedstaaten dazu verleiten, notwendige Haushaltssanierungen und Strukturreformen aufzuschieben oder gar zu unterlassen."
+            },
+            {
+                "name": "Die LINKE",
+                "party": "linke",
+                "answer": "Zustimmung",
+                "text": "DIE LINKE will in einem ersten Schritt die Kreditaufnahme der Euro-Länder durch eine gemeinsame Haftung absichern. Mit diesenAnleihen könnten Spekulationen mit Schulden einzelner Länder auf den Finanzmärkten eingedämmt werden. Wichtiger ist aber,die Staatsfinanzierung von den Finanzmärkten unabhängig zu machen: Euro- und EU-Länder sollen bei der EZB direkt Krediteaufnehmen können. Da dies Vertragsänderungen voraussetzt, will DIE LINKE als Zwischenschritt eine Bank für öffentlicheAnleihen gründen, die bei der EZB Kredite aufnimmt und diese an die Staaten weiterreicht."
             }
         ]
     },
@@ -2460,6 +2646,12 @@
                 "party": "cdu",
                 "answer": "Zustimmung",
                 "text": "CDU und CSU treten für internationale Handelsabkommen ein. Deutschland ist eine Exportnation, die von offenen Märkten und internationalen Lieferbeziehungen besonders profitiert."
+            },
+            {
+                "name": "Die LINKE",
+                "party": "linke",
+                "answer": "Zustimmung",
+                "text": "DIE LINKE will eine faire Handelspolitik. Dabei setzten wir auf Multilateralismus, um die ungerechten Strukturen derinternationalen Handelspolitik zu verändern, die WTO zu reformieren und dabei auf die Vereinten Nationen auszurichten.Bilaterale und interregionale Freihandelsabkommen dürfen nicht zur Aushöhlung demokratischer Entscheidungsräume, zurAbsenkung von Arbeits- und Umweltschutzstandards noch für eine eigene Interessenspolitik auf Kosten der Staaten des Südensgeschlossen werden."
             }
         ]
     },
@@ -2537,6 +2729,12 @@
                 "party": "cdu",
                 "answer": "Zustimmung",
                 "text": "CDU und CSU wollen  das zwischen der EU und Kanada abgeschlossene Freihandelsabkommen CETA mit Leben erfüllen und streben weiterhin ein Freihandelsabkommen zwischen der EU und den USA an. Deutschland ist eine Exportnation, die von offenen Märkten und internationalen Lieferbeziehungen besonders profitiert."
+            },
+            {
+                "name": "Die LINKE",
+                "party": "linke",
+                "answer": "Enthaltung",
+                "text": "Aufgrund unserer multilateralen Präferenz können bilaterale Handelsverträge nur ein Zwischenschritt und die zweite Wahl sein.Wenn die richtigen Inhalte zugrunde gelegt werden, könne sie allerdings fortschrittlich wirken und so Beispielwirkung entfalten."
             }
         ]
     },
@@ -2614,6 +2812,12 @@
                 "party": "cdu",
                 "answer": "Enthaltung",
                 "text": "Übermäßige Regulierung kann den wirtschaftlichen Aufschwung und das Wachstum durch mangelnde Kreditvergabe bremsen. Aber \nsoweit es Verbesserungsbedarf gibt, sollte nachjustiert werden. Unser Ziel ist es insbesondere, Risiken im europäischen Bankensystem deutlich zu reduzieren und die enge Verbindung von Staaten und Banken zu lockern. Auch die Differenzen zwischen europäischen und nationalen Abwicklungsregeln müssen auf den Prüfstand."
+            },
+            {
+                "name": "Die LINKE",
+                "party": "linke",
+                "answer": "Zustimmung",
+                "text": "Nach der Krise wurde bei der Bankenregulierung und -aufsicht versagt und die zentralen Krisenursachen nicht beseitigt: Bankenbleiben zu groß und zu vernetzt. Das Versprechen, Steuerzahler*innen würden nie mehr für Pleiten zahlen, ist ein leeresgeblieben. Bei der Revision der Bankenunion lehnt DIE LINKE eine weitere Kompetenzverlagerung an die EZB ab. Wir wollenGroßbanken verkleinern, demokratisch kontrollieren und in öffentliches Eigentum überführen. Schattenbanken wollen wir auflösenund spekulative Finanzinstrumente verbieten."
             }
         ]
     },
@@ -2691,6 +2895,12 @@
                 "party": "cdu",
                 "answer": "Ablehnung",
                 "text": "EU-Bürgerinnen und Bürger wären dann in der Regel doppelt wahlberechtigt – in ihrem Heimatland und in ihrem Wohnsitzland. Das wäre weder verständlich, noch gerechtfertigt."
+            },
+            {
+                "name": "Die LINKE",
+                "party": "linke",
+                "answer": "Zustimmung",
+                "text": "Wo die Menschen leben, sollen sie auch wählen dürfen! DIE LINKE will das aktive und passive Wahlrecht für dauerhaft inDeutschland lebende Migrantinnen und Migranten auf Bundes-, Landes- und kommunaler Ebene, damit sie gleichberechtigt dieGesellschaft mitgestalten können."
             }
         ]
     },
@@ -2768,6 +2978,12 @@
                 "party": "cdu",
                 "answer": "Enthaltung",
                 "text": "Die Einführung transnationaler Listen bei der Europawahl erfordert eine Änderung des EU-Vertrages. Diese ist kurzfristig nicht realisierbar."
+            },
+            {
+                "name": "Die LINKE",
+                "party": "linke",
+                "answer": "Ablehnung",
+                "text": "In den Mitgliedstaaten der EU haben sich, teilweise über Jahrhunderte, völlig unterschiedliche Parteien- und Wahlsystemeausgebildet, die in den historischen Auseinandersetzungen innerhalb ihrer Gesellschaften gebildet wurden. Das lässt sich nichtüber ein Wahlrecht und transnationale Listen glattbügeln und vereinheitlichen."
             }
         ]
     }

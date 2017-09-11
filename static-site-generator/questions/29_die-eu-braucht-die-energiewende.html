@@ -1,123 +1,9 @@
 <!DOCTYPE html>
-<html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:og="http://ogp.me/ns#"
+      xmlns:fb="https://www.facebook.com/2008/fbml">
     <head>
         <meta charset="utf-8">
-        <style>
-        html {
-            font-family: Lato, 'Helvetica Neue', Arial, Helvetica, sans-serif;
-            font-size: 14px;
-        }
-
-        h5 {
-            font-size: 1.28571429em;
-            font-weight: 700;
-            line-height: 1.2857em;
-            margin: 0;
-        }
-
-        .card {
-            font-size: 1em;
-            overflow: hidden;
-            padding: 0;
-            border: none;
-            border-radius: .28571429rem;
-            box-shadow: 0 1px 3px 0 #d4d4d5, 0 0 0 1px #d4d4d5;
-            }
-
-            .card-block {
-            font-size: 1em;
-            position: relative;
-            margin: 0;
-            padding: 1em;
-            border: none;
-            border-top: 1px solid rgba(34, 36, 38, .1);
-            box-shadow: none;
-            }
-
-            .card-img-top {
-            display: block;
-            width: 100%;
-            height: auto;
-            }
-
-            .card-title {
-            font-size: 1.28571429em;
-            font-weight: 700;
-            line-height: 1.2857em;
-            }
-
-            .card-text {
-            clear: both;
-            margin-top: .5em;
-            color: rgba(0, 0, 0, .68);
-            }
-
-            .card-footer {
-            font-size: 1em;
-            position: static;
-            top: 0;
-            left: 0;
-            max-width: 100%;
-            padding: .75em 1em;
-            color: rgba(0, 0, 0, .4);
-            border-top: 1px solid rgba(0, 0, 0, .05) !important;
-            background: #fff;
-            }
-
-            .card-inverse .btn {
-            border: 1px solid rgba(0, 0, 0, .05);
-            }
-
-            .profile {
-            position: absolute;
-            top: -12px;
-            display: inline-block;
-            overflow: hidden;
-            box-sizing: border-box;
-            width: 25px;
-            height: 25px;
-            margin: 0;
-            border: 1px solid #fff;
-            border-radius: 50%;
-            }
-
-            .profile-avatar {
-            display: block;
-            width: 100%;
-            height: auto;
-            border-radius: 50%;
-            }
-
-            .profile-inline {
-            position: relative;
-            top: 0;
-            display: inline-block;
-            }
-
-            .profile-inline ~ .card-title {
-            display: inline-block;
-            margin-left: 4px;
-            vertical-align: top;
-            }
-
-            .text-bold {
-            font-weight: 700;
-            }
-
-            .meta {
-            font-size: 1em;
-            color: rgba(0, 0, 0, .4);
-            }
-
-            .meta a {
-            text-decoration: none;
-            color: rgba(0, 0, 0, .4);
-            }
-
-            .meta a:hover {
-            color: rgba(0, 0, 0, .87);
-            }
-        </style>
         <title>Die EU braucht die Energiewende.</title>
         <!-- Latest compiled and minified CSS -->
         <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"> -->
@@ -125,226 +11,249 @@
         <!-- Optional theme -->
         <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous"> -->
 
+        <style type="text/css">
+            .full-width-image {
+                height: 300px; // your specified height
+                background: url("images/header.png") no-repeat center center fixed;
+                background-size: cover;
+            }
+        </style>
+
         <!-- Latest compiled and minified JavaScript -->
         <!-- <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script> -->
-        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
         <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.4.0/Chart.min.js"></script>
+        <meta property="og:title" content="EUrom.at: Die EU braucht die Energiewende."/>
+        <meta property="og:type" content="article"/>
+        <meta property="og:url" content="https://eurom.at/fragen/29_die-eu-braucht-die-energiewende.html"/>
+        <meta property="og:image" content="https://eurom.at/fragen/images/header.png"/>
     </head>
     <body>
         <div class="container">
+            <!-- <fb:like href="https://eurom.at/frage/29_die-eu-braucht-die-energiewende.html" width="450" height="80"/> -->
             <div class="row">
                 <div class="col-md-12">
-                    <img src="images/header.jpg" class="img-fluid" alt="Eurom.at"/>
+                    <img src="images/header.png" class="img-fluid img-responsive" alt="Eurom.at"/>
                 </div>
             </div>
         </div>
         <div class="container">
-            <h4>Wir haben folgende These geprüft:</h4>
-            <h1>Die EU braucht die Energiewende.</h1>
-        </div>
-        <div class="container">
-            <div class="col-md-4">
-                <canvas id="myChart" ></canvas>
+            <div class="jumbotron" style="background-color: #edeeed; color: black">
+                <p>Wir haben folgende These geprüft:</p>
+                <h1>Die EU braucht die Energiewende.</h1>
             </div>
-            <div class="col-md-8">
-                <div class="container">
-                    <div class="col-md-12">
-                        <h5>Zustimmung</h5>
-                        <p style="word-wrap: break-word;">Ökologisch-Demokratische Partei, ÖDP, BÜNDNIS 90/DIE GRÜNEN, Freie Wähler, Die PARTEI, Piratenpartei Deutschland, SPD, Partei Mensch Umwelt Tierschutz, CDU</p>
-                    </div>
-                    <div class="col-md-12">
-                        <h5>Enthaltung</h5>
-                        <p>NPD, AfD</p>
-                    </div>
-                    <div class="col-md-12">
-                        <h5>Enthaltung</h5>
-                        <p>FDP Landesverband Sachsen</p>
+
+            <!-- <div class="row">
+                <div class="col-md-12">
+                    <h4>Wir haben folgende These geprüft:</h4>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    <h1>Die EU braucht die Energiewende.</h1>
+                </div>
+            </div> -->
+        </div>
+        <div class="container" style="margin-top: 20px;">
+            <h4>Verteilung der Antworten:</h4>
+        </div>
+        <div class="container" style="margin-top: 20px;">
+            <div class="row">
+                <div class="col-md-4">
+                    <canvas id="myChart" ></canvas>
+                </div>
+                <div class="col-md-8">
+                    <div class="container">
+                        <div class="col-md-12">
+                            <h5>Zustimmung (9)</h5>
+                            <p style="word-wrap: break-word;">Ökologisch-Demokratische Partei, ÖDP, BÜNDNIS 90/DIE GRÜNEN, Freie Wähler, Die PARTEI, Piratenpartei Deutschland, SPD, Partei Mensch Umwelt Tierschutz, CDU, Die LINKE</p>
+                        </div>
+                        <div class="col-md-12">
+                            <h5>Enthaltung (2)</h5>
+                            <p>NPD, AfD</p>
+                        </div>
+                        <div class="col-md-12">
+                            <h5>Ablehnung (1)</h5>
+                            <p>FDP Landesverband Sachsen</p>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
         <div class="container" style="margin-top: 20px;">
-            <h4>Antworten der Partein:</h4>
+            <h4>Antworten der Parteien:</h4>
         </div>
         <div class="container">
-            <div class="row">
-                    <div class="col-sm-6 col-md-4 col-lg-3 mt-4">
-                        <div class="card">
-                            <img class="card-img-top" src="images/afd.png">
-                            <!-- <img class="card-img-top" src="images/cdu.png"> -->
-                            <div class="card-block">
-                                <h4 class="card-title">AfD</h4>
-                                <div class="card-text">
-                                    Das ist ein weites Feld. Bekanntlich geht Frankreich einen völlig anderen energiepolitischen Weg als D. Die Grundannahme der Ersetzung der gesamten Energieversorgung durch Sonne, Wind, Biogas usw. ist irrational. Die zukünftigen Wege der Energieversorgung sind völlig offen. Sowohl die Fusionstechnologie wie auch technologisch verbesserte Kernkraftwerke mit Kernspaltung werden ihren Platz behalten oder sogar ausbauen. Ideologische Denkverbote behindern eine offene Zukunft. Die EU bedarf es nicht.
-                                </div>
-
-                                <div class="card-text">
-                                        <button type="button" class="btn btn-info">Enthaltung</button>
-                                </div>
+            <div class="card-columns">
+                    <div class="card">
+                        <img class="card-img-top img-responsive" src="images/afd.jpg" alt="AfD">
+                        <div class="card-body">
+                            <h4 class="card-title">AfD</h4>
+                            <p class="card-text">
+                                Das ist ein weites Feld. Bekanntlich geht Frankreich einen völlig anderen energiepolitischen Weg als D. Die Grundannahme der Ersetzung der gesamten Energieversorgung durch Sonne, Wind, Biogas usw. ist irrational. Die zukünftigen Wege der Energieversorgung sind völlig offen. Sowohl die Fusionstechnologie wie auch technologisch verbesserte Kernkraftwerke mit Kernspaltung werden ihren Platz behalten oder sogar ausbauen. Ideologische Denkverbote behindern eine offene Zukunft. Die EU bedarf es nicht.
+                            </p>
+                            <div class="card-text">
+                                    <button type="button" class="btn btn-info">Enthaltung</button>
                             </div>
+                            <!-- <h4 class="card-title">Card title that wraps to a new line</h4>
+                            <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p> -->
                         </div>
                     </div>
-                    <div class="col-sm-6 col-md-4 col-lg-3 mt-4">
-                        <div class="card">
-                            <img class="card-img-top" src="images/grün.png">
-                            <!-- <img class="card-img-top" src="images/cdu.png"> -->
-                            <div class="card-block">
-                                <h4 class="card-title">BÜNDNIS 90/DIE GRÜNEN</h4>
-                                <div class="card-text">
-                                    Der grundlegende Umbau der europäischen Energieversorgung ist erforderlich, um die Klimaziele des Pariser Abkommens erreichen zu können und zugleich die Gefahren der Atomkraft zu überwinden. Er bietet enorme Chance für Innovation und wirtschaftliche Entwicklung der EU-Staaten und der gesamten Union. Klimaschutz und die ökologische Transformation der Energieversorgung sind für uns ein bedeutendes Projekt zur Neubelebung der EU.
-                                </div>
-
-                                <div class="card-text">
-                                        <button type="button" class="btn btn-success">Zustimmung</button>
-                                </div>
+                    <div class="card">
+                        <img class="card-img-top img-responsive" src="images/grün.jpg" alt="BÜNDNIS 90/DIE GRÜNEN">
+                        <div class="card-body">
+                            <h4 class="card-title">BÜNDNIS 90/DIE GRÜNEN</h4>
+                            <p class="card-text">
+                                Der grundlegende Umbau der europäischen Energieversorgung ist erforderlich, um die Klimaziele des Pariser Abkommens erreichen zu können und zugleich die Gefahren der Atomkraft zu überwinden. Er bietet enorme Chance für Innovation und wirtschaftliche Entwicklung der EU-Staaten und der gesamten Union. Klimaschutz und die ökologische Transformation der Energieversorgung sind für uns ein bedeutendes Projekt zur Neubelebung der EU.
+                            </p>
+                            <div class="card-text">
+                                    <button type="button" class="btn btn-success">Zustimmung</button>
                             </div>
+                            <!-- <h4 class="card-title">Card title that wraps to a new line</h4>
+                            <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p> -->
                         </div>
                     </div>
-                    <div class="col-sm-6 col-md-4 col-lg-3 mt-4">
-                        <div class="card">
-                            <img class="card-img-top" src="images/cdu.png">
-                            <!-- <img class="card-img-top" src="images/cdu.png"> -->
-                            <div class="card-block">
-                                <h4 class="card-title">CDU</h4>
-                                <div class="card-text">
-                                    Die energiepolitischen Herausforderungen wie den Klimaschutz müssen gemeinsam angegangen werden. Die EU-Mitgliedstaaten bestimmen über ihren nationalen Energiemix, aber Europa kann maßgeblich dazu beitragen, die Energieversorgung sicher, bezahlbar und nachhaltig zu gestalten.
-                                </div>
-
-                                <div class="card-text">
-                                        <button type="button" class="btn btn-success">Zustimmung</button>
-                                </div>
+                    <div class="card">
+                        <img class="card-img-top img-responsive" src="images/cdu.jpg" alt="CDU">
+                        <div class="card-body">
+                            <h4 class="card-title">CDU</h4>
+                            <p class="card-text">
+                                Die energiepolitischen Herausforderungen wie den Klimaschutz müssen gemeinsam angegangen werden. Die EU-Mitgliedstaaten bestimmen über ihren nationalen Energiemix, aber Europa kann maßgeblich dazu beitragen, die Energieversorgung sicher, bezahlbar und nachhaltig zu gestalten.
+                            </p>
+                            <div class="card-text">
+                                    <button type="button" class="btn btn-success">Zustimmung</button>
                             </div>
+                            <!-- <h4 class="card-title">Card title that wraps to a new line</h4>
+                            <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p> -->
                         </div>
                     </div>
-                    <div class="col-sm-6 col-md-4 col-lg-3 mt-4">
-                        <div class="card">
-                            <img class="card-img-top" src="images/partei.png">
-                            <!-- <img class="card-img-top" src="images/cdu.png"> -->
-                            <div class="card-block">
-                                <h4 class="card-title">Die PARTEI</h4>
-                                <div class="card-text">
-                                    Ja, weg vom Ökostrom hin zu ehrlichem Strom aus Autoreifen.
-                                </div>
-
-                                <div class="card-text">
-                                        <button type="button" class="btn btn-success">Zustimmung</button>
-                                </div>
+                    <div class="card">
+                        <img class="card-img-top img-responsive" src="images/linke.jpg" alt="Die LINKE">
+                        <div class="card-body">
+                            <h4 class="card-title">Die LINKE</h4>
+                            <p class="card-text">
+                                Die Klimaschutzziele der EU, beispielsweise den Anteil erneuerbarer Energien bis 2020 auf 20% anzuheben, sind unzureichend –mehr wäre nötig und machbar. Die nötige EU-Förderung für regenerative Energien darf jedoch die nationalen Verpflichtungennicht ersetzen, sondern soll diese ergänzen und insbesondere wirtschaftlich schwächeren Staaten und grenzüberschreitendenRegionen zu Gute kommen. DIE LINKE will dieses Ziel zudem im Rahmen ihres Zukunftsinvestitionsprogramms sowie durch diestärkere ökologische Ausrichtung der bestehenden Strukturfonds fördern.
+                            </p>
+                            <div class="card-text">
+                                    <button type="button" class="btn btn-success">Zustimmung</button>
                             </div>
+                            <!-- <h4 class="card-title">Card title that wraps to a new line</h4>
+                            <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p> -->
                         </div>
                     </div>
-                    <div class="col-sm-6 col-md-4 col-lg-3 mt-4">
-                        <div class="card">
-                            <img class="card-img-top" src="images/fdp.png">
-                            <!-- <img class="card-img-top" src="images/cdu.png"> -->
-                            <div class="card-block">
-                                <h4 class="card-title">FDP Landesverband Sachsen</h4>
-                                <div class="card-text">
-                                    Hier ist unklar welche Maßnahmen hierunter fallen sollen.
-                                </div>
-
-                                <div class="card-text">
-                                        <button type="button" class="btn btn-danger">Ablehnung</button>
-                                </div>
+                    <div class="card">
+                        <img class="card-img-top img-responsive" src="images/partei.jpg" alt="Die PARTEI">
+                        <div class="card-body">
+                            <h4 class="card-title">Die PARTEI</h4>
+                            <p class="card-text">
+                                Ja, weg vom Ökostrom hin zu ehrlichem Strom aus Autoreifen.
+                            </p>
+                            <div class="card-text">
+                                    <button type="button" class="btn btn-success">Zustimmung</button>
                             </div>
+                            <!-- <h4 class="card-title">Card title that wraps to a new line</h4>
+                            <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p> -->
                         </div>
                     </div>
-                    <div class="col-sm-6 col-md-4 col-lg-3 mt-4">
-                        <div class="card">
-                            <img class="card-img-top" src="images/fw.png">
-                            <!-- <img class="card-img-top" src="images/cdu.png"> -->
-                            <div class="card-block">
-                                <h4 class="card-title">Freie Wähler</h4>
-                                <div class="card-text">
-                                    Wir FREIE WÄHLER stehen zur Energiewende und damit zur vollständigen Abkehr von fossilen und atomaren Energiequellen. Wir setzen uns auch dafür ein, dass das deutsche Vorbild Einzug auf der EU-Ebene hält.
-                                </div>
-
-                                <div class="card-text">
-                                        <button type="button" class="btn btn-success">Zustimmung</button>
-                                </div>
+                    <div class="card">
+                        <img class="card-img-top img-responsive" src="images/fdp.jpg" alt="FDP Landesverband Sachsen">
+                        <div class="card-body">
+                            <h4 class="card-title">FDP Landesverband Sachsen</h4>
+                            <p class="card-text">
+                                Hier ist unklar welche Maßnahmen hierunter fallen sollen.
+                            </p>
+                            <div class="card-text">
+                                    <button type="button" class="btn btn-danger">Ablehnung</button>
                             </div>
+                            <!-- <h4 class="card-title">Card title that wraps to a new line</h4>
+                            <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p> -->
                         </div>
                     </div>
-                    <div class="col-sm-6 col-md-4 col-lg-3 mt-4">
-                        <div class="card">
-                            <img class="card-img-top" src="images/npd.png">
-                            <!-- <img class="card-img-top" src="images/cdu.png"> -->
-                            <div class="card-block">
-                                <h4 class="card-title">NPD</h4>
-                                <div class="card-text">
-                                    Keine Erklärung angegeben
-                                </div>
-
-                                <div class="card-text">
-                                        <button type="button" class="btn btn-info">Enthaltung</button>
-                                </div>
+                    <div class="card">
+                        <img class="card-img-top img-responsive" src="images/fw.jpg" alt="Freie Wähler">
+                        <div class="card-body">
+                            <h4 class="card-title">Freie Wähler</h4>
+                            <p class="card-text">
+                                Wir FREIE WÄHLER stehen zur Energiewende und damit zur vollständigen Abkehr von fossilen und atomaren Energiequellen. Wir setzen uns auch dafür ein, dass das deutsche Vorbild Einzug auf der EU-Ebene hält.
+                            </p>
+                            <div class="card-text">
+                                    <button type="button" class="btn btn-success">Zustimmung</button>
                             </div>
+                            <!-- <h4 class="card-title">Card title that wraps to a new line</h4>
+                            <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p> -->
                         </div>
                     </div>
-                    <div class="col-sm-6 col-md-4 col-lg-3 mt-4">
-                        <div class="card">
-                            <img class="card-img-top" src="images/ödp.png">
-                            <!-- <img class="card-img-top" src="images/cdu.png"> -->
-                            <div class="card-block">
-                                <h4 class="card-title">Ökologisch-Demokratische Partei, ÖDP</h4>
-                                <div class="card-text">
-                                    Keine Erklärung angegeben
-                                </div>
-
-                                <div class="card-text">
-                                        <button type="button" class="btn btn-success">Zustimmung</button>
-                                </div>
+                    <div class="card">
+                        <img class="card-img-top img-responsive" src="images/npd.jpg" alt="NPD">
+                        <div class="card-body">
+                            <h4 class="card-title">NPD</h4>
+                            <p class="card-text">
+                                Keine Erklärung angegeben
+                            </p>
+                            <div class="card-text">
+                                    <button type="button" class="btn btn-info">Enthaltung</button>
                             </div>
+                            <!-- <h4 class="card-title">Card title that wraps to a new line</h4>
+                            <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p> -->
                         </div>
                     </div>
-                    <div class="col-sm-6 col-md-4 col-lg-3 mt-4">
-                        <div class="card">
-                            <img class="card-img-top" src="images/mut.png">
-                            <!-- <img class="card-img-top" src="images/cdu.png"> -->
-                            <div class="card-block">
-                                <h4 class="card-title">Partei Mensch Umwelt Tierschutz</h4>
-                                <div class="card-text">
-                                    Atomkraft lehnen wir konsequent ab, da deren Nutzung ein unkalkulierbares Risiko für Menschen, Tiere und Natur darstellt. Reaktorunfälle sowie die ungelösten Probleme der Endlagerung zeigen, dass diese Technologie durch den Menschen nicht beherrschbar ist. Wir fordern deshalb einen Artikel zur Nichtnutzung von Atomenergie im Grundgesetz. Um die Treibhausgas-Emissionen zu reduzieren, wollen wir zudem den Ausstieg aus der Kohleverstromung bis 2030 durch ein entsprechendes Bundesgesetz erreichen.
-                                </div>
-
-                                <div class="card-text">
-                                        <button type="button" class="btn btn-success">Zustimmung</button>
-                                </div>
+                    <div class="card">
+                        <img class="card-img-top img-responsive" src="images/ödp.jpg" alt="Ökologisch-Demokratische Partei, ÖDP">
+                        <div class="card-body">
+                            <h4 class="card-title">Ökologisch-Demokratische Partei, ÖDP</h4>
+                            <p class="card-text">
+                                Keine Erklärung angegeben
+                            </p>
+                            <div class="card-text">
+                                    <button type="button" class="btn btn-success">Zustimmung</button>
                             </div>
+                            <!-- <h4 class="card-title">Card title that wraps to a new line</h4>
+                            <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p> -->
                         </div>
                     </div>
-                    <div class="col-sm-6 col-md-4 col-lg-3 mt-4">
-                        <div class="card">
-                            <img class="card-img-top" src="images/piraten.png">
-                            <!-- <img class="card-img-top" src="images/cdu.png"> -->
-                            <div class="card-block">
-                                <h4 class="card-title">Piratenpartei Deutschland</h4>
-                                <div class="card-text">
-                                    Wir stehen zu den Klimazielen der EU. Dabei setzen wir bei der Reduktion der Treibhausgasemissionen auf die Erhöhung der Energieeffizienz, ein funktionierendes System für den Emissionsrechtehandel auf europäischer Ebene sowie die Förderung der regenerativen Energien. Wir machen uns für eine verstärkte Zusammenarbeit bei den Investitionen in die europäische Energieinfrastruktur stark. Staatliche Subventionen für die fossile und nukleare Energiegewinnung sind nicht zukunftsfähig.
-                                </div>
-
-                                <div class="card-text">
-                                        <button type="button" class="btn btn-success">Zustimmung</button>
-                                </div>
+                    <div class="card">
+                        <img class="card-img-top img-responsive" src="images/mut.jpg" alt="Partei Mensch Umwelt Tierschutz">
+                        <div class="card-body">
+                            <h4 class="card-title">Partei Mensch Umwelt Tierschutz</h4>
+                            <p class="card-text">
+                                Atomkraft lehnen wir konsequent ab, da deren Nutzung ein unkalkulierbares Risiko für Menschen, Tiere und Natur darstellt. Reaktorunfälle sowie die ungelösten Probleme der Endlagerung zeigen, dass diese Technologie durch den Menschen nicht beherrschbar ist. Wir fordern deshalb einen Artikel zur Nichtnutzung von Atomenergie im Grundgesetz. Um die Treibhausgas-Emissionen zu reduzieren, wollen wir zudem den Ausstieg aus der Kohleverstromung bis 2030 durch ein entsprechendes Bundesgesetz erreichen.
+                            </p>
+                            <div class="card-text">
+                                    <button type="button" class="btn btn-success">Zustimmung</button>
                             </div>
+                            <!-- <h4 class="card-title">Card title that wraps to a new line</h4>
+                            <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p> -->
                         </div>
                     </div>
-                    <div class="col-sm-6 col-md-4 col-lg-3 mt-4">
-                        <div class="card">
-                            <img class="card-img-top" src="images/spd.png">
-                            <!-- <img class="card-img-top" src="images/cdu.png"> -->
-                            <div class="card-block">
-                                <h4 class="card-title">SPD</h4>
-                                <div class="card-text">
-                                    Die SPD hat sich in Deutschland für den Ausbau erneuerbarer Energien stark gemacht. Dies ist ein Ziel, dass wir auch europapolitisch weiter voranbringen wollen. Europa muss Vorreiter beim Klimaschutz und bei erneuerbaren Energien weltweit sein.
-                                </div>
-
-                                <div class="card-text">
-                                        <button type="button" class="btn btn-success">Zustimmung</button>
-                                </div>
+                    <div class="card">
+                        <img class="card-img-top img-responsive" src="images/piraten.jpg" alt="Piratenpartei Deutschland">
+                        <div class="card-body">
+                            <h4 class="card-title">Piratenpartei Deutschland</h4>
+                            <p class="card-text">
+                                Wir stehen zu den Klimazielen der EU. Dabei setzen wir bei der Reduktion der Treibhausgasemissionen auf die Erhöhung der Energieeffizienz, ein funktionierendes System für den Emissionsrechtehandel auf europäischer Ebene sowie die Förderung der regenerativen Energien. Wir machen uns für eine verstärkte Zusammenarbeit bei den Investitionen in die europäische Energieinfrastruktur stark. Staatliche Subventionen für die fossile und nukleare Energiegewinnung sind nicht zukunftsfähig.
+                            </p>
+                            <div class="card-text">
+                                    <button type="button" class="btn btn-success">Zustimmung</button>
                             </div>
+                            <!-- <h4 class="card-title">Card title that wraps to a new line</h4>
+                            <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p> -->
                         </div>
                     </div>
-            </div>
+                    <div class="card">
+                        <img class="card-img-top img-responsive" src="images/spd.jpg" alt="SPD">
+                        <div class="card-body">
+                            <h4 class="card-title">SPD</h4>
+                            <p class="card-text">
+                                Die SPD hat sich in Deutschland für den Ausbau erneuerbarer Energien stark gemacht. Dies ist ein Ziel, dass wir auch europapolitisch weiter voranbringen wollen. Europa muss Vorreiter beim Klimaschutz und bei erneuerbaren Energien weltweit sein.
+                            </p>
+                            <div class="card-text">
+                                    <button type="button" class="btn btn-success">Zustimmung</button>
+                            </div>
+                            <!-- <h4 class="card-title">Card title that wraps to a new line</h4>
+                            <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p> -->
+                        </div>
+                    </div>
+          </div>
         </div>
         <script type="text/javascript">
 
@@ -354,7 +263,7 @@
                     type: 'doughnut',
                     data: {
                         datasets: [{
-                            data: [8, 2, 1],
+                            data: [9, 2, 1],
                             backgroundColor: [ '#5cb85c', '#5bc0de', '#d9534f']
                         }],
 
@@ -365,7 +274,11 @@
                             'Ablehnung'
                         ]
                     },
-                    options: {}
+                    options: {
+                        legend: {
+                            position: 'bottom'
+                        }
+                    }
                 });
             };
         </script>
